@@ -19,6 +19,12 @@
       <file name="/offers [tfx_data@localhost]" timestamp="1528288367992">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudHandler.java" timestamp="1528369567747">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="48" />
+        <mark key="." line="11" column="48" />
+        <mark key="^" line="11" column="48" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3ddfe62a-5c99-42fb-a544-26dd59b94836/console.sql" timestamp="1528288961825">
         <mark key="'" line="2" column="23" />
         <mark key="[" line="9" column="36" />
@@ -98,6 +104,12 @@
       <file name="$USER_HOME$/projects/fx/fx-scheduler/README.md" timestamp="1526628419444">
         <mark key="'" line="5" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/spring-config-handlers.xml" timestamp="1528369497131">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+        <mark key="^" line="22" column="23" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactEmail.java" timestamp="1526293167616">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="4" />
@@ -143,6 +155,9 @@
         <mark key="]" line="223" column="22" />
         <mark key="." line="223" column="22" />
         <mark key="^" line="223" column="22" />
+      </file>
+      <file name="/fragment.java" timestamp="1528368675512">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -249,10 +264,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>xLocateServiceEndpointAddress</text>
+        <text>client;</text>
       </register>
       <register name="-" type="4">
-        <text>o.START_DATE</text>
+        <text>client;</text>
       </register>
       <register name="/" type="4">
         <text>cutoff</text>
@@ -261,32 +276,31 @@
         <text>xLocateServiceEndpointAddress</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCNpZiBfZW5kRGF0ZT8/PkFORCBjb2FsZXNjZShvLlNUQVJUX0RBVEVfVE8sIG8uU1RBUlRfREFURSkgPD0gOl9lbmREYXRlPC8jaWY+Cg==</text>
+        <text encoding="base64">ICAgIDxiZWFuIGlkPSJjbGllbnQiLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvYmVhbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQU5EIG8uU1RBUlRfREFURSA+IFRPX1RJTUVTVEFNUCgnMjAxOC0wNi0wNSAyMzo1OTo1OS4wKzAwMDAnLCAneXl5eS1tbS1kZCBoaDI0Om1pOnNzLm1zWicpCiAgICAgIEFORCBvLlNUQVJUX0RBVEUgPj0gVE9fVElNRVNUQU1QKCcyMDE4LTA2LTA1IDAwOjAwOjAwLjArMDAwMCcsICd5eXl5LW1tLWRkIGhoMjQ6bWk6c3MubXNaJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>*
-from</text>
+      <register name="4" type="2">
+        <text encoding="base64">CTxiZWFuIGlkPSJjbGllbnQiPgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">QU5EIG8uU1RBUlRfREFURSA+IFRPX1RJTUVTVEFNUCgnMjAxOC0wNi0wNSAyMzo1OTo1OS4wKzAwMDAnLCAneXl5eS1tbS1kZCBoaDI0Om1pOnNzLm1zWicpCiAgICAgIEFORCBvLlNUQVJUX0RBVEUgPj0gVE9fVElNRVNUQU1QKCcyMDE4LTA2LTA1IDAwOjAwOjAwLjArMDAwMCcsICd5eXl5LW1tLWRkIGhoMjQ6bWk6c3MubXNaJyk7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0IG9mZmVyX2lkLCBzdGFydF9kYXRlLCBzdGFydF9kYXRlX3RvLCBlbmRfZGF0ZSwgZW5kX2RhdGVfdG8sICoKZnJvbSBvZmZlcnMKd2hlcmUgcG9zdF9kYXRlID4gZGF0ZSAnMjAxOC0wNi0wNic7CgpzZWxlY3Qgc3RhcnRfZGF0ZSwgKgpmcm9tIG9mZmVyc19kZXBhcnR1cmVzX3JlZ2lvbnMKd2hlcmUgb2ZmZXJfaWQgPSA3NzQwMTg7CgpzZWxlY3Qgb2ZmZXJfaWQsIHN0YXJ0X2RhdGUsICoKZnJvbSBvZmZlcnNfYXJyaXZhbHNfcmVnaW9ucwp3aGVyZSBvZmZlcl9pZCA9IDc3NDAxODsKCnVwZGF0ZSBvZmZlcnMgc2V0IHN0YXJ0X2RhdGUgPSBzdGFydF9kYXRlIC0gaW50ZXJ2YWwgJzEnIGRheQp3aGVyZSBvZmZlcl9pZCA9IDc3NDAxODsKCnVwZGF0ZSBvZmZlcnNfZGVwYXJ0dXJlc19yZWdpb25zIHNldCBzdGFydF9kYXRlID0gc3RhcnRfZGF0ZSAtIGludGVydmFsICcxJyBkYXkKd2hlcmUgb2ZmZXJfaWQgPSA3NzQwMTg7Cgp1cGRhdGUgb2ZmZXJzX2Fycml2YWxzX3JlZ2lvbnMgc2V0IHN0YXJ0X2RhdGUgPSBzdGFydF9kYXRlIC0gaW50ZXJ2YWwgJzEnIGRheQp3aGVyZSBvZmZlcl9pZCA9IDc3NDAxODsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBQVFZDbG91ZEhhbmRsZXIoKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBvZmZlcnM7CgpzZWxlY3QgKiBmcm9tIGluZm9ybWF0aW9uX3NjaGVtYS5jb2x1bW5zCndoZXJlIGRhdGFfdHlwZSBsaWtlICdjaCUnCmFuZCBjaGFyYWN0ZXJfbWF4aW11bV9sZW5ndGggPSAxMDAwOwoKc2VsZWN0ICogZnJvbSBjb25uZWN0X2xvZ3MKd2hlcmUgcmVxdWVzdF91cmkgbGlrZSAndHJhbnNwb3J0X29yZGVyJzsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2hlcmUK</text>
+        <text encoding="base64">CTxiZWFuIGlkPSJjbGllbnQiLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
