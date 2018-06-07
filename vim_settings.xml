@@ -3,19 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/converter/ValidationError.java" timestamp="1526386111509">
-        <mark key="[" line="41" column="6" />
-        <mark key="]" line="41" column="6" />
-        <mark key="^" line="41" column="6" />
-        <mark key="." line="41" column="6" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-web/pom.xml" timestamp="1528101796511">
         <mark key="'" line="628" column="152" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/wildfly/build.sh" timestamp="1526442150883">
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="17" column="16" />
-        <mark key="." line="17" column="16" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/helper/OfferUserHelper.java" timestamp="1526620458814">
         <mark key="[" line="19" column="56" />
@@ -38,11 +27,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/converter/BiddableOfferConverter.java" timestamp="1528185317133" />
-      <file name="$USER_HOME$/projects/spotbidding/pom.xml" timestamp="1526442161457">
-        <mark key="[" line="418" column="38" />
-        <mark key="]" line="418" column="39" />
-        <mark key="." line="418" column="39" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/transportorder/TransportOrderDTO.java" timestamp="1528106970955">
         <mark key="'" line="11" column="13" />
       </file>
@@ -113,21 +97,11 @@
         <mark key="'" line="5" column="11" />
       </file>
       <file name="/offer_tsvector.ftl" timestamp="1528352151828" />
-      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/constants/SystemSettingsConstants.java" timestamp="1528103051960">
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="26" column="33" />
-        <mark key="." line="26" column="33" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactEmail.java" timestamp="1526293167616">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="4" />
         <mark key="^" line="7" column="15" />
         <mark key="." line="25" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_dev.properties" timestamp="1526367936048">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="7" column="75" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_dev.properties" timestamp="1526446446800">
         <mark key="'" line="0" column="0" />
@@ -140,11 +114,6 @@
         <mark key="]" line="58" column="35" />
         <mark key="." line="58" column="35" />
         <mark key="^" line="58" column="35" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/converter/BiddableOfferResponse.java" timestamp="1526271523451">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1528094761734">
         <mark key="'" line="64" column="11" />
@@ -162,22 +131,12 @@
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/entity/transportorder/TransportOrder.java" timestamp="1528106920063">
         <mark key="'" line="116" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-ear/pom.xml" timestamp="1528185702731">
-        <mark key="[" line="64" column="31" />
-        <mark key="]" line="64" column="32" />
-        <mark key="." line="64" column="32" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1528108875445">
         <mark key="'" line="80" column="31" />
         <mark key="[" line="223" column="19" />
         <mark key="]" line="223" column="22" />
         <mark key="." line="223" column="22" />
         <mark key="^" line="223" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/model/BiddableOfferDTO.java" timestamp="1526017046161">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
