@@ -127,6 +127,13 @@
       <file name="$USER_HOME$/projects/fx/fx-scheduler/src/main/resources/tfx-scheduler-jobs.xml" timestamp="1528351072256">
         <mark key="'" line="284" column="83" />
       </file>
+      <file name="$USER_HOME$/projects/ptv-test-cloud/src/com/wkts/test/Main.java" timestamp="1528372671690">
+        <mark key="'" line="52" column="4" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="16" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/BiddableOfferController.java" timestamp="1526374069895">
         <mark key="[" line="58" column="28" />
         <mark key="]" line="58" column="35" />
@@ -161,8 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="34" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" />
-      <jump line="285" column="38" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" />
       <jump line="396" column="27" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" />
       <jump line="403" column="42" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" />
       <jump line="24" column="13" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/test/java/com/wktransportservices/fx/business/actor/offer/VehicleOfferActorTest.java" />
@@ -261,65 +266,72 @@
       <jump line="284" column="83" filename="$USER_HOME$/projects/fx/fx-scheduler/src/main/resources/tfx-scheduler-jobs.xml" />
       <jump line="231" column="5" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/offer_tsvector.ftl" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/offer_tsvector.ftl" />
+      <jump line="17" column="16" filename="$USER_HOME$/projects/ptv-test-cloud/src/com/wkts/test/Main.java" />
+      <jump line="52" column="4" filename="$USER_HOME$/projects/ptv-test-cloud/src/com/wkts/test/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text> </text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>        </text>
       </register>
       <register name="/" type="4">
-        <text>cutoff</text>
+        <text> </text>
       </register>
       <register name="0" type="4">
-        <text>xLocateUrl</text>
+        <text> </text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">wqDCoAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PGJlYW4gaWQ9ImNsaWVudCIKICAgICAgICAgIGZhY3RvcnktYmVhbj0iIgogICAgICAgICAgZmFjdG9yeS1tZXRob2Q9IiIvPgo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">wqDCoAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIArCoMKgCiAgICAgICAgwqDCoAoKICAgICAgICDCoMKgCiAgICAgICAgwqDCoMKgwqAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PGNvbnN0cnVjdG9yLWFyZz4KCQkJPHJlZiBiZWFuPSJjbGllbnQiPjwvcmVmPgoJCTwvY29uc3RydWN0b3ItYXJnPg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>public PTVCloudHandler(XLocateRemoteInterface client) {
-        this.client = ClientFactory.createClient()
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBYTG9jYXRlU2FtcGxlIHsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGlkPSJjbGllbnQiLz4K</text>
+      <register name="6" type="4">
+        <text>import com.ptvag.jabba.service.baseservices.CallerContext;
+import com.ptvag.jabba.service.baseservices.CallerContextProperty;
+import com.ptvag.jabba.service.baseservices.ClientFactory;
+import com.ptvag.jabba.service.baseservices.RemoteType;
+import com.ptvag.xserver.common.PlainPoint;
+import com.ptvag.xserver.xlocate.Address;
+import com.ptvag.xserver.xlocate.AddressResponse;
+import com.ptvag.xserver.xlocate.ResultAddress;
+import com.ptvag.xserver.xlocate.XLocateRemoteInterface;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvYmVhbj4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">PGJlYW4gaWQ9ImNsaWVudCIKICAgICAgICAgIGZhY3RvcnktYmVhbj0iIgogICAgICAgICAgZmFjdG9yeS1tZXRob2Q9IiIvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CTxiZWFuIGlkPSJjbGllbnQiPgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/ / /g</text>
       </register>
     </registers>
     <search>
-      <last-search>cutoff</last-search>
+      <last-search> </last-search>
       <last-offset />
-      <last-pattern>cutoff</last-pattern>
-      <last-replace>:</last-replace>
-      <last-substitute>;</last-substitute>
+      <last-pattern> </last-pattern>
+      <last-replace encoding="base64">IA==</last-replace>
+      <last-substitute> </last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>stage</entry>
         <entry encoding="base64">PFwvPg==</entry>
         <entry encoding="base64">PD4=</entry>
         <entry>- ([a-z\-]+)</entry>
@@ -339,6 +351,7 @@
         <entry>coalesce</entry>
         <entry>\cstart</entry>
         <entry>cutoff</entry>
+        <entry> </entry>
       </history-search>
       <history-cmd>
         <entry>%s/teleroute.dev.tw.intra/tfx.mkt.dev.alpega.info/g</entry>
@@ -352,6 +365,7 @@
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
         <entry encoding="base64">JzwsJz5zLzsvOi9n</entry>
         <entry>w</entry>
+        <entry>%s/ / /g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
