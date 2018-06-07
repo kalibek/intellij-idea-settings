@@ -103,6 +103,11 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="25" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_dev.properties" timestamp="1528362372598">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="7" column="75" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_dev.properties" timestamp="1526446446800">
         <mark key="'" line="0" column="0" />
       </file>
