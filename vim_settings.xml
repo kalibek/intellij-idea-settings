@@ -104,11 +104,10 @@
       <file name="$USER_HOME$/projects/fx/fx-scheduler/README.md" timestamp="1526628419444">
         <mark key="'" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/spring-config-handlers.xml" timestamp="1528371313195">
-        <mark key="[" line="23" column="41" />
-        <mark key="]" line="23" column="41" />
-        <mark key="." line="23" column="41" />
-        <mark key="^" line="23" column="63" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/spring-config-handlers.xml" timestamp="1528372783901">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactEmail.java" timestamp="1526293167616">
         <mark key="[" line="25" column="4" />
@@ -270,8 +269,8 @@
       <jump line="52" column="4" filename="$USER_HOME$/projects/ptv-test-cloud/src/com/wkts/test/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text> </text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
         <text>        </text>
@@ -283,21 +282,27 @@
         <text> </text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">wqDCoAo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">wqDCoAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">PGJlYW4gaWQ9InB0dkNsb3VkSGFuZGxlciIgY2xhc3M9ImNvbS50ZWxlcm91dGUudG9wLnB0dnNlcnZpY2VzLmhhbmRsZXIuUFRWQ2xvdWRIYW5kbGVyIj4KICAgICAgICA8cHJvcGVydHkgbmFtZT0ieExvY2F0ZVVybCIgcmVmPSJ4QWpheE1hcHNFbmRwb2ludCI+PC9wcm9wZXJ0eT4KCTwvYmVhbj4K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIArCoMKgCiAgICAgICAgwqDCoAoKICAgICAgICDCoMKgCiAgICAgICAgwqDCoMKgwqAK</text>
+      <register name="3" type="2">
+        <text encoding="base64">wqDCoAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">wqDCoAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIArCoMKgCiAgICAgICAgwqDCoAoKICAgICAgICDCoMKgCiAgICAgICAgwqDCoMKgwqAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBYTG9jYXRlU2FtcGxlIHsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>import com.ptvag.jabba.service.baseservices.CallerContext;
 import com.ptvag.jabba.service.baseservices.CallerContextProperty;
 import com.ptvag.jabba.service.baseservices.ClientFactory;
@@ -308,14 +313,8 @@ import com.ptvag.xserver.xlocate.AddressResponse;
 import com.ptvag.xserver.xlocate.ResultAddress;
 import com.ptvag.xserver.xlocate.XLocateRemoteInterface;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGJlYW4gaWQ9ImNsaWVudCIKICAgICAgICAgIGZhY3RvcnktYmVhbj0iIgogICAgICAgICAgZmFjdG9yeS1tZXRob2Q9IiIvPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/ / /g</text>
