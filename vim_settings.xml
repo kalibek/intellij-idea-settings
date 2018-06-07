@@ -12,7 +12,10 @@
         <mark key="^" line="19" column="67" />
         <mark key="." line="19" column="67" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/search/impl/MatchingDAO.java" timestamp="1528288196303" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_demo.properties" timestamp="1528366138101">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="32" />
+      </file>
       <file name="/offers [tfx_data@localhost]" timestamp="1528288367992">
         <mark key="[" line="0" column="0" />
       </file>
@@ -26,7 +29,6 @@
       <file name="/a.sql" timestamp="1528349654167">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/converter/BiddableOfferConverter.java" timestamp="1528185317133" />
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/transportorder/TransportOrderDTO.java" timestamp="1528106970955">
         <mark key="'" line="11" column="13" />
       </file>
@@ -96,7 +98,6 @@
       <file name="$USER_HOME$/projects/fx/fx-scheduler/README.md" timestamp="1526628419444">
         <mark key="'" line="5" column="11" />
       </file>
-      <file name="/offer_tsvector.ftl" timestamp="1528352151828" />
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactEmail.java" timestamp="1526293167616">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="4" />
@@ -247,8 +248,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/offer_tsvector.ftl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PCNpZiBfZW5kRGF0ZT8/PkFORCBjb2FsZXNjZShvLlNUQVJUX0RBVEVfVE8sIG8uU1RBUlRfREFURSkgPD0gOl9lbmREYXRlPC8jaWY+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>xLocateServiceEndpointAddress</text>
       </register>
       <register name="-" type="4">
         <text>o.START_DATE</text>
@@ -257,7 +258,7 @@
         <text>cutoff</text>
       </register>
       <register name="0" type="4">
-        <text>coalesce(o.START_DATE_TO, o.START_DATE)</text>
+        <text>xLocateServiceEndpointAddress</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PCNpZiBfZW5kRGF0ZT8/PkFORCBjb2FsZXNjZShvLlNUQVJUX0RBVEVfVE8sIG8uU1RBUlRfREFURSkgPD0gOl9lbmREYXRlPC8jaWY+Cg==</text>
