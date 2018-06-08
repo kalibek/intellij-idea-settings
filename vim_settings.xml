@@ -6,11 +6,12 @@
       <file name="$USER_HOME$/projects/fx/fx-web/pom.xml" timestamp="1528101796511">
         <mark key="'" line="628" column="152" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandler.java" timestamp="1528433139888">
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="9" column="34" />
-        <mark key="^" line="9" column="66" />
-        <mark key="." line="9" column="34" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandler.java" timestamp="1528433651083">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="96" column="81" />
+        <mark key="]" line="97" column="19" />
+        <mark key="." line="97" column="19" />
+        <mark key="^" line="97" column="19" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/helper/OfferUserHelper.java" timestamp="1526620458814">
         <mark key="[" line="19" column="56" />
@@ -65,6 +66,11 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/ptv-services/ptv-web/test/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandlerTest.java" timestamp="1528433737904">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactPhone.java" timestamp="1526293201146">
         <mark key="[" line="48" column="27" />
         <mark key="]" line="48" column="30" />
@@ -105,7 +111,11 @@
       <file name="$USER_HOME$/projects/fx/fx-scheduler/README.md" timestamp="1526628419444">
         <mark key="'" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" timestamp="1528432944088" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" timestamp="1528433710531">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="74" column="99" />
+      </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/spring-config-handlers.xml" timestamp="1528372783901">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -164,13 +174,11 @@
         <mark key="." line="223" column="22" />
         <mark key="^" line="223" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1528433079627">
+      <file name="/fragment.java" timestamp="1528433718584">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="403" column="42" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" />
-      <jump line="24" column="13" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/test/java/com/wktransportservices/fx/business/actor/offer/VehicleOfferActorTest.java" />
       <jump line="94" column="11" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/test/java/com/wktransportservices/fx/business/actor/offer/VehicleOfferActorTest.java" />
       <jump line="31" column="44" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/test/java/com/wktransportservices/fx/business/actor/offer/VehicleOfferActorTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/test/java/com/wktransportservices/fx/business/actor/offer/VehicleOfferActorTest.java" />
@@ -269,54 +277,52 @@
       <jump line="17" column="16" filename="$USER_HOME$/projects/ptv-test-cloud/src/com/wkts/test/Main.java" />
       <jump line="52" column="4" filename="$USER_HOME$/projects/ptv-test-cloud/src/com/wkts/test/Main.java" />
       <jump line="101" column="9" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandler.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(XLocateRemoteInterface) ClientFactory.createClient(
-                XLocateRemoteInterface.class, RemoteType.DOCSTYLE_CXF,
-                &quot;xtok&quot;, &quot;356c1921-2af7-491f-886e-27da30a624cb&quot;,
-                &quot;https://xlocate-eu-n-test.cloud.ptvgroup.com/xlocate/ws/XLocate&quot;
-        );</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>XLocateRemoteInterface xLocate</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text> </text>
       </register>
       <register name="0" type="4">
-        <text>(XLocateRemoteInterface) ClientFactory.createClient(
-                XLocateRemoteInterface.class, RemoteType.DOCSTYLE_CXF,
-                &quot;xtok&quot;, &quot;356c1921-2af7-491f-886e-27da30a624cb&quot;,
-                &quot;https://xlocate-eu-n-test.cloud.ptvgroup.com/xlocate/ws/XLocate&quot;
-        );</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGFkZHJlc3MgPSByZXF1ZXN0LmdldEFkZHJlc3MoKTsKICAgICAgICAgICAgU3RyaW5nIGNvdW50cnkgPSByZXF1ZXN0LmdldENvdW50cnkoKTsKICAgICAgICAgICAgQXJyYXlPZlNlYXJjaE9wdGlvbkJhc2Ugb3B0aW9ucyA9IGNyZWF0ZUFycmF5T2ZTZWFyY2hPcHRpb25CYXNlKHJlcXVlc3QuZ2V0TWF4UmVzdWx0KCkpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTZWFyY2hPcHRpb25CYXNlW10gYXJyYXlPZlNlYXJjaE9wdGlvbkJhc2UgPSBuZXcgU2VhcmNoT3B0aW9uQmFzZVtdOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb20ucHR2YWcueHNlcnZlci54bG9jYXRlLk9iamVjdEZhY3Rvcnkgb2JqZWN0RmFjdG9yeSA9IG5ldyBjb20ucHR2YWcueHNlcnZlci54bG9jYXRlLk9iamVjdEZhY3RvcnkoKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5hcnF1aWxsaWFuLmNvbnRhaW5lci50ZXN0LmFwaS5EZXBsb3ltZW50OwppbXBvcnQgb3JnLmpib3NzLmFycXVpbGxpYW4uanVuaXQuQXJxdWlsbGlhbjsKaW1wb3J0IG9yZy5qYm9zcy5zaHJpbmt3cmFwLmFwaS5TaHJpbmtXcmFwOwppbXBvcnQgb3JnLmpib3NzLnNocmlua3dyYXAuYXBpLmFzc2V0LkVtcHR5QXNzZXQ7CmltcG9ydCBvcmcuamJvc3Muc2hyaW5rd3JhcC5hcGkuc3BlYy5KYXZhQXJjaGl2ZTsKaW1wb3J0IG9yZy5qdW5pdC5ydW5uZXIuUnVuV2l0aDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2VhcmNoT3B0aW9uQmFzZVtdIGNyZWF0ZUFycmF5T2ZTZWFyY2hPcHRpb25CYXNlKEludGVnZXIgbWF4UmVzdWx0KSB7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="5" type="4">
+        <text>try {
+            String address = request.getAddress();
+            String country = request.getCountry();
+            ArrayOfSearchOptionBase options = createArrayOfSearchOptionBase(request.getMaxResult());
+        }</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PGJlYW4gaWQ9InB0dkNsb3VkSGFuZGxlciIgY2xhc3M9ImNvbS50ZWxlcm91dGUudG9wLnB0dnNlcnZpY2VzLmhhbmRsZXIuUFRWQ2xvdWRIYW5kbGVyIj4KICAgICAgICA8cHJvcGVydHkgbmFtZT0ieExvY2F0ZVVybCIgcmVmPSJ4QWpheE1hcHNFbmRwb2ludCI+PC9wcm9wZXJ0eT4KCTwvYmVhbj4K</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTZWFyY2hPcHRpb25CYXNlW10gYXJyYXlPZlNlYXJjaE9wdGlvbkJhc2UgPSBuZXcgU2VhcmNoT3B0aW9uQmFzZVtdOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">wqDCoAo=</text>
+        <text encoding="base64">ICAgICAgICBjb20ucHR2YWcueHNlcnZlci54bG9jYXRlLk9iamVjdEZhY3Rvcnkgb2JqZWN0RmFjdG9yeSA9IG5ldyBjb20ucHR2YWcueHNlcnZlci54bG9jYXRlLk9iamVjdEZhY3RvcnkoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">wqDCoAo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIArCoMKgCiAgICAgICAgwqDCoAoKICAgICAgICDCoMKgCiAgICAgICAgwqDCoMKgwqAK</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name=":" type="4">
         <text>%s/ / /g</text>
