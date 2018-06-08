@@ -78,7 +78,7 @@
       <file name="/dummy.sql" timestamp="1528288394409">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528459765449">
+      <file name="/Dummy.txt" timestamp="1528463690797">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -152,6 +152,13 @@
         <mark key="]" line="7" column="75" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1528463867535">
+        <mark key="'" line="303" column="33" />
+        <mark key="[" line="286" column="1" />
+        <mark key="]" line="286" column="0" />
+        <mark key="^" line="286" column="0" />
+        <mark key="." line="286" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/ptv-test-cloud/src/com/wkts/test/Main.java" timestamp="1528436861848">
         <mark key="'" line="54" column="4" />
         <mark key="[" line="18" column="24" />
@@ -190,6 +197,13 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-ear/pom.xml" timestamp="1528463912552">
+        <mark key="'" line="9" column="16" />
+        <mark key="[" line="64" column="31" />
+        <mark key="]" line="64" column="31" />
+        <mark key="." line="64" column="31" />
+        <mark key="^" line="64" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1528108875445">
         <mark key="'" line="80" column="31" />
         <mark key="[" line="223" column="19" />
@@ -202,10 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="24" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
-      <jump line="229" column="9" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/pom.xml" />
-      <jump line="226" column="66" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/pom.xml" />
       <jump line="211" column="52" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/pom.xml" />
       <jump line="213" column="46" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/pom.xml" />
       <jump line="22" column="0" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.8/jackson-databind-2.8.8-sources.jar!/com/fasterxml/jackson/databind/SerializationFeature.java" />
@@ -302,16 +312,20 @@
       <jump line="32" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/com/ptvag/xserver/xlocate/jwsdp/XLocateAccessImpl.java" />
       <jump line="102" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/com/ptvag/xserver/xlocate/jwsdp/XLocateAccessImpl.java" />
       <jump line="7" column="33" filename="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/spring-config-xlocate.xml" />
+      <jump line="167" column="40" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" />
+      <jump line="303" column="33" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" />
+      <jump line="9" column="16" filename="$USER_HOME$/projects/spotbidding/spotbidding-ear/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>potbidding</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>potbidding</text>
       </register>
       <register name="/" type="4">
-        <text>xRoute</text>
+        <text>local</text>
       </register>
       <register name="0" type="4">
         <text>ptv.useCloud</text>
@@ -348,9 +362,9 @@
       </register>
     </registers>
     <search>
-      <last-search>xRoute</last-search>
+      <last-search>local</last-search>
       <last-offset />
-      <last-pattern>xRoute</last-pattern>
+      <last-pattern>local</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute> </last-substitute>
       <last-dir>1</last-dir>
@@ -358,7 +372,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PD4=</entry>
         <entry>- ([a-z\-]+)</entry>
         <entry>Description</entry>
         <entry>=</entry>
@@ -378,6 +391,7 @@
         <entry>cutoff</entry>
         <entry> </entry>
         <entry>xRoute</entry>
+        <entry>local</entry>
       </history-search>
       <history-cmd>
         <entry>%s/teleroute.dev.tw.intra/tfx.mkt.dev.alpega.info/g</entry>
