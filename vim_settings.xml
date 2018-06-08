@@ -6,12 +6,12 @@
       <file name="$USER_HOME$/projects/fx/fx-web/pom.xml" timestamp="1528101796511">
         <mark key="'" line="628" column="152" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandler.java" timestamp="1528433651083">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="96" column="81" />
-        <mark key="]" line="97" column="19" />
-        <mark key="." line="97" column="19" />
-        <mark key="^" line="97" column="19" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandler.java" timestamp="1528434540026">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/helper/OfferUserHelper.java" timestamp="1526620458814">
         <mark key="[" line="19" column="56" />
@@ -111,10 +111,10 @@
       <file name="$USER_HOME$/projects/fx/fx-scheduler/README.md" timestamp="1526628419444">
         <mark key="'" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" timestamp="1528433710531">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" timestamp="1528434248675">
         <mark key="'" line="72" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="74" column="99" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="77" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/spring-config-handlers.xml" timestamp="1528372783901">
         <mark key="[" line="21" column="0" />
@@ -179,10 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="11" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/test/java/com/wktransportservices/fx/business/actor/offer/VehicleOfferActorTest.java" />
-      <jump line="31" column="44" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/test/java/com/wktransportservices/fx/business/actor/offer/VehicleOfferActorTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/test/java/com/wktransportservices/fx/business/actor/offer/VehicleOfferActorTest.java" />
-      <jump line="52" column="4" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/test/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActorTest.java" />
       <jump line="97" column="13" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/test/java/com/wktransportservices/fx/business/actor/offer/VehicleOfferActorTest.java" />
       <jump line="41" column="17" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/com/sun/jmx/mbeanserver/ModifiableClassLoaderRepository.java" />
       <jump line="444" column="19" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/entity/social/User.java" />
@@ -279,50 +275,86 @@
       <jump line="101" column="9" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
       <jump line="35" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandler.java" />
       <jump line="72" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
+      <jump line="107" column="39" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandler.java" />
+      <jump line="15" column="4" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandler.java" />
+      <jump line="43" column="9" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandler.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50ZWxlcm91dGUudG9wLnB0dnNlcnZpY2VzLio7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>PTVProcesHandler</text>
       </register>
       <register name="/" type="4">
         <text> </text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGFkZHJlc3MgPSByZXF1ZXN0LmdldEFkZHJlc3MoKTsKICAgICAgICAgICAgU3RyaW5nIGNvdW50cnkgPSByZXF1ZXN0LmdldENvdW50cnkoKTsKICAgICAgICAgICAgQXJyYXlPZlNlYXJjaE9wdGlvbkJhc2Ugb3B0aW9ucyA9IGNyZWF0ZUFycmF5T2ZTZWFyY2hPcHRpb25CYXNlKHJlcXVlc3QuZ2V0TWF4UmVzdWx0KCkpOw==</text>
+        <text>PTVCloudProcessHandler</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50ZWxlcm91dGUudG9wLnB0dnNlcnZpY2VzLio7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5hcnF1aWxsaWFuLmNvbnRhaW5lci50ZXN0LmFwaS5EZXBsb3ltZW50OwppbXBvcnQgb3JnLmpib3NzLmFycXVpbGxpYW4uanVuaXQuQXJxdWlsbGlhbjsKaW1wb3J0IG9yZy5qYm9zcy5zaHJpbmt3cmFwLmFwaS5TaHJpbmtXcmFwOwppbXBvcnQgb3JnLmpib3NzLnNocmlua3dyYXAuYXBpLmFzc2V0LkVtcHR5QXNzZXQ7CmltcG9ydCBvcmcuamJvc3Muc2hyaW5rd3JhcC5hcGkuc3BlYy5KYXZhQXJjaGl2ZTsKaW1wb3J0IG9yZy5qdW5pdC5ydW5uZXIuUnVuV2l0aDsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2VhcmNoT3B0aW9uQmFzZVtdIGNyZWF0ZUFycmF5T2ZTZWFyY2hPcHRpb25CYXNlKEludGVnZXIgbWF4UmVzdWx0KSB7CiAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="4">
-        <text>try {
-            String address = request.getAddress();
-            String country = request.getCountry();
-            ArrayOfSearchOptionBase options = createArrayOfSearchOptionBase(request.getMaxResult());
+        <text>catch (ConstraintViolationException e) {
+            LOG.error(&quot;PTV XLocate ConstraintViolationException:&quot;, e);
+            throw new TOPGenericException(TOPGenericExceptionsEnum.UNEXPECTED_ERROR.name());
+        } catch (DatabaseException e) {
+            LOG.error(&quot;PTV XLocate DatabaseException:&quot;, e);
+            throw new TOPGenericException(TOPGenericExceptionsEnum.UNEXPECTED_ERROR.name());
+        } catch (OptimisticRollbackException e) {
+            LOG.error(&quot;PTV XLocate OptimisticRollbackException:&quot;, e);
+            throw new TOPGenericException(TOPGenericExceptionsEnum.UNEXPECTED_ERROR.name());
+        } catch (SystemException e) {
+            LOG.error(&quot;PTV XLocate SystemException:&quot;, e);
+            throw new TOPGenericException(TOPGenericExceptionsEnum.UNEXPECTED_ERROR.name());
+        } catch (TableNotFoundException e) {
+            LOG.error(&quot;PTV XLocate TableNotFoundException:&quot;, e);
+            throw new TOPGenericException(TOPGenericExceptionsEnum.UNEXPECTED_ERROR.name());
+        } catch (UnexpectedException e) {
+            LOG.error(&quot;PTV XLocate UnexpectedException:&quot;, e);
+            throw new TOPGenericException(TOPGenericExceptionsEnum.UNEXPECTED_ERROR.name());
+        } catch (XLocateException e) {
+            LOG.error(&quot;PTV XLocate XLocateException:&quot;, e);
+            throw new TOPGenericException(TOPGenericExceptionsEnum.UNEXPECTED_ERROR.name());
+        } catch (XServiceException e) {
+            LOG.error(&quot;PTV XLocate XServiceException:&quot;, e);
+            throw new TOPGenericException(TOPGenericExceptionsEnum.UNEXPECTED_ERROR.name());
+        } catch (com.ptvag.xserver.xlocate.XLocateException e) {
+            e.printStackTrace();
+        } catch (com.ptvag.xserver.common.XServiceException e) {
+            e.printStackTrace();
+        } catch (com.ptvag.jabba.core.exception.SystemException e) {
+            e.printStackTrace();
         }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTZWFyY2hPcHRpb25CYXNlW10gYXJyYXlPZlNlYXJjaE9wdGlvbkJhc2UgPSBuZXcgU2VhcmNoT3B0aW9uQmFzZVtdOwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5wdHZhZy54c2VydmVyLmNvbW1vbi5YU2VydmljZUV4Y2VwdGlvbjsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb20ucHR2YWcueHNlcnZlci54bG9jYXRlLk9iamVjdEZhY3Rvcnkgb2JqZWN0RmFjdG9yeSA9IG5ldyBjb20ucHR2YWcueHNlcnZlci54bG9jYXRlLk9iamVjdEZhY3RvcnkoKTsK</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5wdHZhZy54c2VydmVyLnhsb2NhdGUuWExvY2F0ZUV4Y2VwdGlvbjsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5wdHZhZy54c2VydmVyLnhsb2NhdGUuKjsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5wdHZhZy5qYWJiYS5jb3JlLmV4Y2VwdGlvbi5TeXN0ZW1FeGNlcHRpb247Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>catch (XLocateException e) {
+            e.printStackTrace();
+        } catch (XServiceException e) {
+            e.printStackTrace();
+        } catch (SystemException e) {
+            e.printStackTrace();
+        }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICBTZWFyY2hPcHRpb25CYXNlW10gc2VhcmNoT3B0aW9uQmFzZXMgPSBuCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/ / /g</text>
