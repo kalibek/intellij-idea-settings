@@ -6,11 +6,11 @@
       <file name="$USER_HOME$/projects/fx/fx-web/pom.xml" timestamp="1528101796511">
         <mark key="'" line="628" column="152" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" timestamp="1528437074981">
-        <mark key="[" line="5" column="43" />
-        <mark key="]" line="5" column="48" />
-        <mark key="^" line="5" column="48" />
-        <mark key="." line="5" column="48" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" timestamp="1528439633821">
+        <mark key="[" line="2" column="71" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+        <mark key="^" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandler.java" timestamp="1528435911622">
         <mark key="'" line="15" column="0" />
@@ -162,6 +162,12 @@
         <mark key="^" line="22" column="8" />
         <mark key="." line="22" column="8" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/wktransportservices/wkts-maps-ui/0.4.115/wkts-maps-ui-0.4.115-sources.jar!/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1528442632173" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xmap-service-client/src/com/ptvag/xserver/xmap/jwsdp/XMapAccessImpl.java" timestamp="1528439445603">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/BiddableOfferController.java" timestamp="1526374069895">
         <mark key="[" line="58" column="28" />
         <mark key="]" line="58" column="35" />
@@ -299,7 +305,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text>cloud.</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZmluYWwg</text>
@@ -308,24 +314,30 @@
         <text>xRoute</text>
       </register>
       <register name="0" type="4">
-        <text>https://xmap-eu-n-test.cloud.ptvgroup.com</text>
+        <text>cloud.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aHR0cHM6Ly94cm91dGUtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbS94cm91dGUvd3MvWFJvdXRlP1dTREwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50ZWxlcm91dGUudG9wLmxvZ2dpbmcuUGVyZm9ybWFuY2VMb2dnZWQ7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGluaXQoKSB7CiAgICAgICAgQXV0aGVudGljYXRvci5zZXREZWZhdWx0KG5ldyBBdXRoZW50aWNhdG9yKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHJvdGVjdGVkIFBhc3N3b3JkQXV0aGVudGljYXRpb24gZ2V0UGFzc3dvcmRBdXRoZW50aWNhdGlvbigpIHsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUGFzc3dvcmRBdXRoZW50aWNhdGlvbigKICAgICAgICAgICAgICAgICAgICAgICAgInh0b2siLAogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgICAgIFhMb2NhdGVXU1NlcnZpY2Ugc2VydmljZSA9IG5ldyBYTG9jYXRlV1NTZXJ2aWNlKCk7CiAgICAgICAgeExvY2F0ZVdTID0gc2VydmljZS5nZXRQb3J0KFhMb2NhdGVXUy5jbGFzcyk7CiAgICAgICAgQmluZGluZ1Byb3ZpZGVyIGJpbmRpbmdQcm92aWRlciA9IChCaW5kaW5nUHJvdmlkZXIpIHhMb2NhdGVXUzsKICAgICAgICBiaW5kaW5nUHJvdmlkZXIuZ2V0UmVxdWVzdENvbnRleHQoKS5wdXQoQmluZGluZ1Byb3ZpZGVyLkVORFBPSU5UX0FERFJFU1NfUFJPUEVSVFksIGVuZHBvaW50VVJMKTsKICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">aHR0cHM6Ly94cm91dGUtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbS94cm91dGUvd3MvWFJvdXRlP1dTREwK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGluaXQoKSB7CiAgICAgICAgQXV0aGVudGljYXRvci5zZXREZWZhdWx0KG5ldyBBdXRoZW50aWNhdG9yKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHJvdGVjdGVkIFBhc3N3b3JkQXV0aGVudGljYXRpb24gZ2V0UGFzc3dvcmRBdXRoZW50aWNhdGlvbigpIHsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUGFzc3dvcmRBdXRoZW50aWNhdGlvbigKICAgICAgICAgICAgICAgICAgICAgICAgInh0b2siLAogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgICAgIFhMb2NhdGVXU1NlcnZpY2Ugc2VydmljZSA9IG5ldyBYTG9jYXRlV1NTZXJ2aWNlKCk7CiAgICAgICAgeExvY2F0ZVdTID0gc2VydmljZS5nZXRQb3J0KFhMb2NhdGVXUy5jbGFzcyk7CiAgICAgICAgQmluZGluZ1Byb3ZpZGVyIGJpbmRpbmdQcm92aWRlciA9IChCaW5kaW5nUHJvdmlkZXIpIHhMb2NhdGVXUzsKICAgICAgICBiaW5kaW5nUHJvdmlkZXIuZ2V0UmVxdWVzdENvbnRleHQoKS5wdXQoQmluZGluZ1Byb3ZpZGVyLkVORFBPSU5UX0FERFJFU1NfUFJPUEVSVFksIGVuZHBvaW50VVJMKTsKICAgIH0=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeExvY2F0ZS5jYWxjdQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS50ZWxlcm91dGUudG9wLnB0dnNlcnZpY2VzLio7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>catch (ConstraintViolationException e) {
             LOG.error(&quot;PTV XLocate ConstraintViolationException:&quot;, e);
             throw new TOPGenericException(TOPGenericExceptionsEnum.UNEXPECTED_ERROR.name());
@@ -358,17 +370,11 @@
             e.printStackTrace();
         }</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5wdHZhZy54c2VydmVyLmNvbW1vbi5YU2VydmljZUV4Y2VwdGlvbjsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wdHZhZy54c2VydmVyLnhsb2NhdGUuWExvY2F0ZUV4Y2VwdGlvbjsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wdHZhZy54c2VydmVyLnhsb2NhdGUuKjsK</text>
-      </register>
       <register name=":" type="4">
-        <text>%s/ / /g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -414,8 +420,8 @@
         <entry>%s/Description/Schedule/g</entry>
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
         <entry encoding="base64">JzwsJz5zLzsvOi9n</entry>
-        <entry>w</entry>
         <entry>%s/ / /g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
