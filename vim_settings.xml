@@ -37,12 +37,12 @@
         <mark key="." line="12" column="7" />
         <mark key="^" line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/com/ptvag/xserver/xlocate/jwsdp/XLocateAccessImpl.java" timestamp="1528444011652">
-        <mark key="'" line="106" column="0" />
-        <mark key="[" line="24" column="39" />
-        <mark key="]" line="24" column="39" />
-        <mark key="." line="24" column="39" />
-        <mark key="^" line="24" column="38" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/com/ptvag/xserver/xlocate/jwsdp/XLocateAccessImpl.java" timestamp="1528445043415">
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3ddfe62a-5c99-42fb-a544-26dd59b94836/console.sql" timestamp="1528288961825">
         <mark key="'" line="2" column="23" />
@@ -50,6 +50,12 @@
         <mark key="]" line="10" column="24" />
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-shared-model/src/com/teleroute/service/XServicesFactory.java" timestamp="1528445191668">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
       </file>
       <file name="/a.sql" timestamp="1528349654167">
         <mark key="[" line="0" column="0" />
@@ -311,8 +317,8 @@
       <jump line="7" column="33" filename="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/spring-config-xlocate.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>url.cloud.xLocateServiceEndpointAddress</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNsb3VkRW5kcG9pbnRVUkw7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>url.cloud.xLocateServiceEndpointAddress</text>
@@ -324,31 +330,31 @@
         <text>ptv.useCloud</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXJsLmNsb3VkLnhBamF4TWFwc0VuZHBvaW50QWRkcmVzcz1odHRwOi8vcHR2LndrdHMuc3RhZ2U6NTAwMTAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNsb3VkRW5kcG9pbnRVUkw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gdGhpcy5lbmRwb2ludFVSTDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHh0b2s7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQm9vbGVhbiB1c2VDbG91ZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXJsLmNsb3VkLnhBamF4TWFwc0VuZHBvaW50QWRkcmVzcz1odHRwOi8vcHR2LndrdHMuc3RhZ2U6NTAwMTAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ZWxlcm91dGUudG9wLmxvZ2dpbmcuUGVyZm9ybWFuY2VMb2dnZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gdGhpcy5lbmRwb2ludFVSTDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aHR0cHM6Ly94cm91dGUtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbS94cm91dGUvd3MvWFJvdXRlP1dTREwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGluaXQoKSB7CiAgICAgICAgQXV0aGVudGljYXRvci5zZXREZWZhdWx0KG5ldyBBdXRoZW50aWNhdG9yKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHJvdGVjdGVkIFBhc3N3b3JkQXV0aGVudGljYXRpb24gZ2V0UGFzc3dvcmRBdXRoZW50aWNhdGlvbigpIHsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUGFzc3dvcmRBdXRoZW50aWNhdGlvbigKICAgICAgICAgICAgICAgICAgICAgICAgInh0b2siLAogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgICAgIFhMb2NhdGVXU1NlcnZpY2Ugc2VydmljZSA9IG5ldyBYTG9jYXRlV1NTZXJ2aWNlKCk7CiAgICAgICAgeExvY2F0ZVdTID0gc2VydmljZS5nZXRQb3J0KFhMb2NhdGVXUy5jbGFzcyk7CiAgICAgICAgQmluZGluZ1Byb3ZpZGVyIGJpbmRpbmdQcm92aWRlciA9IChCaW5kaW5nUHJvdmlkZXIpIHhMb2NhdGVXUzsKICAgICAgICBiaW5kaW5nUHJvdmlkZXIuZ2V0UmVxdWVzdENvbnRleHQoKS5wdXQoQmluZGluZ1Byb3ZpZGVyLkVORFBPSU5UX0FERFJFU1NfUFJPUEVSVFksIGVuZHBvaW50VVJMKTsKICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS50ZWxlcm91dGUudG9wLmxvZ2dpbmcuUGVyZm9ybWFuY2VMb2dnZWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeExvY2F0ZS5jYWxjdQo=</text>
+        <text encoding="base64">aHR0cHM6Ly94cm91dGUtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbS94cm91dGUvd3MvWFJvdXRlP1dTREwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
