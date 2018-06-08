@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/fx/fx-web/pom.xml" timestamp="1528101796511">
-        <mark key="'" line="628" column="152" />
-      </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" timestamp="1528444871346">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="3" />
@@ -44,6 +41,12 @@
         <mark key="^" line="21" column="38" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/.env" timestamp="1528460471528">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3ddfe62a-5c99-42fb-a544-26dd59b94836/console.sql" timestamp="1528288961825">
         <mark key="'" line="2" column="23" />
         <mark key="[" line="9" column="36" />
@@ -60,9 +63,6 @@
       <file name="/a.sql" timestamp="1528349654167">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/transportorder/TransportOrderDTO.java" timestamp="1528106970955">
-        <mark key="'" line="11" column="13" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/359f3da1-ff5a-435a-98bd-5987eca65b59/console.sql" timestamp="1526372709221">
         <mark key="[" line="13" column="48" />
         <mark key="]" line="15" column="57" />
@@ -78,7 +78,7 @@
       <file name="/dummy.sql" timestamp="1528288394409">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528459041650">
+      <file name="/Dummy.txt" timestamp="1528459765449">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -126,9 +126,6 @@
         <mark key="." line="79" column="47" />
         <mark key="^" line="78" column="93" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-scheduler/README.md" timestamp="1526628419444">
-        <mark key="'" line="5" column="11" />
-      </file>
       <file name="$USER_HOME$/projects/ptv-services/product.properties" timestamp="1528437612644">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="12" />
@@ -155,12 +152,6 @@
         <mark key="]" line="7" column="75" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_dev.properties" timestamp="1526446446800">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-scheduler/src/main/resources/tfx-scheduler-jobs.xml" timestamp="1528351072256">
-        <mark key="'" line="284" column="83" />
-      </file>
       <file name="$USER_HOME$/projects/ptv-test-cloud/src/com/wkts/test/Main.java" timestamp="1528436861848">
         <mark key="'" line="54" column="4" />
         <mark key="[" line="18" column="24" />
@@ -186,9 +177,6 @@
         <mark key="." line="58" column="35" />
         <mark key="^" line="58" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1528094761734">
-        <mark key="'" line="64" column="11" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/offer_tsvector.ftl" timestamp="1528352193236">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="73" column="0" />
@@ -196,11 +184,11 @@
         <mark key="^" line="72" column="50" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/client/service/SearchService.java" timestamp="1528102238955">
-        <mark key="'" line="28" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/entity/transportorder/TransportOrder.java" timestamp="1528106920063">
-        <mark key="'" line="116" column="21" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/activemq/Dockerfile" timestamp="1528460274461">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1528108875445">
         <mark key="'" line="80" column="31" />
@@ -316,11 +304,11 @@
       <jump line="7" column="33" filename="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/spring-config-xlocate.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNsb3VkRW5kcG9pbnRVUkw7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>url.cloud.xLocateServiceEndpointAddress</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>xRoute</text>
