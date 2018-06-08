@@ -6,11 +6,11 @@
       <file name="$USER_HOME$/projects/fx/fx-web/pom.xml" timestamp="1528101796511">
         <mark key="'" line="628" column="152" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" timestamp="1528439633821">
-        <mark key="[" line="2" column="71" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="3" column="17" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" timestamp="1528444871346">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandler.java" timestamp="1528435911622">
         <mark key="'" line="15" column="0" />
@@ -37,12 +37,12 @@
         <mark key="." line="12" column="7" />
         <mark key="^" line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/com/ptvag/xserver/xlocate/jwsdp/XLocateAccessImpl.java" timestamp="1528438375945">
-        <mark key="'" line="100" column="0" />
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="19" />
-        <mark key="^" line="13" column="19" />
-        <mark key="." line="13" column="19" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/com/ptvag/xserver/xlocate/jwsdp/XLocateAccessImpl.java" timestamp="1528444011652">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="39" />
+        <mark key="." line="24" column="39" />
+        <mark key="^" line="24" column="38" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3ddfe62a-5c99-42fb-a544-26dd59b94836/console.sql" timestamp="1528288961825">
         <mark key="'" line="2" column="23" />
@@ -168,6 +168,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/spring-config-xlocate.xml" timestamp="1528444970532">
+        <mark key="'" line="7" column="33" />
+        <mark key="[" line="41" column="42" />
+        <mark key="]" line="41" column="54" />
+        <mark key="^" line="38" column="25" />
+        <mark key="." line="41" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/BiddableOfferController.java" timestamp="1526374069895">
         <mark key="[" line="58" column="28" />
         <mark key="]" line="58" column="35" />
@@ -202,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
       <jump line="230" column="24" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
       <jump line="229" column="9" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/pom.xml" />
@@ -302,76 +308,47 @@
       <jump line="106" column="23" filename="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/com/ptvag/xserver/xlocate/jwsdp/XLocateAccessImpl.java" />
       <jump line="32" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/com/ptvag/xserver/xlocate/jwsdp/XLocateAccessImpl.java" />
       <jump line="102" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/com/ptvag/xserver/xlocate/jwsdp/XLocateAccessImpl.java" />
+      <jump line="7" column="33" filename="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/spring-config-xlocate.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cloud.</text>
+        <text>url.cloud.xLocateServiceEndpointAddress</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text>url.cloud.xLocateServiceEndpointAddress</text>
       </register>
       <register name="/" type="4">
         <text>xRoute</text>
       </register>
       <register name="0" type="4">
-        <text>cloud.</text>
+        <text>ptv.useCloud</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXJsLmNsb3VkLnhBamF4TWFwc0VuZHBvaW50QWRkcmVzcz1odHRwOi8vcHR2LndrdHMuc3RhZ2U6NTAwMTAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ZWxlcm91dGUudG9wLmxvZ2dpbmcuUGVyZm9ybWFuY2VMb2dnZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gdGhpcy5lbmRwb2ludFVSTDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aHR0cHM6Ly94cm91dGUtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbS94cm91dGUvd3MvWFJvdXRlP1dTREwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGluaXQoKSB7CiAgICAgICAgQXV0aGVudGljYXRvci5zZXREZWZhdWx0KG5ldyBBdXRoZW50aWNhdG9yKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHJvdGVjdGVkIFBhc3N3b3JkQXV0aGVudGljYXRpb24gZ2V0UGFzc3dvcmRBdXRoZW50aWNhdGlvbigpIHsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUGFzc3dvcmRBdXRoZW50aWNhdGlvbigKICAgICAgICAgICAgICAgICAgICAgICAgInh0b2siLAogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgICAgIFhMb2NhdGVXU1NlcnZpY2Ugc2VydmljZSA9IG5ldyBYTG9jYXRlV1NTZXJ2aWNlKCk7CiAgICAgICAgeExvY2F0ZVdTID0gc2VydmljZS5nZXRQb3J0KFhMb2NhdGVXUy5jbGFzcyk7CiAgICAgICAgQmluZGluZ1Byb3ZpZGVyIGJpbmRpbmdQcm92aWRlciA9IChCaW5kaW5nUHJvdmlkZXIpIHhMb2NhdGVXUzsKICAgICAgICBiaW5kaW5nUHJvdmlkZXIuZ2V0UmVxdWVzdENvbnRleHQoKS5wdXQoQmluZGluZ1Byb3ZpZGVyLkVORFBPSU5UX0FERFJFU1NfUFJPUEVSVFksIGVuZHBvaW50VVJMKTsKICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS50ZWxlcm91dGUudG9wLmxvZ2dpbmcuUGVyZm9ybWFuY2VMb2dnZWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeExvY2F0ZS5jYWxjdQo=</text>
+        <text encoding="base64">aHR0cHM6Ly94cm91dGUtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbS94cm91dGUvd3MvWFJvdXRlP1dTREwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ZWxlcm91dGUudG9wLnB0dnNlcnZpY2VzLio7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="4">
-        <text>catch (ConstraintViolationException e) {
-            LOG.error(&quot;PTV XLocate ConstraintViolationException:&quot;, e);
-            throw new TOPGenericException(TOPGenericExceptionsEnum.UNEXPECTED_ERROR.name());
-        } catch (DatabaseException e) {
-            LOG.error(&quot;PTV XLocate DatabaseException:&quot;, e);
-            throw new TOPGenericException(TOPGenericExceptionsEnum.UNEXPECTED_ERROR.name());
-        } catch (OptimisticRollbackException e) {
-            LOG.error(&quot;PTV XLocate OptimisticRollbackException:&quot;, e);
-            throw new TOPGenericException(TOPGenericExceptionsEnum.UNEXPECTED_ERROR.name());
-        } catch (SystemException e) {
-            LOG.error(&quot;PTV XLocate SystemException:&quot;, e);
-            throw new TOPGenericException(TOPGenericExceptionsEnum.UNEXPECTED_ERROR.name());
-        } catch (TableNotFoundException e) {
-            LOG.error(&quot;PTV XLocate TableNotFoundException:&quot;, e);
-            throw new TOPGenericException(TOPGenericExceptionsEnum.UNEXPECTED_ERROR.name());
-        } catch (UnexpectedException e) {
-            LOG.error(&quot;PTV XLocate UnexpectedException:&quot;, e);
-            throw new TOPGenericException(TOPGenericExceptionsEnum.UNEXPECTED_ERROR.name());
-        } catch (XLocateException e) {
-            LOG.error(&quot;PTV XLocate XLocateException:&quot;, e);
-            throw new TOPGenericException(TOPGenericExceptionsEnum.UNEXPECTED_ERROR.name());
-        } catch (XServiceException e) {
-            LOG.error(&quot;PTV XLocate XServiceException:&quot;, e);
-            throw new TOPGenericException(TOPGenericExceptionsEnum.UNEXPECTED_ERROR.name());
-        } catch (com.ptvag.xserver.xlocate.XLocateException e) {
-            e.printStackTrace();
-        } catch (com.ptvag.xserver.common.XServiceException e) {
-            e.printStackTrace();
-        } catch (com.ptvag.jabba.core.exception.SystemException e) {
-            e.printStackTrace();
-        }</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGluaXQoKSB7CiAgICAgICAgQXV0aGVudGljYXRvci5zZXREZWZhdWx0KG5ldyBBdXRoZW50aWNhdG9yKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHJvdGVjdGVkIFBhc3N3b3JkQXV0aGVudGljYXRpb24gZ2V0UGFzc3dvcmRBdXRoZW50aWNhdGlvbigpIHsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUGFzc3dvcmRBdXRoZW50aWNhdGlvbigKICAgICAgICAgICAgICAgICAgICAgICAgInh0b2siLAogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgICAgIFhMb2NhdGVXU1NlcnZpY2Ugc2VydmljZSA9IG5ldyBYTG9jYXRlV1NTZXJ2aWNlKCk7CiAgICAgICAgeExvY2F0ZVdTID0gc2VydmljZS5nZXRQb3J0KFhMb2NhdGVXUy5jbGFzcyk7CiAgICAgICAgQmluZGluZ1Byb3ZpZGVyIGJpbmRpbmdQcm92aWRlciA9IChCaW5kaW5nUHJvdmlkZXIpIHhMb2NhdGVXUzsKICAgICAgICBiaW5kaW5nUHJvdmlkZXIuZ2V0UmVxdWVzdENvbnRleHQoKS5wdXQoQmluZGluZ1Byb3ZpZGVyLkVORFBPSU5UX0FERFJFU1NfUFJPUEVSVFksIGVuZHBvaW50VVJMKTsKICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wdHZhZy54c2VydmVyLmNvbW1vbi5YU2VydmljZUV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeExvY2F0ZS5jYWxjdQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
