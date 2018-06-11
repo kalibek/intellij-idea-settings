@@ -191,11 +191,12 @@
         <mark key="^" line="72" column="50" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/linux-specific.md" timestamp="1528708690057">
-        <mark key="'" line="58" column="26" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="63" column="0" />
+      <file name="$USER_HOME$/linux-specific.md" timestamp="1528711427365">
+        <mark key="'" line="61" column="26" />
+        <mark key="[" line="22" column="128" />
+        <mark key="]" line="23" column="52" />
+        <mark key="." line="23" column="52" />
+        <mark key="^" line="23" column="52" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/activemq/Dockerfile" timestamp="1528462539382">
         <mark key="[" line="14" column="1" />
@@ -325,16 +326,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>aidl</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="-" type="4">
-        <text>aidl</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
       </register>
       <register name="0" type="4">
-        <text>`/opt/windrives`: `sudo vi windrives.service`</text>
+        <text>fdisk -l</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CgoKICAgICogYWZ0ZXIgdGhhdCB5b3VyIGNhbiBhY2Nlc3MgeW91ciBwYXJ0aXRpb24gd2l0aCBgc3VkbyBtY2AKICAgICogd2l0aCAK</text>
@@ -411,6 +412,7 @@
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
         <entry encoding="base64">JzwsJz5zLzsvOi9n</entry>
         <entry>%s/ / /g</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
