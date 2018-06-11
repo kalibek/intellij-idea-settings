@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://cruc.wkts.intra:9000/" />
+          <option name="name" value="cruc" />
+          <option name="login" value="jenkins" />
+          <password>dfdedfc5dfdedfcbdfc6dfdddf9bdfcedfcf</password>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
