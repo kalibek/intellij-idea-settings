@@ -1,0 +1,12 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Vcs.QuickListPopupAction">
+        <abbreviation name="git" />
+      </action>
+      <action id="VimPluginToggle">
+        <abbreviation name="vi" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
