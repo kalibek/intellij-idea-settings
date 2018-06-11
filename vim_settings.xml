@@ -191,6 +191,12 @@
         <mark key="^" line="72" column="50" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/linux-specific.md" timestamp="1528705701620">
+        <mark key="[" line="21" column="3" />
+        <mark key="]" line="21" column="2" />
+        <mark key="^" line="21" column="2" />
+        <mark key="." line="21" column="2" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/activemq/Dockerfile" timestamp="1528462539382">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="14" column="0" />
@@ -318,11 +324,11 @@
       <jump line="9" column="16" filename="$USER_HOME$/projects/spotbidding/spotbidding-ear/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>potbidding</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IERvY2tlciBuZWVkIGJlIGluc3RhbGxlZCBmcm9tIGVkZ2UgcmVwbwo=</text>
       </register>
       <register name="-" type="4">
-        <text>potbidding</text>
+        <text>At the moment of writing this guide Docker has no stable repository for Ubuntu Bionic Beaver.</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
@@ -331,31 +337,31 @@
         <text>ptv.useCloud</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNsb3VkRW5kcG9pbnRVUkw7Cg==</text>
+        <text encoding="base64">IERvY2tlciBuZWVkIGJlIGluc3RhbGxlZCBmcm9tIGVkZ2UgcmVwbwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHh0b2s7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNsb3VkRW5kcG9pbnRVUkw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQm9vbGVhbiB1c2VDbG91ZDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHh0b2s7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXJsLmNsb3VkLnhBamF4TWFwc0VuZHBvaW50QWRkcmVzcz1odHRwOi8vcHR2LndrdHMuc3RhZ2U6NTAwMTAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQm9vbGVhbiB1c2VDbG91ZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gdGhpcy5lbmRwb2ludFVSTDsK</text>
+        <text encoding="base64">dXJsLmNsb3VkLnhBamF4TWFwc0VuZHBvaW50QWRkcmVzcz1odHRwOi8vcHR2LndrdHMuc3RhZ2U6NTAwMTAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gdGhpcy5lbmRwb2ludFVSTDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ZWxlcm91dGUudG9wLmxvZ2dpbmcuUGVyZm9ybWFuY2VMb2dnZWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aHR0cHM6Ly94cm91dGUtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbS94cm91dGUvd3MvWFJvdXRlP1dTREwK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50ZWxlcm91dGUudG9wLmxvZ2dpbmcuUGVyZm9ybWFuY2VMb2dnZWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
