@@ -34,6 +34,12 @@
         <mark key="." line="12" column="7" />
         <mark key="^" line="12" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/com/ptvag/xserver/xlocate/jwsdp/XLocateAccessImpl.java" timestamp="1528865053191">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/.env" timestamp="1528460471528">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="2" column="26" />
@@ -164,12 +170,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/spring-config-xlocate.xml" timestamp="1528444970532">
-        <mark key="'" line="7" column="33" />
-        <mark key="[" line="41" column="42" />
-        <mark key="]" line="41" column="54" />
-        <mark key="^" line="38" column="25" />
-        <mark key="." line="41" column="42" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/spring-config-xlocate.xml" timestamp="1528864945137">
+        <mark key="'" line="6" column="33" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/BiddableOfferController.java" timestamp="1526374069895">
         <mark key="[" line="58" column="28" />
@@ -319,10 +321,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>olean</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>olean</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
@@ -331,31 +333,31 @@
         <text>fdisk -l</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoKICAgICogYWZ0ZXIgdGhhdCB5b3VyIGNhbiBhY2Nlc3MgeW91ciBwYXJ0aXRpb24gd2l0aCBgc3VkbyBtY2AKICAgICogd2l0aCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsID0gdGhpcy5jbG91ZEVuZHBvaW50VVJMOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8cHJvcGVydHkgbmFtZT0iZW5kcG9pbnRVUkwiIHJlZj0ieExvY2F0ZVNlcnZpY2VFbmRwb2ludEFkZHJlc3MiIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKICAgICogYWZ0ZXIgdGhhdCB5b3VyIGNhbiBhY2Nlc3MgeW91ciBwYXJ0aXRpb24gd2l0aCBgc3VkbyBtY2AKICAgICogd2l0aCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICogaW4gbGludXgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICogQ3JlYXRlIHJlY292ZXJ5IGtleXMgZnJvbSB3aW5kb3dzIGZvciBlYWNoIHBhcnRpdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">My4gYWRkIGVwYW0gZG5zIHNlcnZlcnMgdG8gL2V0Yy9yZXNvbHYuY29uZi4gc2VlIGh0dHBzOi8va2IuZXBhbS5jb20vZGlzcGxheS9FUE1JVFNWQ0ZBUS9Jc3N1ZXMrYW5kK3dvcmthcm91bmRzCg==</text>
+        <text encoding="base64">ICAgICogaW4gbGludXgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IERvY2tlciBuZWVkIGJlIGluc3RhbGxlZCBmcm9tIGVkZ2UgcmVwbwo=</text>
+        <text encoding="base64">ICAgICogQ3JlYXRlIHJlY292ZXJ5IGtleXMgZnJvbSB3aW5kb3dzIGZvciBlYWNoIHBhcnRpdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNsb3VkRW5kcG9pbnRVUkw7Cg==</text>
+        <text encoding="base64">My4gYWRkIGVwYW0gZG5zIHNlcnZlcnMgdG8gL2V0Yy9yZXNvbHYuY29uZi4gc2VlIGh0dHBzOi8va2IuZXBhbS5jb20vZGlzcGxheS9FUE1JVFNWQ0ZBUS9Jc3N1ZXMrYW5kK3dvcmthcm91bmRzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHh0b2s7Cg==</text>
+        <text encoding="base64">IERvY2tlciBuZWVkIGJlIGluc3RhbGxlZCBmcm9tIGVkZ2UgcmVwbwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
