@@ -38,9 +38,6 @@
         <mark key="^" line="19" column="67" />
         <mark key="." line="19" column="67" />
       </file>
-      <file name="/offers [tfx_data@localhost]" timestamp="1528288367992">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudHandler.java" timestamp="1528371194483">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="28" />
@@ -78,9 +75,7 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="/a.sql" timestamp="1528349654167">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/WktsMaps.gwt.xml" timestamp="1528894124739" />
       <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1528883188419">
         <mark key="[" line="74" column="8" />
         <mark key="]" line="74" column="13" />
@@ -104,9 +99,6 @@
         <mark key="]" line="14" column="81" />
         <mark key="^" line="14" column="81" />
         <mark key="." line="14" column="81" />
-      </file>
-      <file name="/dummy.sql" timestamp="1528288394409">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-web/test/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandlerTest.java" timestamp="1528433737904">
         <mark key="[" line="3" column="0" />
@@ -227,9 +219,6 @@
         <mark key="]" line="43" column="47" />
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="17" />
-      </file>
-      <file name="/fragment.java" timestamp="1528867920620">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/client/resource/js/map/SmartSearch.js" timestamp="1528890766852" />
     </filemarks>
