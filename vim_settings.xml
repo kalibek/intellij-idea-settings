@@ -196,6 +196,12 @@
         <mark key="." line="58" column="35" />
         <mark key="^" line="58" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1528891209311">
+        <mark key="[" line="36" column="47" />
+        <mark key="]" line="36" column="47" />
+        <mark key="^" line="36" column="47" />
+        <mark key="." line="36" column="47" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/activemq/Dockerfile" timestamp="1528462539382">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="14" column="0" />
@@ -216,7 +222,7 @@
         <mark key="." line="5" column="28" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1528888091975">
-        <mark key="'" line="81" column="31" />
+        <mark key="'" line="80" column="31" />
         <mark key="[" line="42" column="17" />
         <mark key="]" line="42" column="17" />
         <mark key="." line="42" column="17" />
@@ -225,6 +231,7 @@
       <file name="/fragment.java" timestamp="1528867920620">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/client/resource/js/map/SmartSearch.js" timestamp="1528890766852" />
     </filemarks>
     <jumps>
       <jump line="272" column="37" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" />
@@ -330,10 +337,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">LSAg</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">LSAg</text>
       </register>
       <register name="/" type="4">
         <text>50010</text>
