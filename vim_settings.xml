@@ -26,7 +26,7 @@
         <mark key="]" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" timestamp="1528875253570">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" timestamp="1528893113181">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="47" />
         <mark key="^" line="4" column="46" />
@@ -221,11 +221,11 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1528888091975">
-        <mark key="'" line="80" column="31" />
-        <mark key="[" line="42" column="17" />
-        <mark key="]" line="42" column="17" />
-        <mark key="." line="42" column="17" />
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1528893115884">
+        <mark key="'" line="81" column="31" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="47" />
+        <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="17" />
       </file>
       <file name="/fragment.java" timestamp="1528867920620">
@@ -336,17 +336,17 @@
       <jump line="17" column="12" filename="$USER_HOME$/projects/ptv-services/ptv-business/ptv-common/src/com/teleroute/top/config/CloudAuthenticator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LSAg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHR2Lnh0b2tlbj0zNTZjMTkyMS0yYWY3LTQ5MWYtODg2ZS0yN2RhMzBhNjI0Y2IK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LSAg</text>
+        <text>http://ptv.wkts.stage:50010</text>
       </register>
       <register name="/" type="4">
         <text>50010</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBQVFZfWFRPS0VOID0gInB0di54dG9rZW4iOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFVTRVJOQU1FID0gInh0b2siOwo=</text>
+        <text encoding="base64">cHR2Lnh0b2tlbj0zNTZjMTkyMS0yYWY3LTQ5MWYtODg2ZS0yN2RhMzBhNjI0Y2IK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBQVFZfWFRPS0VOID0gOwo=</text>
