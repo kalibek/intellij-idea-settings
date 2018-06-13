@@ -26,9 +26,9 @@
         <mark key="]" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" timestamp="1528868412471">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="29" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" timestamp="1528871812841">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="9" column="78" />
         <mark key="^" line="4" column="46" />
         <mark key="." line="4" column="46" />
       </file>
@@ -251,11 +251,11 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1528108875445">
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1528871820325">
         <mark key="'" line="80" column="31" />
-        <mark key="[" line="223" column="19" />
-        <mark key="]" line="223" column="22" />
-        <mark key="." line="223" column="22" />
+        <mark key="[" line="42" column="13" />
+        <mark key="]" line="42" column="57" />
+        <mark key="." line="42" column="13" />
         <mark key="^" line="223" column="22" />
       </file>
       <file name="/fragment.java" timestamp="1528867920620">
@@ -366,16 +366,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>http://ptv.wkts.stage:50010</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>http://ptv.wkts.stage:50010</text>
       </register>
       <register name="/" type="4">
-        <text>public</text>
+        <text>50010</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBQVFZfVVNFX0NMT1VEID0gInB0di51c2VDbG91ZCI7Cg==</text>
+      <register name="0" type="4">
+        <text>https://xlocate-eu-n-test.cloud.ptvgroup.com</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -421,9 +421,9 @@
       </register>
     </registers>
     <search>
-      <last-search>public</last-search>
+      <last-search>50010</last-search>
       <last-offset />
-      <last-pattern>public</last-pattern>
+      <last-pattern>50010</last-pattern>
       <last-replace>private</last-replace>
       <last-substitute>public</last-substitute>
       <last-dir>1</last-dir>
@@ -431,7 +431,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Description</entry>
         <entry>=</entry>
         <entry>findRelatedItems</entry>
         <entry>getLimitedOffers</entry>
@@ -451,6 +450,7 @@
         <entry>xRoute</entry>
         <entry>local</entry>
         <entry>public</entry>
+        <entry>50010</entry>
       </history-search>
       <history-cmd>
         <entry>%s/teleroute.dev.tw.intra/tfx.mkt.dev.alpega.info/g</entry>
