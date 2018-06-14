@@ -83,11 +83,11 @@
         <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/WktsMaps.gwt.xml" timestamp="1528894124739" />
-      <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1528883188419">
-        <mark key="[" line="74" column="8" />
-        <mark key="]" line="74" column="13" />
-        <mark key="^" line="74" column="13" />
-        <mark key="." line="74" column="13" />
+      <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1528964734189">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="^" line="57" column="39" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xroute-service-client/src/spring-config-xroute.xml" timestamp="1528868601723">
         <mark key="[" line="6" column="32" />
@@ -335,56 +335,52 @@
       <register name="a" type="4">
         <text>https://ajaxmaps-eu-n-test.cloud.ptvgroup.com/ajaxmaps</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>../maps</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>../maps</text>
+        <text encoding="base64">cXVlcnkgKz0gKChxdWVyeSA9PSBudWxsKSA/ICI/IiA6ICImIikgKyAieHRvaz0i</text>
       </register>
       <register name="/" type="4">
         <text>50010</text>
       </register>
       <register name="0" type="4">
-        <text>https://ajaxmaps-eu-n-test.cloud.ptvgroup.com/ajaxmaps</text>
+        <text>)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBQVFZfWFRPS0VOID0gOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVU0VSTkFNRSA9ICJ4dG9rIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBQVFZfWFRPS0VOID0gInB0di54dG9rZW4iOwo=</text>
+      <register name="4" type="4">
+        <text>if (query != null) {
+            after += &quot;?&quot; + query;
+        }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBQVFZfVVNFX0NMT1VEID0gInB0di51c2VDbG91ZCI7Cg==</text>
+      <register name="5" type="4">
+        <text>if(query == null) {
+                
+            }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBQVFZfVVNFX0NMT1VEID0gInB0di51c2VDbG91ZCI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUFRWX1hUT0tFTiA9ICJwdHYueHRva2VuIjsK</text>
+      <register name="6" type="4">
+        <text>if (urlString.contains(&quot;maps.js&quot;)) {
+            after += &quot;&quot;
+        }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHh0b2s7Cg==</text>
+      <register name="7" type="4">
+        <text>if (url.toString().contains(&quot;maps.js&quot;)) {
+            
+        }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldENvbmZpZ3VyYXRpb24oVFdDb25maWdVdGlsc0NvbmZpZ3VyYXRpb24gY29uZmlndXJhdGlvbikgewogICAgICAgIHRoaXMuY29uZmlndXJhdGlvbiA9IGNvbmZpZ3VyYXRpb247CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBQVFZfWFRPS0VOID0gOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>useCloud = Boolean.parseBoolean(configuration.getSystemOrEnvironmentProperty(PTV_USE_CLOUD));
-        if (useCloud) {
-            xtok = configuration.getSystemOrEnvironmentProperty(PTV_XTOKEN);
-            Authenticator.setDefault(new Authenticator() {
-                @Override
-                protected PasswordAuthentication getPasswordAuthentication() {
-                    return new PasswordAuthentication(
-                            USERNAME,
-                            xtok.toCharArray()
-                    );
-                }
-            });
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
