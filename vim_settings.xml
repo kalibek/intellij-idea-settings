@@ -146,10 +146,10 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/webapp/freightexchange.html" timestamp="1528971041311">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="11" column="185" />
-        <mark key="." line="6" column="4" />
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/webapp/freightexchange.html" timestamp="1528972659400">
+        <mark key="[" line="11" column="132" />
+        <mark key="]" line="11" column="132" />
+        <mark key="." line="11" column="132" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/product.properties" timestamp="1528869033293">
         <mark key="[" line="0" column="11" />
@@ -223,11 +223,11 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/webapp/externalmaps/externalmaps.html" timestamp="1528971033085">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="13" column="184" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="13" column="138" />
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/webapp/externalmaps/externalmaps.html" timestamp="1528972670797">
+        <mark key="[" line="13" column="132" />
+        <mark key="]" line="13" column="132" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="13" column="132" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1528970060318">
         <mark key="'" line="81" column="31" />
@@ -344,10 +344,10 @@
         <text>https://ajaxmaps-eu-n-test.cloud.ptvgroup.com/ajaxmaps</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PCEtLVtpZiBJRV0+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0ibWFwcy93ZWJjb21wb25lbnQvc2NyaXB0L2V4Y2FudmFzLmpzIj48L3NjcmlwdD48IVtlbmRpZl0tLT4KICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Im1hcHMvd2ViY29tcG9uZW50L3NjcmlwdC9xb294ZG9vL3NjcmlwdC9xeC10cmFuc3BvcnQuanMiPjwvc2NyaXB0PgogICAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0ibWFwcy8ucXhycGMiPjwvc2NyaXB0PgogICAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0ibWFwcy93ZWJjb21wb25lbnQvc2NyaXB0L21hcC5qcyI+PC9zY3JpcHQ+</text>
+        <text>?xtok=356c1921-2af7-491f-886e-27da30a624cb</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGluc2VydCB5b3VyIHRva2VuIGhlcmUhPg==</text>
+        <text>?xtok=356c1921-2af7-491f-886e-27da30a624cb</text>
       </register>
       <register name="/" type="4">
         <text>50010</text>
