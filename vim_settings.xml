@@ -156,7 +156,7 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" timestamp="1528976668119">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" timestamp="1528977450133">
         <mark key="'" line="853" column="11" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="77" />
@@ -235,6 +235,9 @@
         <mark key="]" line="43" column="46" />
         <mark key="." line="42" column="21" />
         <mark key="^" line="42" column="17" />
+      </file>
+      <file name="/fragment.java" timestamp="1528977487075">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -461,6 +464,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
