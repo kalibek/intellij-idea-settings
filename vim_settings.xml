@@ -21,11 +21,11 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/client/resource/html/externalmaps.html" timestamp="1528968927896">
-        <mark key="[" line="11" column="70" />
-        <mark key="]" line="11" column="81" />
-        <mark key="." line="11" column="81" />
-        <mark key="^" line="11" column="81" />
+      <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/client/resource/html/externalmaps.html" timestamp="1528969960108">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="173" />
+        <mark key="." line="12" column="4" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-common/src/com/teleroute/top/config/XServicesFactory.java" timestamp="1528867329162">
         <mark key="[" line="2" column="21" />
@@ -172,7 +172,7 @@
         <mark key="]" line="7" column="75" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/wktransportservices/wkts-maps-ui/0.4.115/wkts-maps-ui-0.4.115-sources.jar!/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1528968715579" />
+      <file name="$MAVEN_REPOSITORY$/com/wktransportservices/wkts-maps-ui/0.4.115/wkts-maps-ui-0.4.115-sources.jar!/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1528969749845" />
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xmap-service-client/src/com/ptvag/xserver/xmap/jwsdp/XMapAccessImpl.java" timestamp="1528869398496">
         <mark key="'" line="43" column="43" />
         <mark key="[" line="23" column="99" />
@@ -218,10 +218,16 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1528962137935">
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/webapp/externalmaps/externalmaps.html" timestamp="1528970068968">
+        <mark key="[" line="13" column="138" />
+        <mark key="]" line="13" column="174" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="13" column="138" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1528970060318">
         <mark key="'" line="81" column="31" />
-        <mark key="[" line="42" column="13" />
-        <mark key="]" line="42" column="66" />
+        <mark key="[" line="43" column="11" />
+        <mark key="]" line="43" column="46" />
         <mark key="." line="42" column="21" />
         <mark key="^" line="42" column="17" />
       </file>
@@ -333,48 +339,40 @@
         <text>https://ajaxmaps-eu-n-test.cloud.ptvgroup.com/ajaxmaps</text>
       </register>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text encoding="base64">PGluc2VydCB5b3VyIHRva2VuIGhlcmUhPg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text encoding="base64">PGluc2VydCB5b3VyIHRva2VuIGhlcmUhPg==</text>
       </register>
       <register name="/" type="4">
         <text>50010</text>
       </register>
       <register name="0" type="4">
-        <text>)</text>
+        <text>356c1921-2af7-491f-886e-27da30a624cb</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS1baWYgSUVdPjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL21hcHMvd2ViY29tcG9uZW50L3NjcmlwdC9leGNhbnZhcy5qcyI+PC9zY3JpcHQ+PCFbZW5kaWZdLS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9ImV4dGVybmFsbWFwcy5ub2NhY2hlLmpzP3Zlcj0ke2J1aWxkTm9jYWNoZX0iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL21hcHMvd2ViY29tcG9uZW50L3NjcmlwdC9tYXAuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>if (query != null) {
-            after += &quot;?&quot; + query;
-        }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL21hcHMvLnF4cnBjIj48L3NjcmlwdD4K</text>
       </register>
-      <register name="5" type="4">
-        <text>if(query == null) {
-                
-            }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL21hcHMvd2ViY29tcG9uZW50L3NjcmlwdC9xb294ZG9vL3NjcmlwdC9xeC10cmFuc3BvcnQuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="6" type="4">
-        <text>if (urlString.contains(&quot;maps.js&quot;)) {
-            after += &quot;&quot;
-        }</text>
+        <text encoding="base64">PCEtLVtpZiBJRV0+CiAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJodHRwczovL2FqYXhtYXBzLWV1LW4tdGVzdC5jbG91ZC5wdHZncm91cC5jb20vYWpheG1hcHMvd2ViY29tcG9uZW50L3NjcmlwdC9leGNhbnZhcy5qcyI+PC9zY3JpcHQ+CiAgICA8IVtlbmRpZl0tLT4KICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Imh0dHBzOi8vYWpheG1hcHMtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbS9hamF4bWFwcy8ucXhycGMiPjwvc2NyaXB0PgogICAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cHM6Ly9hamF4bWFwcy1ldS1uLXRlc3QuY2xvdWQucHR2Z3JvdXAuY29tL2FqYXhtYXBzL3dlYmNvbXBvbmVudC9zY3JpcHQvbWFwLXN0YW5kYWxvbmUuanM/eHRvaz08aW5zZXJ0IHlvdXIgdG9rZW4gaGVyZSE+Ij48L3NjcmlwdD4=</text>
       </register>
-      <register name="7" type="4">
-        <text>if (url.toString().contains(&quot;maps.js&quot;)) {
-            
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBQVFZfWFRPS0VOID0gOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IDwhLS1baWYgSUVdPjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL21hcHMvd2ViY29tcG9uZW50L3NjcmlwdC9leGNhbnZhcy5qcyI+PC9zY3JpcHQ+PCFbZW5kaWZdLS0+CiAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIuLi9tYXBzL3dlYmNvbXBvbmVudC9zY3JpcHQvcW9veGRvby9zY3JpcHQvcXgtdHJhbnNwb3J0LmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL21hcHMvLnF4cnBjIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL21hcHMvd2ViY29tcG9uZW50L3NjcmlwdC9tYXAtc3RhbmRhbG9uZS5qcyI+PC9zY3JpcHQ+</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
