@@ -21,11 +21,11 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/client/resource/html/externalmaps.html" timestamp="1528962319676">
-        <mark key="[" line="8" column="132" />
-        <mark key="]" line="8" column="131" />
-        <mark key="." line="8" column="131" />
-        <mark key="^" line="8" column="131" />
+      <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/client/resource/html/externalmaps.html" timestamp="1528968927896">
+        <mark key="[" line="11" column="70" />
+        <mark key="]" line="11" column="81" />
+        <mark key="." line="11" column="81" />
+        <mark key="^" line="11" column="81" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-common/src/com/teleroute/top/config/XServicesFactory.java" timestamp="1528867329162">
         <mark key="[" line="2" column="21" />
@@ -81,11 +81,11 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1528964734189">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="^" line="57" column="39" />
-        <mark key="." line="110" column="0" />
+      <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1528968992041">
+        <mark key="[" line="52" column="36" />
+        <mark key="]" line="52" column="45" />
+        <mark key="^" line="52" column="45" />
+        <mark key="." line="52" column="45" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xroute-service-client/src/spring-config-xroute.xml" timestamp="1528868601723">
         <mark key="[" line="6" column="32" />
@@ -172,7 +172,7 @@
         <mark key="]" line="7" column="75" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/wktransportservices/wkts-maps-ui/0.4.115/wkts-maps-ui-0.4.115-sources.jar!/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1528967062609" />
+      <file name="$MAVEN_REPOSITORY$/com/wktransportservices/wkts-maps-ui/0.4.115/wkts-maps-ui-0.4.115-sources.jar!/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1528968715579" />
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xmap-service-client/src/com/ptvag/xserver/xmap/jwsdp/XMapAccessImpl.java" timestamp="1528869398496">
         <mark key="'" line="43" column="43" />
         <mark key="[" line="23" column="99" />
@@ -332,11 +332,11 @@
       <register name="a" type="4">
         <text>https://ajaxmaps-eu-n-test.cloud.ptvgroup.com/ajaxmaps</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cXVlcnkgKz0gKChxdWVyeSA9PSBudWxsKSA/ICI/IiA6ICImIikgKyAieHRvaz0i</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>50010</text>
