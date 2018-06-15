@@ -39,11 +39,11 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1529055007208">
-        <mark key="[" line="146" column="68" />
-        <mark key="]" line="146" column="73" />
+      <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1529059999807">
+        <mark key="[" line="53" column="38" />
+        <mark key="]" line="53" column="38" />
         <mark key="^" line="146" column="73" />
-        <mark key="." line="146" column="73" />
+        <mark key="." line="53" column="38" />
       </file>
       <file name="$USER_HOME$/projects/fx/pom.xml" timestamp="1529051354711">
         <mark key="'" line="355" column="37" />
@@ -85,13 +85,15 @@
         <mark key="]" line="21" column="99" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/wktransportservices/wkts-maps-ui/0.5.0/wkts-maps-ui-0.5.0-sources.jar!/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1529059947808" />
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactEmail.java" timestamp="1526293167616">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="4" />
         <mark key="^" line="7" column="15" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xmap-service-client/src/com/ptvag/xserver/xmap/jwsdp/XMapAccessImpl.java" timestamp="1528986646468">
+      <file name="$MAVEN_REPOSITORY$/com/wktransportservices/wkts-maps-ui/0.4.115/wkts-maps-ui-0.4.115-sources.jar!/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1528969749845" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xmap-service-client/src/com/ptvag/xserver/xmap/jwsdp/XMapAccessImpl.java" timestamp="1529059840920">
         <mark key="'" line="43" column="43" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -170,7 +172,7 @@
         <mark key="." line="12" column="7" />
         <mark key="^" line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/com/ptvag/xserver/xlocate/jwsdp/XLocateAccessImpl.java" timestamp="1528868509284">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/com/ptvag/xserver/xlocate/jwsdp/XLocateAccessImpl.java" timestamp="1529059723703">
         <mark key="'" line="129" column="68" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -311,6 +313,9 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="28" />
       </file>
+      <file name="/fragment.java" timestamp="1529059842663">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="39" column="18" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_dev.properties" />
@@ -419,10 +424,10 @@
         <text encoding="base64">cHR2Lm1hcHMudXJsPWh0dHBzOi8vYWpheG1hcHMtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbS9hamF4bWFwcwpwdHYueHRva2VuPTM1NmMxOTIxLTJhZjctNDkxZi04ODZlLTI3ZGEzMGE2MjRjYgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>356c1921-2af7-491f-886e-27da30a624cb</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;ptv.maps.url&quot;</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>ptv</text>
