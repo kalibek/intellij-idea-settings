@@ -17,9 +17,9 @@
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" timestamp="1529050635954">
         <mark key="'" line="39" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-common/src/com/teleroute/top/config/XServicesFactory.java" timestamp="1528867329162">
         <mark key="[" line="2" column="21" />
@@ -48,20 +48,20 @@
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_null.properties" timestamp="1529050794839">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="36" column="0" />
-        <mark key="]" line="38" column="0" />
+        <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1529040996594">
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="52" column="45" />
-        <mark key="^" line="52" column="45" />
-        <mark key="." line="52" column="45" />
+      <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1529055007208">
+        <mark key="[" line="146" column="68" />
+        <mark key="]" line="146" column="73" />
+        <mark key="^" line="146" column="73" />
+        <mark key="." line="146" column="73" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" timestamp="1529050576094">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/pom.xml" timestamp="1529051354711">
         <mark key="'" line="355" column="37" />
@@ -137,21 +137,22 @@
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_prod.properties" timestamp="1529050590095">
         <mark key="'" line="39" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/webapp/externalmaps/externalmaps.html" timestamp="1529049238821">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="13" column="95" />
-        <mark key="^" line="9" column="41" />
-        <mark key="." line="13" column="40" />
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1529054976831">
+        <mark key="'" line="83" column="31" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="17" />
+        <mark key="." line="43" column="13" />
+        <mark key="^" line="43" column="13" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" timestamp="1529050559366">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
         <mark key="^" line="41" column="2" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_sprint.properties" timestamp="1529051066382">
@@ -171,9 +172,9 @@
         <mark key="^" line="8" column="173" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_prod.properties" timestamp="1529051086041">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="21" column="99" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_prod.properties" timestamp="1529054391908">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="17" />
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/helper/OfferUserHelper.java" timestamp="1526620458814">
@@ -217,12 +218,6 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1529050606959">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_devsrv.properties" timestamp="1529051082263">
         <mark key="[" line="8" column="0" />
@@ -288,12 +283,6 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" timestamp="1529050621987">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/spring-config-handlers.xml" timestamp="1528372783901">
         <mark key="[" line="21" column="0" />
@@ -447,43 +436,43 @@
         <text encoding="base64">cHR2Lm1hcHMudXJsPWh0dHBzOi8vYWpheG1hcHMtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbS9hamF4bWFwcwpwdHYueHRva2VuPTM1NmMxOTIxLTJhZjctNDkxZi04ODZlLTI3ZGEzMGE2MjRjYgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>&quot;ptv.maps.url&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>&quot;ptv.maps.url&quot;</text>
       </register>
       <register name="/" type="4">
         <text>ptv</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiM9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMgUFRWIENsb3VkIHBhcmFtZXRlcnMKIz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KcHR2LnVzZUNsb3VkPXRydWUKcHR2Lnh0b2tlbj0zNTZjMTkyMS0yYWY3LTQ5MWYtODg2ZS0yN2RhMzBhNjI0Y2IKCiM9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMgQ2xvdWQgVVJMIGNvbmZpZ3VyYXRpb24gc2VjdGlvbgojPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQp1cmwuY2xvdWQueEFqYXhNYXBzRW5kcG9pbnRBZGRyZXNzPWh0dHBzOi8vYWpheG1hcHMtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbQp1cmwuY2xvdWQueExvY2F0ZVNlcnZpY2VFbmRwb2ludEFkZHJlc3M9aHR0cHM6Ly94bG9jYXRlLWV1LW4tdGVzdC5jbG91ZC5wdHZncm91cC5jb20veGxvY2F0ZS93cy9YTG9jYXRlCnVybC5jbG91ZC54TWFwU2VydmljZUVuZHBvaW50QWRkcmVzcz1odHRwczovL3htYXAtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbS94bWFwL3dzL1hNYXAKdXJsLmNsb3VkLnhSb3V0ZVNlcnZpY2VFbmRwb2ludEFkZHJlc3M9aHR0cHM6Ly94cm91dGUtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbS94cm91dGUvd3MvWFJvdXRl</text>
+        <text>ptv.cloud.maps.url</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYodXNlQ2xvdWQpIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHVzZUNsb3VkID0gQ29uZmlnVXRpbHMuZ2V0U3lzdGVtT3JFbnZpcm9ubWVudFByb3BlcnR5KCJwdHYuIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHR2LnVzZUNsb3VkPXRydWUKcHR2Lnh0b2tlbj0zNTZjMTkyMS0yYWY3LTQ5MWYtODg2ZS0yN2RhMzBhNjI0Y2IK</text>
+        <text encoding="base64">cHR2Lm1hcHMudXJsPWh0dHBzOi8vYWpheG1hcHMtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbS9hamF4bWFwcwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">cHR2Lm1hcHMudXJsPWh0dHA6Ly9wdHYud2t0cy5zcHJpbnQ6NTAwMTAvYWpheG1hcHMK</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">cHR2Lm1hcHMudXJsPWh0dHA6Ly9wdHYud2t0cy5xYTo1MDAxMC9hamF4bWFwcwo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHR2LnVzZUNsb3VkPXRydWUKcHR2Lnh0b2tlbj0zNTZjMTkyMS0yYWY3LTQ5MWYtODg2ZS0yN2RhMzBhNjI0Y2IK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">cHR2Lm1hcHMudXJsPWh0dHA6Ly9wdHYud2t0cy5zcHJpbnQ6NTAwMTAvYWpheG1hcHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
