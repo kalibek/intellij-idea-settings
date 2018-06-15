@@ -146,10 +146,12 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/webapp/freightexchange.html" timestamp="1528972659400">
-        <mark key="[" line="11" column="132" />
-        <mark key="]" line="11" column="132" />
-        <mark key="." line="11" column="132" />
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/webapp/freightexchange.html" timestamp="1529040382312">
+        <mark key="'" line="11" column="185" />
+        <mark key="[" line="11" column="84" />
+        <mark key="]" line="11" column="84" />
+        <mark key="." line="11" column="84" />
+        <mark key="^" line="7" column="42" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/product.properties" timestamp="1528869033293">
         <mark key="[" line="0" column="11" />
@@ -241,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="18" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" />
       <jump line="144" column="70" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" />
       <jump line="35" column="65" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" />
@@ -341,22 +342,23 @@
       <jump line="844" column="54" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
       <jump line="852" column="64" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
       <jump line="853" column="11" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
+      <jump line="11" column="185" filename="$USER_HOME$/projects/fx/fx-web/src/main/webapp/freightexchange.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>https://ajaxmaps-eu-n-test.cloud.ptvgroup.com/ajaxmaps</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>?xtok=356c1921-2af7-491f-886e-27da30a624cb</text>
       </register>
       <register name="-" type="4">
         <text>?xtok=356c1921-2af7-491f-886e-27da30a624cb</text>
       </register>
       <register name="/" type="4">
-        <text>\calter</text>
+        <text>https:\/\/ajaxmaps-eu-n-test.cloud.ptvgroup.com\/ajax</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PCEtLVtpZiBJRV0+CiAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJodHRwczovL2FqYXhtYXBzLWV1LW4tdGVzdC5jbG91ZC5wdHZncm91cC5jb20vYWpheG1hcHMvd2ViY29tcG9uZW50L3NjcmlwdC9leGNhbnZhcy5qcyI+PC9zY3JpcHQ+CiAgICA8IVtlbmRpZl0tLT4KICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Imh0dHBzOi8vYWpheG1hcHMtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbS9hamF4bWFwcy93ZWJjb21wb25lbnQvc2NyaXB0L3Fvb3hkb28vc2NyaXB0L3F4LXRyYW5zcG9ydC5qcyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJodHRwczovL2FqYXhtYXBzLWV1LW4tdGVzdC5jbG91ZC5wdHZncm91cC5jb20vYWpheG1hcHMvLnF4cnBjIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Imh0dHBzOi8vYWpheG1hcHMtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbS9hamF4bWFwcy93ZWJjb21wb25lbnQvc2NyaXB0L21hcC1zdGFuZGFsb25lLmpzP3h0b2s9MzU2YzE5MjEtMmFmNy00OTFmLTg4NmUtMjdkYTMwYTYyNGNiIj48L3NjcmlwdD4=</text>
+        <text>https://ajaxmaps-eu-n-test.cloud.ptvgroup.com/ajax</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -390,17 +392,16 @@
       </register>
     </registers>
     <search>
-      <last-search>\calter</last-search>
+      <last-search>https:\/\/ajaxmaps-eu-n-test.cloud.ptvgroup.com\/ajax</last-search>
       <last-offset />
-      <last-pattern>\calter</last-pattern>
-      <last-replace>private</last-replace>
-      <last-substitute>public</last-substitute>
+      <last-pattern>https:\/\/ajaxmaps-eu-n-test.cloud.ptvgroup.com\/ajax</last-pattern>
+      <last-replace>..\/</last-replace>
+      <last-substitute>https:\/\/ajaxmaps-eu-n-test.cloud.ptvgroup.com\/ajax</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getLimitedOffers</entry>
         <entry>sdm</entry>
         <entry>codeserver</entry>
         <entry>;</entry>
@@ -420,6 +421,7 @@
         <entry>50010</entry>
         <entry>alter</entry>
         <entry>\calter</entry>
+        <entry>https:\/\/ajaxmaps-eu-n-test.cloud.ptvgroup.com\/ajax</entry>
       </history-search>
       <history-cmd>
         <entry>%s/teleroute.dev.tw.intra/tfx.mkt.dev.alpega.info/g</entry>
@@ -435,6 +437,7 @@
         <entry>%s/ / /g</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL3B1YmxpYy9wcml2YXRlL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2h0dHBzOlwvXC9hamF4bWFwcy1ldS1uLXRlc3QuY2xvdWQucHR2Z3JvdXAuY29tXC9hamF4Ly4uXC8vZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
