@@ -15,6 +15,10 @@
         <mark key="^" line="6" column="55" />
         <mark key="." line="6" column="55" />
       </file>
+      <file name="/PtvProxy.java" timestamp="1529065969820">
+        <mark key="[" line="55" column="12" />
+        <mark key="]" line="55" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-common/src/com/teleroute/top/config/XServicesFactory.java" timestamp="1528867329162">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="21" />
@@ -39,12 +43,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1529064043395">
+      <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1529065976974">
         <mark key="'" line="127" column="51" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="^" line="55" column="51" />
-        <mark key="." line="147" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="66" column="23" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/pom.xml" timestamp="1529051354711">
         <mark key="'" line="355" column="37" />
@@ -86,6 +90,7 @@
         <mark key="]" line="21" column="99" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/wktransportservices/wkts-maps-ui/0.5.0/wkts-maps-ui-0.5.0-sources.jar!/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1529065663943" />
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactEmail.java" timestamp="1526293167616">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="4" />
@@ -423,7 +428,7 @@
         <text encoding="base64">cHR2Lm1hcHMudXJsPWh0dHBzOi8vYWpheG1hcHMtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbS9hamF4bWFwcwpwdHYueHRva2VuPTM1NmMxOTIxLTJhZjctNDkxZi04ODZlLTI3ZGEzMGE2MjRjYgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiB1c2VDbG91ZCA9IEJvb2xlYW4ucGFyc2VCb29sZWFuKENvbmZpZ1V0aWxzLmdldFN5c3RlbU9yRW52aXJvbm1lbnRQcm9wZXJ0eSgicHR2LnVzZUNsb3VkIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFmdGVyICs9ICAK</text>
       </register>
       <register name="-" type="4">
         <text>XMAP Url cannot be resolved</text>
@@ -432,41 +437,33 @@
         <text>ptv</text>
       </register>
       <register name="0" type="4">
-        <text>try {
-            boolean useCloud = Boolean.parseBoolean(ConfigUtils.getSystemOrEnvironmentProperty(&quot;ptv.useCloud&quot;));
-            String ptvUrl = useCloud ? &quot;ptv.cloud.maps.url&quot; : &quot;ptv.maps.url&quot;;
-            String url = ConfigUtils.getSystemOrEnvironmentProperty(ptvUrl);
-            URL mapsEndpoint = new URL(url);
-            return mapsEndpoint;
-        } catch (Exception e) {
-            throw new IllegalStateException(&quot;XMAP Url cannot be resolved : &quot; + e.getMessage());
-        }</text>
+        <text>after += &quot;?&quot; + query;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiB1c2VDbG91ZCA9IEJvb2xlYW4ucGFyc2VCb29sZWFuKENvbmZpZ1V0aWxzLmdldFN5c3RlbU9yRW52aXJvbm1lbnRQcm9wZXJ0eSgicHR2LnVzZUNsb3VkIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFmdGVyICs9ICAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiB1c2VDbG91ZCA9IEJvb2xlYW4ucGFyc2VCb29sZWFuKENvbmZpZ1V0aWxzLmdldFN5c3RlbU9yRW52aXJvbm1lbnRQcm9wZXJ0eSgicHR2LnVzZUNsb3VkIikpOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>String ptvUrl = useCloud ? &quot;ptv.cloud.maps.url&quot; : &quot;ptv.maps.url&quot;;
             String url = ConfigUtils.getSystemOrEnvironmentProperty(ptvUrl);
             URL mapsEndpoint = new URL(url);</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICBwcml2YXRlIGJvb2xlYW4gZ2V0VXNlQ2xvdWQoKSB7CiAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYodXNlQ2xvdWQpIHsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBib29sZWFuIHVzZUNsb3VkID0gQ29uZmlnVXRpbHMuZ2V0U3lzdGVtT3JFbnZpcm9ubWVudFByb3BlcnR5KCJwdHYuIikK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">cHR2Lm1hcHMudXJsPWh0dHBzOi8vYWpheG1hcHMtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbS9hamF4bWFwcwo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHR2Lm1hcHMudXJsPWh0dHBzOi8vYWpheG1hcHMtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbS9hamF4bWFwcwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
