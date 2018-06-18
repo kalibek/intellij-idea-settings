@@ -15,11 +15,11 @@
         <mark key="^" line="6" column="55" />
         <mark key="." line="6" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web-lite/readme.md" timestamp="1529299780881">
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="6" column="34" />
-        <mark key="^" line="6" column="34" />
-        <mark key="." line="6" column="34" />
+      <file name="$USER_HOME$/projects/fx/fx-web-lite/readme.md" timestamp="1529300384502">
+        <mark key="[" line="13" column="44" />
+        <mark key="]" line="13" column="44" />
+        <mark key="^" line="13" column="44" />
+        <mark key="." line="13" column="44" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" timestamp="1529298441429">
         <mark key="[" line="43" column="11" />
@@ -271,11 +271,11 @@
         <mark key="]" line="21" column="99" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529299046033">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="39" />
-        <mark key="." line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1529300609910">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-scheduler/README.md" timestamp="1526634442594">
         <mark key="[" line="69" column="27" />
@@ -466,16 +466,16 @@
         <text>insert_xtoken_here</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">aXMgdXNlZCB0byA=</text>
+        <text encoding="base64">aW4g</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXMgdXNlZCB0byA=</text>
+        <text encoding="base64">aW4g</text>
       </register>
       <register name="/" type="4">
         <text>ptv.useCloud=true</text>
       </register>
       <register name="0" type="4">
-        <text>PTV_TOKEN</text>
+        <text>referring variable in `environment_*.properties` is `ptv.useCloud`</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFmdGVyICs9ICAK</text>
@@ -507,7 +507,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/ptv.useCloud=true/ptv.useCloud=false/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -557,9 +557,9 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL3B1YmxpYy9wcml2YXRlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2h0dHBzOlwvXC9hamF4bWFwcy1ldS1uLXRlc3QuY2xvdWQucHR2Z3JvdXAuY29tXC9hamF4Ly4uXC8vZw==</entry>
-        <entry>w</entry>
         <entry>%s/356c1921-2af7-491f-886e-27da30a624cb/insert_xtoken_here/g</entry>
         <entry>%s/ptv.useCloud=true/ptv.useCloud=false/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
