@@ -64,11 +64,12 @@
         <mark key="." line="354" column="31" />
         <mark key="^" line="354" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1529298312021">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-        <mark key="^" line="9" column="18" />
+      <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1529319900720">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="52" column="30" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactPhone.java" timestamp="1526293201146">
         <mark key="[" line="48" column="27" />
@@ -100,6 +101,12 @@
         <mark key="]" line="21" column="99" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fx/docker/activemq/Dockerfile" timestamp="1529319289074">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactEmail.java" timestamp="1526293167616">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="4" />
@@ -120,11 +127,9 @@
         <mark key="." line="8" column="110" />
         <mark key="^" line="8" column="110" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1528891209311">
-        <mark key="[" line="36" column="47" />
-        <mark key="]" line="36" column="47" />
-        <mark key="^" line="36" column="47" />
-        <mark key="." line="36" column="47" />
+      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1529320237243">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="51" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/activemq/Dockerfile" timestamp="1528462539382">
         <mark key="[" line="14" column="1" />
@@ -136,11 +141,11 @@
         <mark key="^" line="43" column="13" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" timestamp="1529309623720">
-        <mark key="'" line="44" column="0" />
+        <mark key="'" line="43" column="0" />
         <mark key="[" line="39" column="67" />
-        <mark key="]" line="44" column="16" />
-        <mark key="." line="43" column="11" />
-        <mark key="^" line="42" column="0" />
+        <mark key="]" line="43" column="16" />
+        <mark key="." line="42" column="11" />
+        <mark key="^" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_sprint.properties" timestamp="1529298716016">
         <mark key="'" line="13" column="0" />
@@ -336,8 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/da748cb2-3d40-42b4-9e8e-bc6451cd7e50/console.sql" />
-      <jump line="79" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/da748cb2-3d40-42b4-9e8e-bc6451cd7e50/console.sql" />
       <jump line="65" column="8" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/offer_tsvector.ftl" />
       <jump line="177" column="27" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/offer_tsvector.ftl" />
       <jump line="284" column="83" filename="$USER_HOME$/projects/fx/fx-scheduler/src/main/resources/tfx-scheduler-jobs.xml" />
@@ -436,54 +439,54 @@
       <jump line="43" column="28" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" />
       <jump line="44" column="28" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
       <jump line="38" column="28" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_null.properties" />
+      <jump line="7" column="31" filename="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" />
+      <jump line="15" column="0" filename="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>insert_xtoken_here</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ptv readme.md for cloud configuration</text>
+        <text>artifacts.tw.intra:217.64.242.214</text>
       </register>
       <register name="-" type="4">
-        <text>ptv readme.md for cloud configuration</text>
+        <text>centos:7</text>
       </register>
       <register name="/" type="4">
         <text>ptv.useCloud=true</text>
       </register>
       <register name="0" type="4">
-        <text>ptv.useCloud=true</text>
+        <text>artifacts.tw.intra:217.64.242.214</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlQ2xvdWQgPSBnZXRVc2VDbG91ZCgpOwo=</text>
+        <text encoding="base64">RU5WIFdJTERGTFlfVkVSU0lPTj0xMC4xLjAuRmluYWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WIFdJTERGTFlfQklOQVJZPXdpbGRmbHktJFdJTERGTFlfVkVSU0lPTi50YXIuZ3oK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiB1c2VDbG91ZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlQ2xvdWQgPSBnZXRVc2VDbG91ZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFmdGVyICs9ICAK</text>
+        <text encoding="base64">ICAgIG12ICRXT1JLX0RJUi93aWxkZmx5LSRXSUxERkxZX1ZFUlNJT04gJFdJTERGTFlfSE9NRQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiB1c2VDbG91ZCA9IEJvb2xlYW4ucGFyc2VCb29sZWFuKENvbmZpZ1V0aWxzLmdldFN5c3RlbU9yRW52aXJvbm1lbnRQcm9wZXJ0eSgicHR2LnVzZUNsb3VkIikpOwo=</text>
+        <text encoding="base64">ICAgIHRhciAtenhmICRESVIvJFdJTERGTFlfQklOQVJZIC1DICRXT1JLX0RJUiAmJiBcCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">UlVOIGN1cmwgLUMgLSAtbyAkRElSLyRXSUxERkxZX0JJTkFSWSBodHRwOi8vZG93bmxvYWQuamJvc3Mub3JnL3dpbGRmbHkvJFdJTERGTFlfVkVSU0lPTi8kV0lMREZMWV9CSU5BUlkgJiYgXAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>String ptvUrl = useCloud ? &quot;ptv.cloud.maps.url&quot; : &quot;ptv.maps.url&quot;;
-            String url = ConfigUtils.getSystemOrEnvironmentProperty(ptvUrl);
-            URL mapsEndpoint = new URL(url);</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHl1bSBjbGVhbiBhbGwK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIGJvb2xlYW4gZ2V0VXNlQ2xvdWQoKSB7CiAgICB9Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHl1bSBpbnN0YWxsIC15IGphdmEtMS44LjAtb3Blbmpkay1oZWFkbGVzcy54ODZfNjQgZm9udGNvbmZpZyAmJiBcCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/ptv.useCloud=true/ptv.useCloud=false/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -534,8 +537,8 @@
         <entry encoding="base64">JzwsJz5zL3B1YmxpYy9wcml2YXRlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2h0dHBzOlwvXC9hamF4bWFwcy1ldS1uLXRlc3QuY2xvdWQucHR2Z3JvdXAuY29tXC9hamF4Ly4uXC8vZw==</entry>
         <entry>%s/356c1921-2af7-491f-886e-27da30a624cb/insert_xtoken_here/g</entry>
-        <entry>w</entry>
         <entry>%s/ptv.useCloud=true/ptv.useCloud=false/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
