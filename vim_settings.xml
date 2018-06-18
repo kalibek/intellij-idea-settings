@@ -55,8 +55,12 @@
         <mark key="^" line="37" column="50" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker/build-images.sh" timestamp="1529323370858">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/fx/docker/build-images.sh" timestamp="1529324559302">
+        <mark key="'" line="18" column="53" />
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="16" column="47" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="16" column="47" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" timestamp="1529306230440">
         <mark key="^" line="33" column="0" />
@@ -68,11 +72,11 @@
         <mark key="." line="354" column="31" />
         <mark key="^" line="354" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1529323179084">
-        <mark key="[" line="55" column="12" />
-        <mark key="]" line="55" column="13" />
-        <mark key="." line="55" column="13" />
-        <mark key="^" line="55" column="13" />
+      <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1529325410876">
+        <mark key="[" line="55" column="19" />
+        <mark key="]" line="55" column="23" />
+        <mark key="." line="55" column="23" />
+        <mark key="^" line="55" column="23" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactPhone.java" timestamp="1526293201146">
         <mark key="[" line="48" column="27" />
@@ -134,7 +138,7 @@
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/activemq/Dockerfile" timestamp="1528462539382">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/activemq/Dockerfile" timestamp="1529325104550">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="0" />
@@ -311,6 +315,7 @@
         <mark key="." line="58" column="35" />
         <mark key="^" line="58" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/fx/build-images.sh" timestamp="1529324735401" />
       <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_dev.properties" timestamp="1529298704268">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="13" column="11" />
@@ -344,8 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="8" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/offer_tsvector.ftl" />
-      <jump line="177" column="27" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/offer_tsvector.ftl" />
       <jump line="284" column="83" filename="$USER_HOME$/projects/fx/fx-scheduler/src/main/resources/tfx-scheduler-jobs.xml" />
       <jump line="231" column="5" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/offer_tsvector.ftl" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/offer_tsvector.ftl" />
@@ -444,67 +447,73 @@
       <jump line="38" column="28" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_null.properties" />
       <jump line="7" column="31" filename="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" />
       <jump line="15" column="0" filename="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" />
+      <jump line="20" column="51" filename="$USER_HOME$/projects/fx/docker/build-images.sh" />
+      <jump line="18" column="53" filename="$USER_HOME$/projects/fx/docker/build-images.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>insert_xtoken_here</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC1SIGo=</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC1SIGo=</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>ptv.useCloud=true</text>
+        <text>wildfly</text>
       </register>
       <register name="0" type="4">
-        <text>/opt/jboss</text>
+        <text># Build Freight Exchange
+docker build . -f ./docker/wildfly/Dockerfile --add-host=artifacts.tw.intra:217.64.242.214 -t fx-wildfly
+docker tag fx-wildfly dockerhub.tw.intra/ngmp/fx-wildfly:latest
+docker push dockerhub.tw.intra/ngmp/fx-wildfly:latest</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">UlVOICAvb3B0L2pib3NzCg==</text>
+      <register name="1" type="4">
+        <text># Build Elasticache
+docker build . -f ./docker/elasticache/Dockerfile -t elasticache
+docker tag elasticache dockerhub.tw.intra/ngmp/elasticache:latest
+docker push dockerhub.tw.intra/ngmp/elasticache:latest</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RU5WIFdPUktfRElSCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">RU5WIFdJTERGTFlfQklOQVJZPXdpbGRmbHktJFdJTERGTFlfVkVSU0lPTi50YXIuZ3oK</text>
+      <register name="3" type="4">
+        <text encoding="base64">I29ubHkgZm9yIHJlbGVhc2UKIyBkb2NrZXIgdGFnIGFjdGl2ZW1xIGRvY2tlcmh1Yi50dy5pbnRyYS9uZ21wL2FjdGl2ZW1xOjE4LjA5CiMgZG9ja2VyIHB1c2ggZG9ja2VyaHViLnR3LmludHJhL25nbXAvYWN0aXZlbXE6MTguMDkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RU5WIFdJTERGTFlfQURNSU5fUFdEPXRvdGFsdzFkZQo=</text>
+        <text encoding="base64">ZG9ja2VyIHB1c2ggZG9ja2VyaHViLnR3LmludHJhL25nbXAvZngtd2lsZGZseTpsYXRlc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RU5WIFdJTERGTFlfSE9NRT0kV09SS19ESVIvd2lsZGZseQo=</text>
+        <text encoding="base64">ZG9ja2VyIGJ1aWxkIC4gLWYgLi9kb2NrZXIvd2lsZGZseS9Eb2NrZXJmaWxlIC10IGZ4LXdpbGRmbHkKZG9ja2VyIHRhZyBmeC13aWxkZmx5IGRvY2tlcmh1Yi50dy5pbnRyYS9uZ21wL2Z4LXdpbGRmbHk6bGF0ZXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOICRXSUxERkxZX0hPTUUvYmluL2FkZC11c2VyLnNoIGFkbWluICRXSUxERkxZX0FETUlOX1BXRCAtLXNpbGVudCAK</text>
+        <text encoding="base64">ZG9ja2VyIHRhZyBmeC13aWxkZmx5IGRvY2tlcmh1Yi50dy5pbnRyYS9uZ21wL2Z4LXdpbGRmbHk6MTguMDkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RU5WIFdJTERGTFlfVkVSU0lPTj0xMC4xLjAuRmluYWwK</text>
+        <text encoding="base64">IyBkb2NrZXIgdGFnIGFjdGl2ZW1xIGRvY2tlcmh1Yi50dy5pbnRyYS9uZ21wL2FjdGl2ZW1xOjE4LjA5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RU5WIFdJTERGTFlfQklOQVJZPXdpbGRmbHktJFdJTERGTFlfVkVSU0lPTi50YXIuZ3oK</text>
+        <text encoding="base64">UlVOICAvb3B0L2pib3NzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WIFdPUktfRElSCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ptv.useCloud=true</last-search>
+      <last-search>wildfly</last-search>
       <last-offset />
-      <last-pattern>ptv.useCloud=true</last-pattern>
-      <last-replace>ptv.useCloud=false</last-replace>
-      <last-substitute>ptv.useCloud=true</last-substitute>
+      <last-pattern>wildfly</last-pattern>
+      <last-replace>postgres</last-replace>
+      <last-substitute>wildfly</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>targetPriceCu</entry>
-        <entry>spot</entry>
         <entry>start_date</entry>
         <entry>\cstart_date</entry>
         <entry>coalesce</entry>
@@ -523,6 +532,8 @@
         <entry>ptv</entry>
         <entry>356c1921-2af7-491f-886e-27da30a624cb</entry>
         <entry>ptv.useCloud=true</entry>
+        <entry>activemq</entry>
+        <entry>wildfly</entry>
       </history-search>
       <history-cmd>
         <entry>%s/teleroute.dev.tw.intra/tfx.mkt.dev.alpega.info/g</entry>
@@ -541,6 +552,8 @@
         <entry encoding="base64">JzwsJz5zL2h0dHBzOlwvXC9hamF4bWFwcy1ldS1uLXRlc3QuY2xvdWQucHR2Z3JvdXAuY29tXC9hamF4Ly4uXC8vZw==</entry>
         <entry>%s/356c1921-2af7-491f-886e-27da30a624cb/insert_xtoken_here/g</entry>
         <entry>%s/ptv.useCloud=true/ptv.useCloud=false/g</entry>
+        <entry encoding="base64">JzwsJz5zL2FjdGl2ZW1xL2VsYXN0aWNhY2hlL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3dpbGRmbHkvcG9zdGdyZXMvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
