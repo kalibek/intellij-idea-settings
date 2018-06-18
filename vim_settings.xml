@@ -55,6 +55,9 @@
         <mark key="^" line="37" column="50" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fx/docker/build-images.sh" timestamp="1529323370858">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" timestamp="1529306230440">
         <mark key="^" line="33" column="0" />
       </file>
@@ -65,10 +68,11 @@
         <mark key="." line="354" column="31" />
         <mark key="^" line="354" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1529321824811">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="26" />
+      <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1529323179084">
+        <mark key="[" line="55" column="12" />
+        <mark key="]" line="55" column="13" />
+        <mark key="." line="55" column="13" />
+        <mark key="^" line="55" column="13" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactPhone.java" timestamp="1526293201146">
         <mark key="[" line="48" column="27" />
@@ -446,40 +450,40 @@
         <text>insert_xtoken_here</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICYmIGNkICRXSUxERkxZX0hPTUU=</text>
+        <text encoding="base64">IC1SIGo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIGNkICRXSUxERkxZX0hPTUU=</text>
+        <text encoding="base64">IC1SIGo=</text>
       </register>
       <register name="/" type="4">
         <text>ptv.useCloud=true</text>
       </register>
       <register name="0" type="4">
-        <text>WILDFLY_HOME</text>
+        <text>/opt/jboss</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RU5WIFdPUktfRElSCg==</text>
+        <text encoding="base64">UlVOICAvb3B0L2pib3NzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RU5WIFdJTERGTFlfQklOQVJZPXdpbGRmbHktJFdJTERGTFlfVkVSU0lPTi50YXIuZ3oK</text>
+        <text encoding="base64">RU5WIFdPUktfRElSCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RU5WIFdJTERGTFlfQURNSU5fUFdEPXRvdGFsdzFkZQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">RU5WIFdJTERGTFlfSE9NRT0kV09SS19ESVIvd2lsZGZseQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">UlVOICRXSUxERkxZX0hPTUUvYmluL2FkZC11c2VyLnNoIGFkbWluICRXSUxERkxZX0FETUlOX1BXRCAtLXNpbGVudCAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">RU5WIFdJTERGTFlfVkVSU0lPTj0xMC4xLjAuRmluYWwK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">RU5WIFdJTERGTFlfQklOQVJZPXdpbGRmbHktJFdJTERGTFlfVkVSU0lPTi50YXIuZ3oK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">RU5WIFdJTERGTFlfQURNSU5fUFdEPXRvdGFsdzFkZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">RU5WIFdJTERGTFlfSE9NRT0kV09SS19ESVIvd2lsZGZseQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">UlVOICRXSUxERkxZX0hPTUUvYmluL2FkZC11c2VyLnNoIGFkbWluICRXSUxERkxZX0FETUlOX1BXRCAtLXNpbGVudCAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">RU5WIFdJTERGTFlfVkVSU0lPTj0xMC4xLjAuRmluYWwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WIFdJTERGTFlfQklOQVJZPXdpbGRmbHktJFdJTERGTFlfVkVSU0lPTi50YXIuZ3oK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
