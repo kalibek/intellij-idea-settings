@@ -72,11 +72,12 @@
         <mark key="." line="354" column="31" />
         <mark key="^" line="354" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1529325410876">
-        <mark key="[" line="55" column="19" />
-        <mark key="]" line="55" column="23" />
-        <mark key="." line="55" column="23" />
-        <mark key="^" line="55" column="23" />
+      <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1529327742320">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="56" column="47" />
+        <mark key="]" line="56" column="49" />
+        <mark key="." line="56" column="49" />
+        <mark key="^" line="56" column="49" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactPhone.java" timestamp="1526293201146">
         <mark key="[" line="48" column="27" />
@@ -108,11 +109,11 @@
         <mark key="]" line="21" column="99" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker/activemq/Dockerfile" timestamp="1529319289074">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-        <mark key="^" line="6" column="16" />
+      <file name="$USER_HOME$/projects/fx/docker/activemq/Dockerfile" timestamp="1529327723582">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactEmail.java" timestamp="1526293167616">
         <mark key="[" line="25" column="4" />
@@ -153,6 +154,10 @@
         <mark key="]" line="43" column="16" />
         <mark key="." line="42" column="11" />
         <mark key="^" line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/docker-compose.yml" timestamp="1529327510857">
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="36" column="59" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_sprint.properties" timestamp="1529298716016">
         <mark key="'" line="13" column="0" />
@@ -349,8 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="83" filename="$USER_HOME$/projects/fx/fx-scheduler/src/main/resources/tfx-scheduler-jobs.xml" />
-      <jump line="231" column="5" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/offer_tsvector.ftl" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/offer_tsvector.ftl" />
       <jump line="17" column="16" filename="$USER_HOME$/projects/ptv-test-cloud/src/com/wkts/test/Main.java" />
       <jump line="52" column="4" filename="$USER_HOME$/projects/ptv-test-cloud/src/com/wkts/test/Main.java" />
@@ -449,25 +452,24 @@
       <jump line="15" column="0" filename="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" />
       <jump line="20" column="51" filename="$USER_HOME$/projects/fx/docker/build-images.sh" />
       <jump line="18" column="53" filename="$USER_HOME$/projects/fx/docker/build-images.sh" />
+      <jump line="56" column="4" filename="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>insert_xtoken_here</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">JiYg</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">JiYg</text>
       </register>
       <register name="/" type="4">
         <text>wildfly</text>
       </register>
       <register name="0" type="4">
-        <text># Build Freight Exchange
-docker build . -f ./docker/wildfly/Dockerfile --add-host=artifacts.tw.intra:217.64.242.214 -t fx-wildfly
-docker tag fx-wildfly dockerhub.tw.intra/ngmp/fx-wildfly:latest
-docker push dockerhub.tw.intra/ngmp/fx-wildfly:latest</text>
+        <text>/opt/jboss/wildfly/standalone/log</text>
       </register>
       <register name="1" type="4">
         <text># Build Elasticache
