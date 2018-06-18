@@ -24,6 +24,7 @@
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" timestamp="1529306246857">
         <mark key="^" line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fx/docker/elasticache/Dockerfile" timestamp="1529320490420" />
       <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" timestamp="1529298737683">
         <mark key="'" line="12" column="16" />
         <mark key="[" line="8" column="0" />
@@ -64,12 +65,10 @@
         <mark key="." line="354" column="31" />
         <mark key="^" line="354" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1529319900720">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="52" column="30" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1529321824811">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactPhone.java" timestamp="1526293201146">
         <mark key="[" line="48" column="27" />
@@ -447,43 +446,43 @@
         <text>insert_xtoken_here</text>
       </register>
       <register name="&quot;" type="4">
-        <text>artifacts.tw.intra:217.64.242.214</text>
+        <text encoding="base64">ICYmIGNkICRXSUxERkxZX0hPTUU=</text>
       </register>
       <register name="-" type="4">
-        <text>centos:7</text>
+        <text encoding="base64">ICYmIGNkICRXSUxERkxZX0hPTUU=</text>
       </register>
       <register name="/" type="4">
         <text>ptv.useCloud=true</text>
       </register>
       <register name="0" type="4">
-        <text>artifacts.tw.intra:217.64.242.214</text>
+        <text>WILDFLY_HOME</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RU5WIFdJTERGTFlfVkVSU0lPTj0xMC4xLjAuRmluYWwK</text>
+        <text encoding="base64">RU5WIFdPUktfRElSCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">RU5WIFdJTERGTFlfQklOQVJZPXdpbGRmbHktJFdJTERGTFlfVkVSU0lPTi50YXIuZ3oK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WIFdJTERGTFlfQURNSU5fUFdEPXRvdGFsdzFkZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WIFdJTERGTFlfSE9NRT0kV09SS19ESVIvd2lsZGZseQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG12ICRXT1JLX0RJUi93aWxkZmx5LSRXSUxERkxZX1ZFUlNJT04gJFdJTERGTFlfSE9NRQo=</text>
+        <text encoding="base64">UlVOICRXSUxERkxZX0hPTUUvYmluL2FkZC11c2VyLnNoIGFkbWluICRXSUxERkxZX0FETUlOX1BXRCAtLXNpbGVudCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRhciAtenhmICRESVIvJFdJTERGTFlfQklOQVJZIC1DICRXT1JLX0RJUiAmJiBcCg==</text>
+        <text encoding="base64">RU5WIFdJTERGTFlfVkVSU0lPTj0xMC4xLjAuRmluYWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIGN1cmwgLUMgLSAtbyAkRElSLyRXSUxERkxZX0JJTkFSWSBodHRwOi8vZG93bmxvYWQuamJvc3Mub3JnL3dpbGRmbHkvJFdJTERGTFlfVkVSU0lPTi8kV0lMREZMWV9CSU5BUlkgJiYgXAo=</text>
+        <text encoding="base64">RU5WIFdJTERGTFlfQklOQVJZPXdpbGRmbHktJFdJTERGTFlfVkVSU0lPTi50YXIuZ3oK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHl1bSBjbGVhbiBhbGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHl1bSBpbnN0YWxsIC15IGphdmEtMS44LjAtb3Blbmpkay1oZWFkbGVzcy54ODZfNjQgZm9udGNvbmZpZyAmJiBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
