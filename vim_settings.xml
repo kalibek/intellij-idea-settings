@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-common/src/com/teleroute/top/config/XServiceAddress.java" timestamp="1528870413132">
-        <mark key="[" line="4" column="63" />
-        <mark key="]" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-        <mark key="^" line="5" column="3" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-common/src/com/teleroute/top/config/XServiceAddress.java" timestamp="1529298970465">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="23" />
+        <mark key="." line="15" column="23" />
+        <mark key="^" line="15" column="23" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-common/src/spring-config-common.xml" timestamp="1528870606099">
         <mark key="[" line="6" column="54" />
@@ -15,29 +15,21 @@
         <mark key="^" line="6" column="55" />
         <mark key="." line="6" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" timestamp="1529069065904">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="44" column="17" />
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" timestamp="1529298441429">
+        <mark key="[" line="43" column="11" />
+        <mark key="]" line="43" column="29" />
         <mark key="^" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+        <mark key="." line="43" column="11" />
       </file>
-      <file name="/PtvProxy.java" timestamp="1529065969820">
-        <mark key="[" line="55" column="12" />
-        <mark key="]" line="55" column="32" />
-      </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-common/src/com/teleroute/top/config/XServicesFactory.java" timestamp="1528867329162">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" timestamp="1529051048040">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" timestamp="1529298737683">
+        <mark key="'" line="12" column="16" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="21" column="98" />
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_stage.properties" timestamp="1529051069623">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_stage.properties" timestamp="1529298719851">
+        <mark key="'" line="15" column="44" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="21" column="99" />
         <mark key="." line="8" column="0" />
@@ -49,11 +41,11 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_null.properties" timestamp="1529069072192">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="39" column="17" />
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_null.properties" timestamp="1529298457272">
+        <mark key="[" line="38" column="11" />
+        <mark key="]" line="38" column="29" />
         <mark key="^" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="." line="38" column="11" />
       </file>
       <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1529065976974">
         <mark key="'" line="127" column="51" />
@@ -62,11 +54,11 @@
         <mark key="^" line="66" column="23" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" timestamp="1529069043796">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="35" column="17" />
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" timestamp="1529298413262">
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="34" column="29" />
         <mark key="^" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+        <mark key="." line="34" column="11" />
       </file>
       <file name="$USER_HOME$/projects/fx/pom.xml" timestamp="1529051354711">
         <mark key="'" line="355" column="37" />
@@ -75,10 +67,11 @@
         <mark key="." line="354" column="31" />
         <mark key="^" line="354" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-web/test/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandlerTest.java" timestamp="1528433737904">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1529298312021">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactPhone.java" timestamp="1526293201146">
         <mark key="[" line="48" column="27" />
@@ -98,17 +91,18 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_demo.properties" timestamp="1529051072735">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_demo.properties" timestamp="1529298723684">
+        <mark key="'" line="12" column="16" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="21" column="99" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_prod.properties" timestamp="1529051059480">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_prod.properties" timestamp="1529298708382">
+        <mark key="'" line="14" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="21" column="99" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/wktransportservices/wkts-maps-ui/0.5.0/wkts-maps-ui-0.5.0-sources.jar!/com/wktransportservices/map/server/ptv/PtvProxy.java" timestamp="1529065663943" />
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactEmail.java" timestamp="1526293167616">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="4" />
@@ -141,27 +135,28 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_prod.properties" timestamp="1529069048716">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="44" column="17" />
-        <mark key="^" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_prod.properties" timestamp="1529298386854">
+        <mark key="[" line="43" column="11" />
+        <mark key="]" line="43" column="28" />
+        <mark key="^" line="43" column="28" />
+        <mark key="." line="43" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1529069029074">
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1529298449590">
         <mark key="'" line="83" column="31" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="45" column="16" />
-        <mark key="." line="43" column="13" />
+        <mark key="[" line="44" column="11" />
+        <mark key="]" line="44" column="29" />
+        <mark key="." line="44" column="11" />
         <mark key="^" line="43" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" timestamp="1529069036632">
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" timestamp="1529298401221">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="44" column="17" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="43" column="11" />
+        <mark key="]" line="43" column="28" />
+        <mark key="." line="43" column="11" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_sprint.properties" timestamp="1529051066382">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_sprint.properties" timestamp="1529298716016">
+        <mark key="'" line="13" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="21" column="99" />
         <mark key="." line="8" column="0" />
@@ -178,7 +173,8 @@
         <mark key="^" line="8" column="173" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_prod.properties" timestamp="1529054391908">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_prod.properties" timestamp="1529298741501">
+        <mark key="'" line="12" column="16" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="17" />
         <mark key="." line="8" column="0" />
@@ -189,9 +185,10 @@
         <mark key="^" line="19" column="67" />
         <mark key="." line="19" column="67" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_demo.properties" timestamp="1529051052176">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="21" column="99" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_demo.properties" timestamp="1529298700117">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="16" />
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudHandler.java" timestamp="1528371194483">
@@ -225,13 +222,14 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1529069054289">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="40" column="17" />
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1529298424123">
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="39" column="29" />
         <mark key="^" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+        <mark key="." line="39" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_devsrv.properties" timestamp="1529051082263">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_devsrv.properties" timestamp="1529298731166">
+        <mark key="'" line="13" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="21" column="99" />
         <mark key="^" line="8" column="0" />
@@ -255,21 +253,23 @@
         <mark key="^" line="14" column="81" />
         <mark key="." line="14" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_qa.properties" timestamp="1529051062919">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_qa.properties" timestamp="1529298712000">
+        <mark key="'" line="13" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="21" column="99" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_qa.properties" timestamp="1529051089313">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_qa.properties" timestamp="1529298746520">
+        <mark key="'" line="12" column="16" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="21" column="99" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529069086797">
+      <file name="/Dummy.txt" timestamp="1529299046033">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="30" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="30" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-scheduler/README.md" timestamp="1526634442594">
         <mark key="[" line="69" column="27" />
@@ -296,25 +296,21 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" timestamp="1529069060337">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="40" column="17" />
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" timestamp="1529298432507">
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="39" column="29" />
         <mark key="^" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+        <mark key="." line="39" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/spring-config-handlers.xml" timestamp="1528372783901">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1529058854332">
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1529298328726">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="91" column="80" />
-        <mark key="]" line="91" column="80" />
-        <mark key="^" line="91" column="80" />
-        <mark key="." line="91" column="80" />
+        <mark key="[" line="91" column="62" />
+        <mark key="]" line="91" column="62" />
+        <mark key="^" line="91" column="62" />
+        <mark key="." line="91" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_dev.properties" timestamp="1529051076576">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_dev.properties" timestamp="1529298727769">
+        <mark key="'" line="16" column="32" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="21" column="99" />
         <mark key="." line="8" column="0" />
@@ -325,17 +321,20 @@
         <mark key="." line="58" column="35" />
         <mark key="^" line="58" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_dev.properties" timestamp="1529051055983">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_dev.properties" timestamp="1529298704268">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_stage.properties" timestamp="1529298754099">
+        <mark key="'" line="15" column="35" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="21" column="99" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_stage.properties" timestamp="1529051096334">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="21" column="99" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_sprint.properties" timestamp="1529051092620">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_sprint.properties" timestamp="1529298750117">
+        <mark key="'" line="7" column="43" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="21" column="99" />
         <mark key="." line="8" column="0" />
@@ -353,35 +352,8 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1529059842663">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="53" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_sprint.properties" />
-      <jump line="2" column="13" filename="$USER_HOME$/projects/fx/fx-scheduler/README.md" />
-      <jump line="24" column="0" filename="$USER_HOME$/projects/fx/fx-scheduler/README.md" />
-      <jump line="6" column="23" filename="$USER_HOME$/projects/fx/fx-scheduler/README.md" />
-      <jump line="28" column="2" filename="$USER_HOME$/projects/fx/fx-scheduler/README.md" />
-      <jump line="3" column="11" filename="$USER_HOME$/projects/fx/fx-scheduler/README.md" />
-      <jump line="61" column="13" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" />
-      <jump line="67" column="13" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightOfferServiceImpl.java" />
-      <jump line="44" column="24" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
-      <jump line="64" column="11" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
-      <jump line="130" column="19" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="177" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
-      <jump line="11" column="16" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="580" column="43" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="583" column="71" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="606" column="63" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="607" column="66" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="616" column="46" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="628" column="152" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="28" column="17" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/client/service/SearchService.java" />
-      <jump line="116" column="21" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/entity/transportorder/TransportOrder.java" />
-      <jump line="11" column="13" filename="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/transportorder/TransportOrderDTO.java" />
-      <jump line="318" column="35" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
       <jump line="80" column="31" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
       <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/da748cb2-3d40-42b4-9e8e-bc6451cd7e50/console.sql" />
@@ -454,30 +426,50 @@
       <jump line="414" column="32" filename="$USER_HOME$/projects/fx/pom.xml" />
       <jump line="417" column="56" filename="$USER_HOME$/projects/fx/pom.xml" />
       <jump line="355" column="37" filename="$USER_HOME$/projects/fx/pom.xml" />
-      <jump line="8" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="44" column="0" filename="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/server/ptv/PtvProxy.java" />
       <jump line="127" column="51" filename="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/server/ptv/PtvProxy.java" />
+      <jump line="21" column="98" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_prod.properties" />
+      <jump line="21" column="98" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_qa.properties" />
+      <jump line="21" column="98" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_sprint.properties" />
+      <jump line="21" column="98" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_stage.properties" />
+      <jump line="21" column="98" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_demo.properties" />
+      <jump line="21" column="98" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_dev.properties" />
+      <jump line="11" column="56" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_devsrv.properties" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_qa.properties" />
+      <jump line="12" column="16" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_sprint.properties" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_stage.properties" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_demo.properties" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_dev.properties" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_prod.properties" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_qa.properties" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_sprint.properties" />
+      <jump line="15" column="44" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_stage.properties" />
+      <jump line="12" column="16" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_demo.properties" />
+      <jump line="16" column="32" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_dev.properties" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_devsrv.properties" />
+      <jump line="12" column="16" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" />
+      <jump line="12" column="16" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_prod.properties" />
+      <jump line="12" column="16" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_qa.properties" />
+      <jump line="7" column="43" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_sprint.properties" />
+      <jump line="15" column="35" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_stage.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text encoding="base64">cHR2Lm1hcHMudXJsPWh0dHBzOi8vYWpheG1hcHMtZXUtbi10ZXN0LmNsb3VkLnB0dmdyb3VwLmNvbS9hamF4bWFwcwpwdHYueHRva2VuPTM1NmMxOTIxLTJhZjctNDkxZi04ODZlLTI3ZGEzMGE2MjRjYgo=</text>
+        <text>insert_xtoken_here</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ptv.cloud.maps.url=https://ajaxmaps-eu-n-test.cloud.ptvgroup.com/ajaxmaps
-ptv.xtoken=356c1921-2af7-491f-886e-27da30a624cb
-ptv.useCloud=true</text>
+        <text>ptv.useCloud=true</text>
       </register>
       <register name="-" type="4">
-        <text>XMAP Url cannot be resolved</text>
+        <text>Usage of PTV Cloud in teleroute</text>
       </register>
       <register name="/" type="4">
-        <text>ptv</text>
+        <text>ptv.useCloud=true</text>
       </register>
       <register name="0" type="4">
-        <text>ptv.cloud.maps.url=https://ajaxmaps-eu-n-test.cloud.ptvgroup.com/ajaxmaps
-ptv.xtoken=356c1921-2af7-491f-886e-27da30a624cb
-ptv.useCloud=true</text>
+        <text>ptv.useCloud=true</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFmdGVyICs9ICAK</text>
@@ -509,22 +501,20 @@ ptv.useCloud=true</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/ptv.useCloud=true/ptv.useCloud=false/g</text>
       </register>
     </registers>
     <search>
-      <last-search>ptv</last-search>
+      <last-search>ptv.useCloud=true</last-search>
       <last-offset />
-      <last-pattern>ptv</last-pattern>
-      <last-replace>..\/</last-replace>
-      <last-substitute>https:\/\/ajaxmaps-eu-n-test.cloud.ptvgroup.com\/ajax</last-substitute>
+      <last-pattern>ptv.useCloud=true</last-pattern>
+      <last-replace>ptv.useCloud=false</last-replace>
+      <last-substitute>ptv.useCloud=true</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>post</entry>
-        <entry>targetPrice</entry>
         <entry>targetPriceCu</entry>
         <entry>spot</entry>
         <entry>start_date</entry>
@@ -543,6 +533,8 @@ ptv.useCloud=true</text>
         <entry>6.19</entry>
         <entry>6.16</entry>
         <entry>ptv</entry>
+        <entry>356c1921-2af7-491f-886e-27da30a624cb</entry>
+        <entry>ptv.useCloud=true</entry>
       </history-search>
       <history-cmd>
         <entry>%s/teleroute.dev.tw.intra/tfx.mkt.dev.alpega.info/g</entry>
@@ -560,6 +552,8 @@ ptv.useCloud=true</text>
         <entry encoding="base64">JzwsJz5zL3B1YmxpYy9wcml2YXRlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2h0dHBzOlwvXC9hamF4bWFwcy1ldS1uLXRlc3QuY2xvdWQucHR2Z3JvdXAuY29tXC9hamF4Ly4uXC8vZw==</entry>
         <entry>w</entry>
+        <entry>%s/356c1921-2af7-491f-886e-27da30a624cb/insert_xtoken_here/g</entry>
+        <entry>%s/ptv.useCloud=true/ptv.useCloud=false/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -591,6 +585,12 @@ ptv.useCloud=true</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
