@@ -15,6 +15,12 @@
         <mark key="^" line="6" column="55" />
         <mark key="." line="6" column="55" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-web-lite/readme.md" timestamp="1529299780881">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="34" />
+        <mark key="^" line="6" column="34" />
+        <mark key="." line="6" column="34" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" timestamp="1529298441429">
         <mark key="[" line="43" column="11" />
         <mark key="]" line="43" column="29" />
@@ -302,10 +308,10 @@
         <mark key="^" line="38" column="0" />
         <mark key="." line="39" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1529298328726">
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1529299661587">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="91" column="62" />
-        <mark key="]" line="91" column="62" />
+        <mark key="[" line="91" column="71" />
+        <mark key="]" line="91" column="79" />
         <mark key="^" line="91" column="62" />
         <mark key="." line="91" column="62" />
       </file>
@@ -460,16 +466,16 @@
         <text>insert_xtoken_here</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ptv.useCloud=true</text>
+        <text encoding="base64">aXMgdXNlZCB0byA=</text>
       </register>
       <register name="-" type="4">
-        <text>Usage of PTV Cloud in teleroute</text>
+        <text encoding="base64">aXMgdXNlZCB0byA=</text>
       </register>
       <register name="/" type="4">
         <text>ptv.useCloud=true</text>
       </register>
       <register name="0" type="4">
-        <text>ptv.useCloud=true</text>
+        <text>PTV_TOKEN</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFmdGVyICs9ICAK</text>
