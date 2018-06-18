@@ -179,10 +179,10 @@
         <mark key="^" line="8" column="173" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_prod.properties" timestamp="1529298741501">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_prod.properties" timestamp="1529302887305">
         <mark key="'" line="12" column="16" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="17" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="9" />
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/helper/OfferUserHelper.java" timestamp="1526620458814">
@@ -228,7 +228,7 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1529298424123">
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1529302936447">
         <mark key="[" line="39" column="11" />
         <mark key="]" line="39" column="29" />
         <mark key="^" line="38" column="0" />
@@ -466,7 +466,7 @@
         <text>insert_xtoken_here</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">aW4g</text>
+        <text>url.cloud.</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aW4g</text>
@@ -475,7 +475,7 @@
         <text>ptv.useCloud=true</text>
       </register>
       <register name="0" type="4">
-        <text>referring variable in `environment_*.properties` is `ptv.useCloud`</text>
+        <text>url.cloud.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFmdGVyICs9ICAK</text>
