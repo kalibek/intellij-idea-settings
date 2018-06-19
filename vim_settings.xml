@@ -37,6 +37,12 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1529396128628">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="31" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_stage.properties" timestamp="1529298719851">
         <mark key="'" line="15" column="44" />
         <mark key="[" line="8" column="0" />
@@ -139,9 +145,10 @@
         <mark key="." line="8" column="110" />
         <mark key="^" line="8" column="110" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1529388378248">
-        <mark key="[" line="40" column="8" />
-        <mark key="]" line="40" column="12" />
+      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1529396125962">
+        <mark key="'" line="30" column="15" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="54" />
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="12" />
       </file>
@@ -161,9 +168,11 @@
         <mark key="." line="42" column="11" />
         <mark key="^" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/docker-compose.yml" timestamp="1529327510857">
-        <mark key="[" line="36" column="27" />
-        <mark key="]" line="36" column="59" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/docker-compose.yml" timestamp="1529394300389">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="56" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="12" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_sprint.properties" timestamp="1529298716016">
         <mark key="'" line="13" column="0" />
@@ -236,6 +245,9 @@
         <mark key="'" line="36" column="24" />
         <mark key="^" line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/wildfly/conf/standalone/standalone.xml" timestamp="1529394417180">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_devsrv.properties" timestamp="1529298731166">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="8" column="0" />
@@ -273,12 +285,13 @@
         <mark key="]" line="21" column="99" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529308961416">
-        <mark key="[" line="0" column="17" />
+      <file name="/Dummy.txt" timestamp="1529394927391">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="67" />
         <mark key="^" line="0" column="67" />
         <mark key="." line="0" column="67" />
       </file>
+      <file name="/Dockerfile" timestamp="1529395640608" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-scheduler/README.md" timestamp="1526634442594">
         <mark key="[" line="69" column="27" />
         <mark key="]" line="69" column="27" />
@@ -326,15 +339,24 @@
         <mark key="." line="58" column="35" />
         <mark key="^" line="58" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/fx/build-images.sh" timestamp="1529388918406">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="64" />
+      <file name="$USER_HOME$/projects/fx/build-images.sh" timestamp="1529396005443">
+        <mark key="'" line="29" column="53" />
+        <mark key="[" line="27" column="46" />
+        <mark key="]" line="27" column="46" />
+        <mark key="." line="27" column="46" />
+        <mark key="^" line="26" column="19" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_dev.properties" timestamp="1529298704268">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="13" column="11" />
         <mark key="]" line="13" column="46" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/docker/wildfly/Dockerfile" timestamp="1529395649831">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_stage.properties" timestamp="1529298754099">
         <mark key="'" line="15" column="35" />
@@ -363,13 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/offer_tsvector.ftl" />
-      <jump line="17" column="16" filename="$USER_HOME$/projects/ptv-test-cloud/src/com/wkts/test/Main.java" />
-      <jump line="52" column="4" filename="$USER_HOME$/projects/ptv-test-cloud/src/com/wkts/test/Main.java" />
-      <jump line="101" column="9" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandler.java" />
-      <jump line="107" column="39" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandler.java" />
-      <jump line="15" column="4" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandler.java" />
       <jump line="43" column="9" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandler.java" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandler.java" />
       <jump line="52" column="10" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
@@ -463,72 +478,76 @@
       <jump line="18" column="53" filename="$USER_HOME$/projects/fx/docker/build-images.sh" />
       <jump line="56" column="4" filename="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" />
+      <jump line="3" column="15" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/docker-compose.yml" />
+      <jump line="15" column="31" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/docker-compose.yml" />
+      <jump line="26" column="14" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/wildfly/conf/standalone/standalone.xml" />
+      <jump line="24" column="16" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
+      <jump line="29" column="53" filename="$USER_HOME$/projects/fx/build-images.sh" />
+      <jump line="30" column="15" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>insert_xtoken_here</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>build</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBidWlsZDogLi9kb2NrZXIvYWN0aXZlbXEK</text>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>wildfly</text>
+        <text>amq</text>
       </register>
-      <register name="0" type="4">
-        <text>dockerhub.tw.intra/ngmp/elasticache:latest</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpbWFnZTogZG9ja2VyaHViLnR3LmludHJhL25nbXAvYWN0aXZlbXE6bGF0ZXN0Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBidWlsZDogLi9kb2NrZXIvYWN0aXZlbXEK</text>
+      </register>
+      <register name="2" type="4">
         <text>build:
-            context: ./
-            dockerfile: ./docker/wildfly/Dockerfile</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNob3duIC1SIGpib3NzOmpib3NzIC9vcHQvamJvc3Mvd2lsZGZseS9zdGFuZGFsb25lL2xvZwo=</text>
+          context: ./
+          dockerfile: ./docker/wildfly/Dockerfile
+          args:
+            - ARTIFACTORY_IP=${ARTIFACTORY_IP}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC1wIC9vcHQvamJvc3Mvd2lsZGZseS9zdGFuZGFsb25lL2xvZyAmJiBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text># Build Elasticache
-docker build . -f ./docker/elasticache/Dockerfile -t elasticache
-docker tag elasticache dockerhub.tw.intra/ngmp/elasticache:latest
-docker push dockerhub.tw.intra/ngmp/elasticache:latest</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">I29ubHkgZm9yIHJlbGVhc2UKIyBkb2NrZXIgdGFnIGFjdGl2ZW1xIGRvY2tlcmh1Yi50dy5pbnRyYS9uZ21wL2FjdGl2ZW1xOjE4LjA5CiMgZG9ja2VyIHB1c2ggZG9ja2VyaHViLnR3LmludHJhL25nbXAvYWN0aXZlbXE6MTguMDkK</text>
+      <register name="6" type="2">
+        <text encoding="base64">Q01EIFsiL29wdC9qYm9zcy93aWxkZmx5L2Jpbi9zdGFuZGFsb25lLnNoIiwgIi1iPTAuMC4wLjAiLCAiLWJtYW5hZ2VtZW50PTAuMC4wLjAiLCItLWRlYnVnIl0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZG9ja2VyIHB1c2ggZG9ja2VyaHViLnR3LmludHJhL25nbXAvZngtd2lsZGZseTpsYXRlc3QK</text>
+        <text encoding="base64">IyBjb3B5aW5nIGNvbmYgZmlsZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZG9ja2VyIGJ1aWxkIC4gLWYgLi9kb2NrZXIvd2lsZGZseS9Eb2NrZXJmaWxlIC10IGZ4LXdpbGRmbHkKZG9ja2VyIHRhZyBmeC13aWxkZmx5IGRvY2tlcmh1Yi50dy5pbnRyYS9uZ21wL2Z4LXdpbGRmbHk6bGF0ZXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZG9ja2VyIHRhZyBmeC13aWxkZmx5IGRvY2tlcmh1Yi50dy5pbnRyYS9uZ21wL2Z4LXdpbGRmbHk6MTguMDkK</text>
+        <text encoding="base64">RU5WIFdJTERGTFlfSE9NRT0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>wildfly</last-search>
+      <last-search>amq</last-search>
       <last-offset />
-      <last-pattern>wildfly</last-pattern>
-      <last-replace>postgres</last-replace>
-      <last-substitute>wildfly</last-substitute>
+      <last-pattern>amq</last-pattern>
+      <last-replace>spot</last-replace>
+      <last-substitute>fx</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>start_date</entry>
-        <entry>\cstart_date</entry>
         <entry>coalesce</entry>
         <entry>\cstart</entry>
         <entry>cutoff</entry>
@@ -547,6 +566,8 @@ docker push dockerhub.tw.intra/ngmp/elasticache:latest</text>
         <entry>ptv.useCloud=true</entry>
         <entry>activemq</entry>
         <entry>wildfly</entry>
+        <entry>fx</entry>
+        <entry>amq</entry>
       </history-search>
       <history-cmd>
         <entry>%s/teleroute.dev.tw.intra/tfx.mkt.dev.alpega.info/g</entry>
@@ -567,6 +588,7 @@ docker push dockerhub.tw.intra/ngmp/elasticache:latest</text>
         <entry>%s/ptv.useCloud=true/ptv.useCloud=false/g</entry>
         <entry encoding="base64">JzwsJz5zL2FjdGl2ZW1xL2VsYXN0aWNhY2hlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3dpbGRmbHkvcG9zdGdyZXMvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2Z4L3Nwb3QvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
