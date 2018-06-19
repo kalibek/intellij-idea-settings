@@ -24,7 +24,12 @@
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" timestamp="1529306246857">
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker/elasticache/Dockerfile" timestamp="1529320490420" />
+      <file name="$USER_HOME$/projects/fx/docker/elasticache/Dockerfile" timestamp="1529388988285">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="25" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" timestamp="1529298737683">
         <mark key="'" line="12" column="16" />
         <mark key="[" line="8" column="0" />
@@ -134,9 +139,11 @@
         <mark key="." line="8" column="110" />
         <mark key="^" line="8" column="110" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1529386470027">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="51" />
+      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1529388378248">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="12" />
+        <mark key="." line="40" column="12" />
+        <mark key="^" line="40" column="12" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/activemq/Dockerfile" timestamp="1529325104550">
         <mark key="[" line="14" column="1" />
@@ -319,9 +326,9 @@
         <mark key="." line="58" column="35" />
         <mark key="^" line="58" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/fx/build-images.sh" timestamp="1529386658332">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="37" />
+      <file name="$USER_HOME$/projects/fx/build-images.sh" timestamp="1529388918406">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="64" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_dev.properties" timestamp="1529298704268">
         <mark key="'" line="13" column="0" />
@@ -462,46 +469,48 @@
         <text>insert_xtoken_here</text>
       </register>
       <register name="&quot;" type="4">
-        <text>docker login dockerhub.tw.intra/ngmp</text>
+        <text>build</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>build</text>
       </register>
       <register name="/" type="4">
         <text>wildfly</text>
       </register>
       <register name="0" type="4">
-        <text>docker login dockerhub.tw.intra/ngmp</text>
+        <text>dockerhub.tw.intra/ngmp/elasticache:latest</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNob3duIC1SIGpib3NzOmpib3NzIC9vcHQvamJvc3Mvd2lsZGZseS9zdGFuZGFsb25lL2xvZwo=</text>
+      <register name="1" type="4">
+        <text>build:
+            context: ./
+            dockerfile: ./docker/wildfly/Dockerfile</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGNob3duIC1SIGpib3NzOmpib3NzIC9vcHQvamJvc3Mvd2lsZGZseS9zdGFuZGFsb25lL2xvZwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">UlVOIG1rZGlyIC1wIC9vcHQvamJvc3Mvd2lsZGZseS9zdGFuZGFsb25lL2xvZyAmJiBcCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text># Build Elasticache
 docker build . -f ./docker/elasticache/Dockerfile -t elasticache
 docker tag elasticache dockerhub.tw.intra/ngmp/elasticache:latest
 docker push dockerhub.tw.intra/ngmp/elasticache:latest</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">I29ubHkgZm9yIHJlbGVhc2UKIyBkb2NrZXIgdGFnIGFjdGl2ZW1xIGRvY2tlcmh1Yi50dy5pbnRyYS9uZ21wL2FjdGl2ZW1xOjE4LjA5CiMgZG9ja2VyIHB1c2ggZG9ja2VyaHViLnR3LmludHJhL25nbXAvYWN0aXZlbXE6MTguMDkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZG9ja2VyIHB1c2ggZG9ja2VyaHViLnR3LmludHJhL25nbXAvZngtd2lsZGZseTpsYXRlc3QK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZG9ja2VyIGJ1aWxkIC4gLWYgLi9kb2NrZXIvd2lsZGZseS9Eb2NrZXJmaWxlIC10IGZ4LXdpbGRmbHkKZG9ja2VyIHRhZyBmeC13aWxkZmx5IGRvY2tlcmh1Yi50dy5pbnRyYS9uZ21wL2Z4LXdpbGRmbHk6bGF0ZXN0Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZG9ja2VyIHRhZyBmeC13aWxkZmx5IGRvY2tlcmh1Yi50dy5pbnRyYS9uZ21wL2Z4LXdpbGRmbHk6MTguMDkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBkb2NrZXIgdGFnIGFjdGl2ZW1xIGRvY2tlcmh1Yi50dy5pbnRyYS9uZ21wL2FjdGl2ZW1xOjE4LjA5Cg==</text>
+        <text encoding="base64">ZG9ja2VyIHRhZyBmeC13aWxkZmx5IGRvY2tlcmh1Yi50dy5pbnRyYS9uZ21wL2Z4LXdpbGRmbHk6MTguMDkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
