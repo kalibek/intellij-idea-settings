@@ -249,11 +249,11 @@
         <mark key="^" line="14" column="81" />
         <mark key="." line="14" column="81" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529401198033">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="67" />
-        <mark key="^" line="0" column="67" />
-        <mark key="." line="0" column="67" />
+      <file name="/Dummy.txt" timestamp="1529402439035">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="47" />
+        <mark key="^" line="0" column="47" />
+        <mark key="." line="0" column="47" />
       </file>
       <file name="/Dockerfile" timestamp="1529395640608" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-scheduler/README.md" timestamp="1526634442594">
