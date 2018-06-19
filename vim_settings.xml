@@ -37,17 +37,11 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1529396128628">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1529399094163">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="32" />
         <mark key="." line="42" column="0" />
         <mark key="^" line="31" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_stage.properties" timestamp="1529298719851">
-        <mark key="'" line="15" column="44" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="21" column="99" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-common/src/com/teleroute/top/config/CloudAuthenticator.java" timestamp="1528879733350">
         <mark key="'" line="17" column="12" />
@@ -83,11 +77,11 @@
         <mark key="." line="354" column="31" />
         <mark key="^" line="354" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1529386182137">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1529399652128">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactPhone.java" timestamp="1526293201146">
         <mark key="[" line="48" column="27" />
@@ -107,29 +101,17 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_demo.properties" timestamp="1529298723684">
-        <mark key="'" line="12" column="16" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="21" column="99" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_prod.properties" timestamp="1529298708382">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="21" column="99" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/docker/activemq/Dockerfile" timestamp="1529327723582">
         <mark key="[" line="6" column="2" />
         <mark key="]" line="6" column="3" />
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker/fx/Dockerfile" timestamp="1529397014791">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="6" />
-        <mark key="." line="1" column="6" />
-        <mark key="^" line="1" column="6" />
+      <file name="$USER_HOME$/projects/fx/docker/fx/Dockerfile" timestamp="1529399627306">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactEmail.java" timestamp="1526293167616">
         <mark key="[" line="25" column="4" />
@@ -180,12 +162,6 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_sprint.properties" timestamp="1529298716016">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="21" column="99" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xmap-service-client/src/spring-config-xmap.xml" timestamp="1528879703095">
         <mark key="[" line="6" column="32" />
         <mark key="]" line="6" column="38" />
@@ -198,23 +174,11 @@
         <mark key="^" line="8" column="173" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_prod.properties" timestamp="1529305637332">
-        <mark key="'" line="12" column="16" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="9" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/helper/OfferUserHelper.java" timestamp="1526620458814">
         <mark key="[" line="19" column="56" />
         <mark key="]" line="19" column="67" />
         <mark key="^" line="19" column="67" />
         <mark key="." line="19" column="67" />
-      </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_demo.properties" timestamp="1529298700117">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudHandler.java" timestamp="1528371194483">
         <mark key="[" line="9" column="19" />
@@ -279,18 +243,6 @@
         <mark key="^" line="14" column="81" />
         <mark key="." line="14" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_qa.properties" timestamp="1529298712000">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="21" column="99" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_qa.properties" timestamp="1529298746520">
-        <mark key="'" line="12" column="16" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="21" column="99" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1529394927391">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="67" />
@@ -333,48 +285,24 @@
         <mark key="^" line="91" column="62" />
         <mark key="." line="91" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_dev.properties" timestamp="1529298727769">
-        <mark key="'" line="16" column="32" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="21" column="99" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/BiddableOfferController.java" timestamp="1526374069895">
         <mark key="[" line="58" column="28" />
         <mark key="]" line="58" column="35" />
         <mark key="." line="58" column="35" />
         <mark key="^" line="58" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/fx/build-images.sh" timestamp="1529397047473">
-        <mark key="'" line="34" column="53" />
-        <mark key="[" line="23" column="53" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="0" />
+      <file name="$USER_HOME$/projects/fx/build-images.sh" timestamp="1529399757237">
+        <mark key="'" line="23" column="53" />
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="26" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_dev.properties" timestamp="1529298704268">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="46" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/docker/wildfly/Dockerfile" timestamp="1529397006590">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="64" />
-        <mark key="." line="0" column="29" />
-        <mark key="^" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_stage.properties" timestamp="1529298754099">
-        <mark key="'" line="15" column="35" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="21" column="99" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_sprint.properties" timestamp="1529298750117">
-        <mark key="'" line="7" column="43" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="21" column="99" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/docker/wildfly/Dockerfile" timestamp="1529399236217">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+        <mark key="^" line="1" column="24" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xroute-service-client/src/com/ptvag/xserver/xroute/jwsdp/XRouteAccessImpl.java" timestamp="1528869458325">
         <mark key="'" line="77" column="0" />
@@ -391,8 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVCloudProcessHandler.java" />
-      <jump line="52" column="10" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
       <jump line="59" column="25" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
       <jump line="106" column="23" filename="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/com/ptvag/xserver/xlocate/jwsdp/XLocateAccessImpl.java" />
       <jump line="32" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/com/ptvag/xserver/xlocate/jwsdp/XLocateAccessImpl.java" />
@@ -491,76 +417,67 @@
       <jump line="29" column="53" filename="$USER_HOME$/projects/fx/build-images.sh" />
       <jump line="30" column="15" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
       <jump line="35" column="23" filename="$USER_HOME$/projects/fx/docker/fx/Dockerfile" />
+      <jump line="23" column="53" filename="$USER_HOME$/projects/fx/build-images.sh" />
+      <jump line="44" column="0" filename="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>insert_xtoken_here</text>
       </register>
-      <register name="&quot;" type="4">
-        <text># Build Freight Exchange
-docker build . -f ./docker/wildfly/Dockerfile --add-host=artifacts.tw.intra:217.64.242.214 -t fx-wildfly
-docker tag fx-wildfly dockerhub.tw.intra/ngmp/fx-wildfly:latest
-docker push dockerhub.tw.intra/ngmp/fx-wildfly:latest</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q09QWSBmeC1hcHAtc2VydmVyL3NyYy9tYWluL3Jlc291cmNlcy9iaW4vc3RhbmRhbG9uZS5jb25mICRXSUxERkxZX0hPTUUvYmluL3N0YW5kYWxvbmUuY29uZgo=</text>
       </register>
       <register name="-" type="4">
-        <text>spotbidding</text>
+        <text>wildfly</text>
       </register>
       <register name="/" type="4">
-        <text>amq</text>
+        <text>fx-wildfly</text>
       </register>
-      <register name="0" type="4">
-        <text># Build Freight Exchange
-docker build . -f ./docker/wildfly/Dockerfile --add-host=artifacts.tw.intra:217.64.242.214 -t fx-wildfly
-docker tag fx-wildfly dockerhub.tw.intra/ngmp/fx-wildfly:latest
-docker push dockerhub.tw.intra/ngmp/fx-wildfly:latest</text>
+      <register name="0" type="2">
+        <text encoding="base64">RU5WIFdJTERGTFlfSE9NRT0vb3B0L2pib3NzL3dpbGRmbHkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSBmeC1hcHAtc2VydmVyL3NyYy9tYWluL3Jlc291cmNlcy9iaW4vc3RhbmRhbG9uZS5jb25mICRXSUxERkxZX0hPTUUvYmluL3N0YW5kYWxvbmUuY29uZgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RlJPTSBtYXZlbjozLjUtYWxwaW5lIGFzIGxvYWRlcgoKIyBzaG91bGQgYmUgY2hhbmdlZCBldmVyeXRpbWUgd2UgcmVsZWFzZSBuZXcgdmVyaXNvbgpFTlYgRlhfVkVSU0lPTj0xNy4xMi45NgoKRU5WIERJUj0vdG1wCkVOViBQVFZfVkVSU0lPTj03LjAKRU5WIEhJQkVSTkFURV9WRVJTSU9OPTUuMC4xMC5GaW5hbApFTlYgR0VPTEFUVEVfVkVSU0lPTj0xLjAuNApFTlYgR1RTX1ZFUlNJT049MS4xMwpFTlYgUE9TVEdSRVNRTF9WRVJTSU9OPTQyLjEuNApFTlYgQU1fVkVSU0lPTj01LjE1LjAKRU5WIFdJTERGTFlfSE9NRT0vb3B0L2pib3NzL3dpbGRmbHkKClJVTiBta2RpciAtcCAkV0lMREZMWV9IT01FCgpDT1BZIHNldHRpbmdzLnhtbCAvcm9vdC8ubTIvc2V0dGluZ3MueG1sCgojIGNvcHlpbmcgaGliZXJuYXRlIGRlcHMKUlVOIG12biBkZXBlbmRlbmN5OmNvcHkgLURhcnRpZmFjdD1vcmcuZ2VvbGF0dGU6Z2VvbGF0dGUtZ2VvbTokR0VPTEFUVEVfVkVSU0lPTjpqYXIgLURvdXRwdXREaXJlY3Rvcnk9JFdJTERGTFlfSE9NRS9tb2R1bGVzL3N5c3RlbS9sYXllcnMvYmFzZS9vcmcvaGliZXJuYXRlL21haW4gJiYgXAogICAgbXZuIGRlcGVuZGVuY3k6Y29weSAtRGFydGlmYWN0PW9yZy5oaWJlcm5hdGU6aGliZXJuYXRlLWNvcmU6JEhJQkVSTkFURV9WRVJTSU9OOmphciAtRG91dHB1dERpcmVjdG9yeT0kV0lMREZMWV9IT01FL21vZHVsZXMvc3lzdGVtL2xheWVycy9iYXNlL29yZy9oaWJlcm5hdGUvbWFpbiAmJiBcCiAgICBtdm4gZGVwZW5kZW5jeTpjb3B5IC1EYXJ0aWZhY3Q9b3JnLmhpYmVybmF0ZTpoaWJlcm5hdGUtZW50aXR5bWFuYWdlcjokSElCRVJOQVRFX1ZFUlNJT046amFyIC1Eb3V0cHV0RGlyZWN0b3J5PSRXSUxERkxZX0hPTUUvbW9kdWxlcy9zeXN0ZW0vbGF5ZXJzL2Jhc2Uvb3JnL2hpYmVybmF0ZS9tYWluICYmIFwKICAgIG12biBkZXBlbmRlbmN5OmNvcHkgLURhcnRpZmFjdD1vcmcuaGliZXJuYXRlOmhpYmVybmF0ZS1lbnZlcnM6JEhJQkVSTkFURV9WRVJTSU9OOmphciAtRG91dHB1dERpcmVjdG9yeT0kV0lMREZMWV9IT01FL21vZHVsZXMvc3lzdGVtL2xheWVycy9iYXNlL29yZy9oaWJlcm5hdGUvbWFpbiAmJiBcCiAgICBtdm4gZGVwZW5kZW5jeTpjb3B5IC1EYXJ0aWZhY3Q9b3JnLmhpYmVybmF0ZTpoaWJlcm5hdGUtamF2YTg6JEhJQkVSTkFURV9WRVJTSU9OOmphciAtRG91dHB1dERpcmVjdG9yeT0kV0lMREZMWV9IT01FL21vZHVsZXMvc3lzdGVtL2xheWVycy9iYXNlL29yZy9oaWJlcm5hdGUvbWFpbiAmJiBcCiAgICBtdm4gZGVwZW5kZW5jeTpjb3B5IC1EYXJ0aWZhY3Q9b3JnLmhpYmVybmF0ZTpoaWJlcm5hdGUtc3BhdGlhbDokSElCRVJOQVRFX1ZFUlNJT046amFyIC1Eb3V0cHV0RGlyZWN0b3J5PSRXSUxERkxZX0hPTUUvbW9kdWxlcy9zeXN0ZW0vbGF5ZXJzL2Jhc2Uvb3JnL2hpYmVybmF0ZS9tYWluICYmIFwKICAgIG12biBkZXBlbmRlbmN5OmNvcHkgLURhcnRpZmFjdD1jb20udml2aWRzb2x1dGlvbnM6anRzOiRHVFNfVkVSU0lPTjpqYXIgLURvdXRwdXREaXJlY3Rvcnk9JFdJTERGTFlfSE9NRS9tb2R1bGVzL3N5c3RlbS9sYXllcnMvYmFzZS9vcmcvaGliZXJuYXRlL21haW4gJiYgXAogICAgbXZuIGRlcGVuZGVuY3k6Y29weSAtRGFydGlmYWN0PW9yZy5wb3N0Z3Jlc3FsOnBvc3RncmVzcWw6JFBPU1RHUkVTUUxfVkVSU0lPTjpqYXIgLURvdXRwdXREaXJlY3Rvcnk9JFdJTERGTFlfSE9NRS9tb2R1bGVzL29yZy9wb3N0Z3Jlcy9tYWluICYmIFwKICAgIG12biBkZXBlbmRlbmN5OnVucGFjayAtRGFydGlmYWN0PW9yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtcmFyOiRBTV9WRVJTSU9OOnJhciAtRG91dHB1dERpcmVjdG9yeT0kV0lMREZMWV9IT01FL21vZHVsZXMvb3JnL2FwYWNoZS9hY3RpdmVtcS9yYS9tYWluICYmIFwKICAgIG12biBkZXBlbmRlbmN5OmNvcHkgLURhcnRpZmFjdD1jb20ud2t0cmFuc3BvcnRzZXJ2aWNlcy5meDpmeC13aWxkZmx5LW1vZHVsZTokRlhfVkVSU0lPTjpqYXIgLURvdXRwdXREaXJlY3Rvcnk9JFdJTERGTFlfSE9NRS9tb2R1bGVzL2NvbS93a3RyYW5zcG9ydHNlcnZpY2VzL2Z4L21haW4KCgojIGNvcHlpbmcgYXJ0aWZhY3QKUlVOIG12biBkZXBlbmRlbmN5OmNvcHkgLURhcnRpZmFjdD1jb20ud2t0cmFuc3BvcnRzZXJ2aWNlcy5zaGFyZWQucHR2OnB0di1lYXI6JFBUVl9WRVJTSU9OOmVhciAtRG91dHB1dERpcmVjdG9yeT0kV0lMREZMWV9IT01FL3N0YW5kYWxvbmUvZGVwbG95bWVudHMKCiMgY29weWluZyBjb25mIGZpbGVzCkNPUFkgZngtYXBwLXNlcnZlci9zcmMvbWFpbi9yZXNvdXJjZXMvc3RhbmRhbG9uZS9jb25maWd1cmF0aW9uL3N0YW5kYWxvbmUueG1sICRXSUxERkxZX0hPTUUvc3RhbmRhbG9uZS9jb25maWd1cmF0aW9uL3N0YW5kYWxvbmUueG1sCkNPUFkgZngtYXBwLXNlcnZlci9zcmMvbWFpbi9yZXNvdXJjZXMvc3RhbmRhbG9uZS9jb25maWd1cmF0aW9uL2xvZzRqMi54bWwgJFdJTERGTFlfSE9NRS9zdGFuZGFsb25lL2NvbmZpZ3VyYXRpb24vbG9nNGoyLnhtbApDT1BZIGZ4LWFwcC1zZXJ2ZXIvc3JjL21haW4vcmVzb3VyY2VzL2Jpbi9zdGFuZGFsb25lLmNvbmYgJFdJTERGTFlfSE9NRS9iaW4vc3RhbmRhbG9uZS5jb25mCkNPUFkgZngtYXBwLXNlcnZlci9zcmMvbWFpbi9yZXNvdXJjZXMvbW9kdWxlcy9vcmcvcG9zdGdyZXMvbWFpbi8qICRXSUxERkxZX0hPTUUvbW9kdWxlcy9vcmcvcG9zdGdyZXMvbWFpbgpDT1BZIGZ4LWFwcC1zZXJ2ZXIvc3JjL21haW4vcmVzb3VyY2VzL21vZHVsZXMvc3lzdGVtL2xheWVycy9iYXNlL29yZy9oaWJlcm5hdGUvbWFpbi8qICRXSUxERkxZX0hPTUUvbW9kdWxlcy9zeXN0ZW0vbGF5ZXJzL2Jhc2Uvb3JnL2hpYmVybmF0ZS9tYWluCkNPUFkgZngtYXBwLXNlcnZlci9zcmMvbWFpbi9yZXNvdXJjZXMvbW9kdWxlcy9vcmcvYXBhY2hlL2FjdGl2ZW1xL3JhL21haW4vKiAkV0lMREZMWV9IT01FL21vZHVsZXMvb3JnL2FwYWNoZS9hY3RpdmVtcS9yYS9tYWluCkNPUFkgZngtYXBwLXNlcnZlci9zcmMvbWFpbi9yZXNvdXJjZXMvanByb2ZpbGVyLyAkV0lMREZMWV9IT01FL2pwcm9maWxlcgpDT1BZIGZ4LWFwcC1zZXJ2ZXIvc3JjL21haW4vcmVzb3VyY2VzL21vZHVsZXMvY29tL3drdHJhbnNwb3J0c2VydmljZXMvZngvbWFpbi8qICRXSUxERkxZX0hPTUUvbW9kdWxlcy9jb20vd2t0cmFuc3BvcnRzZXJ2aWNlcy9meC9tYWluCgojIGdldHRpbmcgcmlkIG9mIGZyaWNraW5nIG1hdmVuIG1hZ2ljClJVTiBzZWQgLWkgJ3MvXCR7cHJvamVjdFwudmVyc2lvbn0vJyIke0ZYX1ZFUlNJT059IicvJyAkV0lMREZMWV9IT01FL21vZHVsZXMvY29tL3drdHJhbnNwb3J0c2VydmljZXMvZngvbWFpbi9tb2R1bGUueG1sCgojIENyZWF0ZSBBZG1pbiBVc2VyCgpGUk9NIGpib3NzL3dpbGRmbHk6MTAuMS4wLkZpbmFsCgpFTlYgV0lMREZMWV9BRE1JTl9QV0Q9dG90YWx3MWRlCgpSVU4gL29wdC9qYm9zcy93aWxkZmx5L2Jpbi9hZGQtdXNlci5zaCBhZG1pbiAkV0lMREZMWV9BRE1JTl9QV0QgLS1zaWxlbnQKCkNPUFkgLS1jaG93bj1qYm9zczpqYm9zcyAtLWZyb209bG9hZGVyIC9vcHQvamJvc3MgL29wdC9qYm9zcwoKQ01EIFsiL29wdC9qYm9zcy93aWxkZmx5L2Jpbi9zdGFuZGFsb25lLnNoIiwgIi1iPTAuMC4wLjAiLCAiLWJtYW5hZ2VtZW50PTAuMC4wLjAiXQo=</text>
+        <text encoding="base64">Q09QWSBmeC1hcHAtc2VydmVyL3NyYy9tYWluL3Jlc291cmNlcy9zdGFuZGFsb25lL2NvbmZpZ3VyYXRpb24vbG9nNGoyLnhtbCAkV0lMREZMWV9IT01FL3N0YW5kYWxvbmUvY29uZmlndXJhdGlvbi9sb2c0ajIueG1sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZDogLi9kb2NrZXIvYWN0aXZlbXEK</text>
+        <text encoding="base64">Q09QWSBmeC1hcHAtc2VydmVyL3NyYy9tYWluL3Jlc291cmNlcy9zdGFuZGFsb25lL2NvbmZpZ3VyYXRpb24vc3RhbmRhbG9uZS54bWwgJFdJTERGTFlfSE9NRS9zdGFuZGFsb25lL2NvbmZpZ3VyYXRpb24vc3RhbmRhbG9uZS54bWwK</text>
       </register>
-      <register name="4" type="4">
-        <text>build:
-          context: ./
-          dockerfile: ./docker/wildfly/Dockerfile
-          args:
-            - ARTIFACTORY_IP=${ARTIFACTORY_IP}</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBzaG91bGQgYmUgY2hhbmdlZCBldmVyeXRpbWUgd2UgcmVsZWFzZSBuZXcgdmVyaXNvbgpFTlYgRlhfVkVSU0lPTj0xNy4xMi45Ngo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBnZXR0aW5nIHJpZCBvZiBmcmlja2luZyBtYXZlbiBtYWdpYwpSVU4gc2VkIC1pICdzL1wke3Byb2plY3RcLnZlcnNpb259LyciJHtGWF9WRVJTSU9OfSInLycgJFdJTERGTFlfSE9NRS9tb2R1bGVzL2NvbS93a3RyYW5zcG9ydHNlcnZpY2VzL2Z4L21haW4vbW9kdWxlLnhtbAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q01EIFsiL29wdC9qYm9zcy93aWxkZmx5L2Jpbi9zdGFuZGFsb25lLnNoIiwgIi1iPTAuMC4wLjAiLCAiLWJtYW5hZ2VtZW50PTAuMC4wLjAiLCItLWRlYnVnIl0K</text>
+        <text encoding="base64">RlJPTSBtYXZlbjozLjUtYWxwaW5lIGFzIGxvYWRlcgoKIyBzaG91bGQgYmUgY2hhbmdlZCBldmVyeXRpbWUgd2UgcmVsZWFzZSBuZXcgdmVyaXNvbgpFTlYgRlhfVkVSU0lPTj0xNy4xMi45NgoKRU5WIERJUj0vdG1wCkVOViBQVFZfVkVSU0lPTj03LjAKRU5WIEhJQkVSTkFURV9WRVJTSU9OPTUuMC4xMC5GaW5hbApFTlYgR0VPTEFUVEVfVkVSU0lPTj0xLjAuNApFTlYgR1RTX1ZFUlNJT049MS4xMwpFTlYgUE9TVEdSRVNRTF9WRVJTSU9OPTQyLjEuNApFTlYgQU1fVkVSU0lPTj01LjE1LjAKRU5WIFdJTERGTFlfSE9NRT0vb3B0L2pib3NzL3dpbGRmbHkKClJVTiBta2RpciAtcCAkV0lMREZMWV9IT01FCgpDT1BZIHNldHRpbmdzLnhtbCAvcm9vdC8ubTIvc2V0dGluZ3MueG1sCgojIGNvcHlpbmcgaGliZXJuYXRlIGRlcHMKUlVOIG12biBkZXBlbmRlbmN5OmNvcHkgLURhcnRpZmFjdD1vcmcuZ2VvbGF0dGU6Z2VvbGF0dGUtZ2VvbTokR0VPTEFUVEVfVkVSU0lPTjpqYXIgLURvdXRwdXREaXJlY3Rvcnk9JFdJTERGTFlfSE9NRS9tb2R1bGVzL3N5c3RlbS9sYXllcnMvYmFzZS9vcmcvaGliZXJuYXRlL21haW4gJiYgXAogICAgbXZuIGRlcGVuZGVuY3k6Y29weSAtRGFydGlmYWN0PW9yZy5oaWJlcm5hdGU6aGliZXJuYXRlLWNvcmU6JEhJQkVSTkFURV9WRVJTSU9OOmphciAtRG91dHB1dERpcmVjdG9yeT0kV0lMREZMWV9IT01FL21vZHVsZXMvc3lzdGVtL2xheWVycy9iYXNlL29yZy9oaWJlcm5hdGUvbWFpbiAmJiBcCiAgICBtdm4gZGVwZW5kZW5jeTpjb3B5IC1EYXJ0aWZhY3Q9b3JnLmhpYmVybmF0ZTpoaWJlcm5hdGUtZW50aXR5bWFuYWdlcjokSElCRVJOQVRFX1ZFUlNJT046amFyIC1Eb3V0cHV0RGlyZWN0b3J5PSRXSUxERkxZX0hPTUUvbW9kdWxlcy9zeXN0ZW0vbGF5ZXJzL2Jhc2Uvb3JnL2hpYmVybmF0ZS9tYWluICYmIFwKICAgIG12biBkZXBlbmRlbmN5OmNvcHkgLURhcnRpZmFjdD1vcmcuaGliZXJuYXRlOmhpYmVybmF0ZS1lbnZlcnM6JEhJQkVSTkFURV9WRVJTSU9OOmphciAtRG91dHB1dERpcmVjdG9yeT0kV0lMREZMWV9IT01FL21vZHVsZXMvc3lzdGVtL2xheWVycy9iYXNlL29yZy9oaWJlcm5hdGUvbWFpbiAmJiBcCiAgICBtdm4gZGVwZW5kZW5jeTpjb3B5IC1EYXJ0aWZhY3Q9b3JnLmhpYmVybmF0ZTpoaWJlcm5hdGUtamF2YTg6JEhJQkVSTkFURV9WRVJTSU9OOmphciAtRG91dHB1dERpcmVjdG9yeT0kV0lMREZMWV9IT01FL21vZHVsZXMvc3lzdGVtL2xheWVycy9iYXNlL29yZy9oaWJlcm5hdGUvbWFpbiAmJiBcCiAgICBtdm4gZGVwZW5kZW5jeTpjb3B5IC1EYXJ0aWZhY3Q9b3JnLmhpYmVybmF0ZTpoaWJlcm5hdGUtc3BhdGlhbDokSElCRVJOQVRFX1ZFUlNJT046amFyIC1Eb3V0cHV0RGlyZWN0b3J5PSRXSUxERkxZX0hPTUUvbW9kdWxlcy9zeXN0ZW0vbGF5ZXJzL2Jhc2Uvb3JnL2hpYmVybmF0ZS9tYWluICYmIFwKICAgIG12biBkZXBlbmRlbmN5OmNvcHkgLURhcnRpZmFjdD1jb20udml2aWRzb2x1dGlvbnM6anRzOiRHVFNfVkVSU0lPTjpqYXIgLURvdXRwdXREaXJlY3Rvcnk9JFdJTERGTFlfSE9NRS9tb2R1bGVzL3N5c3RlbS9sYXllcnMvYmFzZS9vcmcvaGliZXJuYXRlL21haW4gJiYgXAogICAgbXZuIGRlcGVuZGVuY3k6Y29weSAtRGFydGlmYWN0PW9yZy5wb3N0Z3Jlc3FsOnBvc3RncmVzcWw6JFBPU1RHUkVTUUxfVkVSU0lPTjpqYXIgLURvdXRwdXREaXJlY3Rvcnk9JFdJTERGTFlfSE9NRS9tb2R1bGVzL29yZy9wb3N0Z3Jlcy9tYWluICYmIFwKICAgIG12biBkZXBlbmRlbmN5OnVucGFjayAtRGFydGlmYWN0PW9yZy5hcGFjaGUuYWN0aXZlbXE6YWN0aXZlbXEtcmFyOiRBTV9WRVJTSU9OOnJhciAtRG91dHB1dERpcmVjdG9yeT0kV0lMREZMWV9IT01FL21vZHVsZXMvb3JnL2FwYWNoZS9hY3RpdmVtcS9yYS9tYWluICYmIFwKICAgIG12biBkZXBlbmRlbmN5OmNvcHkgLURhcnRpZmFjdD1jb20ud2t0cmFuc3BvcnRzZXJ2aWNlcy5meDpmeC13aWxkZmx5LW1vZHVsZTokRlhfVkVSU0lPTjpqYXIgLURvdXRwdXREaXJlY3Rvcnk9JFdJTERGTFlfSE9NRS9tb2R1bGVzL2NvbS93a3RyYW5zcG9ydHNlcnZpY2VzL2Z4L21haW4KCgojIGNvcHlpbmcgYXJ0aWZhY3QKUlVOIG12biBkZXBlbmRlbmN5OmNvcHkgLURhcnRpZmFjdD1jb20ud2t0cmFuc3BvcnRzZXJ2aWNlcy5zaGFyZWQucHR2OnB0di1lYXI6JFBUVl9WRVJTSU9OOmVhciAtRG91dHB1dERpcmVjdG9yeT0kV0lMREZMWV9IT01FL3N0YW5kYWxvbmUvZGVwbG95bWVudHMKCiMgY29weWluZyBjb25mIGZpbGVzCkNPUFkgZngtYXBwLXNlcnZlci9zcmMvbWFpbi9yZXNvdXJjZXMvc3RhbmRhbG9uZS9jb25maWd1cmF0aW9uL3N0YW5kYWxvbmUueG1sICRXSUxERkxZX0hPTUUvc3RhbmRhbG9uZS9jb25maWd1cmF0aW9uL3N0YW5kYWxvbmUueG1sCkNPUFkgZngtYXBwLXNlcnZlci9zcmMvbWFpbi9yZXNvdXJjZXMvc3RhbmRhbG9uZS9jb25maWd1cmF0aW9uL2xvZzRqMi54bWwgJFdJTERGTFlfSE9NRS9zdGFuZGFsb25lL2NvbmZpZ3VyYXRpb24vbG9nNGoyLnhtbApDT1BZIGZ4LWFwcC1zZXJ2ZXIvc3JjL21haW4vcmVzb3VyY2VzL2Jpbi9zdGFuZGFsb25lLmNvbmYgJFdJTERGTFlfSE9NRS9iaW4vc3RhbmRhbG9uZS5jb25mCkNPUFkgZngtYXBwLXNlcnZlci9zcmMvbWFpbi9yZXNvdXJjZXMvbW9kdWxlcy9vcmcvcG9zdGdyZXMvbWFpbi8qICRXSUxERkxZX0hPTUUvbW9kdWxlcy9vcmcvcG9zdGdyZXMvbWFpbgpDT1BZIGZ4LWFwcC1zZXJ2ZXIvc3JjL21haW4vcmVzb3VyY2VzL21vZHVsZXMvc3lzdGVtL2xheWVycy9iYXNlL29yZy9oaWJlcm5hdGUvbWFpbi8qICRXSUxERkxZX0hPTUUvbW9kdWxlcy9zeXN0ZW0vbGF5ZXJzL2Jhc2Uvb3JnL2hpYmVybmF0ZS9tYWluCkNPUFkgZngtYXBwLXNlcnZlci9zcmMvbWFpbi9yZXNvdXJjZXMvbW9kdWxlcy9vcmcvYXBhY2hlL2FjdGl2ZW1xL3JhL21haW4vKiAkV0lMREZMWV9IT01FL21vZHVsZXMvb3JnL2FwYWNoZS9hY3RpdmVtcS9yYS9tYWluCkNPUFkgZngtYXBwLXNlcnZlci9zcmMvbWFpbi9yZXNvdXJjZXMvanByb2ZpbGVyLyAkV0lMREZMWV9IT01FL2pwcm9maWxlcgpDT1BZIGZ4LWFwcC1zZXJ2ZXIvc3JjL21haW4vcmVzb3VyY2VzL21vZHVsZXMvY29tL3drdHJhbnNwb3J0c2VydmljZXMvZngvbWFpbi8qICRXSUxERkxZX0hPTUUvbW9kdWxlcy9jb20vd2t0cmFuc3BvcnRzZXJ2aWNlcy9meC9tYWluCgojIGdldHRpbmcgcmlkIG9mIGZyaWNraW5nIG1hdmVuIG1hZ2ljClJVTiBzZWQgLWkgJ3MvXCR7cHJvamVjdFwudmVyc2lvbn0vJyIke0ZYX1ZFUlNJT059IicvJyAkV0lMREZMWV9IT01FL21vZHVsZXMvY29tL3drdHJhbnNwb3J0c2VydmljZXMvZngvbWFpbi9tb2R1bGUueG1sCgojIENyZWF0ZSBBZG1pbiBVc2VyCgpGUk9NIGpib3NzL3dpbGRmbHk6MTAuMS4wLkZpbmFsCgpFTlYgV0lMREZMWV9BRE1JTl9QV0Q9dG90YWx3MWRlCgpSVU4gL29wdC9qYm9zcy93aWxkZmx5L2Jpbi9hZGQtdXNlci5zaCBhZG1pbiAkV0lMREZMWV9BRE1JTl9QV0QgLS1zaWxlbnQKCkNPUFkgLS1jaG93bj1qYm9zczpqYm9zcyAtLWZyb209bG9hZGVyIC9vcHQvamJvc3MgL29wdC9qYm9zcwoKQ01EIFsiL29wdC9qYm9zcy93aWxkZmx5L2Jpbi9zdGFuZGFsb25lLnNoIiwgIi1iPTAuMC4wLjAiLCAiLWJtYW5hZ2VtZW50PTAuMC4wLjAiXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBjb3B5aW5nIGNvbmYgZmlsZXMK</text>
+        <text encoding="base64">ICAgICAgICBidWlsZDogLi9kb2NrZXIvYWN0aXZlbXEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>amq</last-search>
+      <last-search>fx-wildfly</last-search>
       <last-offset />
-      <last-pattern>amq</last-pattern>
-      <last-replace>spot</last-replace>
-      <last-substitute>fx</last-substitute>
+      <last-pattern>fx-wildfly</last-pattern>
+      <last-replace>wildfly</last-replace>
+      <last-substitute>fx-wildfly</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>coalesce</entry>
         <entry>\cstart</entry>
         <entry>cutoff</entry>
         <entry> </entry>
@@ -580,9 +497,9 @@ docker push dockerhub.tw.intra/ngmp/fx-wildfly:latest</text>
         <entry>wildfly</entry>
         <entry>fx</entry>
         <entry>amq</entry>
+        <entry>fx-wildfly</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/teleroute.dev.tw.intra/tfx.mkt.dev.alpega.info/g</entry>
         <entry encoding="base64">JzwsJz5zL3FhL2Rldi9n</entry>
         <entry encoding="base64">JzwsJz5zL3FhL3NwcmludC9n</entry>
         <entry encoding="base64">JXMvPFwvPi8vZw==</entry>
@@ -601,6 +518,7 @@ docker push dockerhub.tw.intra/ngmp/fx-wildfly:latest</text>
         <entry encoding="base64">JzwsJz5zL2FjdGl2ZW1xL2VsYXN0aWNhY2hlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3dpbGRmbHkvcG9zdGdyZXMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2Z4L3Nwb3QvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2Z4LXdpbGRmbHkvd2lsZGZseS9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
