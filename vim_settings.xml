@@ -72,12 +72,11 @@
         <mark key="." line="354" column="31" />
         <mark key="^" line="354" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1529327742320">
+      <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1529386182137">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="56" column="47" />
-        <mark key="]" line="56" column="49" />
-        <mark key="." line="56" column="49" />
-        <mark key="^" line="56" column="49" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactPhone.java" timestamp="1526293201146">
         <mark key="[" line="48" column="27" />
@@ -135,7 +134,7 @@
         <mark key="." line="8" column="110" />
         <mark key="^" line="8" column="110" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1529320237243">
+      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1529386470027">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="51" />
       </file>
@@ -320,7 +319,10 @@
         <mark key="." line="58" column="35" />
         <mark key="^" line="58" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/fx/build-images.sh" timestamp="1529324735401" />
+      <file name="$USER_HOME$/projects/fx/build-images.sh" timestamp="1529386658332">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_dev.properties" timestamp="1529298704268">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="13" column="11" />
@@ -460,7 +462,7 @@
         <text>insert_xtoken_here</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>docker login dockerhub.tw.intra/ngmp</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JiYg</text>
@@ -469,37 +471,37 @@
         <text>wildfly</text>
       </register>
       <register name="0" type="4">
-        <text>/opt/jboss/wildfly/standalone/log</text>
+        <text>docker login dockerhub.tw.intra/ngmp</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNob3duIC1SIGpib3NzOmpib3NzIC9vcHQvamJvc3Mvd2lsZGZseS9zdGFuZGFsb25lL2xvZwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">UlVOIG1rZGlyIC1wIC9vcHQvamJvc3Mvd2lsZGZseS9zdGFuZGFsb25lL2xvZyAmJiBcCg==</text>
+      </register>
+      <register name="3" type="4">
         <text># Build Elasticache
 docker build . -f ./docker/elasticache/Dockerfile -t elasticache
 docker tag elasticache dockerhub.tw.intra/ngmp/elasticache:latest
 docker push dockerhub.tw.intra/ngmp/elasticache:latest</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">I29ubHkgZm9yIHJlbGVhc2UKIyBkb2NrZXIgdGFnIGFjdGl2ZW1xIGRvY2tlcmh1Yi50dy5pbnRyYS9uZ21wL2FjdGl2ZW1xOjE4LjA5CiMgZG9ja2VyIHB1c2ggZG9ja2VyaHViLnR3LmludHJhL25nbXAvYWN0aXZlbXE6MTguMDkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZG9ja2VyIHB1c2ggZG9ja2VyaHViLnR3LmludHJhL25nbXAvZngtd2lsZGZseTpsYXRlc3QK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZG9ja2VyIGJ1aWxkIC4gLWYgLi9kb2NrZXIvd2lsZGZseS9Eb2NrZXJmaWxlIC10IGZ4LXdpbGRmbHkKZG9ja2VyIHRhZyBmeC13aWxkZmx5IGRvY2tlcmh1Yi50dy5pbnRyYS9uZ21wL2Z4LXdpbGRmbHk6bGF0ZXN0Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZG9ja2VyIHRhZyBmeC13aWxkZmx5IGRvY2tlcmh1Yi50dy5pbnRyYS9uZ21wL2Z4LXdpbGRmbHk6MTguMDkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyBkb2NrZXIgdGFnIGFjdGl2ZW1xIGRvY2tlcmh1Yi50dy5pbnRyYS9uZ21wL2FjdGl2ZW1xOjE4LjA5Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">UlVOICAvb3B0L2pib3NzCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">RU5WIFdPUktfRElSCg==</text>
+        <text encoding="base64">IyBkb2NrZXIgdGFnIGFjdGl2ZW1xIGRvY2tlcmh1Yi50dy5pbnRyYS9uZ21wL2FjdGl2ZW1xOjE4LjA5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
