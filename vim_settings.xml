@@ -161,7 +161,12 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/resources/security/security-common.xml" timestamp="1529467373219" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/736874f3-f550-4a47-a49d-1ac821fcd20f/console.sql" timestamp="1529480373107">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="3" column="8" />
+        <mark key="." line="3" column="8" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" timestamp="1529309623720">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="39" column="67" />
@@ -267,13 +272,12 @@
         <mark key="^" line="14" column="81" />
         <mark key="." line="14" column="81" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529405731559">
+      <file name="/Dummy.txt" timestamp="1529480318358">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="47" />
       </file>
-      <file name="/Dockerfile" timestamp="1529395640608" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-scheduler/README.md" timestamp="1526634442594">
         <mark key="[" line="69" column="27" />
         <mark key="]" line="69" column="27" />
@@ -306,6 +310,7 @@
         <mark key="^" line="91" column="62" />
         <mark key="." line="91" column="62" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_qa.properties" timestamp="1529479866408" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/BiddableOfferController.java" timestamp="1526374069895">
         <mark key="[" line="58" column="28" />
         <mark key="]" line="58" column="35" />
