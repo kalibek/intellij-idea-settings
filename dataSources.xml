@@ -6,5 +6,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5433/sb_data</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="tfx_sprint@localhost" uuid="f09aa4c1-1f0f-4b74-b498-fa39201cff43">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:35432/tfx_sprint</jdbc-url>
+    </data-source>
   </component>
 </application>
