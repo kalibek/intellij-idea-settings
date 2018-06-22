@@ -119,12 +119,12 @@
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1529654406277">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1529655749829">
         <mark key="'" line="227" column="54" />
-        <mark key="[" line="233" column="12" />
-        <mark key="]" line="233" column="13" />
-        <mark key="^" line="233" column="13" />
-        <mark key="." line="233" column="13" />
+        <mark key="[" line="310" column="20" />
+        <mark key="]" line="310" column="20" />
+        <mark key="^" line="310" column="20" />
+        <mark key="." line="310" column="20" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/handler/BiddableExceptionMapper.java" timestamp="1528185883645">
         <mark key="[" line="9" column="9" />
@@ -490,11 +490,11 @@
       <register name="a" type="4">
         <text>insert_xtoken_here</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZUZlZS5zZXRUZXh0KEVNUFRZX1NUUklORyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>serviceFee.getText()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICA=</text>
+        <text>serviceFee.getText()</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
