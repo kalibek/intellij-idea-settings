@@ -89,11 +89,12 @@
         <mark key="." line="354" column="31" />
         <mark key="^" line="354" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1529399652128">
+      <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1529638913590">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="52" column="81" />
+        <mark key="]" line="52" column="91" />
+        <mark key="." line="52" column="91" />
+        <mark key="^" line="52" column="91" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1529400877048">
         <mark key="'" line="165" column="41" />
@@ -173,6 +174,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/docker/postgres/Dockerfile" timestamp="1529639360469">
+        <mark key="[" line="16" column="50" />
+        <mark key="]" line="16" column="53" />
+        <mark key="." line="16" column="53" />
+        <mark key="^" line="16" column="53" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/736874f3-f550-4a47-a49d-1ac821fcd20f/console.sql" timestamp="1529480373107">
         <mark key="[" line="2" column="40" />
@@ -291,7 +298,7 @@
         <mark key="^" line="14" column="81" />
         <mark key="." line="14" column="81" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529638186651">
+      <file name="/Dummy.txt" timestamp="1529639602633">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="^" line="0" column="47" />
@@ -469,10 +476,10 @@
         <text>insert_xtoken_here</text>
       </register>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>110</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>110</text>
       </register>
       <register name="/" type="4">
         <text>a_ser</text>
