@@ -44,12 +44,12 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/pom.xml" timestamp="1529400449076">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.ui.xml" timestamp="1529654292098">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.ui.xml" timestamp="1529660376901">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
         <mark key="^" line="41" column="19" />
-        <mark key="." line="52" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1529638215765">
         <mark key="[" line="31" column="39" />
@@ -119,12 +119,12 @@
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1529655749829">
-        <mark key="'" line="227" column="54" />
-        <mark key="[" line="310" column="20" />
-        <mark key="]" line="310" column="20" />
-        <mark key="^" line="310" column="20" />
-        <mark key="." line="310" column="20" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1529660393636">
+        <mark key="'" line="225" column="54" />
+        <mark key="[" line="283" column="0" />
+        <mark key="]" line="283" column="0" />
+        <mark key="^" line="307" column="20" />
+        <mark key="." line="283" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/handler/BiddableExceptionMapper.java" timestamp="1528185883645">
         <mark key="[" line="9" column="9" />
@@ -490,8 +490,8 @@
       <register name="a" type="4">
         <text>insert_xtoken_here</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>serviceFee.getText()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmZWVUZXJtc0FuZENvbmRpdGlvbnNIZWxwLnNldFZpc2libGUodmlzaWJsZSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>serviceFee.getText()</text>
@@ -503,40 +503,40 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZzpGbG93UGFuZWwgYWRkU3R5bGVOYW1lcz0iY29sIGZlZS1sYWJlbCI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZUZlZS5zZXRUZXh0KEVNUFRZX1NUUklORyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmZWVUZXJtc0FuZENvbmRpdGlvbnNIZWxwLnNldFZpc2libGUodmlzaWJsZSk7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIEBVaUZpZWxkCiAgICBDdXN0b21GbG93UGFuZWwgZmVlVGVybXNBbmRDb25kaXRpb25zSGVscDsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">PGc6Rmxvd1BhbmVsIGFkZFN0eWxlTmFtZXM9ImNvbCBmb3JtLWl0ZW0iPgogICAgICAgICAgICAgICAgICAgIDxjOkN1c3RvbUZsb3dQYW5lbCB1aTpmaWVsZD0iZmVlVGVybXNBbmRDb25kaXRpb25zSGVscCIgYWRkU3R5bGVOYW1lcz0iZmVlLXRlcm1zLWFuZC1jb25kaXRpb25zLWljb24iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnSWQ9InRlcm1zX2FuZF9jb25kaXRpb25zX2hlbHBfaWNvbiIgdGl0bGU9InRlcm1zX2FuZF9jb25kaXRpb25zIi8+CiAgICAgICAgICAgICAgICA8L2c6Rmxvd1BhbmVsPg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZUZlZS5zZXRUZXh0KEVNUFRZX1NUUklORyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VydmljZUZlZS5zZXRUZXh0KFN0cmluZy52YWx1ZU9mKGZlZSkpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>serviceFeeLabel.setVisible(false);
             serviceFee.setVisible(false);
             feeCurrency.setVisible(false);
 
             serviceFee.setText(EMPTY_STRING);</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>serviceFeeLabel.setVisible(true);
 
             serviceFee.setVisible(true);
 
             feeCurrency.setVisible(true);
             feeCurrency.setText(targetCurrency.getName());</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIEBVaUZpZWxkCiAgICBDdXN0b21MYWJlbCBzZXJ2aWNlRmVlTGFiZWw7CiAgICBAVWlGaWVsZAogICAgTWVhc3VyZVVuaXRCb3ggc2VydmljZUZlZTsKICAgIEBVaUZpZWxkCiAgICBDdXN0b21MYWJlbCBmZWVDdXJyZW5jeTs=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGc6Rmxvd1BhbmVsIGFkZFN0eWxlTmFtZXM9ImNvbCBmZWUtbGFiZWwiPgogICAgICAgICAgICAgICAgICAgICAgICA8YzpDdXN0b21MYWJlbCB1aTpmaWVsZD0ic2VydmljZUZlZUxhYmVsIiBpMThuSWQ9InNlcnZpY2VfZmVlIi8+CiAgICAgICAgICAgICAgICAgICAgPC9nOkZsb3dQYW5lbD4KICAgICAgICAgICAgICAgICAgICA8ZzpGbG93UGFuZWwgYWRkU3R5bGVOYW1lcz0iY29sIHF1b3RlLXRleHRib3gtcGFuZWwiPgogICAgICAgICAgICAgICAgICAgICAgICA8YzpNZWFzdXJlVW5pdEJveCB1aTpmaWVsZD0ic2VydmljZUZlZSIgZGVidWdJZD0ic2VydmljZV9mZWUiIG1heExlbmd0aD0iMTEiIG5vdE51bGw9InRydWUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFkZFN0eWxlTmFtZXM9InNlcnZpY2UtZmVlLXRleHRib3ggY3Vyc29yLWRlZmF1bHQiIHJlYWRPbmx5PSJ0cnVlIi8+CiAgICAgICAgICAgICAgICAgICAgPC9nOkZsb3dQYW5lbD4KICAgICAgICAgICAgICAgICAgICA8ZzpGbG93UGFuZWwgYWRkU3R5bGVOYW1lcz0iY29sIGZvcm0taXRlbSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxjOkN1c3RvbUxhYmVsIHVpOmZpZWxkPSJmZWVDdXJyZW5jeSIgZGVidWdJZD0iZmVlX2N1cnJlbmN5IiBhZGRTdHlsZU5hbWVzPSJjdXJyZW5jeS1sYWJlbCIvPgogICAgICAgICAgICAgICAgICAgIDwvZzpGbG93UGFuZWw+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
