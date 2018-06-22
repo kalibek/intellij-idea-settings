@@ -43,10 +43,10 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.ui.xml" timestamp="1529582988837">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1529399094163">
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="29" column="32" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1529638215765">
+        <mark key="[" line="31" column="39" />
+        <mark key="]" line="31" column="39" />
+        <mark key="." line="31" column="39" />
         <mark key="^" line="31" column="12" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/modules/org/postgres/main/module.xml" timestamp="1529400433029">
@@ -161,11 +161,11 @@
         <mark key="." line="8" column="110" />
         <mark key="^" line="8" column="110" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1529396125962">
+      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1529638144673">
         <mark key="'" line="30" column="15" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="54" />
-        <mark key="." line="40" column="12" />
+        <mark key="[" line="29" column="39" />
+        <mark key="]" line="29" column="39" />
+        <mark key="." line="29" column="39" />
         <mark key="^" line="40" column="12" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/activemq/Dockerfile" timestamp="1529325104550">
@@ -291,7 +291,7 @@
         <mark key="^" line="14" column="81" />
         <mark key="." line="14" column="81" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529557181015">
+      <file name="/Dummy.txt" timestamp="1529638186651">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="^" line="0" column="47" />
@@ -468,11 +468,11 @@
       <register name="a" type="4">
         <text>insert_xtoken_here</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXJyaXZhbHNfcmVnaW9ucyA=</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>a_ser</text>
