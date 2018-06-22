@@ -21,12 +21,12 @@
         <mark key="^" line="13" column="44" />
         <mark key="." line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1529648180356">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1529662459772">
         <mark key="'" line="2073" column="24" />
-        <mark key="[" line="2124" column="43" />
-        <mark key="]" line="2124" column="71" />
-        <mark key="^" line="2124" column="71" />
-        <mark key="." line="2124" column="71" />
+        <mark key="[" line="2128" column="59" />
+        <mark key="]" line="2128" column="68" />
+        <mark key="^" line="2128" column="68" />
+        <mark key="." line="2128" column="68" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/elasticache/Dockerfile" timestamp="1529388988285">
         <mark key="[" line="8" column="5" />
@@ -44,12 +44,12 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/pom.xml" timestamp="1529400449076">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.ui.xml" timestamp="1529660376901">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.ui.xml" timestamp="1529662334469">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="41" column="19" />
-        <mark key="." line="60" column="0" />
+        <mark key="[" line="47" column="57" />
+        <mark key="]" line="47" column="73" />
+        <mark key="^" line="40" column="44" />
+        <mark key="." line="40" column="46" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1529638215765">
         <mark key="[" line="31" column="39" />
@@ -119,12 +119,12 @@
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1529660393636">
-        <mark key="'" line="225" column="54" />
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="283" column="0" />
-        <mark key="^" line="307" column="20" />
-        <mark key="." line="283" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1529663406761">
+        <mark key="'" line="223" column="41" />
+        <mark key="[" line="250" column="45" />
+        <mark key="]" line="251" column="47" />
+        <mark key="." line="251" column="47" />
+        <mark key="^" line="251" column="47" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/handler/BiddableExceptionMapper.java" timestamp="1528185883645">
         <mark key="[" line="9" column="9" />
@@ -385,10 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" />
-      <jump line="39" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_null.properties" />
       <jump line="34" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_null.properties" />
       <jump line="352" column="27" filename="$USER_HOME$/projects/fx/pom.xml" />
       <jump line="412" column="56" filename="$USER_HOME$/projects/fx/pom.xml" />
@@ -485,76 +481,69 @@
       <jump line="14" column="64" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="2073" column="24" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="244" column="54" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="189" column="80" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="219" column="33" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="99" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="223" column="41" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>insert_xtoken_here</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmZWVUZXJtc0FuZENvbmRpdGlvbnNIZWxwLnNldFZpc2libGUodmlzaWJsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9uRXVyU2VydmljZUZlZUJhci5zZXRWaXNpYmxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>serviceFee.getText()</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
-        <text>{</text>
+        <text>true</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZzpGbG93UGFuZWwgYWRkU3R5bGVOYW1lcz0iY29sIGZlZS1sYWJlbCI+Cg==</text>
+      <register name="0" type="4">
+        <text>showServiceFeeBar</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmZWVUZXJtc0FuZENvbmRpdGlvbnNIZWxwLnNldFZpc2libGUodmlzaWJsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9uRXVyU2VydmljZUZlZUJhci5zZXRWaXNpYmxlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBVaUZpZWxkCiAgICBDdXN0b21GbG93UGFuZWwgZmVlVGVybXNBbmRDb25kaXRpb25zSGVscDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZVNlcnZpY2VGZWVWYWx1ZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZVNlcnZpY2VGZWVWYWx1ZSgpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PGc6Rmxvd1BhbmVsIGFkZFN0eWxlTmFtZXM9ImNvbCBmb3JtLWl0ZW0iPgogICAgICAgICAgICAgICAgICAgIDxjOkN1c3RvbUZsb3dQYW5lbCB1aTpmaWVsZD0iZmVlVGVybXNBbmRDb25kaXRpb25zSGVscCIgYWRkU3R5bGVOYW1lcz0iZmVlLXRlcm1zLWFuZC1jb25kaXRpb25zLWljb24iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnSWQ9InRlcm1zX2FuZF9jb25kaXRpb25zX2hlbHBfaWNvbiIgdGl0bGU9InRlcm1zX2FuZF9jb25kaXRpb25zIi8+CiAgICAgICAgICAgICAgICA8L2c6Rmxvd1BhbmVsPg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aXRsZT0ic2VydmljZV9mZWVfdG9vbHRpcCIvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZUZlZS5zZXRUZXh0KEVNUFRZX1NUUklORyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmZWVUZXJtc0FuZENvbmRpdGlvbnNIZWxwLnNldFZpc2libGUodmlzaWJsZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZUZlZS5zZXRUZXh0KFN0cmluZy52YWx1ZU9mKGZlZSkpOwo=</text>
+        <text encoding="base64">ICAgIEBVaUZpZWxkCiAgICBDdXN0b21GbG93UGFuZWwgZmVlVGVybXNBbmRDb25kaXRpb25zSGVscDsK</text>
       </register>
-      <register name="7" type="4">
-        <text>serviceFeeLabel.setVisible(false);
-            serviceFee.setVisible(false);
-            feeCurrency.setVisible(false);
-
-            serviceFee.setText(EMPTY_STRING);</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">PGc6Rmxvd1BhbmVsIGFkZFN0eWxlTmFtZXM9ImNvbCBmb3JtLWl0ZW0iPgogICAgICAgICAgICAgICAgICAgIDxjOkN1c3RvbUZsb3dQYW5lbCB1aTpmaWVsZD0iZmVlVGVybXNBbmRDb25kaXRpb25zSGVscCIgYWRkU3R5bGVOYW1lcz0iZmVlLXRlcm1zLWFuZC1jb25kaXRpb25zLWljb24iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnSWQ9InRlcm1zX2FuZF9jb25kaXRpb25zX2hlbHBfaWNvbiIgdGl0bGU9InRlcm1zX2FuZF9jb25kaXRpb25zIi8+CiAgICAgICAgICAgICAgICA8L2c6Rmxvd1BhbmVsPg==</text>
       </register>
-      <register name="9" type="4">
-        <text>serviceFeeLabel.setVisible(true);
-
-            serviceFee.setVisible(true);
-
-            feeCurrency.setVisible(true);
-            feeCurrency.setText(targetCurrency.getName());</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZUZlZS5zZXRUZXh0KEVNUFRZX1NUUklORyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>{</last-search>
+      <last-search>true</last-search>
       <last-offset />
-      <last-pattern>{</last-pattern>
-      <last-replace>wildfly</last-replace>
-      <last-substitute>fx-wildfly</last-substitute>
+      <last-pattern>true</last-pattern>
+      <last-replace>showServiceFeeBar</last-replace>
+      <last-substitute>true</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>local</entry>
-        <entry>public</entry>
         <entry>50010</entry>
         <entry>alter</entry>
         <entry>\calter</entry>
@@ -573,9 +562,10 @@
         <entry>Service Fee</entry>
         <entry>a_ser</entry>
         <entry>{</entry>
+        <entry>\ceur</entry>
+        <entry>true</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3FhL3NwcmludC9n</entry>
         <entry encoding="base64">JXMvPFwvPi8vZw==</entry>
         <entry encoding="base64">JXMvPD4vL2c=</entry>
         <entry encoding="base64">JXMvPD4vLSAvZw==</entry>
@@ -594,6 +584,7 @@
         <entry encoding="base64">JzwsJz5zL2Z4L3Nwb3QvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2Z4LXdpbGRmbHkvd2lsZGZseS9n</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL3RydWUvc2hvd1NlcnZpY2VGZWVCYXIvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
