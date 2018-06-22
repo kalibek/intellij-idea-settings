@@ -44,12 +44,12 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/pom.xml" timestamp="1529400449076">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.ui.xml" timestamp="1529648422222">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.ui.xml" timestamp="1529648984711">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="46" column="93" />
-        <mark key="]" line="47" column="46" />
-        <mark key="^" line="47" column="46" />
-        <mark key="." line="47" column="46" />
+        <mark key="[" line="44" column="64" />
+        <mark key="]" line="44" column="95" />
+        <mark key="^" line="44" column="95" />
+        <mark key="." line="44" column="95" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1529638215765">
         <mark key="[" line="31" column="39" />
@@ -260,6 +260,12 @@
         <mark key="]" line="24" column="18" />
         <mark key="." line="24" column="18" />
         <mark key="^" line="24" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/base.less" timestamp="1529648934750">
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="203" column="21" />
+        <mark key="^" line="203" column="21" />
+        <mark key="." line="203" column="21" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-shared-model/src/com/teleroute/service/XServicesFactory.java" timestamp="1528867072011">
         <mark key="[" line="10" column="8" />
