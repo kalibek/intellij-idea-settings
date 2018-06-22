@@ -119,11 +119,11 @@
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1529644015829">
-        <mark key="[" line="244" column="42" />
-        <mark key="]" line="244" column="61" />
-        <mark key="." line="244" column="42" />
-        <mark key="^" line="244" column="48" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1529646647016">
+        <mark key="[" line="244" column="33" />
+        <mark key="]" line="244" column="38" />
+        <mark key="." line="244" column="38" />
+        <mark key="^" line="244" column="38" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/handler/BiddableExceptionMapper.java" timestamp="1528185883645">
         <mark key="[" line="9" column="9" />
@@ -306,7 +306,7 @@
         <mark key="^" line="14" column="81" />
         <mark key="." line="14" column="81" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529640323148">
+      <file name="/Dummy.txt" timestamp="1529646422149">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="^" line="0" column="47" />
@@ -484,10 +484,10 @@
         <text>insert_xtoken_here</text>
       </register>
       <register name="&quot;" type="4">
-        <text>service</text>
+        <text>Tooltip</text>
       </register>
       <register name="-" type="4">
-        <text>service</text>
+        <text>Tooltip</text>
       </register>
       <register name="/" type="4">
         <text>a_ser</text>
