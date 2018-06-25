@@ -43,12 +43,12 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/pom.xml" timestamp="1529400449076">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.ui.xml" timestamp="1529905817888">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.ui.xml" timestamp="1529910011656">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="49" column="68" />
-        <mark key="." line="50" column="0" />
+        <mark key="[" line="74" column="91" />
+        <mark key="]" line="74" column="114" />
+        <mark key="^" line="74" column="102" />
+        <mark key="." line="74" column="102" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1529638215765">
         <mark key="[" line="31" column="39" />
@@ -118,12 +118,12 @@
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1529904494242">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1529910365690">
         <mark key="'" line="111" column="8" />
-        <mark key="[" line="324" column="90" />
-        <mark key="]" line="324" column="91" />
-        <mark key="." line="324" column="90" />
-        <mark key="^" line="324" column="57" />
+        <mark key="[" line="224" column="49" />
+        <mark key="]" line="224" column="49" />
+        <mark key="." line="224" column="49" />
+        <mark key="^" line="224" column="49" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/handler/BiddableExceptionMapper.java" timestamp="1528185883645">
         <mark key="[" line="9" column="9" />
@@ -180,11 +180,11 @@
         <mark key="." line="29" column="39" />
         <mark key="^" line="40" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/ConfirmationBody.ui.xml" timestamp="1529905637618">
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="10" column="64" />
-        <mark key="." line="10" column="64" />
-        <mark key="^" line="10" column="64" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/ConfirmationBody.ui.xml" timestamp="1529912058420">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+        <mark key="^" line="6" column="39" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/activemq/Dockerfile" timestamp="1529325104550">
         <mark key="[" line="14" column="1" />
@@ -311,10 +311,12 @@
         <mark key="^" line="14" column="81" />
         <mark key="." line="14" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/requested-calloff.less" timestamp="1529906348521">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/requested-calloff.less" timestamp="1529910763300">
+        <mark key="'" line="154" column="17" />
+        <mark key="[" line="156" column="15" />
+        <mark key="]" line="156" column="19" />
+        <mark key="." line="156" column="19" />
+        <mark key="^" line="156" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1529646422149">
         <mark key="[" line="0" column="0" />
@@ -406,10 +408,10 @@
       <file name="/fragment.java" timestamp="1529903871408">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/ConfirmationBody.java" timestamp="1529905123631">
-        <mark key="[" line="23" column="51" />
-        <mark key="]" line="23" column="53" />
-        <mark key="." line="23" column="51" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/ConfirmationBody.java" timestamp="1529911587949">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
         <mark key="^" line="23" column="17" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/target/SpotBidding.css" timestamp="1529905462621">
@@ -418,7 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="28" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="256" column="58" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="257" column="42" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="259" column="60" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
@@ -518,45 +519,37 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="111" column="8" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="90" column="13" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/PopupPanel.java" />
+      <jump line="154" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/requested-calloff.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>insert_xtoken_here</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9nOkxhYmVsPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>fee-terms-and-conditions</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>setWidget</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGc6Rmxvd1BhbmVsIGFkZFN0eWxlTmFtZXM9ImNvbCBmb3JtLWl0ZW0iPgogICAgICAgICAgICAgICAgICAgIDxjOkN1c3RvbUZsb3dQYW5lbCB1aTpmaWVsZD0iZmVlVGVybXNBbmRDb25kaXRpb25zSGVscCIgYWRkU3R5bGVOYW1lcz0idG9vbHRpcC1pY29uIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWJ1Z0lkPSJ0ZXJtc19hbmRfY29uZGl0aW9uc19oZWxwX2ljb24iIHRpdGxlPSJ0ZXJtc19hbmRfY29uZGl0aW9ucyIvPgogICAgICAgICAgICAgICAgPC9nOkZsb3dQYW5lbD4=</text>
+        <text>service-fee-tooltip-icon</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9nOkxhYmVsPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZzpGbG93UGFuZWw+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci50b29sdGlwLWljb24gewogIGJhY2tncm91bmQ6IHVybCgnLi4vaW1hZ2VzL2hlbHBfaWNvbi5wbmcnKSBuby1yZXBlYXQ7CiAgd2lkdGg6IDIwcHg7CiAgaGVpZ2h0OiAyMHB4OwogIG1hcmdpbi1sZWZ0OiAxMHB4OwogIG1hcmdpbi10b3A6IDZweAp9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2c6Rmxvd1BhbmVsPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBtYXJnaW4tdG9wOiA2cHgK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">PGc6Rmxvd1BhbmVsIGFkZFN0eWxlTmFtZXM9ImNvbCBmb3JtLWl0ZW0iPgogICAgICAgICAgICAgICAgICAgIDxjOkN1c3RvbUZsb3dQYW5lbCB1aTpmaWVsZD0iZmVlVGVybXNBbmRDb25kaXRpb25zSGVscCIgYWRkU3R5bGVOYW1lcz0idG9vbHRpcC1pY29uIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWJ1Z0lkPSJ0ZXJtc19hbmRfY29uZGl0aW9uc19oZWxwX2ljb24iIHRpdGxlPSJ0ZXJtc19hbmRfY29uZGl0aW9ucyIvPgogICAgICAgICAgICAgICAgPC9nOkZsb3dQYW5lbD4=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
+      <register name="5" type="4">
         <text>.tooltip-icon {
   background: url('../images/help_icon.png') no-repeat;
   width: 20px;
@@ -565,10 +558,17 @@
   margin-top: 6px
 }</text>
       </register>
-      <register name="9" type="4">
-        <text>.service-fee-alert {
-  color: @color-error;
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ci50b29sdGlwLWljb24gewogIGJhY2tncm91bmQ6IHVybCgnLi4vaW1hZ2VzL2hlbHBfaWNvbi5wbmcnKSBuby1yZXBlYXQ7CiAgd2lkdGg6IDIwcHg7CiAgaGVpZ2h0OiAyMHB4OwogIG1hcmdpbi1sZWZ0OiAxMHB4OwogIG1hcmdpbi10b3A6IDZweAp9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
