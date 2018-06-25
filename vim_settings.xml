@@ -27,6 +27,9 @@
         <mark key="]" line="2138" column="0" />
         <mark key="." line="2138" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1529914705140">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/docker/elasticache/Dockerfile" timestamp="1529388988285">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="25" />
@@ -118,12 +121,12 @@
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1529910365690">
-        <mark key="'" line="111" column="8" />
-        <mark key="[" line="224" column="49" />
-        <mark key="]" line="224" column="49" />
-        <mark key="." line="224" column="49" />
-        <mark key="^" line="224" column="49" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1529914725258">
+        <mark key="'" line="285" column="39" />
+        <mark key="[" line="328" column="79" />
+        <mark key="]" line="328" column="94" />
+        <mark key="." line="328" column="94" />
+        <mark key="^" line="328" column="94" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/handler/BiddableExceptionMapper.java" timestamp="1528185883645">
         <mark key="[" line="9" column="9" />
@@ -420,7 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="58" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="257" column="42" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="259" column="60" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="260" column="49" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
@@ -520,19 +522,20 @@
       <jump line="111" column="8" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="90" column="13" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/PopupPanel.java" />
       <jump line="154" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/requested-calloff.less" />
+      <jump line="285" column="39" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>insert_xtoken_here</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9nOkxhYmVsPgo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;some text&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>&quot;some text&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>setWidget</text>
+        <text>some</text>
       </register>
       <register name="0" type="4">
         <text>dialog-tooltip-text</text>
@@ -575,9 +578,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setWidget</last-search>
+      <last-search>some</last-search>
       <last-offset />
-      <last-pattern>setWidget</last-pattern>
+      <last-pattern>some</last-pattern>
       <last-replace>isEuroCurrency</last-replace>
       <last-substitute>showEurServiceFeeBar</last-substitute>
       <last-dir>1</last-dir>
@@ -585,7 +588,6 @@
     </search>
     <history>
       <history-search>
-        <entry>true</entry>
         <entry>targetPrive</entry>
         <entry>target</entry>
         <entry>Close</entry>
@@ -605,6 +607,7 @@
         <entry>fee</entry>
         <entry>createAn</entry>
         <entry>setWidget</entry>
+        <entry>some</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPD4vLSAvZw==</entry>
