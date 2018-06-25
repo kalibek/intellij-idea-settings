@@ -180,11 +180,11 @@
         <mark key="." line="29" column="39" />
         <mark key="^" line="40" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/ConfirmationBody.ui.xml" timestamp="1529913028772">
-        <mark key="[" line="8" column="73" />
-        <mark key="]" line="6" column="39" />
-        <mark key="." line="6" column="39" />
-        <mark key="^" line="6" column="39" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/ConfirmationBody.ui.xml" timestamp="1529913630169">
+        <mark key="[" line="6" column="75" />
+        <mark key="]" line="6" column="76" />
+        <mark key="." line="6" column="76" />
+        <mark key="^" line="6" column="76" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/activemq/Dockerfile" timestamp="1529325104550">
         <mark key="[" line="14" column="1" />
@@ -311,12 +311,12 @@
         <mark key="^" line="14" column="81" />
         <mark key="." line="14" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/requested-calloff.less" timestamp="1529910763300">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/requested-calloff.less" timestamp="1529913356448">
         <mark key="'" line="154" column="17" />
-        <mark key="[" line="156" column="15" />
-        <mark key="]" line="156" column="19" />
-        <mark key="." line="156" column="19" />
-        <mark key="^" line="156" column="19" />
+        <mark key="[" line="160" column="1" />
+        <mark key="]" line="160" column="19" />
+        <mark key="." line="161" column="17" />
+        <mark key="^" line="161" column="17" />
       </file>
       <file name="/Dummy.txt" timestamp="1529646422149">
         <mark key="[" line="0" column="0" />
@@ -525,8 +525,8 @@
       <register name="a" type="4">
         <text>insert_xtoken_here</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9nOkxhYmVsPgo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -535,21 +535,24 @@
         <text>setWidget</text>
       </register>
       <register name="0" type="4">
-        <text>service-fee-tooltip-icon</text>
+        <text>dialog-tooltip-text</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPC9nOkxhYmVsPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZzpGbG93UGFuZWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9nOkxhYmVsPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L2c6Rmxvd1BhbmVsPgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZzpGbG93UGFuZWw+Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8L2c6Rmxvd1BhbmVsPgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICBtYXJnaW4tdG9wOiA2cHgK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>.tooltip-icon {
   background: url('../images/help_icon.png') no-repeat;
   width: 20px;
@@ -558,17 +561,14 @@
   margin-top: 6px
 }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci50b29sdGlwLWljb24gewogIGJhY2tncm91bmQ6IHVybCgnLi4vaW1hZ2VzL2hlbHBfaWNvbi5wbmcnKSBuby1yZXBlYXQ7CiAgd2lkdGg6IDIwcHg7CiAgaGVpZ2h0OiAyMHB4OwogIG1hcmdpbi1sZWZ0OiAxMHB4OwogIG1hcmdpbi10b3A6IDZweAp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Ci50b29sdGlwLWljb24gewogIGJhY2tncm91bmQ6IHVybCgnLi4vaW1hZ2VzL2hlbHBfaWNvbi5wbmcnKSBuby1yZXBlYXQ7CiAgd2lkdGg6IDIwcHg7CiAgaGVpZ2h0OiAyMHB4OwogIG1hcmdpbi1sZWZ0OiAxMHB4OwogIG1hcmdpbi10b3A6IDZweAp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
