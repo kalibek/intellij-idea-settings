@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-common/src/com/teleroute/top/config/XServiceAddress.java" timestamp="1529298970465">
@@ -21,12 +21,11 @@
         <mark key="^" line="13" column="44" />
         <mark key="." line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1529668660059">
-        <mark key="'" line="2144" column="20" />
-        <mark key="[" line="2142" column="21" />
-        <mark key="]" line="2142" column="22" />
-        <mark key="^" line="2142" column="3" />
-        <mark key="." line="2142" column="22" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1529903520400">
+        <mark key="'" line="968" column="11" />
+        <mark key="[" line="2138" column="0" />
+        <mark key="]" line="2138" column="0" />
+        <mark key="." line="2138" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/elasticache/Dockerfile" timestamp="1529388988285">
         <mark key="[" line="8" column="5" />
@@ -44,12 +43,12 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/pom.xml" timestamp="1529400449076">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.ui.xml" timestamp="1529662334469">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.ui.xml" timestamp="1529905817888">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="47" column="57" />
-        <mark key="]" line="47" column="73" />
-        <mark key="^" line="40" column="44" />
-        <mark key="." line="40" column="46" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="49" column="68" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1529638215765">
         <mark key="[" line="31" column="39" />
@@ -99,6 +98,11 @@
         <mark key="." line="52" column="91" />
         <mark key="^" line="52" column="91" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/ConfirmationDialog.java" timestamp="1529903076500">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1529400877048">
         <mark key="'" line="165" column="41" />
       </file>
@@ -114,18 +118,21 @@
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1529901702650">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="108" column="12" />
-        <mark key="]" line="108" column="19" />
-        <mark key="." line="108" column="19" />
-        <mark key="^" line="108" column="19" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1529904494242">
+        <mark key="'" line="111" column="8" />
+        <mark key="[" line="324" column="90" />
+        <mark key="]" line="324" column="91" />
+        <mark key="." line="324" column="90" />
+        <mark key="^" line="324" column="57" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/handler/BiddableExceptionMapper.java" timestamp="1528185883645">
         <mark key="[" line="9" column="9" />
         <mark key="]" line="9" column="11" />
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/PopupPanel.java" timestamp="1529905065147">
+        <mark key="'" line="90" column="13" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/activemq/Dockerfile" timestamp="1529327723582">
         <mark key="[" line="6" column="2" />
@@ -172,6 +179,12 @@
         <mark key="]" line="29" column="39" />
         <mark key="." line="29" column="39" />
         <mark key="^" line="40" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/ConfirmationBody.ui.xml" timestamp="1529905637618">
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="10" column="64" />
+        <mark key="." line="10" column="64" />
+        <mark key="^" line="10" column="64" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/activemq/Dockerfile" timestamp="1529325104550">
         <mark key="[" line="14" column="1" />
@@ -247,21 +260,17 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.06/V201805111001_18_06__FX_10332_add_notification_type.sql" timestamp="1529465110546">
-        <mark key="[" line="27" column="24" />
-        <mark key="]" line="27" column="49" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/.gitignore" timestamp="1529405643680">
         <mark key="[" line="24" column="17" />
         <mark key="]" line="24" column="18" />
         <mark key="." line="24" column="18" />
         <mark key="^" line="24" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/base.less" timestamp="1529648934750">
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="203" column="21" />
-        <mark key="^" line="203" column="21" />
-        <mark key="." line="203" column="21" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/base.less" timestamp="1529905705614">
+        <mark key="[" line="200" column="1" />
+        <mark key="]" line="201" column="0" />
+        <mark key="." line="201" column="0" />
+        <mark key="^" line="201" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-shared-model/src/com/teleroute/service/XServicesFactory.java" timestamp="1528867072011">
         <mark key="[" line="10" column="8" />
@@ -302,6 +311,12 @@
         <mark key="]" line="14" column="81" />
         <mark key="^" line="14" column="81" />
         <mark key="." line="14" column="81" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/requested-calloff.less" timestamp="1529905710424">
+        <mark key="[" line="139" column="1" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+        <mark key="^" line="140" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1529646422149">
         <mark key="[" line="0" column="0" />
@@ -390,39 +405,21 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="28" />
       </file>
+      <file name="/fragment.java" timestamp="1529903871408">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/ConfirmationBody.java" timestamp="1529905123631">
+        <mark key="[" line="23" column="51" />
+        <mark key="]" line="23" column="53" />
+        <mark key="." line="23" column="51" />
+        <mark key="^" line="23" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/target/SpotBidding.css" timestamp="1529905462621">
+        <mark key="[" line="0" column="23670" />
+        <mark key="]" line="0" column="23698" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="28" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" />
-      <jump line="43" column="28" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" />
-      <jump line="44" column="28" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
-      <jump line="38" column="28" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_null.properties" />
-      <jump line="7" column="31" filename="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" />
-      <jump line="15" column="0" filename="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" />
-      <jump line="20" column="51" filename="$USER_HOME$/projects/fx/docker/build-images.sh" />
-      <jump line="18" column="53" filename="$USER_HOME$/projects/fx/docker/build-images.sh" />
-      <jump line="56" column="4" filename="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" />
-      <jump line="3" column="15" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/docker-compose.yml" />
-      <jump line="15" column="31" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/docker-compose.yml" />
-      <jump line="26" column="14" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/docker-compose.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/wildfly/conf/standalone/standalone.xml" />
-      <jump line="24" column="16" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
-      <jump line="29" column="53" filename="$USER_HOME$/projects/fx/build-images.sh" />
-      <jump line="30" column="15" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
-      <jump line="35" column="23" filename="$USER_HOME$/projects/fx/docker/fx/Dockerfile" />
-      <jump line="23" column="53" filename="$USER_HOME$/projects/fx/build-images.sh" />
-      <jump line="44" column="0" filename="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="166" column="28" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="178" column="111" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="179" column="28" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="203" column="36" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="205" column="28" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="218" column="101" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="220" column="101" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="221" column="93" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="232" column="36" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="234" column="28" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="256" column="58" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="257" column="42" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
@@ -450,17 +447,11 @@
       <jump line="219" column="33" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="99" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="223" column="41" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="330" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="184" column="74" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="209" column="26" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="212" column="49" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="217" column="43" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="182" column="22" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="183" column="30" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="2135" column="36" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="780" column="26" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="967" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="968" column="11" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="974" column="46" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="975" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="976" column="19" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
@@ -474,8 +465,6 @@
       <jump line="1464" column="28" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="1483" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="1484" column="11" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="779" column="32" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="157" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="161" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="786" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
@@ -483,97 +472,149 @@
       <jump line="1642" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="1690" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="1734" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="2144" column="20" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="116" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="225" column="49" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="57" column="16" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="59" column="20" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="221" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="380" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="247" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="224" column="72" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="250" column="8" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="330" column="16" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="181" column="59" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="333" column="30" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="180" column="8" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="110" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="379" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="182" column="59" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="836" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="838" column="46" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="839" column="23" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="840" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="834" column="98" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="835" column="23" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="324" column="27" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="360" column="19" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="17" column="34" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="1274" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="2145" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="265" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="267" column="29" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="359" column="62" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="183" column="58" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="269" column="23" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="270" column="19" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="271" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="1798" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="2143" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="2144" column="11" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="779" column="32" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="780" column="26" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="967" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="968" column="11" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="195" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="220" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="221" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="214" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="111" column="8" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="90" column="13" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/PopupPanel.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>insert_xtoken_here</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>targetCurrency</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>targetCurrency</text>
+        <text>fee-terms-and-conditions</text>
       </register>
       <register name="/" type="4">
-        <text>targetCurrency</text>
+        <text>setWidget</text>
       </register>
       <register name="0" type="4">
-        <text>ConfirmationDialog</text>
+        <text encoding="base64">PGc6Rmxvd1BhbmVsIGFkZFN0eWxlTmFtZXM9ImNvbCBmb3JtLWl0ZW0iPgogICAgICAgICAgICAgICAgICAgIDxjOkN1c3RvbUZsb3dQYW5lbCB1aTpmaWVsZD0iZmVlVGVybXNBbmRDb25kaXRpb25zSGVscCIgYWRkU3R5bGVOYW1lcz0idG9vbHRpcC1pY29uIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWJ1Z0lkPSJ0ZXJtc19hbmRfY29uZGl0aW9uc19oZWxwX2ljb24iIHRpdGxlPSJ0ZXJtc19hbmRfY29uZGl0aW9ucyIvPgogICAgICAgICAgICAgICAgPC9nOkZsb3dQYW5lbD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYodGFyZ2V0Q3VycmVuY3kuZ2V0VmFsdWUoKSA9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm9uRXVyU2VydmljZUZlZUJhci5zZXRWaXNpYmxlKHRydWUpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">PGc6Rmxvd1BhbmVsIGFkZFN0eWxlTmFtZXM9ImNvbCBmb3JtLWl0ZW0iPgogICAgICAgICAgICAgICAgICAgIDxjOkN1c3RvbUZsb3dQYW5lbCB1aTpmaWVsZD0iZmVlVGVybXNBbmRDb25kaXRpb25zSGVscCIgYWRkU3R5bGVOYW1lcz0idG9vbHRpcC1pY29uIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWJ1Z0lkPSJ0ZXJtc19hbmRfY29uZGl0aW9uc19oZWxwX2ljb24iIHRpdGxlPSJ0ZXJtc19hbmRfY29uZGl0aW9ucyIvPgogICAgICAgICAgICAgICAgPC9nOkZsb3dQYW5lbD4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm9uRXVyU2VydmljZUZlZUJhci5zZXRWaXNpYmxlKGZhbHNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm9uRXVyU2VydmljZUZlZUJhci5zZXRWaXNpYmxlKHRydWUpOwo=</text>
+      <register name="5" type="4">
+        <text>.tooltip-icon {
+  background: url('../images/help_icon.png') no-repeat;
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+  margin-top: 6px
+}</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text>.service-fee-alert {
+  color: @color-error;
+}</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">cHJpdmF0ZSBib29sZWFuIGNvbmZpcm1hdGlvbkRpYWxvZyhTdHJpbmcgbWVzc2FnZSkgewogICAgICAgIENvbmZpcm1hdGlvbkRpYWxvZyBkaWFsb2cgPSBuZXcgQ29uZmlybWF0aW9uRGlhbG9nKCk7CiAgICAgICAgZGlhbG9nLnNldERpYWxvZ01lc3NhZ2UobWVzc2FnZSk7CiAgICAgICAgZGlhbG9nLnNob3coKTsKICAgICAgICBkaWFsb2cuc2V0Q29uZmlybWF0aW9uQ29tbWFuZCgoKSAtPiApOwogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0=</text>
+        <text>.fee-terms-and-conditions-icon {
+    background: url('../images/help_icon.png') no-repeat;
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    margin-top: 6px
+  }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBhY2NlcHQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBNZXNzYWdlS2V5KCJhY2NlcHQiKQo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgQ29uZmlybWF0aW9uQm9keShTdHJpbmcgbWVzc2FnZVRleHQsIFN0cmluZyB0b29sVGlwVGV4dCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>targetCurrency</last-search>
+      <last-search>setWidget</last-search>
       <last-offset />
-      <last-pattern>targetCurrency</last-pattern>
-      <last-replace>cancel</last-replace>
-      <last-substitute>accept</last-substitute>
+      <last-pattern>setWidget</last-pattern>
+      <last-replace>isEuroCurrency</last-replace>
+      <last-substitute>showEurServiceFeeBar</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>activemq</entry>
-        <entry>wildfly</entry>
-        <entry>fx</entry>
-        <entry>amq</entry>
-        <entry>fx-wildfly</entry>
-        <entry>postgres</entry>
-        <entry>Service Fee</entry>
-        <entry>a_ser</entry>
-        <entry>{</entry>
-        <entry>\ceur</entry>
         <entry>true</entry>
         <entry>targetPrive</entry>
         <entry>target</entry>
-        <entry>cancel</entry>
         <entry>Close</entry>
         <entry>accept</entry>
-        <entry>EUR</entry>
         <entry>feee</entry>
-        <entry>fee</entry>
+        <entry>showEurServiceFeeBar</entry>
         <entry>targetCurrency</entry>
+        <entry>isEu</entry>
+        <entry>EUR</entry>
+        <entry>Submit</entry>
+        <entry>submit</entry>
+        <entry>Accept quote</entry>
+        <entry>window</entry>
+        <entry>Window</entry>
+        <entry>ok</entry>
+        <entry>cancel</entry>
+        <entry>fee</entry>
+        <entry>createAn</entry>
+        <entry>setWidget</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvPD4vL2c=</entry>
         <entry encoding="base64">JXMvPD4vLSAvZw==</entry>
         <entry encoding="base64">JzwsJz5zLy0gKFthLXpcLV0rKS8tIFtcMV0oXDEpL2c=</entry>
         <entry>%s/Description/Schedule/g</entry>
@@ -592,6 +633,7 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL3RydWUvc2hvd1NlcnZpY2VGZWVCYXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2FjY2VwdC9jYW5jZWwvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3Nob3dFdXJTZXJ2aWNlRmVlQmFyL2lzRXVyb0N1cnJlbmN5L2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -630,6 +672,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
