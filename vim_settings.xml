@@ -214,6 +214,12 @@
         <mark key="." line="42" column="11" />
         <mark key="^" line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/go/src/github.com/kalibek/simple-services/.gitignore" timestamp="1529929648343">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/docker-compose.yml" timestamp="1529394300389">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="56" />
@@ -325,11 +331,11 @@
         <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/go/src/github.com/kalibek/simple-services/cmd/app.go" timestamp="1529923434399">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="25" />
-        <mark key="." line="5" column="25" />
-        <mark key="^" line="5" column="25" />
+      <file name="$USER_HOME$/projects/go/src/github.com/kalibek/simple-services/cmd/app.go" timestamp="1529929612890">
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="21" />
+        <mark key="." line="44" column="21" />
+        <mark key="^" line="44" column="21" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-scheduler/README.md" timestamp="1526634442594">
         <mark key="[" line="69" column="27" />
@@ -532,11 +538,11 @@
       <register name="a" type="4">
         <text>insert_xtoken_here</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc0ZCV2FybmluZ3ModmFsdWUgPSAiTlNfREFOR0VST1VTX05PTl9TSE9SVF9DSVJDVUlUIikK</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Pizdec</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>toString</text>
@@ -545,31 +551,31 @@
         <text>.setScale(2, RoundingMode.HALF_UP)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc0ZCV2FybmluZ3ModmFsdWUgPSAiTlNfREFOR0VST1VTX05PTl9TSE9SVF9DSVJDVUlUIikK</text>
+        <text encoding="base64">CWNtZC5TdGRpbiA9IHN0cmluZ3MuTmV3UmVhZGVyKHApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlzdGF0LklzRGlyKCkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmZWVQZXJjZW50LnNldFNjYWxlKDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9nOkxhYmVsPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9nOkxhYmVsPgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZzpGbG93UGFuZWw+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2c6Rmxvd1BhbmVsPgo=</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRmKCJmb3VuZDogJXZcbiIsIHBhdGgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtYXJnaW4tdG9wOiA2cHgK</text>
+        <text encoding="base64">CXBhdGgyICJwYXRoIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
