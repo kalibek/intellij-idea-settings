@@ -121,12 +121,12 @@
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1529917714439">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1529924528269">
         <mark key="'" line="286" column="39" />
-        <mark key="[" line="259" column="36" />
-        <mark key="]" line="259" column="70" />
-        <mark key="." line="259" column="36" />
-        <mark key="^" line="257" column="20" />
+        <mark key="[" line="380" column="16" />
+        <mark key="]" line="380" column="17" />
+        <mark key="." line="380" column="17" />
+        <mark key="^" line="383" column="17" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/handler/BiddableExceptionMapper.java" timestamp="1528185883645">
         <mark key="[" line="9" column="9" />
@@ -319,7 +319,7 @@
         <mark key="." line="159" column="0" />
         <mark key="^" line="162" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529646422149">
+      <file name="/Dummy.txt" timestamp="1529924553102">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="^" line="0" column="47" />
@@ -532,8 +532,8 @@
       <register name="a" type="4">
         <text>insert_xtoken_here</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Pizdec</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBTdXBwcmVzc0ZCV2FybmluZ3ModmFsdWUgPSAiTlNfREFOR0VST1VTX05PTl9TSE9SVF9DSVJDVUlUIikK</text>
       </register>
       <register name="-" type="4">
         <text>Pizdec</text>
@@ -545,37 +545,31 @@
         <text>.setScale(2, RoundingMode.HALF_UP)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc0ZCV2FybmluZ3ModmFsdWUgPSAiTlNfREFOR0VST1VTX05PTl9TSE9SVF9DSVJDVUlUIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmZWVQZXJjZW50LnNldFNjYWxlKDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9nOkxhYmVsPgo=</text>
+        <text encoding="base64">ICAgICAgICBmZWVQZXJjZW50LnNldFNjYWxlKDApOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPC9nOkxhYmVsPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZzpGbG93UGFuZWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9nOkxhYmVsPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2c6Rmxvd1BhbmVsPgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZzpGbG93UGFuZWw+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtYXJnaW4tdG9wOiA2cHgK</text>
+        <text encoding="base64">ICAgICAgICA8L2c6Rmxvd1BhbmVsPgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>.tooltip-icon {
-  background: url('../images/help_icon.png') no-repeat;
-  width: 20px;
-  height: 20px;
-  margin-left: 10px;
-  margin-top: 6px
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBtYXJnaW4tdG9wOiA2cHgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
