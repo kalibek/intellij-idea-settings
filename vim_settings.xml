@@ -170,12 +170,12 @@
         <mark key="." line="8" column="110" />
         <mark key="^" line="8" column="110" />
       </file>
-      <file name="$USER_HOME$/projects/fx/README.md" timestamp="1529986156669">
+      <file name="$USER_HOME$/projects/fx/README.md" timestamp="1529987123088">
         <mark key="'" line="31" column="62" />
-        <mark key="[" line="36" column="7" />
-        <mark key="]" line="47" column="11" />
-        <mark key="." line="47" column="11" />
-        <mark key="^" line="47" column="11" />
+        <mark key="[" line="72" column="55" />
+        <mark key="]" line="72" column="55" />
+        <mark key="." line="72" column="55" />
+        <mark key="^" line="72" column="55" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/ConfirmationBody.ui.xml" timestamp="1529913630169">
         <mark key="[" line="6" column="75" />
@@ -527,44 +527,44 @@
       <register name="a" type="4">
         <text>insert_xtoken_here</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>katu</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>katu</text>
+        <text>```</text>
       </register>
       <register name="/" type="4">
         <text>-</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMjIyA8YSBuYW1lPSJwcml2YXRlLXJlZ2lzdHJ5LWFjY2VzcyI+cHJpdmF0ZS1yZWdpc3RyeS1hY2Nlc3MK</text>
+        <text encoding="base64">YGBgYmFzaApzdWRvIGNwICR7SE9NRX0vLnNzaC9pZF9yc2EK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3VkbyB0b3VjaCAvcm9vdC8uc3NoL2NvbmZpZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMjIyA8YSBuYW1lPSJzZXR1cC1kb2NrZXItZm9yLWxpbnV4Ij5TZXR1cCBEb2NrZXIgZm9yIExpbnV4Cg==</text>
+        <text encoding="base64">c3VkbyBjcCAke0hPTUV9Ly5zc2gvaWRfcnNhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3VkbyBjcCAke0hPTUV9Ly5zc2gvaWRfcnNhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMjIyA8YSBuYW1lPSJzZXR1cC1kb2NrZXItZm9yLWxpbnV4Ij4gU2V0dXAgRG9ja2VyIGZvciBMaW51eAo=</text>
+        <text encoding="base64">YGBgYmFzaAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWNtZC5TdGRpbiA9IHN0cmluZ3MuTmV3UmVhZGVyKHApCg==</text>
+        <text encoding="base64">c3VkbyB0b3VjaCAvcm9vdC8uc3NoL2NvbmZpZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIyA8YSBuYW1lPSJzZXR1cC1kb2NrZXItZm9yLWxpbnV4Ij5TZXR1cCBEb2NrZXIgZm9yIExpbnV4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlzdGF0LklzRGlyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIyA8YSBuYW1lPSJzZXR1cC1kb2NrZXItZm9yLWxpbnV4Ij4gU2V0dXAgRG9ja2VyIGZvciBMaW51eAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNtZC5TdGRpbiA9IHN0cmluZ3MuTmV3UmVhZGVyKHApCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLy0vIC8=</text>
