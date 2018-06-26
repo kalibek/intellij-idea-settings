@@ -202,11 +202,11 @@
         <mark key="^" line="29" column="13" />
         <mark key="." line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/fx/README.md" timestamp="1530010778522">
-        <mark key="[" line="125" column="38" />
-        <mark key="]" line="125" column="39" />
+      <file name="$USER_HOME$/projects/fx/README.md" timestamp="1530012603372">
+        <mark key="[" line="79" column="45" />
+        <mark key="]" line="79" column="45" />
         <mark key="^" line="100" column="19" />
-        <mark key="." line="125" column="39" />
+        <mark key="." line="79" column="45" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/ConfirmationBody.ui.xml" timestamp="1529913630169">
         <mark key="[" line="6" column="75" />
@@ -364,7 +364,7 @@
         <mark key="." line="159" column="0" />
         <mark key="^" line="162" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530004947480">
+      <file name="/Dummy.txt" timestamp="1530012623749">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="47" />
@@ -580,13 +580,13 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC0tYnVpbGQ=</text>
+        <text>ngmp</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tYnVpbGQ=</text>
+        <text>ngmp</text>
       </register>
       <register name="/" type="4">
         <text>200</text>
