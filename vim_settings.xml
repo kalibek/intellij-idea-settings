@@ -89,17 +89,16 @@
       </file>
       <file name="$USER_HOME$/projects/fx/pom.xml" timestamp="1529051354711">
         <mark key="'" line="355" column="37" />
-        <mark key="[" line="354" column="31" />
-        <mark key="]" line="354" column="31" />
-        <mark key="." line="354" column="31" />
-        <mark key="^" line="354" column="31" />
+        <mark key="[" line="353" column="31" />
+        <mark key="]" line="353" column="31" />
+        <mark key="." line="353" column="31" />
+        <mark key="^" line="353" column="31" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1529638913590">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="52" column="81" />
-        <mark key="]" line="52" column="91" />
-        <mark key="." line="52" column="91" />
-        <mark key="^" line="52" column="91" />
+        <mark key="[" line="0" column="81" />
+        <mark key="]" line="0" column="91" />
+        <mark key="." line="0" column="91" />
+        <mark key="^" line="0" column="91" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/ConfirmationDialog.java" timestamp="1529903076500">
         <mark key="[" line="38" column="0" />
@@ -175,13 +174,6 @@
         <mark key="]" line="12" column="10" />
         <mark key="." line="8" column="110" />
         <mark key="^" line="8" column="110" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1529638144673">
-        <mark key="'" line="30" column="15" />
-        <mark key="[" line="29" column="39" />
-        <mark key="]" line="29" column="39" />
-        <mark key="." line="29" column="39" />
-        <mark key="^" line="40" column="12" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/ConfirmationBody.ui.xml" timestamp="1529913630169">
         <mark key="[" line="6" column="75" />
@@ -364,10 +356,10 @@
       </file>
       <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1529299661587">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="91" column="71" />
-        <mark key="]" line="91" column="79" />
-        <mark key="^" line="91" column="62" />
-        <mark key="." line="91" column="62" />
+        <mark key="[" line="95" column="71" />
+        <mark key="]" line="95" column="79" />
+        <mark key="^" line="95" column="62" />
+        <mark key="." line="95" column="62" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/BiddableOfferController.java" timestamp="1526374069895">
         <mark key="[" line="58" column="28" />
