@@ -338,11 +338,11 @@
         <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/go/src/github.com/kalibek/simple-services/cmd/app.go" timestamp="1529996899044">
-        <mark key="[" line="35" column="63" />
-        <mark key="]" line="35" column="68" />
-        <mark key="." line="35" column="68" />
-        <mark key="^" line="35" column="68" />
+      <file name="$USER_HOME$/projects/go/src/github.com/kalibek/simple-services/cmd/app.go" timestamp="1529998124067">
+        <mark key="[" line="35" column="69" />
+        <mark key="]" line="35" column="69" />
+        <mark key="." line="35" column="69" />
+        <mark key="^" line="35" column="69" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-scheduler/README.md" timestamp="1526634442594">
         <mark key="[" line="69" column="27" />
@@ -543,10 +543,10 @@
         <text>tfx_data</text>
       </register>
       <register name="&quot;" type="4">
-        <text>static</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>-</text>
