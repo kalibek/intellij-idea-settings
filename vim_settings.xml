@@ -21,9 +21,6 @@
         <mark key="^" line="13" column="44" />
         <mark key="." line="13" column="44" />
       </file>
-      <file name="/a.dummy" timestamp="1529914705140">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/docker/elasticache/Dockerfile" timestamp="1529388988285">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="25" />
@@ -128,6 +125,12 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/go/src/github.com/kalibek/simple-services/static/index.html" timestamp="1529998686069">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="2" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="4" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/PopupPanel.java" timestamp="1529905065147">
         <mark key="'" line="90" column="13" />
       </file>
@@ -176,11 +179,23 @@
         <mark key="." line="8" column="110" />
         <mark key="^" line="8" column="110" />
       </file>
+      <file name="$USER_HOME$/projects/go/src/github.com/kalibek/simple-services/static/app.jsx" timestamp="1529999110629">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="44" />
+        <mark key="." line="9" column="44" />
+        <mark key="^" line="9" column="44" />
+      </file>
       <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1529991149953">
         <mark key="[" line="29" column="26" />
         <mark key="]" line="29" column="13" />
         <mark key="^" line="29" column="13" />
         <mark key="." line="29" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/README.md" timestamp="1529998498656">
+        <mark key="[" line="45" column="48" />
+        <mark key="]" line="45" column="50" />
+        <mark key="^" line="45" column="50" />
+        <mark key="." line="45" column="50" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/ConfirmationBody.ui.xml" timestamp="1529913630169">
         <mark key="[" line="6" column="75" />
@@ -253,6 +268,12 @@
         <mark key="]" line="8" column="12" />
         <mark key="^" line="8" column="12" />
         <mark key="." line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/go/src/github.com/kalibek/simple-services/cmd/upload.go" timestamp="1529999560138">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="68" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="21" column="54" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/helper/OfferUserHelper.java" timestamp="1526620458814">
         <mark key="[" line="19" column="56" />
@@ -426,8 +447,8 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1529903871408">
-        <mark key="[" line="0" column="0" />
+      <file name="/usr/local/go/src/net/http/server.go" timestamp="1529999327950">
+        <mark key="'" line="887" column="32" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/ConfirmationBody.java" timestamp="1529911587949">
         <mark key="[" line="13" column="4" />
@@ -437,12 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="64" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="2073" column="24" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="244" column="54" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="189" column="80" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="219" column="33" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="99" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="223" column="41" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="184" column="74" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="209" column="26" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
@@ -537,58 +552,64 @@
       <jump line="18" column="40" filename="$USER_HOME$/projects/fx/README.md" />
       <jump line="47" column="11" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
       <jump line="83" column="31" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/go/src/github.com/kalibek/simple-services/static/app.jsx" />
+      <jump line="147" column="4" filename="/usr/local/go/src/net/http/server.go" />
+      <jump line="1061" column="32" filename="/usr/local/go/src/net/http/server.go" />
+      <jump line="1467" column="29" filename="/usr/local/go/src/net/http/server.go" />
+      <jump line="0" column="13" filename="/usr/local/go/src/net/http/server.go" />
+      <jump line="887" column="32" filename="/usr/local/go/src/net/http/server.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>tfx_data</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXIuUGF0aFByZWZpeCgiLyIpLkhhbmRsZXIoaHR0cC5GaWxlU2VydmVyKGh0dHAuRGlyKCIuL3N0YXRpYyIpKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>nil</text>
       </register>
       <register name="/" type="4">
-        <text>-</text>
+        <text>200</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHNjcmlwdCBjcm9zc29yaWdpbiBzcmM9Imh0dHBzOi8vdW5wa2cuY29tL3JlYWN0LWRvbUAxNi91bWQvcmVhY3QtZG9tLmRldmVsb3BtZW50LmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXIuUGF0aFByZWZpeCgiLyIpLkhhbmRsZXIoaHR0cC5GaWxlU2VydmVyKGh0dHAuRGlyKCIuL3N0YXRpYyIpKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IVtkb2NrZXItc2V0dGluZ3NdKC4vZG9ja2VyX3NldHRpbnMucG5nKQo=</text>
+        <text encoding="base64">CWh0dHAuTGlzdGVuQW5kU2VydmUoIjoxMTIzIiwgbG9nZ2VkUm91dGVyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IVtjbWQtaXAtY29uZmlnXSguL2NtZC5wbmcpCg==</text>
+        <text encoding="base64">CS8vIGV0YyB3cml0ZSBoZWFkZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIGRvIHNvbWV0aGluZyBlbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIHJlZHVjZXMgbWVtb3J5IGFsbG9jYXRpb25zIGluIG1vcmUgaW50ZW5zZSBwcm9qZWN0cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KGlwIHNob3VsZCBiZSB0aGUgb25lIHlvdSBmb3VuZCB3aXRoIGlwY29uZmlnIGFuZCByZWxhdGVkIHRvIERvY2tlck5BVCkK</text>
+        <text encoding="base64">CS8vIEkgcmVzZXQgdGhlIGJ1ZmZlciBpbiBjYXNlIEkgd2FudCB0byB1c2UgaXQgYWdhaW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgW1lPVVJfTE9DQUxfTUFDSElORV9JUF0gcHR2LndrdHMuc3RhZ2UK</text>
+        <text encoding="base64">CS8vIHdvcmsgYXMgYW4gZXhhbXBsZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgW1lPVVJfTE9DQUxfTUFDSElORV9JUF0gcHR2LndrdHMuc3RhZ2UK</text>
+        <text encoding="base64">CS8vIEkgbm9ybWFsbHkgaGF2ZSBhIHN0cnVjdCBkZWZpbmVkIGFuZCB1bm1hcnNoYWwgaW50byBhIHN0cnVjdCwgYnV0IHRoaXMgd2lsbAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IEFkZCBmb2xsb3dpbmcgbGluZXMgaW50byB5b3VyIHNzaCBjb25maWcgZmlsZTogIAogICBgYGB0ZXh0CiAgIExvY2FsRm9yd2FyZCAwLjAuMC4wOjUwMDEwIHB0di53a3RzLnN0YWdlOjUwMDEwCiAgIExvY2FsRm9yd2FyZCAwLjAuMC4wOjUwMDIwIHB0di53a3RzLnN0YWdlOjUwMDIwCiAgIExvY2FsRm9yd2FyZCAwLjAuMC4wOjUwMDMwIHB0di53a3RzLnN0YWdlOjUwMDMwCiAgIGBgYAoyLiA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CS8vIGRvIHNvbWV0aGluZyB3aXRoIHRoZSBjb250ZW50cy4uLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>-</last-search>
+      <last-search>200</last-search>
       <last-offset />
-      <last-pattern>-</last-pattern>
+      <last-pattern>200</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -596,7 +617,6 @@
     </search>
     <history>
       <history-search>
-        <entry>feee</entry>
         <entry>showEurServiceFeeBar</entry>
         <entry>targetCurrency</entry>
         <entry>isEu</entry>
@@ -616,6 +636,7 @@
         <entry>env</entry>
         <entry>spot</entry>
         <entry>-</entry>
+        <entry>200</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzsvOi9n</entry>
