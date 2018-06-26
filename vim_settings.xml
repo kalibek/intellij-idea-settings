@@ -94,6 +94,12 @@
         <mark key="." line="353" column="31" />
         <mark key="^" line="353" column="31" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-db-migration/src/main/resources/bin/patch.properties" timestamp="1529988442446">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="0" column="51" />
+      </file>
       <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1529638913590">
         <mark key="[" line="0" column="81" />
         <mark key="]" line="0" column="91" />
@@ -170,12 +176,11 @@
         <mark key="." line="8" column="110" />
         <mark key="^" line="8" column="110" />
       </file>
-      <file name="$USER_HOME$/projects/fx/README.md" timestamp="1529987123088">
-        <mark key="'" line="31" column="62" />
-        <mark key="[" line="72" column="55" />
-        <mark key="]" line="72" column="55" />
-        <mark key="." line="72" column="55" />
-        <mark key="^" line="72" column="55" />
+      <file name="$USER_HOME$/projects/fx/README.md" timestamp="1529989808172">
+        <mark key="'" line="25" column="62" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/ConfirmationBody.ui.xml" timestamp="1529913630169">
         <mark key="[" line="6" column="75" />
@@ -319,7 +324,7 @@
         <mark key="." line="159" column="0" />
         <mark key="^" line="162" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529924553102">
+      <file name="/Dummy.txt" timestamp="1529989816598">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="^" line="0" column="47" />
@@ -525,49 +530,49 @@
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>insert_xtoken_here</text>
+        <text>tfx_data</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IVtkb2NrZXItc2V0dGluZ3NdKC4vZG9ja2VyX3NldHRpbnMucG5nKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>```</text>
+        <text>doc/saml-flow/saml-flow.svg</text>
       </register>
       <register name="/" type="4">
         <text>-</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YGBgYmFzaApzdWRvIGNwICR7SE9NRX0vLnNzaC9pZF9yc2EK</text>
+        <text encoding="base64">IVtjbWQtaXAtY29uZmlnXSguL2NtZC5wbmcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IVtkb2NrZXItc2V0dGluZ3NdKC4vZG9ja2VyX3NldHRpbnMucG5nKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3VkbyBjcCAke0hPTUV9Ly5zc2gvaWRfcnNhCg==</text>
+        <text encoding="base64">IVtjbWQtaXAtY29uZmlnXSguL2NtZC5wbmcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3VkbyBjcCAke0hPTUV9Ly5zc2gvaWRfcnNhCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">YGBgYmFzaAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c3VkbyB0b3VjaCAvcm9vdC8uc3NoL2NvbmZpZwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyMjIyA8YSBuYW1lPSJzZXR1cC1kb2NrZXItZm9yLWxpbnV4Ij5TZXR1cCBEb2NrZXIgZm9yIExpbnV4Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyMjIyA8YSBuYW1lPSJzZXR1cC1kb2NrZXItZm9yLWxpbnV4Ij4gU2V0dXAgRG9ja2VyIGZvciBMaW51eAo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">KGlwIHNob3VsZCBiZSB0aGUgb25lIHlvdSBmb3VuZCB3aXRoIGlwY29uZmlnIGFuZCByZWxhdGVkIHRvIERvY2tlck5BVCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgW1lPVVJfTE9DQUxfTUFDSElORV9JUF0gcHR2LndrdHMuc3RhZ2UK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgW1lPVVJfTE9DQUxfTUFDSElORV9JUF0gcHR2LndrdHMuc3RhZ2UK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IEFkZCBmb2xsb3dpbmcgbGluZXMgaW50byB5b3VyIHNzaCBjb25maWcgZmlsZTogIAogICBgYGB0ZXh0CiAgIExvY2FsRm9yd2FyZCAwLjAuMC4wOjUwMDEwIHB0di53a3RzLnN0YWdlOjUwMDEwCiAgIExvY2FsRm9yd2FyZCAwLjAuMC4wOjUwMDIwIHB0di53a3RzLnN0YWdlOjUwMDIwCiAgIExvY2FsRm9yd2FyZCAwLjAuMC4wOjUwMDMwIHB0di53a3RzLnN0YWdlOjUwMDMwCiAgIGBgYAoyLiA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNtZC5TdGRpbiA9IHN0cmluZ3MuTmV3UmVhZGVyKHApCg==</text>
+        <text encoding="base64">ICAgIC4uLgo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLy0vIC8=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -603,7 +608,6 @@
         <entry>-</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Description/Schedule/g</entry>
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
         <entry encoding="base64">JzwsJz5zLzsvOi9n</entry>
         <entry>%s/ / /g</entry>
@@ -616,13 +620,14 @@
         <entry encoding="base64">JzwsJz5zL3dpbGRmbHkvcG9zdGdyZXMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2Z4L3Nwb3QvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2Z4LXdpbGRmbHkvd2lsZGZseS9n</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL3RydWUvc2hvd1NlcnZpY2VGZWVCYXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2FjY2VwdC9jYW5jZWwvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3Nob3dFdXJTZXJ2aWNlRmVlQmFyL2lzRXVyb0N1cnJlbmN5L2c=</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLy0vIC9n</entry>
         <entry encoding="base64">JzwsJz5zLy0vIC8=</entry>
+        <entry>ew</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
