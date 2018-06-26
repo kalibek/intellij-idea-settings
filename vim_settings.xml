@@ -143,6 +143,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/go/src/github.com/kalibek/simple/index.html" timestamp="1529996421511">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactEmail.java" timestamp="1526293167616">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="4" />
@@ -332,11 +338,11 @@
         <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/go/src/github.com/kalibek/simple-services/cmd/app.go" timestamp="1529929612890">
-        <mark key="[" line="78" column="20" />
-        <mark key="]" line="78" column="21" />
-        <mark key="." line="78" column="21" />
-        <mark key="^" line="78" column="21" />
+      <file name="$USER_HOME$/projects/go/src/github.com/kalibek/simple-services/cmd/app.go" timestamp="1529996899044">
+        <mark key="[" line="35" column="63" />
+        <mark key="]" line="35" column="68" />
+        <mark key="." line="35" column="68" />
+        <mark key="^" line="35" column="68" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-scheduler/README.md" timestamp="1526634442594">
         <mark key="[" line="69" column="27" />
@@ -356,6 +362,12 @@
         <mark key="]" line="19" column="79" />
         <mark key="." line="11" column="84" />
         <mark key="^" line="7" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/go/src/github.com/kalibek/simple/app.jsx" timestamp="1529996592014">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="30" />
+        <mark key="^" line="6" column="30" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/product.properties" timestamp="1529051183999">
         <mark key="[" line="0" column="10" />
@@ -422,10 +434,6 @@
         <mark key="]" line="13" column="4" />
         <mark key="." line="13" column="4" />
         <mark key="^" line="23" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/target/SpotBidding.css" timestamp="1529905462621">
-        <mark key="[" line="0" column="23670" />
-        <mark key="]" line="0" column="23698" />
       </file>
     </filemarks>
     <jumps>
@@ -535,52 +543,52 @@
         <text>tfx_data</text>
       </register>
       <register name="&quot;" type="4">
-        <text>FX-11146 Aligned documentation for private registry usage</text>
+        <text>static</text>
       </register>
       <register name="-" type="4">
-        <text>FX-11146 Aligned documentation for private registry usage</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
-        <text>spot</text>
+        <text>-</text>
       </register>
-      <register name="0" type="4">
-        <text>sb.local.org</text>
+      <register name="0" type="2">
+        <text encoding="base64">PHNjcmlwdCBjcm9zc29yaWdpbiBzcmM9Imh0dHBzOi8vdW5wa2cuY29tL3JlYWN0LWRvbUAxNi91bWQvcmVhY3QtZG9tLmRldmVsb3BtZW50LmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IVtkb2NrZXItc2V0dGluZ3NdKC4vZG9ja2VyX3NldHRpbnMucG5nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IVtjbWQtaXAtY29uZmlnXSguL2NtZC5wbmcpCg==</text>
+        <text encoding="base64">IVtkb2NrZXItc2V0dGluZ3NdKC4vZG9ja2VyX3NldHRpbnMucG5nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IVtjbWQtaXAtY29uZmlnXSguL2NtZC5wbmcpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KGlwIHNob3VsZCBiZSB0aGUgb25lIHlvdSBmb3VuZCB3aXRoIGlwY29uZmlnIGFuZCByZWxhdGVkIHRvIERvY2tlck5BVCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgW1lPVVJfTE9DQUxfTUFDSElORV9JUF0gcHR2LndrdHMuc3RhZ2UK</text>
+        <text encoding="base64">KGlwIHNob3VsZCBiZSB0aGUgb25lIHlvdSBmb3VuZCB3aXRoIGlwY29uZmlnIGFuZCByZWxhdGVkIHRvIERvY2tlck5BVCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgW1lPVVJfTE9DQUxfTUFDSElORV9JUF0gcHR2LndrdHMuc3RhZ2UK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IEFkZCBmb2xsb3dpbmcgbGluZXMgaW50byB5b3VyIHNzaCBjb25maWcgZmlsZTogIAogICBgYGB0ZXh0CiAgIExvY2FsRm9yd2FyZCAwLjAuMC4wOjUwMDEwIHB0di53a3RzLnN0YWdlOjUwMDEwCiAgIExvY2FsRm9yd2FyZCAwLjAuMC4wOjUwMDIwIHB0di53a3RzLnN0YWdlOjUwMDIwCiAgIExvY2FsRm9yd2FyZCAwLjAuMC4wOjUwMDMwIHB0di53a3RzLnN0YWdlOjUwMDMwCiAgIGBgYAoyLiA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgW1lPVVJfTE9DQUxfTUFDSElORV9JUF0gcHR2LndrdHMuc3RhZ2UK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC4uLgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IEFkZCBmb2xsb3dpbmcgbGluZXMgaW50byB5b3VyIHNzaCBjb25maWcgZmlsZTogIAogICBgYGB0ZXh0CiAgIExvY2FsRm9yd2FyZCAwLjAuMC4wOjUwMDEwIHB0di53a3RzLnN0YWdlOjUwMDEwCiAgIExvY2FsRm9yd2FyZCAwLjAuMC4wOjUwMDIwIHB0di53a3RzLnN0YWdlOjUwMDIwCiAgIExvY2FsRm9yd2FyZCAwLjAuMC4wOjUwMDMwIHB0di53a3RzLnN0YWdlOjUwMDMwCiAgIGBgYAoyLiA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>spot</last-search>
+      <last-search>-</last-search>
       <last-offset />
-      <last-pattern>spot</last-pattern>
+      <last-pattern>-</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -605,12 +613,11 @@
         <entry>setWidget</entry>
         <entry>some</entry>
         <entry>toString</entry>
-        <entry>-</entry>
         <entry>env</entry>
         <entry>spot</entry>
+        <entry>-</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
         <entry encoding="base64">JzwsJz5zLzsvOi9n</entry>
         <entry>%s/ / /g</entry>
         <entry>q</entry>
@@ -629,6 +636,7 @@
         <entry encoding="base64">JzwsJz5zLy0vIC8=</entry>
         <entry>ew</entry>
         <entry>wq</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
