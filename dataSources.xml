@@ -12,5 +12,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:35432/tfx_sprint</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="tfx_data@localhost" uuid="ee324cc1-6048-431e-9b02-e25428b4d132">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/tfx_data</jdbc-url>
+    </data-source>
   </component>
 </application>
