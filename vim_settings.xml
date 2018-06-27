@@ -34,10 +34,11 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1530005144991">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1530074351214">
+        <mark key="[" line="2" column="53" />
+        <mark key="]" line="2" column="53" />
+        <mark key="." line="2" column="53" />
+        <mark key="^" line="2" column="53" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/pom.xml" timestamp="1529400449076">
         <mark key="'" line="0" column="0" />
@@ -103,11 +104,7 @@
         <mark key="." line="0" column="91" />
         <mark key="^" line="0" column="91" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/ConfirmationDialog.java" timestamp="1529903076500">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
+      <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/java/com/wktransportservices/fx/indb/actor/search/MatchingActor.java" timestamp="1530074273858" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1529400877048">
         <mark key="'" line="165" column="41" />
       </file>
@@ -382,6 +379,9 @@
         <mark key="." line="69" column="27" />
         <mark key="^" line="59" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" timestamp="1530073998506">
+        <mark key="'" line="178" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/logging/RestLoggingFilter.java" timestamp="1526373773022">
         <mark key="[" line="106" column="66" />
         <mark key="]" line="106" column="74" />
@@ -413,6 +413,9 @@
         <mark key="]" line="95" column="79" />
         <mark key="^" line="95" column="62" />
         <mark key="." line="95" column="62" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" timestamp="1530073861743">
+        <mark key="'" line="14" column="38" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/BiddableOfferController.java" timestamp="1526374069895">
         <mark key="[" line="58" column="28" />
@@ -452,11 +455,6 @@
         <mark key="." line="24" column="114" />
         <mark key="^" line="24" column="114" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/CommonExceptionDialog.java" timestamp="1529668260109">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="13" />
-      </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-common/src/com/teleroute/top/config/XServiceAddressImpl.java" timestamp="1528868166587">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="28" />
@@ -474,92 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="974" column="46" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="975" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="976" column="19" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="986" column="51" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="987" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="988" column="19" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="1186" column="41" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="1187" column="33" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="1188" column="27" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="1463" column="34" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="1464" column="28" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="1483" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="1484" column="11" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="157" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="161" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="786" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="962" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="1642" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="1690" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="1734" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="116" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="225" column="49" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="57" column="16" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="59" column="20" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="380" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="247" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="224" column="72" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="250" column="8" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="330" column="16" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="181" column="59" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="333" column="30" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="180" column="8" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="110" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="379" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="182" column="59" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="836" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="838" column="46" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="839" column="23" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="840" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="834" column="98" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="835" column="23" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="324" column="27" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="360" column="19" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="17" column="34" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="1274" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="2145" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="265" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="267" column="29" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="359" column="62" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="183" column="58" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="269" column="23" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="270" column="19" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="271" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="1798" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="2143" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="2144" column="11" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="779" column="32" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="780" column="26" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="967" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="968" column="11" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
-      <jump line="195" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="220" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="221" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="214" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="111" column="8" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="90" column="13" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/PopupPanel.java" />
-      <jump line="154" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/requested-calloff.less" />
-      <jump line="285" column="39" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="235" column="4" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/math/BigDecimal.java" />
-      <jump line="824" column="4" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/math/BigDecimal.java" />
-      <jump line="861" column="21" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/math/BigDecimal.java" />
-      <jump line="1254" column="28" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/math/BigDecimal.java" />
-      <jump line="1260" column="37" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/math/BigDecimal.java" />
-      <jump line="1273" column="37" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/math/BigDecimal.java" />
-      <jump line="2852" column="35" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/math/BigDecimal.java" />
-      <jump line="31" column="62" filename="$USER_HOME$/projects/fx/README.md" />
-      <jump line="49" column="52" filename="$USER_HOME$/projects/fx/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/README.md" />
-      <jump line="61" column="25" filename="$USER_HOME$/projects/fx/README.md" />
-      <jump line="96" column="25" filename="$USER_HOME$/projects/fx/README.md" />
-      <jump line="108" column="46" filename="$USER_HOME$/projects/fx/README.md" />
-      <jump line="3" column="30" filename="$USER_HOME$/projects/fx/README.md" />
-      <jump line="7" column="36" filename="$USER_HOME$/projects/fx/README.md" />
-      <jump line="18" column="40" filename="$USER_HOME$/projects/fx/README.md" />
       <jump line="47" column="11" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
       <jump line="83" column="31" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/go/src/github.com/kalibek/simple-services/static/app.jsx" />
@@ -574,6 +486,92 @@
       <jump line="305" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" />
       <jump line="306" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" />
+      <jump line="32" column="13" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="39" column="36" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="41" column="31" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="44" column="8" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="45" column="8" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="46" column="8" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="47" column="31" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="49" column="36" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="51" column="41" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="54" column="41" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="64" column="32" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="74" column="42" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="77" column="42" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="87" column="32" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="93" column="38" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="97" column="57" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="99" column="31" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="101" column="44" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="104" column="42" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="107" column="42" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="115" column="78" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="117" column="32" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="121" column="36" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="126" column="33" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="128" column="45" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="131" column="25" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="133" column="57" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="136" column="57" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="142" column="60" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="144" column="57" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="146" column="29" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="150" column="65" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="151" column="56" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="155" column="83" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="156" column="60" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="160" column="70" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="161" column="61" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="181" column="62" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="182" column="44" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="188" column="15" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="194" column="15" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="203" column="42" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="204" column="32" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="208" column="43" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="209" column="37" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="213" column="46" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="216" column="31" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="218" column="8" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="221" column="8" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="224" column="31" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="226" column="46" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="228" column="55" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="231" column="55" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="10" column="56" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="13" column="38" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="14" column="38" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
+      <jump line="41" column="22" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="49" column="28" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="64" column="46" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="87" column="69" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="88" column="71" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="92" column="81" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="93" column="37" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="94" column="28" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="95" column="23" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="96" column="23" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="103" column="8" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="105" column="61" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="106" column="12" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="107" column="40" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="108" column="32" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="109" column="76" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="110" column="24" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="114" column="12" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="117" column="26" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="118" column="50" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="121" column="70" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="122" column="78" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="123" column="21" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="157" column="30" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="161" column="15" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="164" column="30" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="168" column="15" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="171" column="30" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="175" column="15" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
+      <jump line="178" column="30" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -589,7 +587,7 @@
         <text>ngmp</text>
       </register>
       <register name="/" type="4">
-        <text>200</text>
+        <text>search</text>
       </register>
       <register name="0" type="4">
         <text>and click `Apply` button in bottom right corner</text>
@@ -635,9 +633,9 @@
       </register>
     </registers>
     <search>
-      <last-search>200</last-search>
+      <last-search>search</last-search>
       <last-offset />
-      <last-pattern>200</last-pattern>
+      <last-pattern>search</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -645,7 +643,6 @@
     </search>
     <history>
       <history-search>
-        <entry>showEurServiceFeeBar</entry>
         <entry>targetCurrency</entry>
         <entry>isEu</entry>
         <entry>EUR</entry>
@@ -665,6 +662,7 @@
         <entry>spot</entry>
         <entry>-</entry>
         <entry>200</entry>
+        <entry>search</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzsvOi9n</entry>
