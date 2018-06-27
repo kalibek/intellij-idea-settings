@@ -21,6 +21,12 @@
         <mark key="^" line="13" column="44" />
         <mark key="." line="13" column="44" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/resources/queries/find-cached-offers.ftl" timestamp="1530075308248">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="12" column="45" />
+        <mark key="." line="12" column="45" />
+        <mark key="^" line="12" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/fx/docker/elasticache/Dockerfile" timestamp="1529388988285">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="25" />
@@ -407,6 +413,7 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
+      <file name="/offer_tsvector.ftl" timestamp="1530075264230" />
       <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1529299661587">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="95" column="71" />
@@ -578,13 +585,13 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ngmp</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>ngmp</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>search</text>
