@@ -171,12 +171,12 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1530078450862">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1530079288020">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="307" column="0" />
-        <mark key="." line="307" column="0" />
-        <mark key="^" line="307" column="0" />
+        <mark key="[" line="308" column="0" />
+        <mark key="]" line="308" column="28" />
+        <mark key="." line="308" column="28" />
+        <mark key="^" line="308" column="28" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xmap-service-client/src/com/ptvag/xserver/xmap/jwsdp/XMapAccessImpl.java" timestamp="1529059840920">
         <mark key="'" line="43" column="43" />
