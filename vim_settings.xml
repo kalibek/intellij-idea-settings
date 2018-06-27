@@ -365,7 +365,7 @@
         <mark key="." line="159" column="0" />
         <mark key="^" line="162" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530012623749">
+      <file name="/Dummy.txt" timestamp="1530091328091">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="47" />
@@ -582,13 +582,13 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>FX-11146 Aligned documentation for private registry usage for windows</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>FX-11146 Aligned documentation for private registry usage for windows</text>
       </register>
       <register name="/" type="4">
         <text>search</text>
