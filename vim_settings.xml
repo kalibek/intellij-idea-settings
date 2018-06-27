@@ -110,7 +110,6 @@
         <mark key="." line="0" column="91" />
         <mark key="^" line="0" column="91" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/java/com/wktransportservices/fx/indb/actor/search/MatchingActor.java" timestamp="1530074273858" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1529400877048">
         <mark key="'" line="165" column="41" />
       </file>
@@ -172,12 +171,12 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1530003882553">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1530077099675">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-        <mark key="^" line="0" column="23" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xmap-service-client/src/com/ptvag/xserver/xmap/jwsdp/XMapAccessImpl.java" timestamp="1529059840920">
         <mark key="'" line="43" column="43" />
@@ -242,7 +241,6 @@
         <mark key="." line="160" column="39" />
         <mark key="^" line="160" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/fx/.env" timestamp="1529990897242" />
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" timestamp="1529309623720">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="39" column="67" />
@@ -413,7 +411,6 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="/offer_tsvector.ftl" timestamp="1530075264230" />
       <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1529299661587">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="95" column="71" />
