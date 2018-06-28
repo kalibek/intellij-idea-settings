@@ -407,7 +407,7 @@
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/spotbidding/src/test/resources/features/FX-10858_comment_in_api.feature" timestamp="1530181563022" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/spotbidding/src/test/resources/features/FX-10858_comment_in_api.feature" timestamp="1530181681148" />
       <file name="$USER_HOME$/projects/ptv-services/product.properties" timestamp="1529051183999">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
@@ -741,6 +741,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
