@@ -42,6 +42,7 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/pom.xml" timestamp="1529400449076">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/social/UserRole.java" timestamp="1530266463563" />
       <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/bi/FreightSearchLoggedEventBuilderActor.java" timestamp="1530257805880" />
       <file name="$USER_HOME$/projects/fx/fx-db-migration/src/main/resources/bin/patch.properties" timestamp="1529988442446">
         <mark key="[" line="2" column="16" />
@@ -186,11 +187,11 @@
         <mark key="^" line="8" column="173" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1530252694212">
-        <mark key="[" line="2" column="44" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
-        <mark key="^" line="3" column="14" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1530266920699">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="11" column="23" />
       </file>
       <file name="$USER_HOME$/projects/go/src/github.com/kalibek/simple-services/cmd/upload.go" timestamp="1529999560138">
         <mark key="[" line="18" column="0" />
