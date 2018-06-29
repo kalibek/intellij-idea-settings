@@ -147,6 +147,9 @@
       <file name="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/PopupPanel.java" timestamp="1529905065147">
         <mark key="'" line="90" column="13" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1530253307042">
+        <mark key="a" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/docker/activemq/Dockerfile" timestamp="1529327723582">
         <mark key="[" line="6" column="2" />
         <mark key="]" line="6" column="3" />
