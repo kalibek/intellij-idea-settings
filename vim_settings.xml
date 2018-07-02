@@ -124,11 +124,11 @@
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1530251646577">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-        <mark key="^" line="0" column="22" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1530509428121">
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+        <mark key="^" line="6" column="35" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactEmail.java" timestamp="1526293167616">
         <mark key="[" line="25" column="4" />
@@ -324,7 +324,7 @@
         <mark key="." line="35" column="85" />
         <mark key="^" line="35" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530277146295">
+      <file name="/Dummy.txt" timestamp="1530509278018">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="47" />
@@ -531,14 +531,14 @@
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>nextInt</text>
@@ -546,32 +546,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIHJhbmRvbVN0cmluZyhpbnQgbGVuZ3RoLCBib29sZWFuIHVzZURlbGltKSB7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgogICAgcA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">d2hlcmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSB1c2VyX2luZm8K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgogICAgcA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVVVJRC5yYW5kb21VVUlEKCkudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
