@@ -39,6 +39,9 @@
         <mark key="." line="2" column="53" />
         <mark key="^" line="2" column="53" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/pom.xml" timestamp="1529400449076">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/tests-common/src/main/java/com/alpegagroup/ngmp/test/api/DateUtils.java" timestamp="1530278935122">
         <mark key="[" line="10" column="57" />
         <mark key="]" line="10" column="75" />
@@ -56,6 +59,9 @@
         <mark key="]" line="0" column="91" />
         <mark key="." line="0" column="91" />
         <mark key="^" line="0" column="91" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1529400877048">
+        <mark key="'" line="165" column="41" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/jersey/SpotBiddingJsonProvider.java" timestamp="1526275062436">
         <mark key="[" line="14" column="8" />
@@ -91,6 +97,9 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="119" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/PopupPanel.java" timestamp="1529905065147">
+        <mark key="'" line="90" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/fx/docker/activemq/Dockerfile" timestamp="1529327723582">
         <mark key="[" line="6" column="2" />
         <mark key="]" line="6" column="3" />
@@ -108,6 +117,12 @@
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/tests-common/src/main/java/com/alpegagroup/ngmp/test/api/TextUtils.java" timestamp="1530506202109">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="27" />
+        <mark key="^" line="20" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1530251646577">
         <mark key="[" line="0" column="23" />
@@ -163,11 +178,14 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/spotbidding/src/test/resources/features/offers/post/FX-10858_comment_in_api.feature" timestamp="1530279951164">
-        <mark key="[" line="11" column="117" />
-        <mark key="]" line="11" column="118" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="11" column="118" />
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_prod.properties" timestamp="1530260027060">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/spotbidding/src/test/resources/features/offers/post/FX-10858_comment_in_api.feature" timestamp="1530503898278">
+        <mark key="[" line="13" column="125" />
+        <mark key="]" line="13" column="70" />
+        <mark key="^" line="12" column="124" />
+        <mark key="." line="13" column="70" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/spotbidding/src/test/resources/biddable_offers/biddable_offer.ftl" timestamp="1530279345184">
         <mark key="'" line="23" column="12" />
@@ -199,6 +217,9 @@
         <mark key="]" line="6" column="38" />
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
+      </file>
+      <file name="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/math/BigDecimal.java" timestamp="1529917336823">
+        <mark key="'" line="2852" column="35" />
       </file>
       <file name="$USER_HOME$/projects/wkts-maps/wkts-maps-ui/src/com/wktransportservices/map/client/resource/html/externalmaps.html" timestamp="1529042933996">
         <mark key="[" line="8" column="4" />
@@ -266,6 +287,12 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/wildfly/conf/standalone/standalone.xml" timestamp="1529394417180">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/lang/Object.java" timestamp="1530156480383">
+        <mark key="'" line="36" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xroute-service-client/src/spring-config-xroute.xml" timestamp="1528868601723">
         <mark key="[" line="6" column="32" />
         <mark key="]" line="6" column="38" />
@@ -314,6 +341,9 @@
         <mark key="." line="35" column="69" />
         <mark key="^" line="35" column="69" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" timestamp="1530073998506">
+        <mark key="'" line="178" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-scheduler/README.md" timestamp="1526634442594">
         <mark key="[" line="69" column="27" />
         <mark key="]" line="69" column="27" />
@@ -337,6 +367,12 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" timestamp="1530504391459">
+        <mark key="'" line="317" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" timestamp="1530073861743">
+        <mark key="'" line="14" column="38" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/spotbidding/src/test/java/com/alpegagroup/ngmp/test/api/spotbidding/config/BiddableOffer.java" timestamp="1530279776655">
         <mark key="'" line="36" column="68" />
@@ -376,6 +412,9 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="28" />
       </file>
+      <file name="/usr/local/go/src/net/http/server.go" timestamp="1529999327950">
+        <mark key="'" line="887" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/ConfirmationBody.java" timestamp="1529911587949">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="4" />
@@ -387,29 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" />
-      <jump line="32" column="13" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="39" column="36" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="41" column="31" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="44" column="8" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="45" column="8" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="46" column="8" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="47" column="31" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="49" column="36" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="51" column="41" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="54" column="41" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="64" column="32" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="74" column="42" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="77" column="42" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="87" column="32" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="93" column="38" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="97" column="57" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="99" column="31" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="101" column="44" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="104" column="42" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="107" column="42" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="115" column="78" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="117" column="32" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
       <jump line="121" column="36" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
       <jump line="126" column="33" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
       <jump line="128" column="45" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
@@ -487,61 +503,84 @@
       <jump line="23" column="12" filename="$USER_HOME$/projects/ngmp-api-tests/spotbidding/src/test/resources/biddable_offers/biddable_offer.ftl" />
       <jump line="33" column="68" filename="$USER_HOME$/projects/ngmp-api-tests/spotbidding/src/test/java/com/alpegagroup/ngmp/test/api/spotbidding/config/BiddableOffer.java" />
       <jump line="13" column="26" filename="$USER_HOME$/projects/ngmp-api-tests/spotbidding/src/test/java/com/alpegagroup/ngmp/test/api/spotbidding/stepdefs/BiddableOfferPostStepDefs.java" />
+      <jump line="76" column="6" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="112" column="17" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="113" column="54" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="114" column="23" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="124" column="62" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="158" column="8" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="173" column="21" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="176" column="41" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="181" column="62" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="193" column="19" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="197" column="18" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="217" column="26" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="228" column="27" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="265" column="19" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="266" column="36" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="267" column="59" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="268" column="61" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="278" column="23" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="283" column="24" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="289" column="19" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="313" column="26" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
+      <jump line="317" column="28" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>0</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>pickUp</text>
+        <text>nextInt</text>
       </register>
-      <register name="0" type="4">
-        <text>externalOfferId</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIHJhbmRvbVN0cmluZyhpbnQgbGVuZ3RoLCBib29sZWFuIHVzZURlbGltKSB7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgogICAgcA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVVVJRC5yYW5kb21VVUlEKCkudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2VuZXJhdGVSZWZlcmVuY2UoKSB7Cg==</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBCSUREQUJMRV9PRkZFUl9QQVRIID0gIi9yZXN0L3YyL29mZmVycy9mcmVpZ2h0cy9hcGktdGVzdC0xIjsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIERhdGVUaW1lRm9ybWF0dGVyIERBVEVfVElNRV9GT1JNQVRURVIgPSBuZXcgRGF0ZVRpbWVGb3JtYXR0ZXIoKS4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVVVJRC5yYW5kb21VVUlEKCkudG9TdHJpbmcoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pickUp</last-search>
+      <last-search>nextInt</last-search>
       <last-offset />
-      <last-pattern>pickUp</last-pattern>
+      <last-pattern>nextInt</last-pattern>
       <last-replace>delivery</last-replace>
       <last-substitute>pickUp</last-substitute>
       <last-dir>1</last-dir>
@@ -549,8 +588,6 @@
     </search>
     <history>
       <history-search>
-        <entry>EUR</entry>
-        <entry>Submit</entry>
         <entry>submit</entry>
         <entry>Accept quote</entry>
         <entry>window</entry>
@@ -569,6 +606,8 @@
         <entry>search</entry>
         <entry>hashCode</entry>
         <entry>pickUp</entry>
+        <entry>next</entry>
+        <entry>nextInt</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ / /g</entry>
