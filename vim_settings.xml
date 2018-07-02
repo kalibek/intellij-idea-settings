@@ -48,6 +48,12 @@
         <mark key="." line="10" column="75" />
         <mark key="^" line="10" column="75" />
       </file>
+      <file name="$USER_HOME$/projects/simple/main.go" timestamp="1530531597541">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="31" />
+        <mark key="." line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-db-migration/src/main/resources/bin/patch.properties" timestamp="1529988442446">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="24" />
@@ -317,7 +323,7 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/spotbidding/src/test/java/com/alpegagroup/ngmp/test/api/spotbidding/stepdefs/BiddableOfferPostStepDefs.java" timestamp="1530529728594">
+      <file name="$USER_HOME$/projects/ngmp-api-tests/spotbidding/src/test/java/com/alpegagroup/ngmp/test/api/spotbidding/stepdefs/BiddableOfferPostStepDefs.java" timestamp="1530530563468">
         <mark key="'" line="13" column="26" />
         <mark key="[" line="35" column="63" />
         <mark key="]" line="35" column="82" />
@@ -531,13 +537,13 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>simple</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>simple</text>
       </register>
       <register name="/" type="4">
         <text>nextInt</text>
