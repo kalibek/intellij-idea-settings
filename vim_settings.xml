@@ -89,12 +89,12 @@
         <mark key="^" line="48" column="30" />
         <mark key="." line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1530600946439">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1530606064167">
         <mark key="'" line="139" column="48" />
-        <mark key="[" line="185" column="76" />
-        <mark key="]" line="185" column="76" />
-        <mark key="^" line="185" column="76" />
-        <mark key="." line="185" column="76" />
+        <mark key="[" line="349" column="31" />
+        <mark key="]" line="349" column="62" />
+        <mark key="^" line="349" column="62" />
+        <mark key="." line="349" column="62" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/handler/BiddableExceptionMapper.java" timestamp="1530278338031">
         <mark key="[" line="9" column="9" />
@@ -146,11 +146,12 @@
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1530533663458">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="15" column="48" />
-        <mark key="." line="11" column="71" />
-        <mark key="^" line="11" column="71" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1530606789649">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="48" column="2" />
+        <mark key="]" line="48" column="3" />
+        <mark key="." line="48" column="3" />
+        <mark key="^" line="48" column="3" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactEmail.java" timestamp="1526293167616">
         <mark key="[" line="25" column="4" />
@@ -453,7 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="25" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
       <jump line="133" column="57" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
       <jump line="136" column="57" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
       <jump line="142" column="60" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
@@ -553,31 +553,26 @@
       <jump line="135" column="27" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="139" column="48" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="22" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>type KeyVal struct {
-	id  int
-	val int
-}</text>
+        <text>24958</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>24958</text>
       </register>
       <register name="/" type="4">
-        <text>isEur</text>
+        <text>company</text>
       </register>
-      <register name="0" type="4">
-        <text>type KeyVal struct {
-	id  int
-	val int
-}</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0IG0ucGVyY2VudGFnZV9xdW90ZV9wcl9hdWQsIG0ubWluX3F1b3RlX3ByX2F1ZCwgbS5tYXhfcXVvdGVfcHJfYXVkCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -611,9 +606,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isEur</last-search>
+      <last-search>company</last-search>
       <last-offset />
-      <last-pattern>isEur</last-pattern>
+      <last-pattern>company</last-pattern>
       <last-replace>delivery</last-replace>
       <last-substitute>pickUp</last-substitute>
       <last-dir>1</last-dir>
@@ -621,7 +616,6 @@
     </search>
     <history>
       <history-search>
-        <entry>window</entry>
         <entry>Window</entry>
         <entry>ok</entry>
         <entry>cancel</entry>
@@ -641,6 +635,7 @@
         <entry>nextInt</entry>
         <entry>refresh</entry>
         <entry>isEur</entry>
+        <entry>company</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ / /g</entry>
@@ -712,6 +707,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
