@@ -89,7 +89,7 @@
         <mark key="^" line="48" column="30" />
         <mark key="." line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1530606064167">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1530615920245">
         <mark key="'" line="139" column="48" />
         <mark key="[" line="349" column="31" />
         <mark key="]" line="349" column="62" />
@@ -113,10 +113,6 @@
         <mark key="]" line="2" column="4" />
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/serializer/ZonedDateTimeAdapter.java" timestamp="1530278905651">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="119" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/PopupPanel.java" timestamp="1529905065147">
         <mark key="'" line="90" column="13" />
@@ -146,12 +142,12 @@
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1530606789649">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1530615626092">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="48" column="2" />
-        <mark key="]" line="48" column="3" />
-        <mark key="." line="48" column="3" />
-        <mark key="^" line="48" column="3" />
+        <mark key="[" line="57" column="1" />
+        <mark key="]" line="57" column="2" />
+        <mark key="." line="57" column="2" />
+        <mark key="^" line="57" column="1" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactEmail.java" timestamp="1526293167616">
         <mark key="[" line="25" column="4" />
@@ -310,6 +306,9 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/wildfly/conf/standalone/standalone.xml" timestamp="1529394417180">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/JavaScript Console" timestamp="1530616027657">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/lang/Object.java" timestamp="1530156480383">
         <mark key="'" line="36" column="13" />
       </file>
@@ -347,7 +346,7 @@
         <mark key="." line="35" column="85" />
         <mark key="^" line="35" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530509278018">
+      <file name="/Dummy.txt" timestamp="1530615841080">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="47" />
@@ -560,19 +559,19 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>r_aud</text>
+        <text encoding="base64">MDAwIA==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>r_aud</text>
+        <text encoding="base64">MDAwIA==</text>
       </register>
       <register name="/" type="4">
         <text>company</text>
       </register>
       <register name="0" type="4">
-        <text>m.percentage_quote_pr_aud, m.min_quote_pr_aud, m.max_quote_pr_aud</text>
+        <text>13962</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
