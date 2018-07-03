@@ -334,11 +334,11 @@
       <file name="/dummy.sql" timestamp="1530522340937">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1530533671414">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="36" />
-        <mark key="^" line="12" column="8" />
-        <mark key="." line="24" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1530608339786">
+        <mark key="[" line="20" column="64" />
+        <mark key="]" line="20" column="69" />
+        <mark key="^" line="20" column="69" />
+        <mark key="." line="20" column="69" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/spotbidding/src/test/java/com/alpegagroup/ngmp/test/api/spotbidding/stepdefs/BiddableOfferPostStepDefs.java" timestamp="1530530563468">
         <mark key="'" line="13" column="26" />
@@ -560,19 +560,19 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>24958</text>
+        <text>r_aud</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>24958</text>
+        <text>r_aud</text>
       </register>
       <register name="/" type="4">
         <text>company</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IG0ucGVyY2VudGFnZV9xdW90ZV9wcl9hdWQsIG0ubWluX3F1b3RlX3ByX2F1ZCwgbS5tYXhfcXVvdGVfcHJfYXVkCg==</text>
+      <register name="0" type="4">
+        <text>m.percentage_quote_pr_aud, m.min_quote_pr_aud, m.max_quote_pr_aud</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
