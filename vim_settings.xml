@@ -424,6 +424,12 @@
       <file name="/usr/local/go/src/net/http/server.go" timestamp="1529999327950">
         <mark key="'" line="887" column="32" />
       </file>
+      <file name="$USER_HOME$/projects/simple/http-worker.go" timestamp="1530595302075">
+        <mark key="[" line="12" column="52" />
+        <mark key="]" line="12" column="50" />
+        <mark key="^" line="12" column="50" />
+        <mark key="." line="12" column="50" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/ConfirmationBody.java" timestamp="1529911587949">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="4" />
