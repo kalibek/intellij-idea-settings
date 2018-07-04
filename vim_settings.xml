@@ -89,11 +89,12 @@
         <mark key="^" line="48" column="30" />
         <mark key="." line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1530676174084">
-        <mark key="[" line="107" column="31" />
-        <mark key="]" line="107" column="62" />
-        <mark key="^" line="107" column="62" />
-        <mark key="." line="107" column="62" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1530677425349">
+        <mark key="'" line="184" column="89" />
+        <mark key="[" line="263" column="19" />
+        <mark key="]" line="263" column="19" />
+        <mark key="^" line="262" column="15" />
+        <mark key="." line="263" column="19" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/handler/BiddableExceptionMapper.java" timestamp="1530278338031">
         <mark key="[" line="9" column="9" />
@@ -452,11 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="57" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="136" column="57" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="142" column="60" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="144" column="57" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="146" column="29" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
       <jump line="150" column="65" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
       <jump line="151" column="56" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
       <jump line="155" column="83" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
@@ -552,25 +548,30 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="139" column="48" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="22" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" />
+      <jump line="185" column="88" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="186" column="8" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="266" column="49" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="263" column="19" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="184" column="89" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">MDAwIA==</text>
+        <text>)</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MDAwIA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>scale</text>
+        <text>getPerc</text>
       </register>
-      <register name="0" type="4">
-        <text>13962</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwZXJjZW50ID0gcHJpY2luZ0luZm8uZ2V0UGVyY2VudGFnZSgpID09IG51bGwgPyAwIDogcHJpY2luZ0luZm8uZ2V0UGVyY2VudGFnZSgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -604,19 +605,16 @@
       </register>
     </registers>
     <search>
-      <last-search>scale</last-search>
+      <last-search>getPerc</last-search>
       <last-offset />
-      <last-pattern>scale</last-pattern>
-      <last-replace>delivery</last-replace>
-      <last-substitute>pickUp</last-substitute>
+      <last-pattern>getPerc</last-pattern>
+      <last-replace>BigDecimal.ZERO</last-replace>
+      <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ok</entry>
-        <entry>cancel</entry>
-        <entry>fee</entry>
         <entry>createAn</entry>
         <entry>setWidget</entry>
         <entry>some</entry>
@@ -634,12 +632,11 @@
         <entry>isEur</entry>
         <entry>company</entry>
         <entry>scale</entry>
+        <entry>Percentage</entry>
+        <entry>0</entry>
+        <entry>getPerc</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ / /g</entry>
-        <entry>q</entry>
-        <entry encoding="base64">JzwsJz5zL3B1YmxpYy9wcml2YXRlL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL2h0dHBzOlwvXC9hamF4bWFwcy1ldS1uLXRlc3QuY2xvdWQucHR2Z3JvdXAuY29tXC9hamF4Ly4uXC8vZw==</entry>
         <entry>%s/356c1921-2af7-491f-886e-27da30a624cb/insert_xtoken_here/g</entry>
         <entry>%s/ptv.useCloud=true/ptv.useCloud=false/g</entry>
         <entry encoding="base64">JzwsJz5zL2FjdGl2ZW1xL2VsYXN0aWNhY2hlL2c=</entry>
@@ -655,6 +652,10 @@
         <entry>wq</entry>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz5zL3BpY2tVcC9kZWxpdmVyeS9n</entry>
+        <entry encoding="base64">JzwsJz5zL1BlcmNlbnRhZ2UvbWluL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1BlcmNlbnRhZ2UvTWluL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1BlcmNlbnRhZ2UvTWF4L2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzAvQmlnRGVjaW1hbC5aRVJPL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
