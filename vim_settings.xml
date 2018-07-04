@@ -69,7 +69,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/JMSPublisher.java" timestamp="1530693120319">
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/JMSPublisher.java" timestamp="1530694523029">
         <mark key="[" line="16" column="39" />
         <mark key="]" line="16" column="38" />
         <mark key="^" line="16" column="38" />
@@ -82,7 +82,7 @@
         <mark key="." line="69" column="55" />
         <mark key="^" line="58" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/transportorder/TransportOrderClient.java" timestamp="1530692912674">
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/transportorder/TransportOrderClient.java" timestamp="1530694531629">
         <mark key="'" line="31" column="7" />
         <mark key="[" line="55" column="12" />
         <mark key="]" line="55" column="42" />
@@ -369,6 +369,12 @@
         <mark key="." line="346" column="18" />
         <mark key="^" line="346" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/ejb/JNDIConfig.java" timestamp="1530694718972">
+        <mark key="[" line="43" column="35" />
+        <mark key="]" line="43" column="40" />
+        <mark key="." line="43" column="40" />
+        <mark key="^" line="43" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/fx/docker/postgres/Dockerfile" timestamp="1529639360469">
         <mark key="[" line="16" column="50" />
         <mark key="]" line="16" column="53" />
@@ -441,6 +447,13 @@
         <mark key="." line="69" column="27" />
         <mark key="^" line="59" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1530694354071">
+        <mark key="'" line="528" column="86" />
+        <mark key="[" line="579" column="44" />
+        <mark key="]" line="579" column="44" />
+        <mark key="^" line="577" column="83" />
+        <mark key="." line="579" column="44" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/audit/manager/AuditManager.java" timestamp="1530692569387">
         <mark key="[" line="86" column="16" />
         <mark key="]" line="86" column="46" />
@@ -471,7 +484,7 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbClientService.java" timestamp="1530692488547">
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbClientService.java" timestamp="1530694509944">
         <mark key="'" line="16" column="28" />
         <mark key="[" line="18" column="28" />
         <mark key="]" line="18" column="41" />
@@ -487,10 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="56" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="13" column="38" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="14" column="38" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="41" column="22" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
       <jump line="49" column="28" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
       <jump line="64" column="46" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
       <jump line="87" column="69" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
@@ -587,43 +596,47 @@
       <jump line="32" column="0" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/impl/FreightOfferActionManagerImpl.java" />
       <jump line="56" column="11" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/transportorder/TransportOrderClient.java" />
       <jump line="31" column="7" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/transportorder/TransportOrderClient.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" />
+      <jump line="485" column="34" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" />
+      <jump line="486" column="77" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" />
+      <jump line="528" column="86" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>BI_EXTERNAL_QUEUE</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>BI_EXTERNAL_QUEUE</text>
       </register>
       <register name="/" type="4">
-        <text>_</text>
+        <text>Qu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXNiQ2xpZW50ID0gbmV3IE5vdGlmeVdLVFNDbGllbnQoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEpNU19CSV9FWFRFUk5BTF9RVUVVRSA9ICJqYXZhOi9GeEptc0JpRXh0ZXJuYWxRdWV1ZSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86IGltcGxlbWVudAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBFSkIK</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE86IGltcGxlbWVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTm90aWZ5V0tUU0NsaWVudCBub3RpZnlXS1RTQ2xpZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIEBFSkIK</text>
@@ -632,16 +645,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTm90aWZ5V0tUU0NsaWVudCBub3RpZnlXS1RTQ2xpZW50Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_</last-search>
+      <last-search>Qu</last-search>
       <last-offset />
-      <last-pattern>_</last-pattern>
+      <last-pattern>Qu</last-pattern>
       <last-replace />
       <last-substitute>_</last-substitute>
       <last-dir>1</last-dir>
@@ -649,7 +662,6 @@
     </search>
     <history>
       <history-search>
-        <entry>-</entry>
         <entry>200</entry>
         <entry>search</entry>
         <entry>hashCode</entry>
@@ -669,6 +681,7 @@
         <entry>\.</entry>
         <entry>esb</entry>
         <entry>_</entry>
+        <entry>Qu</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3dpbGRmbHkvcG9zdGdyZXMvZw==</entry>
