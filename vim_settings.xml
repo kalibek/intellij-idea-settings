@@ -89,12 +89,12 @@
         <mark key="^" line="48" column="30" />
         <mark key="." line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1530677425349">
-        <mark key="'" line="184" column="89" />
-        <mark key="[" line="263" column="19" />
-        <mark key="]" line="263" column="19" />
-        <mark key="^" line="262" column="15" />
-        <mark key="." line="263" column="19" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1530679014993">
+        <mark key="'" line="188" column="29" />
+        <mark key="[" line="351" column="16" />
+        <mark key="]" line="351" column="16" />
+        <mark key="^" line="232" column="49" />
+        <mark key="." line="351" column="16" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/handler/BiddableExceptionMapper.java" timestamp="1530278338031">
         <mark key="[" line="9" column="9" />
@@ -142,12 +142,12 @@
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1530615626092">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1530679708054">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="57" column="1" />
-        <mark key="]" line="57" column="2" />
-        <mark key="." line="57" column="2" />
-        <mark key="^" line="57" column="1" />
+        <mark key="[" line="58" column="39" />
+        <mark key="]" line="58" column="38" />
+        <mark key="." line="58" column="38" />
+        <mark key="^" line="58" column="38" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactEmail.java" timestamp="1526293167616">
         <mark key="[" line="25" column="4" />
@@ -453,7 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="65" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
       <jump line="151" column="56" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
       <jump line="155" column="83" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
       <jump line="156" column="60" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
@@ -553,61 +552,62 @@
       <jump line="266" column="49" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="263" column="19" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="184" column="89" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="188" column="29" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>getPerc</text>
+        <text>showNon</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJjZW50ID0gcHJpY2luZ0luZm8uZ2V0UGVyY2VudGFnZSgpID09IG51bGwgPyAwIDogcHJpY2luZ0luZm8uZ2V0UGVyY2VudGFnZSgpOwo=</text>
+      <register name="0" type="4">
+        <text>where id = 13962;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb21wYW55IHdoZXJlIGNvbXBhbnlfbmFtZSBsaWtlICdDaGV2cm9uJzsK</text>
+        <text encoding="base64">ICAgICAgICBzaG93Tm9uRXVyV2FybmluZ3MgPSB0YXJnZXRDdXJyZW5jeS5nZXRWYWx1ZSgpLmVxdWFscygiRVVSIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbm5lciBqb2luIGNvbXBhbnlfdXNlciBjdSBvbiB1LmlkID0gY3UudXNlcl9pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB1c2VyX2luZm8gdQo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb21wYW55IHdoZXJlIGNvbXBhbnlfbmFtZSBsaWtlICdDaGV2cm9uJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXdnLkRvbmUoKQo=</text>
+        <text encoding="base64">ICBpbm5lciBqb2luIGNvbXBhbnlfdXNlciBjdSBvbiB1LmlkID0gY3UudXNlcl9pZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl3Zy4K</text>
+        <text encoding="base64">ICB1c2VyX2luZm8gdQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CXdnLkRvbmUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSB1Cg==</text>
+        <text encoding="base64">CQl3Zy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getPerc</last-search>
+      <last-search>showNon</last-search>
       <last-offset />
-      <last-pattern>getPerc</last-pattern>
+      <last-pattern>showNon</last-pattern>
       <last-replace>BigDecimal.ZERO</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -615,7 +615,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createAn</entry>
         <entry>setWidget</entry>
         <entry>some</entry>
         <entry>toString</entry>
@@ -635,6 +634,7 @@
         <entry>Percentage</entry>
         <entry>0</entry>
         <entry>getPerc</entry>
+        <entry>showNon</entry>
       </history-search>
       <history-cmd>
         <entry>%s/356c1921-2af7-491f-886e-27da30a624cb/insert_xtoken_here/g</entry>
