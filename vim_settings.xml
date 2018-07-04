@@ -89,12 +89,11 @@
         <mark key="^" line="48" column="30" />
         <mark key="." line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1530615920245">
-        <mark key="'" line="139" column="48" />
-        <mark key="[" line="349" column="31" />
-        <mark key="]" line="349" column="62" />
-        <mark key="^" line="349" column="62" />
-        <mark key="." line="349" column="62" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1530676174084">
+        <mark key="[" line="107" column="31" />
+        <mark key="]" line="107" column="62" />
+        <mark key="^" line="107" column="62" />
+        <mark key="." line="107" column="62" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/biddable/handler/BiddableExceptionMapper.java" timestamp="1530278338031">
         <mark key="[" line="9" column="9" />
@@ -568,7 +567,7 @@
         <text encoding="base64">MDAwIA==</text>
       </register>
       <register name="/" type="4">
-        <text>company</text>
+        <text>scale</text>
       </register>
       <register name="0" type="4">
         <text>13962</text>
@@ -605,9 +604,9 @@
       </register>
     </registers>
     <search>
-      <last-search>company</last-search>
+      <last-search>scale</last-search>
       <last-offset />
-      <last-pattern>company</last-pattern>
+      <last-pattern>scale</last-pattern>
       <last-replace>delivery</last-replace>
       <last-substitute>pickUp</last-substitute>
       <last-dir>1</last-dir>
@@ -615,7 +614,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Window</entry>
         <entry>ok</entry>
         <entry>cancel</entry>
         <entry>fee</entry>
@@ -635,6 +633,7 @@
         <entry>refresh</entry>
         <entry>isEur</entry>
         <entry>company</entry>
+        <entry>scale</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ / /g</entry>
