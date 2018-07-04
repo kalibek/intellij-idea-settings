@@ -142,12 +142,12 @@
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1530679708054">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1530680533314">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="58" column="39" />
-        <mark key="]" line="58" column="38" />
-        <mark key="." line="58" column="38" />
-        <mark key="^" line="58" column="38" />
+        <mark key="[" line="68" column="1" />
+        <mark key="]" line="68" column="1" />
+        <mark key="." line="68" column="1" />
+        <mark key="^" line="68" column="49" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactEmail.java" timestamp="1526293167616">
         <mark key="[" line="25" column="4" />
@@ -559,13 +559,13 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>s</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>showNon</text>
