@@ -142,12 +142,12 @@
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1530680533314">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1530681851680">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="68" column="1" />
-        <mark key="]" line="68" column="1" />
-        <mark key="." line="68" column="1" />
-        <mark key="^" line="68" column="49" />
+        <mark key="[" line="69" column="55" />
+        <mark key="]" line="69" column="55" />
+        <mark key="." line="69" column="55" />
+        <mark key="^" line="58" column="38" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-dto/src/main/java/com/wktransportservices/fx/integration/bursa/dto/ContactEmail.java" timestamp="1526293167616">
         <mark key="[" line="25" column="4" />
@@ -346,11 +346,11 @@
         <mark key="." line="35" column="85" />
         <mark key="^" line="35" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530615841080">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="47" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1530682174197">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="48" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="0" column="48" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/spotbidding/src/test/java/com/alpegagroup/ngmp/test/api/spotbidding/util/SpotBiddingUtils.java" timestamp="1530279503738">
         <mark key="[" line="40" column="0" />
@@ -559,13 +559,13 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>FX-10785 Representation of the converted transactional fee in SB UI</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>FX-10785 Representation of the converted transactional fee in SB UI</text>
       </register>
       <register name="/" type="4">
         <text>showNon</text>
@@ -574,31 +574,31 @@
         <text>where id = 13962;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXBkYXRlIHBheW1lbnRfbW9kZWwgc2V0IGN1cnJlbmN5X2lkID0gMiB3aGVyZSBpZCA9IDE7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93Tm9uRXVyV2FybmluZ3MgPSB0YXJnZXRDdXJyZW5jeS5nZXRWYWx1ZSgpLmVxdWFscygiRVVSIik7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzaG93Tm9uRXVyV2FybmluZ3MgPSB0YXJnZXRDdXJyZW5jeS5nZXRWYWx1ZSgpLmVxdWFscygiRVVSIik7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb21wYW55IHdoZXJlIGNvbXBhbnlfbmFtZSBsaWtlICdDaGV2cm9uJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbm5lciBqb2luIGNvbXBhbnlfdXNlciBjdSBvbiB1LmlkID0gY3UudXNlcl9pZAo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb21wYW55IHdoZXJlIGNvbXBhbnlfbmFtZSBsaWtlICdDaGV2cm9uJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1c2VyX2luZm8gdQo=</text>
+        <text encoding="base64">ICBpbm5lciBqb2luIGNvbXBhbnlfdXNlciBjdSBvbiB1LmlkID0gY3UudXNlcl9pZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXdnLkRvbmUoKQo=</text>
+        <text encoding="base64">ICB1c2VyX2luZm8gdQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl3Zy4K</text>
+        <text encoding="base64">CXdnLkRvbmUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CQl3Zy4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
