@@ -37,11 +37,12 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/simple/static/app.jsx" timestamp="1530688371751">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="25" />
-        <mark key="." line="8" column="25" />
-        <mark key="^" line="8" column="25" />
+      <file name="$USER_HOME$/projects/simple/static/app.jsx" timestamp="1530690551437">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="47" column="12" />
+        <mark key="]" line="47" column="29" />
+        <mark key="^" line="47" column="29" />
+        <mark key="." line="47" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1530074351214">
         <mark key="[" line="2" column="53" />
@@ -179,11 +180,11 @@
         <mark key="." line="9" column="44" />
         <mark key="^" line="9" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/simple/cmd/queue.go" timestamp="1530688442604">
-        <mark key="[" line="19" column="62" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/projects/simple/cmd/queue.go" timestamp="1530690237279">
+        <mark key="[" line="32" column="65" />
+        <mark key="]" line="33" column="27" />
+        <mark key="." line="33" column="27" />
+        <mark key="^" line="33" column="27" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1529991149953">
         <mark key="[" line="29" column="26" />
@@ -472,8 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="56" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="155" column="83" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
       <jump line="156" column="60" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
       <jump line="160" column="70" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
       <jump line="161" column="61" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
@@ -572,52 +571,54 @@
       <jump line="263" column="19" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="184" column="89" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="188" column="29" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="14" column="10" filename="$USER_HOME$/projects/simple/static/app.jsx" />
+      <jump line="48" column="0" filename="$USER_HOME$/projects/simple/static/app.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXIuUGF0aFByZWZpeCgiLyIpLkhhbmRsZXIoaHR0cC5GaWxlU2VydmVyKGh0dHAuRGlyKCIuL3N0YXRpYy8iKSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>I'm card with</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>prevState.counter + props.step</text>
+        <text>I'm card with</text>
       </register>
       <register name="/" type="4">
         <text>showNon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXIuSGFuZGxlRnVuYygiL2NsaWVudHMiLCBhcHAuY2xpZW50c0NvdW50KS5NZXRob2RzKCJHRVQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXt0aGlzLmdldENsaWVudHN9PlJlZnJlc2g8L2J1dHRvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXIuUGF0aFByZWZpeCgiLyIpLkhhbmRsZXIoaHR0cC5GaWxlU2VydmVyKGh0dHAuRGlyKCIuL3N0YXRpYy8iKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXIuUGF0aFByZWZpeCgiLyIpLkhhbmRsZXIoaHR0cC5GaWxlU2VydmVyKGh0dHAuRGlyKCIuL3N0YXRpYy8iKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Y2xhc3MgQ2FyZCBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7CiAgICByZW5kZXIgPSAoKSA9PiB7CiAgICAgICAgcmV0dXJuIDxkaXY+CiAgICAgICAgICAgIEknbSBjYXJkIHdpdGgge3RoaXMucHJvcHMubnVtfQogICAgICAgIDwvZGl2PgogICAgfQp9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXcuV3JpdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFkZENsaWVudCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Lgo=</text>
+        <text encoding="base64">CWEuQ2xpZW50cyA9IGFwcC5DbGllbnRzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
+        <text encoding="base64">CQlsb2cuUHJpbnRmKCJzb21ldGhpbmcgd3JvbmcgaGFwcGVuZWQgaW4gYWRkaW5nIGNsaWVudCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkgewo=</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
