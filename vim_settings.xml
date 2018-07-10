@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/sms/async/SMSClient.java" timestamp="1530696981492">
@@ -15,9 +15,6 @@
         <mark key="]" line="152" column="32" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1530700698147">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/simple/static/app.jsx" timestamp="1530690551437">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="47" column="12" />
@@ -25,20 +22,36 @@
         <mark key="^" line="47" column="29" />
         <mark key="." line="47" column="29" />
       </file>
-      <file name="/payment_model [spot_sprint@localhost]" timestamp="1530522338761">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSPublisher.java" timestamp="1531202196759">
         <mark key="[" line="42" column="5" />
         <mark key="]" line="44" column="3" />
         <mark key="." line="44" column="3" />
         <mark key="^" line="44" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/activemq-cluster/wildfly/standalone.xml" timestamp="1531223186540">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="338" column="47" />
+        <mark key="]" line="338" column="55" />
+        <mark key="." line="338" column="55" />
+        <mark key="^" line="338" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/activemq-cluster/activemq.xml" timestamp="1531222490710">
+        <mark key="[" line="112" column="120" />
+        <mark key="]" line="112" column="125" />
+        <mark key="." line="112" column="125" />
+        <mark key="^" line="112" column="125" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1531198893833">
         <mark key="'" line="129" column="54" />
         <mark key="[" line="147" column="0" />
         <mark key="]" line="148" column="32" />
         <mark key="." line="147" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/activemq-cluster/activemq/activemq.xml" timestamp="1531223847544">
+        <mark key="[" line="105" column="77" />
+        <mark key="]" line="105" column="82" />
+        <mark key="." line="105" column="77" />
+        <mark key="^" line="105" column="55" />
       </file>
       <file name="$USER_HOME$/projects/simple/static/style.css" timestamp="1530687191861">
         <mark key="[" line="6" column="140" />
@@ -52,9 +65,6 @@
         <mark key="]" line="143" column="19" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530616027657">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/simple/main.go" timestamp="1530533409045">
         <mark key="[" line="33" column="22" />
         <mark key="]" line="33" column="21" />
@@ -66,9 +76,6 @@
         <mark key="[" line="143" column="0" />
         <mark key="]" line="144" column="32" />
         <mark key="." line="143" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1530522340937">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1530608339786">
         <mark key="[" line="20" column="64" />
@@ -88,6 +95,12 @@
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="72" />
         <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/activemq-cluster/activemq/Dockerfile" timestamp="1531222649773">
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="1" column="36" />
+        <mark key="^" line="1" column="36" />
+        <mark key="." line="1" column="36" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1531197424007">
         <mark key="'" line="401" column="0" />
@@ -160,6 +173,13 @@
         <mark key="." line="86" column="33" />
         <mark key="^" line="86" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/activemq-cluster/docker-compose.yml" timestamp="1531223833158">
+        <mark key="'" line="19" column="23" />
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/java/com/wktransportservices/fx/utils/PropertyUtils.java" timestamp="1530692128117">
         <mark key="'" line="41" column="4" />
         <mark key="[" line="347" column="39" />
@@ -230,9 +250,6 @@
         <mark key="." line="127" column="25" />
         <mark key="^" line="127" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1531197164202">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" timestamp="1531198867394">
         <mark key="'" line="155" column="25" />
         <mark key="[" line="155" column="25" />
@@ -241,8 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="12" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
-      <jump line="117" column="26" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
       <jump line="118" column="50" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
       <jump line="121" column="70" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
       <jump line="122" column="78" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
@@ -341,61 +356,63 @@
       <jump line="160" column="65" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
       <jump line="130" column="67" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_null.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
+      <jump line="19" column="23" filename="$USER_HOME$/projects/activemq-cluster/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/activemq-cluster/wildfly/standalone.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>61826</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>61826</text>
       </register>
       <register name="/" type="4">
-        <text>=v18_09</text>
+        <text>61616</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNlbmRNZXNzYWdlKE1lc3NhZ2UgbWVzc2FnZSkgdGhyb3dzIFNlcnZpY2VFeGNlcHRpb24gewo=</text>
+      <register name="0" type="4">
+        <text>61616</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgMDk3Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMDk2Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBzZW5kTWVzc2FnZShNZXNzYWdlIG1lc3NhZ2UsIE1hcDxTdHJpbmcsIFN0cmluZz4gcGFyYW1zKSB0aHJvd3MgU2VydmljZUV4Y2VwdGlvbiB7CiAgICAgICAgc2VuZE1lc3NhZ2UobWVzc2FnZSk7CiAgICB9Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgMDk1Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMDk0Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBzZW5kTWVzc2FnZShNZXNzYWdlIG1lc3NhZ2UsIE1hcDxTdHJpbmcsIFN0cmluZz4gcGFyYW1zKSB0aHJvd3MgU2VydmljZUV4Y2VwdGlvbiB7CiAgICAgICAgc2VuZE1lc3NhZ2UobWVzc2FnZSk7CiAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgMDkzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlhbG9nLnNob3dJbkNlbnRlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMDkyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEJFQU5fU2VhcmNoQWN0b3IgPSAiamF2YTpnbG9iYWwvZngvZngtYnVzaW5lc3MtZWpiL1NlYXJjaEFjdG9yIWNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLmZ4LmJ1c2luZXNzLmFjdG9yLnJlbW90ZS5zZWFyY2guU2VhcmNoQWN0b3JSZW1vdGUiOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZTogamJvc3Mvd2lsZGZseQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEJFQU5fRmVhdHVyZUFjdG9yID0gImphdmE6Z2xvYmFsL2Z4L2Z4LWJ1c2luZXNzLWVqYi9GZWF0dXJlQWN0b3IhY29tLndrdHJhbnNwb3J0c2VydmljZXMuZnguYnVzaW5lc3MuYWN0b3IucmVtb3RlLmZlYXR1cmUuRmVhdHVyZUFjdG9yUmVtb3RlIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRyYW5zcG9ydENvbm5lY3RvciBuYW1lPSJ3cyIgdXJpPSJ3czovLzAuMC4wLjA6NjE2MTQ/bWF4aW11bUNvbm5lY3Rpb25zPTEwMDAmYW1wO3dpcmVGb3JtYXQubWF4RnJhbWVTaXplPTEwNDg1NzYwMCIvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>=v18_09</last-search>
+      <last-search>61616</last-search>
       <last-offset />
-      <last-pattern>=v18_09</last-pattern>
+      <last-pattern>61616</last-pattern>
       <last-replace>=18_09</last-replace>
       <last-substitute>=v18_09</last-substitute>
       <last-dir>1</last-dir>
@@ -403,7 +420,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pickUp</entry>
         <entry>next</entry>
         <entry>nextInt</entry>
         <entry>refresh</entry>
@@ -423,6 +439,7 @@
         <entry>audit</entry>
         <entry>v18_09</entry>
         <entry>=v18_09</entry>
+        <entry>61616</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Z4L3Nwb3QvZw==</entry>
@@ -433,7 +450,6 @@
         <entry encoding="base64">JzwsJz5zLy0vIC9n</entry>
         <entry encoding="base64">JzwsJz5zLy0vIC8=</entry>
         <entry>ew</entry>
-        <entry>wq</entry>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz5zL3BpY2tVcC9kZWxpdmVyeS9n</entry>
         <entry encoding="base64">JzwsJz5zL1BlcmNlbnRhZ2UvbWluL2c=</entry>
@@ -444,6 +460,7 @@
         <entry encoding="base64">JzwsJz5zL1wuL18vZw==</entry>
         <entry encoding="base64">JzwsJz5zL18vL2c=</entry>
         <entry>%s/=v18_09/=18_09/g</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
