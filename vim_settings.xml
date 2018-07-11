@@ -15,7 +15,9 @@
         <mark key="]" line="152" column="32" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1531298994135" />
+      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1531299840721">
+        <mark key="'" line="185" column="32" />
+      </file>
       <file name="/a.dummy" timestamp="1531294195410">
         <mark key="[" line="0" column="0" />
       </file>
@@ -246,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="78" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
       <jump line="123" column="21" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
       <jump line="157" column="30" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
       <jump line="161" column="15" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
@@ -346,6 +347,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/activemq-cluster/wildfly/standalone.xml" />
       <jump line="120" column="69" filename="$USER_HOME$/projects/activemq-cluster/activemq/activemq.xml" />
       <jump line="24" column="11" filename="$USER_HOME$/projects/amq-test/docker-compose.yml" />
+      <jump line="185" column="32" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -361,7 +363,7 @@
         <text>00</text>
       </register>
       <register name="/" type="4">
-        <text>61616</text>
+        <text>DELETE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBib29sZWFuIGlzQ29uc3VtZXIgPSBCb29sZWFuLnBhcnNlQm9vbGVhbihTeXN0ZW0uZ2V0ZW52KCJJU19DT05TVU1FUiIpKTsK</text>
@@ -398,9 +400,9 @@
       </register>
     </registers>
     <search>
-      <last-search>61616</last-search>
+      <last-search>DELETE</last-search>
       <last-offset />
-      <last-pattern>61616</last-pattern>
+      <last-pattern>DELETE</last-pattern>
       <last-replace>=18_09</last-replace>
       <last-substitute>=v18_09</last-substitute>
       <last-dir>1</last-dir>
@@ -408,7 +410,6 @@
     </search>
     <history>
       <history-search>
-        <entry>next</entry>
         <entry>nextInt</entry>
         <entry>refresh</entry>
         <entry>isEur</entry>
@@ -428,6 +429,7 @@
         <entry>v18_09</entry>
         <entry>=v18_09</entry>
         <entry>61616</entry>
+        <entry>DELETE</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Z4L3Nwb3QvZw==</entry>
