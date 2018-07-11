@@ -84,6 +84,11 @@
         <mark key="." line="42" column="29" />
         <mark key="^" line="42" column="42" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/src/main/java/com/wktransportservices/fx/bi/service/internal/queue/BiEventsPublisher.java" timestamp="1530695271304">
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="56" column="8" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/JMSPublisher.java" timestamp="1530700709981">
         <mark key="[" line="18" column="13" />
         <mark key="]" line="18" column="13" />
@@ -160,6 +165,11 @@
       <file name="/JavaScript Console" timestamp="1530616027657">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/core/Reciever.java" timestamp="1531293422383">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="/dummy.sql" timestamp="1530522340937">
         <mark key="[" line="0" column="0" />
       </file>
@@ -187,6 +197,12 @@
         <mark key="]" line="1" column="36" />
         <mark key="^" line="1" column="36" />
         <mark key="." line="1" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/runner/CommandLineAppStartupRunner.java" timestamp="1531293529390">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="20" />
+        <mark key="." line="27" column="20" />
+        <mark key="^" line="27" column="20" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1530694743635">
         <mark key="'" line="528" column="86" />
@@ -250,6 +266,11 @@
         <mark key="]" line="49" column="30" />
         <mark key="." line="49" column="30" />
         <mark key="^" line="49" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/src/main/java/com/wktransportservices/fx/bi/service/internal/queue/BiQueueMessageSendingService.java" timestamp="1530695532199">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/projects/simple/http-worker.go" timestamp="1530685929236">
         <mark key="[" line="14" column="20" />
@@ -381,14 +402,14 @@
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8c3Vic3lzdGVtIHhtbG5zPSJ1cm46amJvc3M6ZG9tYWluOm1lc3NhZ2luZy1hY3RpdmVtcToxLjAiLz4K</text>
+      <register name="&quot;" type="4">
+        <text>System.out.println</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text>System.out.println</text>
       </register>
       <register name="/" type="4">
         <text>61616</text>
@@ -397,31 +418,31 @@
         <text>dockerhub.tw.intra/ngmp/activemq</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8c3Vic3lzdGVtIHhtbG5zPSJ1cm46amJvc3M6ZG9tYWluOm1lc3NhZ2luZy1hY3RpdmVtcToxLjAiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlcy5hZGQobXNnKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PHNlcnZlciBuYW1lPSJkZWZhdWx0Ij4KICAgICAgICAgICAgICAgIDxpbi12bS1jb25uZWN0b3IgbmFtZT0iaW4tdm0iIHNlcnZlci1pZD0iMCIvPgogICAgICAgICAgICAgICAgPGptcy1xdWV1ZSBuYW1lPSJFeHBpcnlRdWV1ZSIgZW50cmllcz0iamF2YTovam1zL3F1ZXVlL0V4cGlyeVF1ZXVlIi8+CiAgICAgICAgICAgICAgICA8am1zLXF1ZXVlIG5hbWU9IkRMUSIgZW50cmllcz0iamF2YTovam1zL3F1ZXVlL0RMUSIvPgogICAgICAgICAgICAgICAgPGNvbm5lY3Rpb24tZmFjdG9yeSBuYW1lPSJJblZtQ29ubmVjdGlvbkZhY3RvcnkiIGVudHJpZXM9ImphdmE6L0Nvbm5lY3Rpb25GYWN0b3J5IiBjb25uZWN0b3JzPSJpbi12bSIvPgogICAgICAgICAgICAgICAgPHBvb2xlZC1jb25uZWN0aW9uLWZhY3RvcnkgbmFtZT0iYWN0aXZlbXEtcmEiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbnRyaWVzPSJqYXZhOi9KbXNYQSBqYXZhOmpib3NzL0RlZmF1bHRKTVNDb25uZWN0aW9uRmFjdG9yeSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbm5lY3RvcnM9ImluLXZtIiB0cmFuc2FjdGlvbj0ieGEiLz4KICAgICAgICAgICAgPC9zZXJ2ZXI+CiAgICAgICAgPC9zdWJzeXN0ZW0+</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGlmKG1lc3NhZ2VzLmdldExhc3QoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMDk3Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlua2VkTGlzdDxNc2c+IG1lc3NhZ2VzID0gbmV3IExpbmtlZExpc3Q8PigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMDk2Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMDk1Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c3Vic3lzdGVtIHhtbG5zPSJ1cm46amJvc3M6ZG9tYWluOm1lc3NhZ2luZy1hY3RpdmVtcToxLjAiLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMDk0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMDkzCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">PHNlcnZlciBuYW1lPSJkZWZhdWx0Ij4KICAgICAgICAgICAgICAgIDxpbi12bS1jb25uZWN0b3IgbmFtZT0iaW4tdm0iIHNlcnZlci1pZD0iMCIvPgogICAgICAgICAgICAgICAgPGptcy1xdWV1ZSBuYW1lPSJFeHBpcnlRdWV1ZSIgZW50cmllcz0iamF2YTovam1zL3F1ZXVlL0V4cGlyeVF1ZXVlIi8+CiAgICAgICAgICAgICAgICA8am1zLXF1ZXVlIG5hbWU9IkRMUSIgZW50cmllcz0iamF2YTovam1zL3F1ZXVlL0RMUSIvPgogICAgICAgICAgICAgICAgPGNvbm5lY3Rpb24tZmFjdG9yeSBuYW1lPSJJblZtQ29ubmVjdGlvbkZhY3RvcnkiIGVudHJpZXM9ImphdmE6L0Nvbm5lY3Rpb25GYWN0b3J5IiBjb25uZWN0b3JzPSJpbi12bSIvPgogICAgICAgICAgICAgICAgPHBvb2xlZC1jb25uZWN0aW9uLWZhY3RvcnkgbmFtZT0iYWN0aXZlbXEtcmEiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbnRyaWVzPSJqYXZhOi9KbXNYQSBqYXZhOmpib3NzL0RlZmF1bHRKTVNDb25uZWN0aW9uRmFjdG9yeSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbm5lY3RvcnM9ImluLXZtIiB0cmFuc2FjdGlvbj0ieGEiLz4KICAgICAgICAgICAgPC9zZXJ2ZXI+CiAgICAgICAgPC9zdWJzeXN0ZW0+</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMDkyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMDk3Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
