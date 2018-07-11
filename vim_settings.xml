@@ -61,8 +61,10 @@
         <mark key="]" line="144" column="32" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/amq-test/src/main/resources/application.properties" timestamp="1531292503425">
-        <mark key="[" line="3" column="39" />
+      <file name="$USER_HOME$/projects/amq-test/src/main/resources/application.properties" timestamp="1531295794924">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="33" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1531197424007">
         <mark key="'" line="401" column="0" />
@@ -77,11 +79,12 @@
         <mark key="." line="42" column="29" />
         <mark key="^" line="42" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/amq-test/docker-compose.yml" timestamp="1531295136711">
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="12" column="18" />
-        <mark key="^" line="12" column="6" />
-        <mark key="." line="12" column="7" />
+      <file name="$USER_HOME$/projects/amq-test/docker-compose.yml" timestamp="1531296239963">
+        <mark key="'" line="26" column="11" />
+        <mark key="[" line="35" column="17" />
+        <mark key="]" line="35" column="22" />
+        <mark key="^" line="15" column="21" />
+        <mark key="." line="35" column="22" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/Msg.java" timestamp="1531294760897">
         <mark key="[" line="11" column="37" />
@@ -89,10 +92,11 @@
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/runner/Producer.java" timestamp="1531295135069">
-        <mark key="[" line="25" column="65" />
-        <mark key="]" line="25" column="75" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/runner/Producer.java" timestamp="1531297663924">
+        <mark key="[" line="29" column="53" />
+        <mark key="]" line="29" column="53" />
+        <mark key="." line="29" column="53" />
+        <mark key="^" line="37" column="33" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/JMSPublisher.java" timestamp="1530700709981">
         <mark key="[" line="18" column="13" />
@@ -139,14 +143,19 @@
         <mark key="]" line="148" column="32" />
         <mark key="." line="147" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/AmqTestApplication.java" timestamp="1531296592900">
+        <mark key="[" line="34" column="57" />
+        <mark key="]" line="34" column="57" />
+        <mark key="^" line="34" column="57" />
+        <mark key="." line="34" column="57" />
+      </file>
       <file name="/JavaScript Console" timestamp="1530616027657">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/core/Reciever.java" timestamp="1531294841225">
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="28" column="36" />
-        <mark key="^" line="28" column="36" />
-        <mark key="." line="28" column="36" />
+      <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/core/Reciever.java" timestamp="1531296420682">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1530522340937">
         <mark key="[" line="0" column="0" />
@@ -181,11 +190,11 @@
         <mark key="]" line="156" column="32" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/amq-test/Dockerfile" timestamp="1531295092111">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="31" />
-        <mark key="^" line="2" column="31" />
-        <mark key="." line="2" column="31" />
+      <file name="$USER_HOME$/projects/amq-test/Dockerfile" timestamp="1531295613713">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/test/java/com/wktransportservices/fx/esb/client/audit/manager/AuditManagerTest.java" timestamp="1530696855098">
         <mark key="[" line="70" column="15" />
@@ -248,7 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="70" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
       <jump line="122" column="78" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
       <jump line="123" column="21" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
       <jump line="157" column="30" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
@@ -348,49 +356,50 @@
       <jump line="19" column="23" filename="$USER_HOME$/projects/activemq-cluster/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/activemq-cluster/wildfly/standalone.xml" />
       <jump line="120" column="69" filename="$USER_HOME$/projects/activemq-cluster/activemq/activemq.xml" />
+      <jump line="24" column="11" filename="$USER_HOME$/projects/amq-test/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>IS_CONSUMER</text>
+        <text>00</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>00</text>
       </register>
       <register name="/" type="4">
         <text>61616</text>
       </register>
-      <register name="0" type="4">
-        <text>IS_CONSUMER</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzQ29uc3VtZXIgPSBCb29sZWFuLnBhcnNlQm9vbGVhbihTeXN0ZW0uZ2V0ZW52KCJJU19DT05TVU1FUiIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMT0cuaW5mbygiPj4+IHNlbmRpbmcge30iLCBtZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzQ29uc3VtZXIgPSBCb29sZWFuLnBhcnNlQm9vbGVhbihTeXN0ZW0uZ2V0ZW52KCJJU19DT05TVU1FUiIpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMT0cuaW5mbygiPj4+IHNlbmRpbmcge30iLCBtcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihpc0NvbnN1bWVyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMT0cuaW5mbygiPj4+IHNlbmRpbmcge30iLCBtZXNzYWdlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMT0cuaW5mbygiPj4+IHNlbmRpbmcge30iLCBtcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlcy5hZGQobXNnKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlcy5hZGQobXNnKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmKG1lc3NhZ2VzLmdldExhc3QoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
