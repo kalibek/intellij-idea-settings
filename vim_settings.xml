@@ -15,18 +15,15 @@
         <mark key="]" line="152" column="32" />
         <mark key="." line="151" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1530700698147">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/simple/static/app.jsx" timestamp="1530690551437">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="47" column="12" />
         <mark key="]" line="47" column="29" />
         <mark key="^" line="47" column="29" />
         <mark key="." line="47" column="29" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSPublisher.java" timestamp="1531202196759">
-        <mark key="[" line="42" column="5" />
-        <mark key="]" line="44" column="3" />
-        <mark key="." line="44" column="3" />
-        <mark key="^" line="44" column="3" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/wildfly/standalone.xml" timestamp="1531286071151">
         <mark key="'" line="0" column="0" />
@@ -39,12 +36,6 @@
         <mark key="]" line="112" column="125" />
         <mark key="." line="112" column="125" />
         <mark key="^" line="112" column="125" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1531198893833">
-        <mark key="'" line="129" column="54" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="148" column="32" />
-        <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq/activemq.xml" timestamp="1531286046196">
         <mark key="'" line="120" column="69" />
@@ -77,6 +68,101 @@
         <mark key="]" line="144" column="32" />
         <mark key="." line="143" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/amq-test/src/main/resources/application.properties" timestamp="1531292503425">
+        <mark key="[" line="3" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1531197424007">
+        <mark key="'" line="401" column="0" />
+        <mark key="[" line="188" column="99" />
+        <mark key="]" line="188" column="109" />
+        <mark key="." line="188" column="99" />
+        <mark key="^" line="188" column="113" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/fax/async/FaxClient.java" timestamp="1530696954102">
+        <mark key="[" line="42" column="29" />
+        <mark key="]" line="42" column="29" />
+        <mark key="." line="42" column="29" />
+        <mark key="^" line="42" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/JMSPublisher.java" timestamp="1530700709981">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+        <mark key="^" line="18" column="17" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1530681851680">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="69" column="55" />
+        <mark key="]" line="69" column="55" />
+        <mark key="." line="69" column="55" />
+        <mark key="^" line="58" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/transportorder/TransportOrderClient.java" timestamp="1530697026180">
+        <mark key="'" line="31" column="7" />
+        <mark key="[" line="55" column="29" />
+        <mark key="]" line="55" column="29" />
+        <mark key="^" line="55" column="42" />
+        <mark key="." line="55" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/java/com/wktransportservices/fx/utils/PropertyUtils.java" timestamp="1530692128117">
+        <mark key="'" line="41" column="4" />
+        <mark key="[" line="347" column="39" />
+        <mark key="]" line="347" column="58" />
+        <mark key="." line="346" column="18" />
+        <mark key="^" line="346" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/ejb/JNDIConfig.java" timestamp="1531136488020">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="30" column="3" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSClient.java" timestamp="1531202120490">
+        <mark key="[" line="107" column="4" />
+        <mark key="]" line="107" column="26" />
+        <mark key="^" line="107" column="26" />
+        <mark key="." line="107" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_prod.properties" timestamp="1531198884515">
+        <mark key="'" line="147" column="20" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="156" column="32" />
+        <mark key="." line="155" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1531198906750">
+        <mark key="'" line="160" column="65" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="175" column="32" />
+        <mark key="^" line="172" column="39" />
+        <mark key="." line="172" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" timestamp="1531198867394">
+        <mark key="'" line="155" column="25" />
+        <mark key="[" line="155" column="25" />
+        <mark key="]" line="155" column="31" />
+        <mark key="." line="154" column="0" />
+      </file>
+      <file name="/payment_model [spot_sprint@localhost]" timestamp="1530522338761">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSPublisher.java" timestamp="1531202196759">
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="44" column="3" />
+        <mark key="." line="44" column="3" />
+        <mark key="^" line="44" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1531198893833">
+        <mark key="'" line="129" column="54" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="148" column="32" />
+        <mark key="." line="147" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1530616027657">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1530522340937">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1530608339786">
         <mark key="[" line="20" column="64" />
         <mark key="]" line="20" column="69" />
@@ -101,19 +187,6 @@
         <mark key="]" line="1" column="36" />
         <mark key="^" line="1" column="36" />
         <mark key="." line="1" column="36" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1531197424007">
-        <mark key="'" line="401" column="0" />
-        <mark key="[" line="188" column="99" />
-        <mark key="]" line="188" column="109" />
-        <mark key="." line="188" column="99" />
-        <mark key="^" line="188" column="113" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/fax/async/FaxClient.java" timestamp="1530696954102">
-        <mark key="[" line="42" column="29" />
-        <mark key="]" line="42" column="29" />
-        <mark key="." line="42" column="29" />
-        <mark key="^" line="42" column="42" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1530694743635">
         <mark key="'" line="528" column="86" />
@@ -140,32 +213,12 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/JMSPublisher.java" timestamp="1530700709981">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="13" />
-        <mark key="^" line="18" column="17" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1531199304918">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="94" column="47" />
         <mark key="]" line="94" column="59" />
         <mark key="^" line="94" column="59" />
         <mark key="." line="94" column="59" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1530681851680">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="69" column="55" />
-        <mark key="]" line="69" column="55" />
-        <mark key="." line="69" column="55" />
-        <mark key="^" line="58" column="38" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/transportorder/TransportOrderClient.java" timestamp="1530697026180">
-        <mark key="'" line="31" column="7" />
-        <mark key="[" line="55" column="29" />
-        <mark key="]" line="55" column="29" />
-        <mark key="^" line="55" column="42" />
-        <mark key="." line="55" column="29" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/audit/manager/AuditManager.java" timestamp="1530696207994">
         <mark key="[" line="86" column="33" />
@@ -180,19 +233,6 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/java/com/wktransportservices/fx/utils/PropertyUtils.java" timestamp="1530692128117">
-        <mark key="'" line="41" column="4" />
-        <mark key="[" line="347" column="39" />
-        <mark key="]" line="347" column="58" />
-        <mark key="." line="346" column="18" />
-        <mark key="^" line="346" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/ejb/JNDIConfig.java" timestamp="1531136488020">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="30" column="3" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbClient.java" timestamp="1531202096513">
         <mark key="[" line="8" column="56" />
         <mark key="]" line="8" column="62" />
@@ -205,23 +245,11 @@
         <mark key="." line="67" column="29" />
         <mark key="^" line="67" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSClient.java" timestamp="1531202120490">
-        <mark key="[" line="107" column="4" />
-        <mark key="]" line="107" column="26" />
-        <mark key="^" line="107" column="26" />
-        <mark key="." line="107" column="26" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/test/java/com/wktransportservices/fx/esb/client/transportorder/TransportOrderClientTest.java" timestamp="1530697050380">
         <mark key="[" line="49" column="15" />
         <mark key="]" line="49" column="30" />
         <mark key="." line="49" column="30" />
         <mark key="^" line="49" column="30" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_prod.properties" timestamp="1531198884515">
-        <mark key="'" line="147" column="20" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="156" column="32" />
-        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/projects/simple/http-worker.go" timestamp="1530685929236">
         <mark key="[" line="14" column="20" />
@@ -236,13 +264,6 @@
         <mark key="." line="26" column="103" />
         <mark key="^" line="26" column="103" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1531198906750">
-        <mark key="'" line="160" column="65" />
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="175" column="32" />
-        <mark key="^" line="172" column="39" />
-        <mark key="." line="172" column="39" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/impl/FreightOfferActionManagerImpl.java" timestamp="1530696969021">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="127" column="25" />
@@ -250,11 +271,8 @@
         <mark key="." line="127" column="25" />
         <mark key="^" line="127" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" timestamp="1531198867394">
-        <mark key="'" line="155" column="25" />
-        <mark key="[" line="155" column="25" />
-        <mark key="]" line="155" column="31" />
-        <mark key="." line="154" column="0" />
+      <file name="/fragment.java" timestamp="1531197164202">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
