@@ -28,12 +28,12 @@
         <mark key="." line="44" column="3" />
         <mark key="^" line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/activemq-cluster/wildfly/standalone.xml" timestamp="1531223186540">
+      <file name="$USER_HOME$/projects/activemq-cluster/wildfly/standalone.xml" timestamp="1531284334193">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="338" column="47" />
-        <mark key="]" line="338" column="55" />
-        <mark key="." line="338" column="55" />
-        <mark key="^" line="338" column="55" />
+        <mark key="[" line="314" column="0" />
+        <mark key="]" line="314" column="0" />
+        <mark key="^" line="313" column="66" />
+        <mark key="." line="314" column="0" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq.xml" timestamp="1531222490710">
         <mark key="[" line="112" column="120" />
@@ -363,8 +363,8 @@
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>build</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
@@ -379,31 +379,31 @@
         <text>dockerhub.tw.intra/ngmp/activemq</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMDk3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMDk2Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PHNlcnZlciBuYW1lPSJkZWZhdWx0Ij4KICAgICAgICAgICAgICAgIDxpbi12bS1jb25uZWN0b3IgbmFtZT0iaW4tdm0iIHNlcnZlci1pZD0iMCIvPgogICAgICAgICAgICAgICAgPGptcy1xdWV1ZSBuYW1lPSJFeHBpcnlRdWV1ZSIgZW50cmllcz0iamF2YTovam1zL3F1ZXVlL0V4cGlyeVF1ZXVlIi8+CiAgICAgICAgICAgICAgICA8am1zLXF1ZXVlIG5hbWU9IkRMUSIgZW50cmllcz0iamF2YTovam1zL3F1ZXVlL0RMUSIvPgogICAgICAgICAgICAgICAgPGNvbm5lY3Rpb24tZmFjdG9yeSBuYW1lPSJJblZtQ29ubmVjdGlvbkZhY3RvcnkiIGVudHJpZXM9ImphdmE6L0Nvbm5lY3Rpb25GYWN0b3J5IiBjb25uZWN0b3JzPSJpbi12bSIvPgogICAgICAgICAgICAgICAgPHBvb2xlZC1jb25uZWN0aW9uLWZhY3RvcnkgbmFtZT0iYWN0aXZlbXEtcmEiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbnRyaWVzPSJqYXZhOi9KbXNYQSBqYXZhOmpib3NzL0RlZmF1bHRKTVNDb25uZWN0aW9uRmFjdG9yeSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbm5lY3RvcnM9ImluLXZtIiB0cmFuc2FjdGlvbj0ieGEiLz4KICAgICAgICAgICAgPC9zZXJ2ZXI+CiAgICAgICAgPC9zdWJzeXN0ZW0+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMDk1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMDk3Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMDk0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMDk2Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMDkzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMDk1Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMDkyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMDk0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgMDkzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZTogamJvc3Mvd2lsZGZseQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMDkyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRyYW5zcG9ydENvbm5lY3RvciBuYW1lPSJ3cyIgdXJpPSJ3czovLzAuMC4wLjA6NjE2MTQ/bWF4aW11bUNvbm5lY3Rpb25zPTEwMDAmYW1wO3dpcmVGb3JtYXQubWF4RnJhbWVTaXplPTEwNDg1NzYwMCIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
