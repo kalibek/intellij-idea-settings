@@ -28,12 +28,11 @@
         <mark key="." line="44" column="3" />
         <mark key="^" line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/activemq-cluster/wildfly/standalone.xml" timestamp="1531284334193">
+      <file name="$USER_HOME$/projects/activemq-cluster/wildfly/standalone.xml" timestamp="1531286071151">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="314" column="0" />
-        <mark key="]" line="314" column="0" />
-        <mark key="^" line="313" column="66" />
-        <mark key="." line="314" column="0" />
+        <mark key="[" line="333" column="0" />
+        <mark key="]" line="333" column="0" />
+        <mark key="." line="333" column="0" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq.xml" timestamp="1531222490710">
         <mark key="[" line="112" column="120" />
@@ -47,7 +46,8 @@
         <mark key="]" line="148" column="32" />
         <mark key="." line="147" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/activemq-cluster/activemq/activemq.xml" timestamp="1531223847544">
+      <file name="$USER_HOME$/projects/activemq-cluster/activemq/activemq.xml" timestamp="1531286046196">
+        <mark key="'" line="120" column="69" />
         <mark key="[" line="105" column="77" />
         <mark key="]" line="105" column="82" />
         <mark key="." line="105" column="77" />
@@ -258,7 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="50" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
       <jump line="121" column="70" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
       <jump line="122" column="78" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
       <jump line="123" column="21" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
@@ -358,13 +357,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="19" column="23" filename="$USER_HOME$/projects/activemq-cluster/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/activemq-cluster/wildfly/standalone.xml" />
+      <jump line="120" column="69" filename="$USER_HOME$/projects/activemq-cluster/activemq/activemq.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8c3Vic3lzdGVtIHhtbG5zPSJ1cm46amJvc3M6ZG9tYWluOm1lc3NhZ2luZy1hY3RpdmVtcToxLjAiLz4K</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
@@ -379,31 +379,31 @@
         <text>dockerhub.tw.intra/ngmp/activemq</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8c3Vic3lzdGVtIHhtbG5zPSJ1cm46amJvc3M6ZG9tYWluOm1lc3NhZ2luZy1hY3RpdmVtcToxLjAiLz4K</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">PHNlcnZlciBuYW1lPSJkZWZhdWx0Ij4KICAgICAgICAgICAgICAgIDxpbi12bS1jb25uZWN0b3IgbmFtZT0iaW4tdm0iIHNlcnZlci1pZD0iMCIvPgogICAgICAgICAgICAgICAgPGptcy1xdWV1ZSBuYW1lPSJFeHBpcnlRdWV1ZSIgZW50cmllcz0iamF2YTovam1zL3F1ZXVlL0V4cGlyeVF1ZXVlIi8+CiAgICAgICAgICAgICAgICA8am1zLXF1ZXVlIG5hbWU9IkRMUSIgZW50cmllcz0iamF2YTovam1zL3F1ZXVlL0RMUSIvPgogICAgICAgICAgICAgICAgPGNvbm5lY3Rpb24tZmFjdG9yeSBuYW1lPSJJblZtQ29ubmVjdGlvbkZhY3RvcnkiIGVudHJpZXM9ImphdmE6L0Nvbm5lY3Rpb25GYWN0b3J5IiBjb25uZWN0b3JzPSJpbi12bSIvPgogICAgICAgICAgICAgICAgPHBvb2xlZC1jb25uZWN0aW9uLWZhY3RvcnkgbmFtZT0iYWN0aXZlbXEtcmEiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbnRyaWVzPSJqYXZhOi9KbXNYQSBqYXZhOmpib3NzL0RlZmF1bHRKTVNDb25uZWN0aW9uRmFjdG9yeSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbm5lY3RvcnM9ImluLXZtIiB0cmFuc2FjdGlvbj0ieGEiLz4KICAgICAgICAgICAgPC9zZXJ2ZXI+CiAgICAgICAgPC9zdWJzeXN0ZW0+</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgMDk3Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgMDk2Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgMDk1Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgMDk0Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgMDkzCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMDkyCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgMDkyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
