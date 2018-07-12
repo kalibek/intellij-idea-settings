@@ -12,8 +12,11 @@
       <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1531307067940">
         <mark key="'" line="185" column="32" />
       </file>
-      <file name="/a.dummy" timestamp="1531294195410">
-        <mark key="[" line="0" column="0" />
+      <file name="/a.dummy" timestamp="1531392849544">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/resources/static/index.html" timestamp="1531302514991">
         <mark key="[" line="0" column="0" />
@@ -205,12 +208,12 @@
         <mark key="^" line="94" column="59" />
         <mark key="." line="94" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/FxApplication.java" timestamp="1531391336965">
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/FxApplication.java" timestamp="1531392867972">
         <mark key="'" line="56" column="52" />
-        <mark key="[" line="309" column="42" />
-        <mark key="]" line="309" column="47" />
-        <mark key="^" line="309" column="47" />
-        <mark key="." line="309" column="47" />
+        <mark key="[" line="293" column="0" />
+        <mark key="]" line="293" column="0" />
+        <mark key="^" line="297" column="13" />
+        <mark key="." line="293" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/audit/manager/AuditManager.java" timestamp="1530696207994">
         <mark key="[" line="86" column="33" />
@@ -380,8 +383,8 @@
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">RE1JTiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBQbGFjZSBkZWZhdWx0UGxhY2U7Cg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
@@ -396,34 +399,34 @@
         <text>UserType.ADMIN == RightsSingleton.getInstance().getUserType() ||</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQbGFjZSBkZWZhdWx0UGxhY2U7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSZXN0VGVtcGxhdGUgcmVzdFRlbXBsYXRlID0gbmV3IFJlc3RUZW1wbGF0ZSgpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBSZXN0VGVtcGxhdGUgcmVzdFRlbXBsYXRlID0gbmV3IFJlc3RUZW1wbGF0ZSgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>@PostMapping
     public void saveError(@RequestBody String error) {
         errors.add(error);
     }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnJlc2goKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnJlc2goKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
