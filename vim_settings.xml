@@ -23,11 +23,11 @@
         <mark key="]" line="14" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1531389636847">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="26" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="12" column="15" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1531394175963">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="8" />
+        <mark key="^" line="14" column="8" />
+        <mark key="." line="14" column="8" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq.xml" timestamp="1531222490710">
         <mark key="[" line="112" column="120" />
@@ -126,11 +126,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-security/src/main/java/com/wktransportservices/fx/web/security/profiles/SamlAuthenticationSuccessHandler.java" timestamp="1531390260954">
-        <mark key="[" line="125" column="41" />
-        <mark key="]" line="125" column="73" />
-        <mark key="^" line="125" column="73" />
-        <mark key="." line="125" column="73" />
+      <file name="$USER_HOME$/projects/fx/fx-security/src/main/java/com/wktransportservices/fx/web/security/profiles/SamlAuthenticationSuccessHandler.java" timestamp="1531394562691">
+        <mark key="[" line="113" column="59" />
+        <mark key="]" line="113" column="59" />
+        <mark key="^" line="126" column="45" />
+        <mark key="." line="113" column="59" />
       </file>
       <file name="/payment_model [spot_sprint@localhost]" timestamp="1530522338761">
         <mark key="[" line="0" column="0" />
@@ -165,7 +165,7 @@
         <mark key="^" line="20" column="69" />
         <mark key="." line="20" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531199322842">
+      <file name="/Dummy.txt" timestamp="1531397324682">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="72" />
@@ -208,12 +208,12 @@
         <mark key="^" line="94" column="59" />
         <mark key="." line="94" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/FxApplication.java" timestamp="1531392867972">
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/FxApplication.java" timestamp="1531394001162">
         <mark key="'" line="56" column="52" />
-        <mark key="[" line="293" column="0" />
-        <mark key="]" line="293" column="0" />
-        <mark key="^" line="297" column="13" />
-        <mark key="." line="293" column="0" />
+        <mark key="[" line="364" column="0" />
+        <mark key="]" line="364" column="0" />
+        <mark key="^" line="354" column="64" />
+        <mark key="." line="364" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/audit/manager/AuditManager.java" timestamp="1530696207994">
         <mark key="[" line="86" column="33" />
@@ -383,14 +383,14 @@
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBQbGFjZSBkZWZhdWx0UGxhY2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>GrantedAuthority</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RE1JTiA=</text>
+        <text>GrantedAuthority</text>
       </register>
       <register name="/" type="4">
         <text>RightsSingleton</text>
@@ -399,34 +399,37 @@
         <text>UserType.ADMIN == RightsSingleton.getInstance().getUserType() ||</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQbGFjZSBkZWZhdWx0UGxhY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodXNlci5nZXRVc2VyUm9sZXMoKS5pc0VtcHR5KCkgJiYgdXNlci5nZXQoKS5pc0VtcHR5KCkpIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBSZXN0VGVtcGxhdGUgcmVzdFRlbXBsYXRlID0gbmV3IFJlc3RUZW1wbGF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>@PostMapping
-    public void saveError(@RequestBody String error) {
-        errors.add(error);
-    }</text>
+        <text encoding="base64">aWYgKFJpZ2h0c1NpbmdsZXRvbi5nZXRJbnN0YW5jZSgpLmdldFJvbGVzKCkuaXNFbXB0eSgpICYmCiAgICAgICAgICAgICAgICAoVXNlclR5cGUuQURNSU4gPT0gUmlnaHRzU2luZ2xldG9uLmdldEluc3RhbmNlKCkuZ2V0VXNlclR5cGUoKSB8fAogICAgICAgICAgICAgICAgICAgICAgICBVc2VyVHlwZS5TVVBFUkFETUlOID09IFJpZ2h0c1NpbmdsZXRvbi5nZXRJbnN0YW5jZSgpLmdldFVzZXJUeXBlKCkKICAgICAgICAgICAgICAgICkpIHsKCiAgICAgICAgICAgIGRlZmF1bHRQbGFjZSA9IG5ldyBBZG1pblBsYWNlKCJhZG1pbiIpOwogICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQbGFjZSBkZWZhdWx0UGxhY2U7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnJlc2goKQo=</text>
+      <register name="8" type="4">
+        <text>if (RedirectRoute.POST_FREIGHT.equals(redirectRoute)) {
+            defaultPlace = new OfferListPlace(ListType.FREIGHTS);
+        } else if (RedirectRoute.SEARCH_FREIGHT.equals(redirectRoute)) {
+            defaultPlace = new OfferListPlace(ListType.FREIGHT_SEARCHES);
+        } else {
+            defaultPlace = new WelcomePlace();
+        }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQbGFjZSBkZWZhdWx0UGxhY2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
