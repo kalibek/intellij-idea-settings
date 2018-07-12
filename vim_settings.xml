@@ -123,7 +123,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-security/src/main/java/com/wktransportservices/fx/web/security/profiles/SamlAuthenticationSuccessHandler.java" timestamp="1531389247660" />
+      <file name="$USER_HOME$/projects/fx/fx-security/src/main/java/com/wktransportservices/fx/web/security/profiles/SamlAuthenticationSuccessHandler.java" timestamp="1531390260954">
+        <mark key="[" line="125" column="41" />
+        <mark key="]" line="125" column="73" />
+        <mark key="^" line="125" column="73" />
+        <mark key="." line="125" column="73" />
+      </file>
       <file name="/payment_model [spot_sprint@localhost]" timestamp="1530522338761">
         <mark key="[" line="0" column="0" />
       </file>
@@ -200,6 +205,13 @@
         <mark key="^" line="94" column="59" />
         <mark key="." line="94" column="59" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/FxApplication.java" timestamp="1531391336965">
+        <mark key="'" line="56" column="52" />
+        <mark key="[" line="309" column="42" />
+        <mark key="]" line="309" column="47" />
+        <mark key="^" line="309" column="47" />
+        <mark key="." line="309" column="47" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/audit/manager/AuditManager.java" timestamp="1530696207994">
         <mark key="[" line="86" column="33" />
         <mark key="]" line="86" column="33" />
@@ -263,11 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="21" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
-      <jump line="157" column="30" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
-      <jump line="161" column="15" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
-      <jump line="164" column="30" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
-      <jump line="168" column="15" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
       <jump line="171" column="30" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
       <jump line="175" column="15" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
       <jump line="178" column="30" filename="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" />
@@ -363,25 +370,30 @@
       <jump line="120" column="69" filename="$USER_HOME$/projects/activemq-cluster/activemq/activemq.xml" />
       <jump line="24" column="11" filename="$USER_HOME$/projects/amq-test/docker-compose.yml" />
       <jump line="185" column="32" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" />
+      <jump line="311" column="9" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/FxApplication.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/FxApplication.java" />
+      <jump line="54" column="45" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/FxApplication.java" />
+      <jump line="55" column="45" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/FxApplication.java" />
+      <jump line="56" column="52" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/FxApplication.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>fmichotte</text>
+        <text encoding="base64">RE1JTiA=</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>fmichotte</text>
+        <text encoding="base64">RE1JTiA=</text>
       </register>
       <register name="/" type="4">
-        <text>DELETE</text>
+        <text>RightsSingleton</text>
       </register>
       <register name="0" type="4">
-        <text>FXadmin2018</text>
+        <text>UserType.ADMIN == RightsSingleton.getInstance().getUserType() ||</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -418,9 +430,9 @@
       </register>
     </registers>
     <search>
-      <last-search>DELETE</last-search>
+      <last-search>RightsSingleton</last-search>
       <last-offset />
-      <last-pattern>DELETE</last-pattern>
+      <last-pattern>RightsSingleton</last-pattern>
       <last-replace>=18_09</last-replace>
       <last-substitute>=v18_09</last-substitute>
       <last-dir>1</last-dir>
@@ -428,9 +440,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nextInt</entry>
-        <entry>refresh</entry>
-        <entry>isEur</entry>
         <entry>company</entry>
         <entry>scale</entry>
         <entry>Percentage</entry>
@@ -448,6 +457,9 @@
         <entry>=v18_09</entry>
         <entry>61616</entry>
         <entry>DELETE</entry>
+        <entry>goto</entry>
+        <entry>\crights</entry>
+        <entry>RightsSingleton</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Z4L3Nwb3QvZw==</entry>
