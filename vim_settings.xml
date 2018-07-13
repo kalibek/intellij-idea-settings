@@ -114,12 +114,6 @@
         <mark key="^" line="30" column="3" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSClient.java" timestamp="1531202120490">
-        <mark key="[" line="107" column="4" />
-        <mark key="]" line="107" column="26" />
-        <mark key="^" line="107" column="26" />
-        <mark key="." line="107" column="26" />
-      </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/controller/Controller.java" timestamp="1531304942443">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -242,12 +236,6 @@
         <mark key="]" line="67" column="29" />
         <mark key="." line="67" column="29" />
         <mark key="^" line="67" column="42" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/test/java/com/wktransportservices/fx/esb/client/transportorder/TransportOrderClientTest.java" timestamp="1530697050380">
-        <mark key="[" line="49" column="15" />
-        <mark key="]" line="49" column="30" />
-        <mark key="." line="49" column="30" />
-        <mark key="^" line="49" column="30" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/src/main/java/com/wktransportservices/fx/bi/service/internal/queue/BiQueueMessageSendingService.java" timestamp="1531454585604">
         <mark key="[" line="33" column="34" />
