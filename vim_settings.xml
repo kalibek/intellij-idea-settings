@@ -23,11 +23,11 @@
         <mark key="]" line="14" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1531394175963">
-        <mark key="[" line="14" column="7" />
-        <mark key="]" line="14" column="8" />
-        <mark key="^" line="14" column="8" />
-        <mark key="." line="14" column="8" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1531461036290">
+        <mark key="[" line="24" column="52" />
+        <mark key="]" line="24" column="57" />
+        <mark key="^" line="24" column="57" />
+        <mark key="." line="24" column="57" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq.xml" timestamp="1531222490710">
         <mark key="[" line="112" column="120" />
@@ -372,13 +372,13 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>FXadmin2018</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>FXadmin2018</text>
       </register>
       <register name="/" type="4">
         <text>RightsSingleton</text>
