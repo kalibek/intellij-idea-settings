@@ -145,10 +145,10 @@
         <mark key="^" line="73" column="22" />
         <mark key="." line="73" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/OfferActionManager.java" timestamp="1531478881927">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/OfferActionManager.java" timestamp="1531479317708">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/ejb/JNDIConfig.java" timestamp="1531136488020">
         <mark key="[" line="17" column="0" />
@@ -197,6 +197,12 @@
         <mark key="]" line="49" column="38" />
         <mark key="." line="49" column="38" />
         <mark key="^" line="49" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/impl/VehicleOfferActionManagerImpl.java" timestamp="1531479389968">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1531472896681">
         <mark key="[" line="33" column="14" />
@@ -321,17 +327,14 @@
         <mark key="." line="14" column="53" />
         <mark key="^" line="14" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/impl/FreightOfferActionManagerImpl.java" timestamp="1531307088820">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="127" column="25" />
-        <mark key="]" line="127" column="25" />
-        <mark key="." line="127" column="25" />
-        <mark key="^" line="127" column="38" />
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/impl/FreightOfferActionManagerImpl.java" timestamp="1531479367086">
+        <mark key="'" line="36" column="13" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="62" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
-      <jump line="158" column="8" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
       <jump line="173" column="21" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
       <jump line="176" column="41" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
       <jump line="181" column="62" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
@@ -430,13 +433,15 @@
       <jump line="229" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="238" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="53" column="29" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="36" column="13" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/impl/FreightOfferActionManagerImpl.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/impl/VehicleOfferActionManagerImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2VuZE9mZmVyVG9URkMoRCBvZmZlciwgVXNlckRhdGEgdXNlckRhdGEpIHRocm93cyBTZXJ2aWNlRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
@@ -451,45 +456,60 @@
         <text>UserType.ADMIN == RightsSingleton.getInstance().getUserType() ||</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2VuZE9mZmVyVG9URkMoRCBvZmZlciwgVXNlckRhdGEgdXNlckRhdGEpIHRocm93cyBTZXJ2aWNlRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNUQVRFID0gInN0YXRlIjsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2VuZE9mZmVyVG9URkMoVmVoaWNsZU9mZmVyRFRPIG9mZmVyLCBVc2VyRGF0YSB1c2VyRGF0YSkgdGhyb3dzIFNlcnZpY2VFeGNlcHRpb24gewogICAgICAgIC8vIHdoeSBzaG91bGQgaXQgYmUgaGVyZT8KICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJpZ2h0c1NpbmdsZXRvbi5nZXRJbnN0YW5jZSgpOwo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>details.setTfcUser(ConditionFactory.getTFCCondition().isCondition());
-            details.setDisplayLinkToFC(FxApplicationPreferenceSingleton.getInstance()
-                    .getUserPreferenceDTO()
-                    .getDisplayLinkToFC());</text>
+        <text>public void sendOfferToTFC(FreightOfferDTO offer, UserData userData) throws ServiceException {
+        LOG.debug(&quot;Sending offer {} to TFC&quot;, offer.getId());
+
+        FreightDTOMapper dtoMapper = new FreightDTOMapper();
+        FreightOffer jaxbOffer = dtoMapper.map(offer);
+        if (jaxbOffer.getRefOfferId() == null || jaxbOffer.getRefOfferId().getId() == null) {
+            throw new IllegalStateException(&quot;Cannot send offer, refOfferId is null.&quot;);
+        }
+
+        XMLGregorianCalendar date = EsbClientUtil.getCurrentTime();
+        jaxbOffer.setRecipient(new User());
+        jaxbOffer.getRecipient().setLogin(userData.getUserLogin());
+
+        jaxbOffer.getRecipient().setCreationDate(date);
+
+        BusinessIdentifier recipientId = new BusinessIdentifier();
+        recipientId.setId(userData.getUserBusinessId());
+        jaxbOffer.getRecipient().setBusinessId(recipientId);
+
+        String body = xmlConversionBean.jaxbToString(jaxbOffer);
+
+        MessageBuilder builder = new MessageBuilder();
+
+        Message message = builder.itemType(ItemType.OFFER).domainType(DomainType.FREIGHT).date(date).body(body).build();
+        message.setCorrelationId(jaxbOffer.getRefOfferId().getId());
+        message.getHeader().getDestination().add(WktsBusinessProductEnum.TFC);
+        message.getHeader().getExchangeType().setAction(ActionType.CREATE);
+
+        client.sendMessage(message);
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHZvaWQgc2VuZE9mZmVyVG9URkMoRCBvZmZlciwgVXNlckRhdGEgdXNlckRhdGEpIHRocm93cyBTZXJ2aWNlRXhjZXB0aW9uOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>new ConditionalAction(ConditionFactory.getTFCCondition(), new Action() {
-            @Override
-            public void performAction() {
-                isTfcUser = true;
-                tabBar.remove(vehicleOfferList);
-            }
-
-            @Override
-            public void undoAction() {
-                // Do nothing
-            }
-        }).doCheck();</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZvaWQgc2VuZE9mZmVyVG9URkMoRCBvZmZlciwgVXNlckRhdGEgdXNlckRhdGEpIHRocm93cyBTZXJ2aWNlRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0VXNlclByZWZlcmVuY2VEVE8oKQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNUQVRFID0gInN0YXRlIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV0YWlscy5zZXREaXNwbGF5TGlua1RvRkMoRnhBcHBsaWNhdGlvblByZWZlcmVuY2VTaW5nbGV0b24uZ2V0SW5zdGFuY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJpZ2h0c1NpbmdsZXRvbi5nZXRJbnN0YW5jZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
