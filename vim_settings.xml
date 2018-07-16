@@ -204,11 +204,11 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1531472896681">
-        <mark key="[" line="33" column="14" />
-        <mark key="]" line="33" column="34" />
-        <mark key="^" line="33" column="34" />
-        <mark key="." line="33" column="34" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1531720943757">
+        <mark key="[" line="51" column="12" />
+        <mark key="]" line="51" column="13" />
+        <mark key="^" line="51" column="10" />
+        <mark key="." line="51" column="13" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/client/rights/RightsSingleton.java" timestamp="1531463099532">
         <mark key="[" line="35" column="0" />
@@ -441,19 +441,26 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGlmZmVyZW50IA==</text>
+        <text>,</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGlmZmVyZW50IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>quoteCurrency</text>
       </register>
       <register name="0" type="4">
-        <text>UserType.ADMIN == RightsSingleton.getInstance().getUserType() ||</text>
+        <text>select u.username, u.id, c2.*
+from
+  user_info u
+  inner join company_user cu on u.id = cu.user_id
+  inner join company c on cu.company_id = c.id
+  inner join payment_model m on c.id = m.company_id
+  inner join currency c2 on m.currency_id = c2.id
+where private_aud_payment_type = 'CARRIER' and currency_id != 2;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
