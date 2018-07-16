@@ -24,6 +24,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1531740191415" />
       <file name="$USER_HOME$/projects/amq-test/src/main/resources/static/index.html" timestamp="1531302514991">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="14" column="7" />
@@ -281,6 +282,12 @@
         <mark key="[" line="630" column="78" />
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/RequestedCalloffServiceBean.java" timestamp="1531740009628">
+        <mark key="[" line="103" column="39" />
+        <mark key="]" line="104" column="31" />
+        <mark key="^" line="104" column="31" />
+        <mark key="." line="104" column="31" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/audit/manager/AuditManager.java" timestamp="1530696207994">
         <mark key="[" line="86" column="33" />
