@@ -24,7 +24,11 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1531740191415" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1531741074971">
+        <mark key="[" line="2154" column="0" />
+        <mark key="]" line="2154" column="0" />
+        <mark key="." line="2154" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/resources/static/index.html" timestamp="1531302514991">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="14" column="7" />
@@ -450,43 +454,42 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>quoteCurrency</text>
       </register>
       <register name="0" type="4">
-        <text>select u.username, u.id, c2.*
-from
-  user_info u
-  inner join company_user cu on u.id = cu.user_id
-  inner join company c on cu.company_id = c.id
-  inner join payment_model m on c.id = m.company_id
-  inner join currency c2 on m.currency_id = c2.id
-where private_aud_payment_type = 'CARRIER' and currency_id != 2;</text>
+        <text>{2}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2VuZE9mZmVyVG9URkMoVmVoaWNsZU9mZmVyRFRPIG9mZmVyLCBVc2VyRGF0YSB1c2VyRGF0YSkgdGhyb3dzIFNlcnZpY2VFeGNlcHRpb24gewogICAgICAgIC8vIHdoeSBzaG91bGQgaXQgYmUgaGVyZT8KICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2VuZE9mZmVyVG9URkMoVmVoaWNsZU9mZmVyRFRPIG9mZmVyLCBVc2VyRGF0YSB1c2VyRGF0YSkgdGhyb3dzIFNlcnZpY2VFeGNlcHRpb24gewogICAgICAgIC8vIHdoeSBzaG91bGQgaXQgYmUgaGVyZT8KICAgIH0=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>public void sendOfferToTFC(FreightOfferDTO offer, UserData userData) throws ServiceException {
         LOG.debug(&quot;Sending offer {} to TFC&quot;, offer.getId());
 
@@ -518,14 +521,8 @@ where private_aud_payment_type = 'CARRIER' and currency_id != 2;</text>
         client.sendMessage(message);
     }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2VuZE9mZmVyVG9URkMoRCBvZmZlciwgVXNlckRhdGEgdXNlckRhdGEpIHRocm93cyBTZXJ2aWNlRXhjZXB0aW9uOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2VuZE9mZmVyVG9URkMoRCBvZmZlciwgVXNlckRhdGEgdXNlckRhdGEpIHRocm93cyBTZXJ2aWNlRXhjZXB0aW9uOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNUQVRFID0gInN0YXRlIjsK</text>
+        <text encoding="base64">ICAgIHZvaWQgc2VuZE9mZmVyVG9URkMoRCBvZmZlciwgVXNlckRhdGEgdXNlckRhdGEpIHRocm93cyBTZXJ2aWNlRXhjZXB0aW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
