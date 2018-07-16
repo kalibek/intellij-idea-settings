@@ -170,6 +170,12 @@
         <mark key="^" line="126" column="45" />
         <mark key="." line="113" column="59" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1531727488242">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="16" column="5" />
+        <mark key="^" line="16" column="5" />
+        <mark key="." line="16" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSPublisher.java" timestamp="1531202196759">
         <mark key="[" line="42" column="5" />
         <mark key="]" line="44" column="3" />
@@ -436,14 +442,14 @@
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>quoteCurrency</text>
@@ -459,18 +465,21 @@ from
 where private_aud_payment_type = 'CARRIER' and currency_id != 2;</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2VuZE9mZmVyVG9URkMoVmVoaWNsZU9mZmVyRFRPIG9mZmVyLCBVc2VyRGF0YSB1c2VyRGF0YSkgdGhyb3dzIFNlcnZpY2VFeGNlcHRpb24gewogICAgICAgIC8vIHdoeSBzaG91bGQgaXQgYmUgaGVyZT8KICAgIH0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>public void sendOfferToTFC(FreightOfferDTO offer, UserData userData) throws ServiceException {
         LOG.debug(&quot;Sending offer {} to TFC&quot;, offer.getId());
 
@@ -502,17 +511,14 @@ where private_aud_payment_type = 'CARRIER' and currency_id != 2;</text>
         client.sendMessage(message);
     }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2VuZE9mZmVyVG9URkMoRCBvZmZlciwgVXNlckRhdGEgdXNlckRhdGEpIHRocm93cyBTZXJ2aWNlRXhjZXB0aW9uOwo=</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIHZvaWQgc2VuZE9mZmVyVG9URkMoRCBvZmZlciwgVXNlckRhdGEgdXNlckRhdGEpIHRocm93cyBTZXJ2aWNlRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNUQVRFID0gInN0YXRlIjsK</text>
+        <text encoding="base64">ICAgIHZvaWQgc2VuZE9mZmVyVG9URkMoRCBvZmZlciwgVXNlckRhdGEgdXNlckRhdGEpIHRocm93cyBTZXJ2aWNlRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJpZ2h0c1NpbmdsZXRvbi5nZXRJbnN0YW5jZSgpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNUQVRFID0gInN0YXRlIjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
