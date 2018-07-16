@@ -135,11 +135,11 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1531472048190">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="73" column="22" />
-        <mark key="^" line="73" column="22" />
-        <mark key="." line="73" column="22" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1531735756705">
+        <mark key="[" line="73" column="23" />
+        <mark key="]" line="82" column="63" />
+        <mark key="^" line="82" column="63" />
+        <mark key="." line="82" column="63" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/OfferActionManager.java" timestamp="1531479317708">
         <mark key="[" line="16" column="0" />
@@ -206,7 +206,7 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1531720943757">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1531735751708">
         <mark key="[" line="51" column="12" />
         <mark key="]" line="51" column="13" />
         <mark key="^" line="51" column="10" />
@@ -217,8 +217,8 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531716975800">
-        <mark key="[" line="0" column="18" />
+      <file name="/Dummy.txt" timestamp="1531735734681">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="18" />
