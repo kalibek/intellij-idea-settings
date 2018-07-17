@@ -15,6 +15,9 @@
         <mark key="]" line="152" column="32" />
         <mark key="." line="151" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1531307067940">
+        <mark key="'" line="185" column="32" />
+      </file>
       <file name="/a.dummy" timestamp="1531392849544">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="7" />
@@ -36,6 +39,9 @@
         <mark key="]" line="24" column="57" />
         <mark key="^" line="24" column="57" />
         <mark key="." line="24" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/OfferDTO.java" timestamp="1531807400831">
+        <mark key="'" line="27" column="22" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/wildfly/standalone.xml" timestamp="1531286071151">
         <mark key="'" line="0" column="0" />
@@ -349,7 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="36" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
       <jump line="267" column="59" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
       <jump line="268" column="61" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
       <jump line="278" column="23" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
@@ -449,6 +454,7 @@
       <jump line="227" column="35" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="229" column="36" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="233" column="50" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
+      <jump line="27" column="22" filename="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/OfferDTO.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -464,7 +470,7 @@
         <text encoding="base64">aW5nIA==</text>
       </register>
       <register name="/" type="4">
-        <text>showNonEurWarnings</text>
+        <text>ids</text>
       </register>
       <register name="0" type="4">
         <text>showNonEurWarnings</text>
@@ -501,9 +507,9 @@
       </register>
     </registers>
     <search>
-      <last-search>showNonEurWarnings</last-search>
+      <last-search>ids</last-search>
       <last-offset />
-      <last-pattern>showNonEurWarnings</last-pattern>
+      <last-pattern>ids</last-pattern>
       <last-replace>=18_09</last-replace>
       <last-substitute>=v18_09</last-substitute>
       <last-dir>1</last-dir>
@@ -511,7 +517,6 @@
     </search>
     <history>
       <history-search>
-        <entry>esc</entry>
         <entry>.</entry>
         <entry>\.</entry>
         <entry>esb</entry>
@@ -531,6 +536,7 @@
         <entry>feeCurrency</entry>
         <entry>quoteCurrency</entry>
         <entry>showNonEurWarnings</entry>
+        <entry>ids</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Z4L3Nwb3QvZw==</entry>
