@@ -49,6 +49,12 @@
         <mark key="]" line="333" column="0" />
         <mark key="." line="333" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/pom.xml" timestamp="1531891980116">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq.xml" timestamp="1531222490710">
         <mark key="[" line="112" column="120" />
         <mark key="]" line="112" column="125" />
@@ -91,13 +97,6 @@
         <mark key="[" line="2" column="33" />
         <mark key="]" line="2" column="36" />
         <mark key="." line="2" column="33" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" timestamp="1531742247523">
-        <mark key="'" line="233" column="50" />
-        <mark key="[" line="260" column="12" />
-        <mark key="]" line="260" column="12" />
-        <mark key="^" line="219" column="43" />
-        <mark key="." line="260" column="12" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/fax/async/FaxClient.java" timestamp="1530696954102">
         <mark key="[" line="42" column="29" />
@@ -229,11 +228,11 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531742380152">
-        <mark key="[" line="0" column="63" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+      <file name="/Dummy.txt" timestamp="1531892005789">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="42" />
+        <mark key="^" line="0" column="42" />
+        <mark key="." line="0" column="42" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq/Dockerfile" timestamp="1531222649773">
         <mark key="[" line="1" column="36" />
@@ -355,8 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="59" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
-      <jump line="268" column="61" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
       <jump line="278" column="23" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
       <jump line="283" column="24" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
       <jump line="289" column="19" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
@@ -455,31 +452,33 @@
       <jump line="229" column="36" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="233" column="50" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="27" column="22" filename="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/OfferDTO.java" />
+      <jump line="211" column="64" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">am9pbiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">am9pbiA=</text>
+        <text>aws</text>
       </register>
       <register name="/" type="4">
-        <text>ids</text>
+        <text>tgz</text>
       </register>
       <register name="0" type="4">
         <text>showNonEurWarnings</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNob3dOb25FdXJXYXJuaW5ncykgewo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1kZXBsb3ktcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4yLjguMjwvdmVyc2lvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbnM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpZD5kZXBsb3ktdGFyPC9pZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+ZGVwbG95PC9waGFzZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPmRlcGxveS1maWxlPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLnNwb3RiaWRkaW5nPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3BvdGJpZGRpbmc8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke3Byb2plY3QudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZmlsZT4ke2Jhc2VkaXJ9L3RhcmdldC9zcG90YmlkZGluZy1hcHAtJHtwcm9qZWN0LnZlcnNpb259LnRnejwvZmlsZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1cmw+JHtkZXBsb3kudXJsfTwvdXJsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHJlcG9zaXRvcnlJZD4ke2RlcGxveS5yZXBvc2l0b3J5SWR9PC9yZXBvc2l0b3J5SWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICA8L3BsdWdpbj4=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
@@ -488,28 +487,28 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHNob3dOb25FdXJXYXJuaW5ncykgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNob3dOb25FdXJXYXJuaW5ncykgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ids</last-search>
+      <last-search>tgz</last-search>
       <last-offset />
-      <last-pattern>ids</last-pattern>
+      <last-pattern>tgz</last-pattern>
       <last-replace>=18_09</last-replace>
       <last-substitute>=v18_09</last-substitute>
       <last-dir>1</last-dir>
@@ -517,7 +516,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.</entry>
         <entry>\.</entry>
         <entry>esb</entry>
         <entry>_</entry>
@@ -537,6 +535,7 @@
         <entry>quoteCurrency</entry>
         <entry>showNonEurWarnings</entry>
         <entry>ids</entry>
+        <entry>tgz</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Z4L3Nwb3QvZw==</entry>
