@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/sms/async/SMSClient.java" timestamp="1530696981492">
@@ -116,7 +116,9 @@
         <mark key="." line="31" column="61" />
         <mark key="^" line="31" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" timestamp="1531919863185" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" timestamp="1531920959548">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/JMSPublisher.java" timestamp="1530700709981">
         <mark key="[" line="18" column="13" />
         <mark key="]" line="18" column="13" />
@@ -187,7 +189,7 @@
         <mark key="^" line="44" column="3" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/com/ptvag/xserver/xlocate/jwsdp/XLocateAccessImpl.java" timestamp="1531910972458" />
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/LocationService.java" timestamp="1531919771364">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/LocationService.java" timestamp="1531920991400">
         <mark key="[" line="209" column="27" />
         <mark key="]" line="209" column="30" />
         <mark key="." line="209" column="30" />
@@ -277,7 +279,7 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/MapService.java" timestamp="1531917225708">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/MapService.java" timestamp="1531921161227">
         <mark key="[" line="101" column="65" />
         <mark key="]" line="101" column="86" />
         <mark key="." line="101" column="65" />
@@ -347,8 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="52" filename="$USER_HOME$/projects/fx/fx-properties/src/main/java/com/wktransportservices/fx/utils/PropertyUtils.java" />
-      <jump line="61" column="66" filename="$USER_HOME$/projects/fx/fx-properties/src/main/java/com/wktransportservices/fx/utils/PropertyUtils.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/java/com/wktransportservices/fx/utils/PropertyUtils.java" />
       <jump line="41" column="4" filename="$USER_HOME$/projects/fx/fx-properties/src/main/java/com/wktransportservices/fx/utils/PropertyUtils.java" />
       <jump line="14" column="28" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbClientService.java" />
@@ -447,6 +447,8 @@
       <jump line="436" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
       <jump line="454" column="22" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
       <jump line="455" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
+      <jump line="380" column="59" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -462,7 +464,7 @@
         <text>address</text>
       </register>
       <register name="/" type="4">
-        <text>\cvisible</text>
+        <text>findSugge</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBDb3VudHJ5IGNvdW50cnkgPSBDb3VudHJ5LmdldEJ5Q29kZShjaXR5WmlwLmdldENvdW50cnkoKSk7Cg==</text>
@@ -499,9 +501,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\cvisible</last-search>
+      <last-search>findSugge</last-search>
       <last-offset />
-      <last-pattern>\cvisible</last-pattern>
+      <last-pattern>findSugge</last-pattern>
       <last-replace />
       <last-substitute>-test</last-substitute>
       <last-dir>1</last-dir>
@@ -509,7 +511,6 @@
     </search>
     <history>
       <history-search>
-        <entry>=v18_09</entry>
         <entry>61616</entry>
         <entry>DELETE</entry>
         <entry>goto</entry>
@@ -529,6 +530,7 @@
         <entry>find</entry>
         <entry>ptv</entry>
         <entry>\cvisible</entry>
+        <entry>findSugge</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RydWUvc2hvd1NlcnZpY2VGZWVCYXIvZw==</entry>
