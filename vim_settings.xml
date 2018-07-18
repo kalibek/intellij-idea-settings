@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/sms/async/SMSClient.java" timestamp="1530696981492">
@@ -9,7 +9,7 @@
         <mark key="." line="47" column="33" />
         <mark key="^" line="47" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/PTVServicesSOAPImpl.java" timestamp="1531911599375">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/PTVServicesSOAPImpl.java" timestamp="1531919876588">
         <mark key="'" line="54" column="12" />
         <mark key="[" line="194" column="0" />
         <mark key="]" line="194" column="0" />
@@ -116,7 +116,7 @@
         <mark key="." line="31" column="61" />
         <mark key="^" line="31" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" timestamp="1531911622794" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" timestamp="1531919863185" />
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/JMSPublisher.java" timestamp="1530700709981">
         <mark key="[" line="18" column="13" />
         <mark key="]" line="18" column="13" />
@@ -187,11 +187,11 @@
         <mark key="^" line="44" column="3" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/com/ptvag/xserver/xlocate/jwsdp/XLocateAccessImpl.java" timestamp="1531910972458" />
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/LocationService.java" timestamp="1531918261664">
-        <mark key="[" line="62" column="4" />
-        <mark key="]" line="62" column="10" />
-        <mark key="^" line="62" column="10" />
-        <mark key="." line="62" column="10" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/LocationService.java" timestamp="1531919771364">
+        <mark key="[" line="209" column="27" />
+        <mark key="]" line="209" column="30" />
+        <mark key="." line="209" column="30" />
+        <mark key="^" line="209" column="30" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1531198893833">
         <mark key="'" line="129" column="54" />
@@ -453,47 +453,46 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>faultMessage</text>
+        <text>address</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>faultMessage</text>
+        <text>address</text>
       </register>
       <register name="/" type="4">
         <text>\cvisible</text>
       </register>
-      <register name="0" type="4">
-        <text>LOG.error(&quot;Checking failed for city &quot; + cityToCheck, e);
-            throw new WebApplicationException(e, Response.Status.INTERNAL_SERVER_ERROR);</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBDb3VudHJ5IGNvdW50cnkgPSBDb3VudHJ5LmdldEJ5Q29kZShjaXR5WmlwLmdldENvdW50cnkoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiB6aXBzID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiB6aXBzID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB6aXBzLmFkZChwb3N0Q29kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChTdHJpbmdVdGlscy5pc05vdEVtcHR5KHBvc3RDb2RlKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB6aXBzLmFkZChwb3N0Q29kZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBwb3N0Q29kZSA9IGFkZHJlc3MuZ2V0UG9zdENvZGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChTdHJpbmdVdGlscy5pc05vdEVtcHR5KHBvc3RDb2RlKSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChSZXN1bHRBZGRyZXNzIGFkZHJlc3MgOiByZXN1bHRMaXN0KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBwb3N0Q29kZSA9IGFkZHJlc3MuZ2V0UG9zdENvZGUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxSZXN1bHRBZGRyZXNzPiByZXN1bHRMaXN0ID0gYWRkcmVzc1Jlc3BvbnNlLmdldFdyYXBwZWRSZXN1bHRMaXN0KCkuZ2V0VmFsdWUoKS5nZXRSZXN1bHRBZGRyZXNzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChSZXN1bHRBZGRyZXNzIGFkZHJlc3MgOiByZXN1bHRMaXN0KSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
