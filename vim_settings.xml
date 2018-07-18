@@ -9,9 +9,9 @@
         <mark key="." line="47" column="33" />
         <mark key="^" line="47" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/PTVServicesSOAPImpl.java" timestamp="1531919876588">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/PTVServicesSOAPImpl.java" timestamp="1531921543926">
         <mark key="'" line="54" column="12" />
-        <mark key="[" line="194" column="0" />
+        <mark key="[" line="194" column="50" />
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
       </file>
@@ -188,7 +188,6 @@
         <mark key="." line="44" column="3" />
         <mark key="^" line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/com/ptvag/xserver/xlocate/jwsdp/XLocateAccessImpl.java" timestamp="1531910972458" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/LocationService.java" timestamp="1531920991400">
         <mark key="[" line="209" column="27" />
         <mark key="]" line="209" column="30" />
@@ -216,7 +215,6 @@
         <mark key="." line="49" column="38" />
         <mark key="^" line="49" column="15" />
       </file>
-      <file name="/environment_prod.properties" timestamp="1531912153493" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/map/MapServiceBean.java" timestamp="1531917246073">
         <mark key="[" line="44" column="4" />
         <mark key="]" line="56" column="4" />
@@ -279,10 +277,11 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/MapService.java" timestamp="1531921161227">
-        <mark key="[" line="101" column="65" />
-        <mark key="]" line="101" column="86" />
-        <mark key="." line="101" column="65" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/MapService.java" timestamp="1531921474881">
+        <mark key="[" line="83" column="24" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="83" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1531901904392">
         <mark key="'" line="84" column="14" />
