@@ -21,6 +21,9 @@
         <mark key="]" line="152" column="32" />
         <mark key="." line="151" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1531307067940">
+        <mark key="'" line="185" column="32" />
+      </file>
       <file name="/a.dummy" timestamp="1531392849544">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="7" />
@@ -42,6 +45,9 @@
         <mark key="]" line="12" column="24" />
         <mark key="^" line="24" column="57" />
         <mark key="." line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/OfferDTO.java" timestamp="1531807400831">
+        <mark key="'" line="27" column="22" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" timestamp="1531912910034">
         <mark key="'" line="22" column="0" />
@@ -171,6 +177,9 @@
         <mark key="^" line="126" column="45" />
         <mark key="." line="113" column="59" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" timestamp="1531915950627">
+        <mark key="'" line="455" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1531904812063">
         <mark key="'" line="178" column="18" />
         <mark key="[" line="43" column="40" />
@@ -263,6 +272,9 @@
         <mark key="[" line="217" column="0" />
         <mark key="]" line="217" column="0" />
         <mark key="." line="217" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1531894640816">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" timestamp="1531892831708">
         <mark key="'" line="0" column="0" />
@@ -371,15 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="263" column="19" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="184" column="89" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="14" column="10" filename="$USER_HOME$/projects/simple/static/app.jsx" />
-      <jump line="48" column="0" filename="$USER_HOME$/projects/simple/static/app.jsx" />
-      <jump line="84" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/java/com/wktransportservices/fx/utils/PropertyUtils.java" />
-      <jump line="86" column="32" filename="$USER_HOME$/projects/fx/fx-properties/src/main/java/com/wktransportservices/fx/utils/PropertyUtils.java" />
-      <jump line="346" column="21" filename="$USER_HOME$/projects/fx/fx-properties/src/main/java/com/wktransportservices/fx/utils/PropertyUtils.java" />
-      <jump line="39" column="74" filename="$USER_HOME$/projects/fx/fx-properties/src/main/java/com/wktransportservices/fx/utils/PropertyUtils.java" />
-      <jump line="40" column="67" filename="$USER_HOME$/projects/fx/fx-properties/src/main/java/com/wktransportservices/fx/utils/PropertyUtils.java" />
       <jump line="47" column="52" filename="$USER_HOME$/projects/fx/fx-properties/src/main/java/com/wktransportservices/fx/utils/PropertyUtils.java" />
       <jump line="61" column="66" filename="$USER_HOME$/projects/fx/fx-properties/src/main/java/com/wktransportservices/fx/utils/PropertyUtils.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/java/com/wktransportservices/fx/utils/PropertyUtils.java" />
@@ -471,6 +474,15 @@
       <jump line="178" column="18" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
       <jump line="54" column="12" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/PTVServicesSOAPImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_demo.properties" />
+      <jump line="228" column="8" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
+      <jump line="398" column="22" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
+      <jump line="399" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
+      <jump line="409" column="22" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
+      <jump line="410" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
+      <jump line="435" column="22" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
+      <jump line="436" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
+      <jump line="454" column="22" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
+      <jump line="455" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -486,7 +498,7 @@
         <text>https://xlocate-eu-n.cloud.ptvgroup.com/xlocate/ws/XLocate</text>
       </register>
       <register name="/" type="4">
-        <text>ptv</text>
+        <text>\cvisible</text>
       </register>
       <register name="0" type="4">
         <text>-test</text>
@@ -526,9 +538,9 @@ url.cloud.xRouteServiceEndpointAddress=https://xroute-eu-n-test.cloud.ptvgroup.c
       </register>
     </registers>
     <search>
-      <last-search>ptv</last-search>
+      <last-search>\cvisible</last-search>
       <last-offset />
-      <last-pattern>ptv</last-pattern>
+      <last-pattern>\cvisible</last-pattern>
       <last-replace />
       <last-substitute>-test</last-substitute>
       <last-dir>1</last-dir>
@@ -536,7 +548,6 @@ url.cloud.xRouteServiceEndpointAddress=https://xroute-eu-n-test.cloud.ptvgroup.c
     </search>
     <history>
       <history-search>
-        <entry>v18_09</entry>
         <entry>=v18_09</entry>
         <entry>61616</entry>
         <entry>DELETE</entry>
@@ -556,6 +567,7 @@ url.cloud.xRouteServiceEndpointAddress=https://xroute-eu-n-test.cloud.ptvgroup.c
         <entry>-test</entry>
         <entry>find</entry>
         <entry>ptv</entry>
+        <entry>\cvisible</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RydWUvc2hvd1NlcnZpY2VGZWVCYXIvZw==</entry>
