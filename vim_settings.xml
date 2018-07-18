@@ -233,6 +233,9 @@
         <mark key="]" line="217" column="0" />
         <mark key="." line="217" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1531894640816">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" timestamp="1531892831708">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="155" column="21" />
@@ -258,8 +261,8 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1531892791507">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1531894614338">
+        <mark key="'" line="84" column="14" />
         <mark key="[" line="94" column="62" />
         <mark key="]" line="94" column="66" />
         <mark key="^" line="94" column="66" />
@@ -330,7 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="289" column="19" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
       <jump line="313" column="26" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
       <jump line="317" column="28" filename="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/Random.java" />
       <jump line="135" column="27" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
@@ -361,7 +363,6 @@
       <jump line="32" column="0" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/impl/FreightOfferActionManagerImpl.java" />
       <jump line="56" column="11" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/transportorder/TransportOrderClient.java" />
       <jump line="31" column="7" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/transportorder/TransportOrderClient.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="485" column="34" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="486" column="77" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="528" column="86" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" />
@@ -430,6 +431,8 @@
       <jump line="92" column="34" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" />
+      <jump line="84" column="14" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -445,7 +448,7 @@
         <text>95 Removing web leftovers of TFC</text>
       </register>
       <register name="/" type="4">
-        <text>esb</text>
+        <text>AM</text>
       </register>
       <register name="0" type="4">
         <text>showNonEurWarnings</text>
@@ -482,9 +485,9 @@
       </register>
     </registers>
     <search>
-      <last-search>esb</last-search>
+      <last-search>AM</last-search>
       <last-offset />
-      <last-pattern>esb</last-pattern>
+      <last-pattern>AM</last-pattern>
       <last-replace>=18_09</last-replace>
       <last-substitute>=v18_09</last-substitute>
       <last-dir>1</last-dir>
@@ -492,7 +495,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\.</entry>
         <entry>_</entry>
         <entry>Qu</entry>
         <entry>audit</entry>
@@ -512,6 +514,7 @@
         <entry>ids</entry>
         <entry>tgz</entry>
         <entry>esb</entry>
+        <entry>AM</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Z4L3Nwb3QvZw==</entry>
