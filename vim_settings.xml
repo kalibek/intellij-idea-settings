@@ -9,17 +9,18 @@
         <mark key="." line="47" column="33" />
         <mark key="^" line="47" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/PTVServicesSOAPImpl.java" timestamp="1531904867133" />
+      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/PTVServicesSOAPImpl.java" timestamp="1531911599375">
+        <mark key="'" line="54" column="12" />
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" timestamp="1531198902648">
         <mark key="'" line="133" column="49" />
         <mark key="[" line="151" column="0" />
         <mark key="]" line="152" column="32" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1531307067940">
-        <mark key="'" line="185" column="32" />
-      </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/PTVServiceBean.java" timestamp="1531903870758" />
       <file name="/a.dummy" timestamp="1531392849544">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="7" />
@@ -42,11 +43,10 @@
         <mark key="^" line="24" column="57" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/OfferDTO.java" timestamp="1531807400831">
-        <mark key="'" line="27" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" timestamp="1531904711505">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" timestamp="1531912910034">
         <mark key="'" line="22" column="0" />
+        <mark key="[" line="20" column="37" />
+        <mark key="]" line="20" column="90" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/wildfly/standalone.xml" timestamp="1531286071151">
         <mark key="'" line="0" column="0" />
@@ -66,7 +66,6 @@
         <mark key="." line="112" column="125" />
         <mark key="^" line="112" column="125" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-common/src/com/teleroute/top/config/CloudAuthenticator.java" timestamp="1531908126970" />
       <file name="$USER_HOME$/projects/simple/static/style.css" timestamp="1530687191861">
         <mark key="[" line="6" column="140" />
         <mark key="]" line="6" column="140" />
@@ -130,6 +129,7 @@
         <mark key="." line="31" column="61" />
         <mark key="^" line="31" column="61" />
       </file>
+      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" timestamp="1531911622794" />
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/JMSPublisher.java" timestamp="1530700709981">
         <mark key="[" line="18" column="13" />
         <mark key="]" line="18" column="13" />
@@ -177,7 +177,6 @@
         <mark key="]" line="43" column="40" />
         <mark key="." line="43" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web-lite/src/main/java/com/wktransportservices/fx/web/lite/server/controller/LocationServiceImpl.java" timestamp="1531909360668" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1531820916081">
         <mark key="[" line="20" column="30" />
         <mark key="]" line="20" column="29" />
@@ -197,11 +196,15 @@
         <mark key="." line="44" column="3" />
         <mark key="^" line="44" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/com/ptvag/xserver/xlocate/jwsdp/XLocateAccessImpl.java" timestamp="1531910972458" />
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1531198893833">
         <mark key="'" line="129" column="54" />
         <mark key="[" line="147" column="0" />
         <mark key="]" line="148" column="32" />
         <mark key="." line="147" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_demo.properties" timestamp="1531912798292">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/AmqTestApplication.java" timestamp="1531296592900">
         <mark key="[" line="34" column="57" />
@@ -215,6 +218,7 @@
         <mark key="." line="49" column="38" />
         <mark key="^" line="49" column="15" />
       </file>
+      <file name="/environment_prod.properties" timestamp="1531912153493" />
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/impl/VehicleOfferActionManagerImpl.java" timestamp="1531481683077">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="65" column="0" />
@@ -260,9 +264,6 @@
         <mark key="]" line="217" column="0" />
         <mark key="." line="217" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1531894640816">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" timestamp="1531892831708">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="155" column="21" />
@@ -300,7 +301,6 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_dev.properties" timestamp="1531899934949" />
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/FxApplication.java" timestamp="1531478751780">
         <mark key="'" line="56" column="52" />
         <mark key="[" line="630" column="78" />
@@ -347,6 +347,12 @@
         <mark key="^" line="30" column="89" />
         <mark key="." line="30" column="89" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" timestamp="1531913030915">
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="32" column="40" />
+        <mark key="." line="32" column="35" />
+        <mark key="^" line="30" column="36" />
+      </file>
       <file name="$USER_HOME$/projects/simple/http-worker.go" timestamp="1530685929236">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="53" />
@@ -359,10 +365,11 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1531910982328">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="8" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="266" column="49" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="263" column="19" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="184" column="89" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="14" column="10" filename="$USER_HOME$/projects/simple/static/app.jsx" />
@@ -461,55 +468,57 @@
       <jump line="17" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" />
       <jump line="22" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" />
       <jump line="178" column="18" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
+      <jump line="54" column="12" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/PTVServicesSOAPImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_demo.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>fmichotte</text>
+        <text>-test</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>fmichotte</text>
+        <text>https://xlocate-eu-n.cloud.ptvgroup.com/xlocate/ws/XLocate</text>
       </register>
       <register name="/" type="4">
         <text>ptv</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dXBkYXRlIHVzZXJzIHNldCBsb2dpbiA9ICdmbWljaG90dGUnCndoZXJlIGxvZ2luID0gJ3Jlc2V0X21lX3RvX2ZtaWNob3R0ZSc7Cg==</text>
+      <register name="0" type="4">
+        <text>-test</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">cHR2Lnhsb2NhdGUud3NkbD1odHRwOi8vcHR2LndrdHMucWE6NTAwMjAveGxvY2F0ZS93cy9YTG9jYXRlP3dzZGwKcHR2LnhtYXAud3NkbD1odHRwOi8vcHR2LndrdHMucWE6NTAwMTAveG1hcC93cy9YTWFwP3dzZGwKcHR2Lnhyb3V0ZS53c2RsPWh0dHA6Ly9wdHYud2t0cy5xYTo1MDAzMC94cm91dGUvd3MvWFJvdXRlP3dzZGwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aHR0cHM6Ly94bG9jYXRlLWV1LW4uY2xvdWQucHR2Z3JvdXAuY29tL3hsb2NhdGUvd3MvWExvY2F0ZQpodHRwczovL3htYXAtZXUtbi5jbG91ZC5wdHZncm91cC5jb20veG1hcC93cy9YTWFwCmh0dHBzOi8veHJvdXRlLWV1LW4uY2xvdWQucHR2Z3JvdXAuY29tL3hyb3V0ZS93cy9YUm91dGUK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aHR0cHM6Ly9hamF4bWFwcy1ldS1uLmNsb3VkLnB0dmdyb3VwLmNvbQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>url.cloud.xAjaxMapsEndpointAddress=https://ajaxmaps-eu-n-test.cloud.ptvgroup.com
 url.cloud.xLocateServiceEndpointAddress=https://xlocate-eu-n-test.cloud.ptvgroup.com/xlocate/ws/XLocate
 url.cloud.xMapServiceEndpointAddress=https://xmap-eu-n-test.cloud.ptvgroup.com/xmap/ws/XMap
 url.cloud.xRouteServiceEndpointAddress=https://xroute-eu-n-test.cloud.ptvgroup.com/xroute/ws/XRoute</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1kZXBsb3ktcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4yLjguMjwvdmVyc2lvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbnM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpZD5kZXBsb3ktdGFyPC9pZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+ZGVwbG95PC9waGFzZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPmRlcGxveS1maWxlPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLnNwb3RiaWRkaW5nPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3BvdGJpZGRpbmc8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke3Byb2plY3QudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZmlsZT4ke2Jhc2VkaXJ9L3RhcmdldC9zcG90YmlkZGluZy1hcHAtJHtwcm9qZWN0LnZlcnNpb259LnRnejwvZmlsZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1cmw+JHtkZXBsb3kudXJsfTwvdXJsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHJlcG9zaXRvcnlJZD4ke2RlcGxveS5yZXBvc2l0b3J5SWR9PC9yZXBvc2l0b3J5SWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICA8L3BsdWdpbj4=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNob3dOb25FdXJXYXJuaW5ncykgewo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNob3dOb25FdXJXYXJuaW5ncykgewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/-test//g</text>
@@ -526,7 +535,6 @@ url.cloud.xRouteServiceEndpointAddress=https://xroute-eu-n-test.cloud.ptvgroup.c
     </search>
     <history>
       <history-search>
-        <entry>audit</entry>
         <entry>v18_09</entry>
         <entry>=v18_09</entry>
         <entry>61616</entry>
@@ -545,6 +553,7 @@ url.cloud.xRouteServiceEndpointAddress=https://xroute-eu-n-test.cloud.ptvgroup.c
         <entry>esb</entry>
         <entry>AM</entry>
         <entry>-test</entry>
+        <entry>find</entry>
         <entry>ptv</entry>
       </history-search>
       <history-cmd>
