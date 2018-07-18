@@ -18,6 +18,7 @@
       <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1531307067940">
         <mark key="'" line="185" column="32" />
       </file>
+      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/PTVServiceBean.java" timestamp="1531903870758" />
       <file name="/a.dummy" timestamp="1531392849544">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="7" />
@@ -34,11 +35,11 @@
         <mark key="]" line="14" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1531461036290">
-        <mark key="[" line="24" column="52" />
-        <mark key="]" line="24" column="57" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1531903684267">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="24" />
         <mark key="^" line="24" column="57" />
-        <mark key="." line="24" column="57" />
+        <mark key="." line="12" column="15" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/OfferDTO.java" timestamp="1531807400831">
         <mark key="'" line="27" column="22" />
@@ -463,19 +464,19 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>fmichotte</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>fmichotte</text>
       </register>
       <register name="/" type="4">
         <text>-test</text>
       </register>
-      <register name="0" type="4">
-        <text>-test</text>
+      <register name="0" type="2">
+        <text encoding="base64">dXBkYXRlIHVzZXJzIHNldCBsb2dpbiA9ICdmbWljaG90dGUnCndoZXJlIGxvZ2luID0gJ3Jlc2V0X21lX3RvX2ZtaWNob3R0ZSc7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
