@@ -289,6 +289,7 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/MapService.java" timestamp="1531914582989" />
       <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1531901904392">
         <mark key="'" line="84" column="14" />
         <mark key="[" line="91" column="58" />
@@ -348,9 +349,9 @@
         <mark key="." line="30" column="89" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" timestamp="1531913030915">
-        <mark key="[" line="32" column="35" />
-        <mark key="]" line="32" column="40" />
-        <mark key="." line="32" column="35" />
+        <mark key="[" line="30" column="35" />
+        <mark key="]" line="30" column="40" />
+        <mark key="." line="30" column="35" />
         <mark key="^" line="30" column="36" />
       </file>
       <file name="$USER_HOME$/projects/simple/http-worker.go" timestamp="1530685929236">
