@@ -30,16 +30,6 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1531741074971">
-        <mark key="[" line="2154" column="0" />
-        <mark key="]" line="2154" column="0" />
-        <mark key="." line="2154" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/amq-test/src/main/resources/static/index.html" timestamp="1531302514991">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="14" column="7" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1531903684267">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="24" />
@@ -49,10 +39,10 @@
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/OfferDTO.java" timestamp="1531807400831">
         <mark key="'" line="27" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" timestamp="1531912910034">
+      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" timestamp="1531916547243">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="20" column="90" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="21" column="98" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/wildfly/standalone.xml" timestamp="1531286071151">
         <mark key="'" line="0" column="0" />
@@ -90,21 +80,17 @@
         <mark key="]" line="144" column="32" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/amq-test/src/main/resources/application.properties" timestamp="1531295794924">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="36" />
-        <mark key="." line="2" column="33" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-utils/src/main/java/com/wktransportservices/spotbidding/utils/config/ConfigUtils.java" timestamp="1531916515008">
+        <mark key="[" line="406" column="63" />
+        <mark key="]" line="406" column="68" />
+        <mark key="^" line="406" column="68" />
+        <mark key="." line="406" column="68" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/fax/async/FaxClient.java" timestamp="1530696954102">
         <mark key="[" line="42" column="29" />
         <mark key="]" line="42" column="29" />
         <mark key="." line="42" column="29" />
         <mark key="^" line="42" column="42" />
-      </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_aws_prod.properties" timestamp="1531900308583">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="21" column="93" />
-        <mark key="." line="21" column="58" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/Msg.java" timestamp="1531294760897">
         <mark key="[" line="11" column="37" />
@@ -117,11 +103,6 @@
         <mark key="[" line="181" column="0" />
         <mark key="]" line="181" column="0" />
         <mark key="." line="181" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/src/main/java/com/wktransportservices/fx/bi/service/internal/queue/BiEventsPublisher.java" timestamp="1530695271304">
-        <mark key="[" line="44" column="8" />
-        <mark key="]" line="56" column="8" />
-        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/Processed.java" timestamp="1531304870364">
         <mark key="[" line="30" column="5" />
@@ -147,11 +128,6 @@
         <mark key="]" line="82" column="63" />
         <mark key="^" line="82" column="63" />
         <mark key="." line="82" column="63" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/OfferActionManager.java" timestamp="1531479317708">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/ejb/JNDIConfig.java" timestamp="1531136488020">
         <mark key="[" line="17" column="0" />
@@ -186,6 +162,11 @@
         <mark key="]" line="43" column="40" />
         <mark key="." line="43" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/map/PTVClientsWrapperBean.java" timestamp="1531916432221">
+        <mark key="[" line="58" column="60" />
+        <mark key="]" line="58" column="60" />
+        <mark key="." line="58" column="60" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1531820916081">
         <mark key="[" line="20" column="30" />
         <mark key="]" line="20" column="29" />
@@ -206,6 +187,12 @@
         <mark key="^" line="44" column="3" />
       </file>
       <file name="$USER_HOME$/projects/ptv-services/ptv-business/ptv-xlocate-service-client/src/com/ptvag/xserver/xlocate/jwsdp/XLocateAccessImpl.java" timestamp="1531910972458" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/LocationService.java" timestamp="1531918261664">
+        <mark key="[" line="62" column="4" />
+        <mark key="]" line="62" column="10" />
+        <mark key="^" line="62" column="10" />
+        <mark key="." line="62" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1531198893833">
         <mark key="'" line="129" column="54" />
         <mark key="[" line="147" column="0" />
@@ -228,6 +215,10 @@
         <mark key="^" line="49" column="15" />
       </file>
       <file name="/environment_prod.properties" timestamp="1531912153493" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/map/MapServiceBean.java" timestamp="1531917246073">
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="56" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/impl/VehicleOfferActionManagerImpl.java" timestamp="1531481683077">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="65" column="0" />
@@ -239,16 +230,6 @@
         <mark key="]" line="51" column="13" />
         <mark key="^" line="51" column="10" />
         <mark key="." line="51" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_prod.properties" timestamp="1531900436437">
-        <mark key="[" line="34" column="40" />
-        <mark key="]" line="34" column="40" />
-        <mark key="." line="34" column="40" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/client/rights/RightsSingleton.java" timestamp="1531463099532">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1531901163900">
         <mark key="[" line="0" column="0" />
@@ -267,11 +248,6 @@
         <mark key="]" line="27" column="20" />
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/client/view/UserOfferListViewImpl.java" timestamp="1531463329147">
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="0" />
-        <mark key="." line="217" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1531894640816">
         <mark key="'" line="0" column="0" />
@@ -301,18 +277,17 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/MapService.java" timestamp="1531914582989" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/MapService.java" timestamp="1531917225708">
+        <mark key="[" line="101" column="65" />
+        <mark key="]" line="101" column="86" />
+        <mark key="." line="101" column="65" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1531901904392">
         <mark key="'" line="84" column="14" />
         <mark key="[" line="91" column="58" />
         <mark key="]" line="91" column="67" />
         <mark key="^" line="94" column="66" />
         <mark key="." line="94" column="66" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/client/view/OfferHistoryViewImpl.java" timestamp="1531473434817">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/FxApplication.java" timestamp="1531478751780">
         <mark key="'" line="56" column="52" />
@@ -332,11 +307,6 @@
         <mark key="." line="86" column="33" />
         <mark key="^" line="86" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web-business/src/main/java/com/wktransportservices/fx/web/client/rights/ConditionFactory.java" timestamp="1531478715945">
-        <mark key="[" line="30" column="12" />
-        <mark key="]" line="30" column="19" />
-        <mark key="." line="30" column="12" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbClient.java" timestamp="1531202096513">
         <mark key="[" line="8" column="56" />
         <mark key="]" line="8" column="62" />
@@ -349,22 +319,16 @@
         <mark key="." line="67" column="29" />
         <mark key="^" line="67" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/src/main/java/com/wktransportservices/fx/bi/service/internal/queue/BiQueueMessageSendingService.java" timestamp="1531454585604">
-        <mark key="[" line="33" column="34" />
-        <mark key="]" line="33" column="34" />
-        <mark key="." line="33" column="34" />
-      </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/resources/static/app.jsx" timestamp="1531305241521">
         <mark key="[" line="30" column="63" />
         <mark key="]" line="30" column="89" />
         <mark key="^" line="30" column="89" />
         <mark key="." line="30" column="89" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" timestamp="1531913030915">
-        <mark key="[" line="30" column="35" />
-        <mark key="]" line="30" column="40" />
-        <mark key="." line="30" column="35" />
-        <mark key="^" line="30" column="36" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" timestamp="1531916630046">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/projects/simple/http-worker.go" timestamp="1530685929236">
         <mark key="[" line="14" column="20" />
@@ -489,52 +453,50 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>-test</text>
+        <text>faultMessage</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>https://xlocate-eu-n.cloud.ptvgroup.com/xlocate/ws/XLocate</text>
+        <text>faultMessage</text>
       </register>
       <register name="/" type="4">
         <text>\cvisible</text>
       </register>
       <register name="0" type="4">
-        <text>-test</text>
+        <text>LOG.error(&quot;Checking failed for city &quot; + cityToCheck, e);
+            throw new WebApplicationException(e, Response.Status.INTERNAL_SERVER_ERROR);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiB6aXBzID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cHR2Lnhsb2NhdGUud3NkbD1odHRwOi8vcHR2LndrdHMucWE6NTAwMjAveGxvY2F0ZS93cy9YTG9jYXRlP3dzZGwKcHR2LnhtYXAud3NkbD1odHRwOi8vcHR2LndrdHMucWE6NTAwMTAveG1hcC93cy9YTWFwP3dzZGwKcHR2Lnhyb3V0ZS53c2RsPWh0dHA6Ly9wdHYud2t0cy5xYTo1MDAzMC94cm91dGUvd3MvWFJvdXRlP3dzZGwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aHR0cHM6Ly94bG9jYXRlLWV1LW4uY2xvdWQucHR2Z3JvdXAuY29tL3hsb2NhdGUvd3MvWExvY2F0ZQpodHRwczovL3htYXAtZXUtbi5jbG91ZC5wdHZncm91cC5jb20veG1hcC93cy9YTWFwCmh0dHBzOi8veHJvdXRlLWV1LW4uY2xvdWQucHR2Z3JvdXAuY29tL3hyb3V0ZS93cy9YUm91dGUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aHR0cHM6Ly9hamF4bWFwcy1ldS1uLmNsb3VkLnB0dmdyb3VwLmNvbQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>url.cloud.xAjaxMapsEndpointAddress=https://ajaxmaps-eu-n-test.cloud.ptvgroup.com
-url.cloud.xLocateServiceEndpointAddress=https://xlocate-eu-n-test.cloud.ptvgroup.com/xlocate/ws/XLocate
-url.cloud.xMapServiceEndpointAddress=https://xmap-eu-n-test.cloud.ptvgroup.com/xmap/ws/XMap
-url.cloud.xRouteServiceEndpointAddress=https://xroute-eu-n-test.cloud.ptvgroup.com/xroute/ws/XRoute</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1kZXBsb3ktcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4yLjguMjwvdmVyc2lvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbnM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpZD5kZXBsb3ktdGFyPC9pZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+ZGVwbG95PC9waGFzZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPmRlcGxveS1maWxlPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLnNwb3RiaWRkaW5nPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3BvdGJpZGRpbmc8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke3Byb2plY3QudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZmlsZT4ke2Jhc2VkaXJ9L3RhcmdldC9zcG90YmlkZGluZy1hcHAtJHtwcm9qZWN0LnZlcnNpb259LnRnejwvZmlsZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1cmw+JHtkZXBsb3kudXJsfTwvdXJsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHJlcG9zaXRvcnlJZD4ke2RlcGxveS5yZXBvc2l0b3J5SWR9PC9yZXBvc2l0b3J5SWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICA8L3BsdWdpbj4=</text>
-      </register>
-      <register name="9" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB6aXBzLmFkZChwb3N0Q29kZSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChTdHJpbmdVdGlscy5pc05vdEVtcHR5KHBvc3RDb2RlKSkgewo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBwb3N0Q29kZSA9IGFkZHJlc3MuZ2V0UG9zdENvZGUoKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChSZXN1bHRBZGRyZXNzIGFkZHJlc3MgOiByZXN1bHRMaXN0KSB7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxSZXN1bHRBZGRyZXNzPiByZXN1bHRMaXN0ID0gYWRkcmVzc1Jlc3BvbnNlLmdldFdyYXBwZWRSZXN1bHRMaXN0KCkuZ2V0VmFsdWUoKS5nZXRSZXN1bHRBZGRyZXNzKCk7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>%s/-test//g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -588,8 +550,8 @@ url.cloud.xRouteServiceEndpointAddress=https://xroute-eu-n-test.cloud.ptvgroup.c
         <entry>%s/=v18_09/=18_09/g</entry>
         <entry>wq</entry>
         <entry>%s/-test//h</entry>
-        <entry>w</entry>
         <entry>%s/-test//g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
