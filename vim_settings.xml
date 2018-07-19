@@ -177,6 +177,11 @@
         <mark key="^" line="25" column="22" />
         <mark key="." line="25" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11426_align_api_offer_ID.feature" timestamp="1531997236977">
+        <mark key="'" line="2" column="2" />
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="8" column="61" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSPublisher.java" timestamp="1531202196759">
         <mark key="[" line="42" column="5" />
         <mark key="]" line="44" column="3" />
@@ -187,6 +192,13 @@
         <mark key="'" line="70" column="13" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/LocationService.java" timestamp="1531977474898" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11412-api-links-handling-in-responses.feature" timestamp="1531997365050">
+        <mark key="'" line="0" column="49" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="39" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1531198893833">
         <mark key="'" line="129" column="54" />
         <mark key="[" line="147" column="0" />
@@ -325,10 +337,11 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1531997467230">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="28" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbClientService.java" />
-      <jump line="127" column="15" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/impl/FreightOfferActionManagerImpl.java" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/impl/FreightOfferActionManagerImpl.java" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/impl/FreightOfferActionManagerImpl.java" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/impl/FreightOfferActionManagerImpl.java" />
@@ -427,73 +440,80 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
       <jump line="30" column="24" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
       <jump line="70" column="13" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/manager/transportorder/TransportOrderManager.java" />
+      <jump line="0" column="49" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11412-api-links-handling-in-responses.feature" />
+      <jump line="2" column="2" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11426_align_api_offer_ID.feature" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEFuZCAib2ZmZXIubGlua3NbMF0ucmVsZiIgd2l0aCAic2VsZiIgc2hvdWxkIGJlIGVxdWFsCg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
-        <text>res</text>
+        <text>-</text>
       </register>
       <register name="0" type="4">
-        <text>'%SpotBid-b3jxk65';</text>
+        <text>Scenario: Created offer has generated offerId and reference
+    Given user has FX subscription with posting rights
+    When POST freight offer with &quot;json/offers/valid_offer.json&quot;
+    Then response code should be &quot;201&quot;
+    And contain &quot;offer.offerId&quot; value
+    And contain &quot;offer.reference&quot; value
+    And &quot;offer.offerId&quot; with &quot;offer.reference&quot; should be equal</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEFuZCAib2ZmZXIubGlua3NbMF0ucmVsZiIgd2l0aCAic2VsZiIgc2hvdWxkIGJlIGVxdWFsCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEFuZCBjb250YWluICJvZmZlci5saW5rcyIgdmFsdWUK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEFuZCBjb250YWluICJvZmZlci5yZWZlcmVuY2UiIHZhbHVlCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>87h2pe8mepocl4snof1mv3eebuhem3t1
   t1fkgbi1qcscruuth1nrqts2p6d898ca
   4pbl69uri7u252r9kshhc5j208j2b9lh
   m62dh4620nks1fo2jfcgn47ub6no6jfk
   7pbprhj6rknvmul6sftchmavhss707ge</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBsaW1pdCAxMDsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBsaW1pdCAxOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiB6aXBzID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLy0vIC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>res</last-search>
+      <last-search>-</last-search>
       <last-offset />
-      <last-pattern>res</last-pattern>
-      <last-replace />
-      <last-substitute>-test</last-substitute>
+      <last-pattern>-</last-pattern>
+      <last-replace encoding="base64">IA==</last-replace>
+      <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>DELETE</entry>
         <entry>goto</entry>
         <entry>\crights</entry>
         <entry>RightsSingleton</entry>
@@ -513,11 +533,11 @@
         <entry>findSugge</entry>
         <entry>ptv</entry>
         <entry>res</entry>
+        <entry>-</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2FjY2VwdC9jYW5jZWwvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3Nob3dFdXJTZXJ2aWNlRmVlQmFyL2lzRXVyb0N1cnJlbmN5L2c=</entry>
-        <entry encoding="base64">JzwsJz5zLy0vIC9n</entry>
         <entry encoding="base64">JzwsJz5zLy0vIC8=</entry>
         <entry>ew</entry>
         <entry>s</entry>
@@ -535,6 +555,7 @@
         <entry>%s/-test//g</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLy0vIC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
