@@ -56,11 +56,11 @@
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1531975960911">
-        <mark key="[" line="31" column="24" />
-        <mark key="]" line="31" column="25" />
-        <mark key="^" line="31" column="25" />
-        <mark key="." line="31" column="25" />
+      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1531979403180">
+        <mark key="[" line="32" column="24" />
+        <mark key="]" line="32" column="28" />
+        <mark key="^" line="32" column="28" />
+        <mark key="." line="32" column="28" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq.xml" timestamp="1531222490710">
         <mark key="[" line="112" column="120" />
@@ -159,9 +159,6 @@
         <mark key="]" line="113" column="59" />
         <mark key="^" line="126" column="45" />
         <mark key="." line="113" column="59" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" timestamp="1531915950627">
-        <mark key="'" line="455" column="25" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1531904812063">
         <mark key="'" line="178" column="18" />
@@ -328,9 +325,6 @@
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" timestamp="1531973886747">
         <mark key="'" line="30" column="24" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/projects/simple/http-worker.go" timestamp="1530685929236">
         <mark key="[" line="14" column="20" />
@@ -455,46 +449,46 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>stage</text>
+        <text>qa</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>stage</text>
+        <text>qa</text>
       </register>
       <register name="/" type="4">
         <text>ptv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDb3VudHJ5IGNvdW50cnkgPSBDb3VudHJ5LmdldEJ5Q29kZShjaXR5WmlwLmdldENvdW50cnkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAicHR2LndrdHMucWE6JHtET0NLRVJfSE9TVF9JUH0iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiB6aXBzID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiB6aXBzID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB6aXBzLmFkZChwb3N0Q29kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChTdHJpbmdVdGlscy5pc05vdEVtcHR5KHBvc3RDb2RlKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB6aXBzLmFkZChwb3N0Q29kZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBwb3N0Q29kZSA9IGFkZHJlc3MuZ2V0UG9zdENvZGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChTdHJpbmdVdGlscy5pc05vdEVtcHR5KHBvc3RDb2RlKSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChSZXN1bHRBZGRyZXNzIGFkZHJlc3MgOiByZXN1bHRMaXN0KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBwb3N0Q29kZSA9IGFkZHJlc3MuZ2V0UG9zdENvZGUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
