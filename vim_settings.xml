@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/LinkStepDefinitions.java" timestamp="1532004206237">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="14" column="52" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/sms/async/SMSClient.java" timestamp="1530696981492">
         <mark key="[" line="47" column="33" />
         <mark key="]" line="47" column="33" />
@@ -27,11 +33,11 @@
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/OfferDTO.java" timestamp="1531807400831">
         <mark key="'" line="27" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightOfferEnpointSteps.java" timestamp="1532001249158">
-        <mark key="[" line="30" column="58" />
-        <mark key="]" line="31" column="19" />
-        <mark key="^" line="31" column="19" />
-        <mark key="." line="31" column="19" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightOfferEnpointSteps.java" timestamp="1532003718418">
+        <mark key="[" line="32" column="45" />
+        <mark key="]" line="32" column="44" />
+        <mark key="." line="32" column="44" />
+        <mark key="^" line="32" column="44" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq.xml" timestamp="1531222490710">
         <mark key="[" line="112" column="120" />
@@ -163,12 +169,12 @@
         <mark key="'" line="70" column="13" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/LocationService.java" timestamp="1531977474898" />
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11412-api-links-handling-in-responses.feature" timestamp="1532000608736">
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11412-api-links-handling-in-responses.feature" timestamp="1532003302220">
         <mark key="'" line="0" column="49" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="39" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="40" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_demo.properties" timestamp="1531912798292">
         <mark key="'" line="0" column="0" />
@@ -280,6 +286,12 @@
         <mark key="." line="14" column="53" />
         <mark key="^" line="14" column="53" />
       </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/LinkStepDefinitions.java" timestamp="1532003437419">
+        <mark key="[" line="4" column="48" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+      </file>
       <file name="/fragment.java" timestamp="1532001270034">
         <mark key="[" line="0" column="0" />
       </file>
@@ -390,57 +402,55 @@
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuTWF0Y2hlcnMuY29udGFpbnM7Cg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>contains(FREIGHT)</text>
       </register>
       <register name="/" type="4">
         <text>-</text>
       </register>
       <register name="0" type="4">
-        <text>Scenario: Created offer has generated offerId and reference
-    Given user has FX subscription with posting rights
-    When POST freight offer with &quot;json/offers/valid_offer.json&quot;
-    Then response code should be &quot;201&quot;
-    And contain &quot;offer.offerId&quot; value
-    And contain &quot;offer.reference&quot; value
-    And &quot;offer.offerId&quot; with &quot;offer.reference&quot; should be equal</text>
+        <text>&quot;links[0].rel&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnbHVlID0gImNvbS5hbHBlZ2Fncm91cC5uZ21wLnRlc3QuYXBpLmZ4LnN0ZXBkZWZzIiwK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuTWF0Y2hlcnMuY29udGFpbnM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFuZCAib2ZmZXIubGlua3NbMF0ucmVsZiIgd2l0aCAic2VsZiIgc2hvdWxkIGJlIGVxdWFsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5sb2coKS5hbGwoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFuZCBjb250YWluICJvZmZlci5saW5rcyIgdmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubG9nKCkuYWxsKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEFuZCBjb250YWluICJvZmZlci5yZWZlcmVuY2UiIHZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>87h2pe8mepocl4snof1mv3eebuhem3t1
-  t1fkgbi1qcscruuth1nrqts2p6d898ca
-  4pbl69uri7u252r9kshhc5j208j2b9lh
-  m62dh4620nks1fo2jfcgn47ub6no6jfk
-  7pbprhj6rknvmul6sftchmavhss707ge</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBsaW1pdCAxMDsK</text>
+      <register name="6" type="4">
+        <text>@And()
+    public void responseShouldContainSelfLink() throws Throwable {
+        // Write code here that turns the phrase above into concrete actions
+        throw new PendingException();
+    }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBsaW1pdCAxOwo=</text>
+      <register name="7" type="4">
+        <text>@And(&quot;^response should contain self link$&quot;)
+    public void responseShouldContainSelfLink() throws Throwable {
+        // Write code here that turns the phrase above into concrete actions
+        throw new PendingException();
+    }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB3b3JsZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnbHVlID0gImNvbS5hbHBlZ2Fncm91cC5uZ21wLnRlc3QuYXBpLmZ4LnN0ZXBkZWZzIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
