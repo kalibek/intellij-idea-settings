@@ -56,6 +56,12 @@
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1531975960911">
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="25" />
+        <mark key="^" line="31" column="25" />
+        <mark key="." line="31" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq.xml" timestamp="1531222490710">
         <mark key="[" line="112" column="120" />
         <mark key="]" line="112" column="125" />
@@ -79,12 +85,6 @@
         <mark key="[" line="143" column="0" />
         <mark key="]" line="144" column="32" />
         <mark key="." line="143" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-utils/src/main/java/com/wktransportservices/spotbidding/utils/config/ConfigUtils.java" timestamp="1531916515008">
-        <mark key="[" line="406" column="63" />
-        <mark key="]" line="406" column="68" />
-        <mark key="^" line="406" column="68" />
-        <mark key="." line="406" column="68" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/fax/async/FaxClient.java" timestamp="1530696954102">
         <mark key="[" line="42" column="29" />
@@ -130,6 +130,11 @@
         <mark key="]" line="82" column="63" />
         <mark key="^" line="82" column="63" />
         <mark key="." line="82" column="63" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1531975344959">
+        <mark key="[" line="3" column="54" />
+        <mark key="]" line="3" column="55" />
+        <mark key="." line="3" column="55" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/ejb/JNDIConfig.java" timestamp="1531136488020">
         <mark key="[" line="17" column="0" />
@@ -188,12 +193,6 @@
         <mark key="." line="44" column="3" />
         <mark key="^" line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/LocationService.java" timestamp="1531920991400">
-        <mark key="[" line="209" column="27" />
-        <mark key="]" line="209" column="30" />
-        <mark key="." line="209" column="30" />
-        <mark key="^" line="209" column="30" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1531198893833">
         <mark key="'" line="129" column="54" />
         <mark key="[" line="147" column="0" />
@@ -231,11 +230,11 @@
         <mark key="^" line="51" column="10" />
         <mark key="." line="51" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531901163900">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1531975392514">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="28" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq/Dockerfile" timestamp="1531222649773">
         <mark key="[" line="1" column="36" />
@@ -276,12 +275,6 @@
         <mark key="]" line="15" column="7" />
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/MapService.java" timestamp="1531921474881">
-        <mark key="[" line="83" column="24" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="83" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1531901904392">
         <mark key="'" line="84" column="14" />
@@ -326,7 +319,8 @@
         <mark key="^" line="30" column="89" />
         <mark key="." line="30" column="89" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" timestamp="1531916630046">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" timestamp="1531973886747">
+        <mark key="'" line="30" column="24" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
@@ -348,7 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/java/com/wktransportservices/fx/utils/PropertyUtils.java" />
       <jump line="41" column="4" filename="$USER_HOME$/projects/fx/fx-properties/src/main/java/com/wktransportservices/fx/utils/PropertyUtils.java" />
       <jump line="14" column="28" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbClientService.java" />
       <jump line="127" column="15" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/impl/FreightOfferActionManagerImpl.java" />
@@ -448,22 +441,23 @@
       <jump line="455" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
       <jump line="380" column="59" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
+      <jump line="30" column="24" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>address</text>
+        <text>stage</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>address</text>
+        <text>stage</text>
       </register>
       <register name="/" type="4">
-        <text>findSugge</text>
+        <text>ptv</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBDb3VudHJ5IGNvdW50cnkgPSBDb3VudHJ5LmdldEJ5Q29kZShjaXR5WmlwLmdldENvdW50cnkoKSk7Cg==</text>
@@ -500,9 +494,9 @@
       </register>
     </registers>
     <search>
-      <last-search>findSugge</last-search>
+      <last-search>ptv</last-search>
       <last-offset />
-      <last-pattern>findSugge</last-pattern>
+      <last-pattern>ptv</last-pattern>
       <last-replace />
       <last-substitute>-test</last-substitute>
       <last-dir>1</last-dir>
@@ -527,12 +521,11 @@
         <entry>AM</entry>
         <entry>-test</entry>
         <entry>find</entry>
-        <entry>ptv</entry>
         <entry>\cvisible</entry>
         <entry>findSugge</entry>
+        <entry>ptv</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RydWUvc2hvd1NlcnZpY2VGZWVCYXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2FjY2VwdC9jYW5jZWwvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3Nob3dFdXJTZXJ2aWNlRmVlQmFyL2lzRXVyb0N1cnJlbmN5L2c=</entry>
         <entry encoding="base64">JzwsJz5zLy0vIC9n</entry>
@@ -551,6 +544,7 @@
         <entry>wq</entry>
         <entry>%s/-test//h</entry>
         <entry>%s/-test//g</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
