@@ -56,12 +56,6 @@
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1531979403180">
-        <mark key="[" line="32" column="24" />
-        <mark key="]" line="32" column="28" />
-        <mark key="^" line="32" column="28" />
-        <mark key="." line="32" column="28" />
-      </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq.xml" timestamp="1531222490710">
         <mark key="[" line="112" column="120" />
         <mark key="]" line="112" column="125" />
@@ -219,14 +213,19 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1531982048833">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1531992821602">
         <mark key="[" line="62" column="7" />
         <mark key="]" line="62" column="24" />
         <mark key="." line="62" column="24" />
         <mark key="^" line="62" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531975392514">
-        <mark key="[" line="0" column="21" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_prod.properties" timestamp="1531992848862">
+        <mark key="[" line="34" column="40" />
+        <mark key="]" line="34" column="40" />
+        <mark key="." line="34" column="40" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1531992858959">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -320,9 +319,6 @@
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1531910982328">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -432,13 +428,13 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>test</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>res</text>
