@@ -193,6 +193,7 @@
         <mark key="." line="44" column="3" />
         <mark key="^" line="44" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/LocationService.java" timestamp="1531977474898" />
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1531198893833">
         <mark key="'" line="129" column="54" />
         <mark key="[" line="147" column="0" />
@@ -275,6 +276,12 @@
         <mark key="]" line="15" column="7" />
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/MapService.java" timestamp="1531977756320">
+        <mark key="[" line="91" column="24" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1531901904392">
         <mark key="'" line="84" column="14" />
