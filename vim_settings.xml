@@ -352,12 +352,12 @@
         <mark key="^" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1532063229829">
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1532087914741">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="100" column="39" />
-        <mark key="]" line="100" column="40" />
-        <mark key="^" line="94" column="66" />
-        <mark key="." line="100" column="40" />
+        <mark key="[" line="122" column="66" />
+        <mark key="]" line="122" column="69" />
+        <mark key="^" line="122" column="69" />
+        <mark key="." line="122" column="69" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/FxApplication.java" timestamp="1531478751780">
         <mark key="'" line="56" column="52" />
@@ -541,14 +541,14 @@
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>SpotBid-b3jxk6</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>amq</text>
