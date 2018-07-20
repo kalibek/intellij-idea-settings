@@ -33,11 +33,17 @@
         <mark key="]" line="8" column="53" />
         <mark key="." line="8" column="53" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/transportorder/TransportOrderBidWebservice.java" timestamp="1532081685154">
+        <mark key="'" line="29" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" timestamp="1531198902648">
         <mark key="'" line="133" column="49" />
         <mark key="[" line="151" column="0" />
         <mark key="]" line="152" column="32" />
         <mark key="." line="151" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1531307067940">
+        <mark key="'" line="185" column="32" />
       </file>
       <file name="/a.dummy" timestamp="1531392849544">
         <mark key="[" line="0" column="3" />
@@ -50,6 +56,9 @@
         <mark key="]" line="12" column="24" />
         <mark key="^" line="24" column="57" />
         <mark key="." line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/OfferDTO.java" timestamp="1531807400831">
+        <mark key="'" line="27" column="22" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightOfferEnpointSteps.java" timestamp="1532003718418">
         <mark key="[" line="32" column="45" />
@@ -147,6 +156,9 @@
         <mark key="." line="31" column="61" />
         <mark key="^" line="31" column="61" />
       </file>
+      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" timestamp="1531920959548">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/JMSPublisher.java" timestamp="1530700709981">
         <mark key="[" line="18" column="13" />
         <mark key="]" line="18" column="13" />
@@ -220,11 +232,11 @@
         <mark key="]" line="58" column="60" />
         <mark key="." line="58" column="60" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1531982141034">
-        <mark key="[" line="25" column="22" />
-        <mark key="]" line="25" column="22" />
-        <mark key="^" line="25" column="22" />
-        <mark key="." line="25" column="22" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1532081500905">
+        <mark key="[" line="33" column="1" />
+        <mark key="]" line="33" column="1" />
+        <mark key="^" line="33" column="1" />
+        <mark key="." line="33" column="1" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11426_align_api_offer_ID.feature" timestamp="1531997236977">
         <mark key="'" line="2" column="2" />
@@ -236,6 +248,9 @@
         <mark key="]" line="44" column="3" />
         <mark key="." line="44" column="3" />
         <mark key="^" line="44" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/manager/transportorder/TransportOrderManager.java" timestamp="1531982214386">
+        <mark key="'" line="70" column="13" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11412-api-links-handling-in-responses.feature" timestamp="1532062116851">
         <mark key="'" line="0" column="49" />
@@ -249,6 +264,9 @@
         <mark key="[" line="147" column="0" />
         <mark key="]" line="148" column="32" />
         <mark key="." line="147" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_demo.properties" timestamp="1531912798292">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/AmqTestApplication.java" timestamp="1531296592900">
         <mark key="[" line="34" column="57" />
@@ -278,7 +296,7 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1531992821602">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1532081364442">
         <mark key="[" line="62" column="7" />
         <mark key="]" line="62" column="24" />
         <mark key="." line="62" column="24" />
@@ -306,6 +324,9 @@
         <mark key="]" line="27" column="20" />
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1531894640816">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/Dockerfile" timestamp="1531295613713">
         <mark key="[" line="0" column="18" />
@@ -415,7 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="20" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_prod.properties" />
       <jump line="129" column="54" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" />
       <jump line="144" column="66" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" />
       <jump line="133" column="49" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" />
@@ -515,58 +535,53 @@
       <jump line="19" column="86" filename="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" />
       <jump line="17" column="25" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
       <jump line="24" column="14" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
+      <jump line="29" column="13" filename="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/transportorder/TransportOrderBidWebservice.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>SpotBid-b3jxk6</text>
       </register>
       <register name="/" type="4">
         <text>amq</text>
       </register>
       <register name="0" type="4">
-        <text># -Dserver.port=8082 \
-# -Dlog4j.configurationFile=log4j2-local.xml \
-# -DASB.jms.endpoint.URL=tcp://127.0.0.1:61616 -DASB.jms.endpoint.user=admin -DASB.jms.endpoint.pwd=admin \
-# -DTFX.jms.endpoint.URL=tcp://127.0.0.1:61616 \
-# -DSpotBidding.jms.endpoint.URL=tcp://127.0.0.1:61616 \
-# -Droutes-config.SpotBidding.http.endpoint.output=http://localhost:8011/mock \
-# -Droutes-config.TFX.http.endpoint.output=http://localhost:8011/mock \</text>
+        <text>SpotBid-5js1ys</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFtcToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBkb2NrZXJodWIudHcuaW50cmEvbmdtcC9hY3RpdmVtcQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWQ1c3VtIGFzYi1zdGFydGVyLSRBU0JfVkVSU0lPTi5qYXIK</text>
+        <text encoding="base64">ICAnbTMxb2Fkdmk0cnA2Y2xzMDZ1dTNwYjZ0NW5mMGdrajAnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aHR0cDovL2FydGlmYWN0cy50dy5pbnRyYS8kQVJUSUZBQ1RfUkVQTy9jb20vYWxwZWdhZ3JvdXAvYXdzL2VzYi9hc2Itc3RhcnRlci8kQVNCX1ZFUlNJT04vYXNiLXN0YXJ0ZXItJEFTQl9WRVJTSU9OLmphcgo=</text>
+        <text encoding="base64">ICAnbzNnMjY2dXBnNjZnN2Y2YjR1bjhzNGFtZDFiOTQ5YjQnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RlJPTSAK</text>
+        <text encoding="base64">ICAgIGFtcToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGltYWdlOiBkb2NrZXJodWIudHcuaW50cmEvbmdtcC9hY3RpdmVtcQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGFkbWluLW9iamVjdCBjbGFzcy1uYW1lPSJvcmcuYXBhY2hlLmFjdGl2ZW1xLmNvbW1hbmQuQWN0aXZlTVFRdWV1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqbmRpLW5hbWU9ImphdmE6L1Nwb3RCaWRkaW5nLlNwb3RCaWRkaW5nLk91dCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb29sLW5hbWU9IlNwb3RCaWRkaW5nLlNwb3RCaWRkaW5nLk91dCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Y29uZmlnLXByb3BlcnR5IG5hbWU9IlBoeXNpY2FsTmFtZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgamF2YTovU3BvdEJpZGRpbmcuU3BvdEJpZGRpbmcuT3V0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2NvbmZpZy1wcm9wZXJ0eT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9hZG1pbi1vYmplY3Q+</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">bWQ1c3VtIGFzYi1zdGFydGVyLSRBU0JfVkVSU0lPTi5qYXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
