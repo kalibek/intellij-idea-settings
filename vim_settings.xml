@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" timestamp="1532063796274">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" timestamp="1532064326405">
         <mark key="'" line="119" column="0" />
-        <mark key="[" line="94" column="32" />
-        <mark key="]" line="94" column="43" />
-        <mark key="^" line="94" column="43" />
-        <mark key="." line="94" column="43" />
+        <mark key="[" line="114" column="11" />
+        <mark key="]" line="114" column="26" />
+        <mark key="^" line="113" column="10" />
+        <mark key="." line="113" column="10" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/LinkStepDefinitions.java" timestamp="1532062151355">
         <mark key="[" line="11" column="74" />
@@ -22,8 +22,10 @@
         <mark key="." line="47" column="33" />
         <mark key="^" line="47" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1531307067940">
-        <mark key="'" line="185" column="32" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/JNDIConfig.java" timestamp="1532064790386">
+        <mark key="[" line="8" column="53" />
+        <mark key="]" line="8" column="53" />
+        <mark key="." line="8" column="53" />
       </file>
       <file name="/a.dummy" timestamp="1531392849544">
         <mark key="[" line="0" column="3" />
@@ -36,9 +38,6 @@
         <mark key="]" line="12" column="24" />
         <mark key="^" line="24" column="57" />
         <mark key="." line="12" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/OfferDTO.java" timestamp="1531807400831">
-        <mark key="'" line="27" column="22" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightOfferEnpointSteps.java" timestamp="1532003718418">
         <mark key="[" line="32" column="45" />
@@ -70,8 +69,12 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1532062584454">
-        <mark key="'" line="295" column="38" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1532064749053">
+        <mark key="'" line="490" column="35" />
+        <mark key="[" line="467" column="16" />
+        <mark key="]" line="490" column="35" />
+        <mark key="^" line="467" column="15" />
+        <mark key="." line="467" column="16" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/Stupid.feature" timestamp="1532000631627">
         <mark key="[" line="1" column="12" />
@@ -103,9 +106,6 @@
         <mark key="]" line="28" column="75" />
         <mark key="." line="31" column="61" />
         <mark key="^" line="31" column="61" />
-      </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" timestamp="1531920959548">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/JMSPublisher.java" timestamp="1530700709981">
         <mark key="[" line="18" column="13" />
@@ -175,9 +175,6 @@
         <mark key="." line="44" column="3" />
         <mark key="^" line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/manager/transportorder/TransportOrderManager.java" timestamp="1531982214386">
-        <mark key="'" line="70" column="13" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/LocationService.java" timestamp="1531977474898" />
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11412-api-links-handling-in-responses.feature" timestamp="1532062116851">
         <mark key="'" line="0" column="49" />
@@ -185,9 +182,6 @@
         <mark key="]" line="5" column="26" />
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_demo.properties" timestamp="1531912798292">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/AmqTestApplication.java" timestamp="1531296592900">
         <mark key="[" line="34" column="57" />
@@ -212,7 +206,7 @@
         <mark key="]" line="34" column="40" />
         <mark key="." line="34" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531992858959">
+      <file name="/Dummy.txt" timestamp="1532064816823">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
@@ -229,9 +223,6 @@
         <mark key="]" line="27" column="20" />
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1531894640816">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/Dockerfile" timestamp="1531295613713">
         <mark key="[" line="0" column="18" />
@@ -276,6 +267,10 @@
         <mark key="." line="86" column="33" />
         <mark key="^" line="86" column="46" />
       </file>
+      <file name="/standalone.xml" timestamp="1532064683544">
+        <mark key="[" line="530" column="38" />
+        <mark key="]" line="530" column="61" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbClient.java" timestamp="1531202096513">
         <mark key="[" line="8" column="56" />
         <mark key="]" line="8" column="62" />
@@ -294,8 +289,10 @@
         <mark key="^" line="30" column="89" />
         <mark key="." line="30" column="89" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" timestamp="1531973886747">
-        <mark key="'" line="30" column="24" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" timestamp="1532063868590">
+        <mark key="'" line="139" column="5" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="32" />
       </file>
       <file name="$USER_HOME$/projects/simple/http-worker.go" timestamp="1530685929236">
         <mark key="[" line="14" column="20" />
@@ -314,12 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="7" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/transportorder/TransportOrderClient.java" />
-      <jump line="485" column="34" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="486" column="77" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="528" column="86" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" />
-      <jump line="18" column="23" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_null.properties" />
       <jump line="402" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
@@ -414,85 +405,80 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="82" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="119" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
+      <jump line="34" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
+      <jump line="140" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
+      <jump line="117" column="29" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
+      <jump line="139" column="5" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
+      <jump line="490" column="35" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>3PGTiBvV3EaK</text>
+        <text>.</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>3PGTiBvV3EaK</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>FX</text>
+        <text>IN</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IyBFU0IgUGFyYW1ldGVycwoKaWYgWyAiJEZYX0VOViIgPSAiZGV2IiBdOyB0aGVuCiAgICBKQVZBX09QVFM9IiRKQVZBX09QVFMgLURmeC5lc2Iuc2VuZC50by5xdWV1ZT0ke0VTQl9TRU5EX1RPX1E6LXRydWV9IgoKICAgIGlmIFsgIngkVEZYX05HTVBfTVFfVVNFUk5BTUUiID0gIngiIF07IHRoZW4KICAgICAgICBlY2hvIFNldCBOR01QIHVzZXIKICAgICAgICBleHBvcnQgVEZYX05HTVBfTVFfVVNFUk5BTUU9dGZ4LW5nbXAKICAgIGZpCgogICAgaWYgWyAieCRURlhfTkdNUF9NUV9QV0QiID0gIngiIF07IHRoZW4KICAgICAgICBlY2hvIFNldCBOR01QIHBhc3N3b3JkCiAgICAgICAgZXhwb3J0IFRGWF9OR01QX01RX1BXRD0zUEdUaUJ2VjNFYUsKICAgIGZpCgogICAgaWYgWyAieCRGWF9PVVRfRVNCX0hPU1ROQU1FIiA9ICJ4IiBdOyB0aGVuCiAgICAgICAgZWNobyBTZXQgRVNCIE9VVCBob3N0bmFtZQogICAgICAgIGV4cG9ydCBGWF9PVVRfSE9TVE5BTUU9ZngubXEubWFya2V0cGxhY2UuYXdzLndrdHMuZGV2CiAgICBlbHNlCiAgICAgICAgZXhwb3J0IEZYX09VVF9IT1NUTkFNRT0kRlhfT1VUX0VTQl9IT1NUTkFNRQogICAgZmkKCiAgICBpZiBbICJ4JEZYX0lOX0VTQl9IT1NUTkFNRSIgPSAieCIgXTsgdGhlbgogICAgICAgIGVjaG8gU2V0IEVTQiBJTiBob3N0bmFtZQogICAgICAgIGV4cG9ydCBGWF9JTl9IT1NUTkFNRT1lc2IubXEubWFya2V0cGxhY2UuYXdzLndrdHMuZGV2CiAgICBlbHNlCiAgICAgICAgZXhwb3J0IEZYX0lOX0hPU1ROQU1FPSRGWF9JTl9FU0JfSE9TVE5BTUUKICAgIGZpCmVsc2UKICAgIEpBVkFfT1BUUz0iJEpBVkFfT1BUUyAtRGZ4LmVzYi5zZW5kLnRvLnF1ZXVlPSR7RVNCX1NFTkRfVE9fUTotZmFsc2V9IgoKICAgIGV4cG9ydCBURlhfTkdNUF9NUV9VU0VSTkFNRT0kQU1fVVNFUgogICAgZXhwb3J0IFRGWF9OR01QX01RX1BXRD0kQU1fUFcKCiAgICBleHBvcnQgRlhfT1VUX0hPU1ROQU1FPSRBTV9BRERSRVNTCiAgICBleHBvcnQgRlhfSU5fSE9TVE5BTUU9JEFNX0FERFJFU1MKZmkK</text>
+        <text encoding="base64">PHJlc291cmNlLWFkYXB0ZXIgaWQ9IlNwb3RCaWRkaW5nLkluLkFjdGl2ZU1RIj4KICAgICAgICAgICAgICAgICAgICA8bW9kdWxlIHNsb3Q9Im1haW4iIGlkPSJvcmcuYXBhY2hlLmFjdGl2ZW1xLnJhIi8+CiAgICAgICAgICAgICAgICAgICAgPHRyYW5zYWN0aW9uLXN1cHBvcnQ+WEFUcmFuc2FjdGlvbjwvdHJhbnNhY3Rpb24tc3VwcG9ydD4KICAgICAgICAgICAgICAgICAgICA8Y29uZmlnLXByb3BlcnR5IG5hbWU9IlVzZUluYm91bmRTZXNzaW9uIj5mYWxzZTwvY29uZmlnLXByb3BlcnR5PgogICAgICAgICAgICAgICAgICAgIDxjb25maWctcHJvcGVydHkgbmFtZT0iU2VydmVyVXJsIj4ke2Vudi5TUE9UX0lOX0hPU1ROQU1FOnRjcDovL2xvY2FsaG9zdDo2MTYxNn08L2NvbmZpZy1wcm9wZXJ0eT4KICAgICAgICAgICAgICAgICAgICA8Y29uZmlnLXByb3BlcnR5IG5hbWU9IlVzZXJOYW1lIj4ke2Vudi5TUE9UX05HTVBfTVFfVVNFUk5BTUU6YWRtaW59PC9jb25maWctcHJvcGVydHk+CiAgICAgICAgICAgICAgICAgICAgPGNvbmZpZy1wcm9wZXJ0eSBuYW1lPSJQYXNzd29yZCI+JHtlbnYuU1BPVF9OR01QX01RX1BXRDphZG1pbn08L2NvbmZpZy1wcm9wZXJ0eT4KCiAgICAgICAgICAgICAgICAgICAgPGNvbm5lY3Rpb24tZGVmaW5pdGlvbnM+CiAgICAgICAgICAgICAgICAgICAgICAgIDxjb25uZWN0aW9uLWRlZmluaXRpb24gY2xhc3MtbmFtZT0ib3JnLmFwYWNoZS5hY3RpdmVtcS5yYS5BY3RpdmVNUU1hbmFnZWRDb25uZWN0aW9uRmFjdG9yeSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqbmRpLW5hbWU9ImphdmE6L2ptcy9TcG90SW5Db25uRmFjdG9yeSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb29sLW5hbWU9IldLVFNDb25uRmFjdG9yeSIvPgogICAgICAgICAgICAgICAgICAgIDwvY29ubmVjdGlvbi1kZWZpbml0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8YWRtaW4tb2JqZWN0cz4KICAgICAgICAgICAgICAgICAgICAgICAgPGFkbWluLW9iamVjdCBjbGFzcy1uYW1lPSJvcmcuYXBhY2hlLmFjdGl2ZW1xLmNvbW1hbmQuQWN0aXZlTVFRdWV1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqbmRpLW5hbWU9ImphdmE6L1Nwb3RCaWRkaW5nLkluIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvb2wtbmFtZT0iV0tUU0Nvbm5GYWN0b3J5IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZS1qYXZhLWNvbnRleHQ9ImZhbHNlIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxjb25maWctcHJvcGVydHkgbmFtZT0iUGh5c2ljYWxOYW1lIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTcG90QmlkZGluZy5TcG90QmlkZGluZy5JbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWctcHJvcGVydHk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvYWRtaW4tb2JqZWN0PgogICAgICAgICAgICAgICAgICAgIDwvYWRtaW4tb2JqZWN0cz4KICAgICAgICAgICAgICAgIDwvcmVzb3VyY2UtYWRhcHRlcj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuTWF0Y2hlcnMuY29udGFpbnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5sb2coKS5hbGwoKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">PGFkbWluLW9iamVjdCBjbGFzcy1uYW1lPSJvcmcuYXBhY2hlLmFjdGl2ZW1xLmNvbW1hbmQuQWN0aXZlTVFRdWV1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqbmRpLW5hbWU9ImphdmE6L1Nwb3RCaWRkaW5nLlNwb3RCaWRkaW5nLk91dCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb29sLW5hbWU9IlNwb3RCaWRkaW5nLlNwb3RCaWRkaW5nLk91dCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Y29uZmlnLXByb3BlcnR5IG5hbWU9IlBoeXNpY2FsTmFtZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgamF2YTovU3BvdEJpZGRpbmcuU3BvdEJpZGRpbmcuT3V0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2NvbmZpZy1wcm9wZXJ0eT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9hZG1pbi1vYmplY3Q+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubG9nKCkuYWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">PGFkbWluLW9iamVjdCBjbGFzcy1uYW1lPSJvcmcuYXBhY2hlLmFjdGl2ZW1xLmNvbW1hbmQuQWN0aXZlTVFRdWV1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqbmRpLW5hbWU9ImphdmE6L2ptcy9xdWV1ZS9iaWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcG9vbC1uYW1lPSJCaWRRdWV1ZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Y29uZmlnLXByb3BlcnR5IG5hbWU9IlBoeXNpY2FsTmFtZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgamF2YTovam1zL3F1ZXVlL2JpZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWctcHJvcGVydHk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvYWRtaW4tb2JqZWN0PgogICAgICAgICAgICAgICAgICAgICAgICA8YWRtaW4tb2JqZWN0IGNsYXNzLW5hbWU9Im9yZy5hcGFjaGUuYWN0aXZlbXEuY29tbWFuZC5BY3RpdmVNUVF1ZXVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGpuZGktbmFtZT0iamF2YTovam1zL3F1ZXVlL1dLVFNNYWlsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvb2wtbmFtZT0iV0tUU01haWxRdWV1ZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Y29uZmlnLXByb3BlcnR5IG5hbWU9IlBoeXNpY2FsTmFtZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgamF2YTovam1zL3F1ZXVlL1dLVFNNYWlsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2NvbmZpZy1wcm9wZXJ0eT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9hZG1pbi1vYmplY3Q+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhZG1pbi1vYmplY3QgY2xhc3MtbmFtZT0ib3JnLmFwYWNoZS5hY3RpdmVtcS5jb21tYW5kLkFjdGl2ZU1RUXVldWUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgam5kaS1uYW1lPSJqYXZhOi9qbXMvcXVldWUvV0tUU1Rocm90dGxpbmdNYWlsUXVldWUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcG9vbC1uYW1lPSJXS1RTVGhyb3R0bGluZ01haWxRdWV1ZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Y29uZmlnLXByb3BlcnR5IG5hbWU9IlBoeXNpY2FsTmFtZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgamF2YTovam1zL3F1ZXVlL1dLVFNUaHJvdHRsaW5nTWFpbFF1ZXVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2NvbmZpZy1wcm9wZXJ0eT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9hZG1pbi1vYmplY3Q+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhZG1pbi1vYmplY3QgY2xhc3MtbmFtZT0ib3JnLmFwYWNoZS5hY3RpdmVtcS5jb21tYW5kLkFjdGl2ZU1RUXVldWUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgam5kaS1uYW1lPSJqYXZhOi9qbXMvcXVldWUvRGVhZExldHRlclF1ZXVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvb2wtbmFtZT0iRGVhZExldHRlclF1ZXVlIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxjb25maWctcHJvcGVydHkgbmFtZT0iUGh5c2ljYWxOYW1lIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqYXZhOi9qbXMvcXVldWUvRGVhZExldHRlclF1ZXVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2NvbmZpZy1wcm9wZXJ0eT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9hZG1pbi1vYmplY3Q+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhZG1pbi1vYmplY3QgY2xhc3MtbmFtZT0ib3JnLmFwYWNoZS5hY3RpdmVtcS5jb21tYW5kLkFjdGl2ZU1RVG9waWMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgam5kaS1uYW1lPSJqYXZhOi9qbXMvdG9waWMvV0tUU1B1c2gtVG9waWMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcG9vbC1uYW1lPSJXS1RTUHVzaC1Ub3BpYyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Y29uZmlnLXByb3BlcnR5IG5hbWU9IlBoeXNpY2FsTmFtZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgamF2YTovam1zL3RvcGljL1dLVFNQdXNoLVRvcGljCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2NvbmZpZy1wcm9wZXJ0eT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9hZG1pbi1vYmplY3Q+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuTWF0Y2hlcnMuY29udGFpbnM7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>@And()
-    public void responseShouldContainSelfLink() throws Throwable {
-        // Write code here that turns the phrase above into concrete actions
-        throw new PendingException();
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5sb2coKS5hbGwoKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>@And(&quot;^response should contain self link$&quot;)
-    public void responseShouldContainSelfLink() throws Throwable {
-        // Write code here that turns the phrase above into concrete actions
-        throw new PendingException();
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubG9nKCkuYWxsKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JsZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnbHVlID0gImNvbS5hbHBlZ2Fncm91cC5uZ21wLnRlc3QuYXBpLmZ4LnN0ZXBkZWZzIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0ZYL1NQT1QvZw==</text>
+        <text encoding="base64">JzwsJz5zL0lOL09VVC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>FX</last-search>
+      <last-search>IN</last-search>
       <last-offset />
-      <last-pattern>FX</last-pattern>
-      <last-replace>SPOT</last-replace>
-      <last-substitute>FX</last-substitute>
+      <last-pattern>IN</last-pattern>
+      <last-replace>OUT</last-replace>
+      <last-substitute>IN</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tfc</entry>
-        <entry>\ctfc</entry>
         <entry>target</entry>
         <entry>feeCurrency</entry>
         <entry>quoteCurrency</entry>
         <entry>showNonEurWarnings</entry>
         <entry>ids</entry>
         <entry>tgz</entry>
-        <entry>esb</entry>
         <entry>AM</entry>
         <entry>-test</entry>
         <entry>find</entry>
@@ -504,10 +490,11 @@
         <entry>resource</entry>
         <entry>TFX</entry>
         <entry>FX</entry>
+        <entry>esb</entry>
+        <entry>In</entry>
+        <entry>IN</entry>
       </history-search>
       <history-cmd>
-        <entry>ew</entry>
-        <entry>s</entry>
         <entry encoding="base64">JzwsJz5zL3BpY2tVcC9kZWxpdmVyeS9n</entry>
         <entry encoding="base64">JzwsJz5zL1BlcmNlbnRhZ2UvbWluL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1BlcmNlbnRhZ2UvTWluL2c=</entry>
@@ -526,6 +513,8 @@
         <entry encoding="base64">JzwsJz5zL1RGWC9TUE9UL2c=</entry>
         <entry encoding="base64">JzwsJz4vRlgvU1BPVC9n</entry>
         <entry encoding="base64">JzwsJz5zL0ZYL1NQT1QvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0luL091dC9n</entry>
+        <entry encoding="base64">JzwsJz5zL0lOL09VVC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
