@@ -169,11 +169,11 @@
         <mark key="]" line="43" column="27" />
         <mark key="." line="3" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/aws_esb/launcher/docker-compose.yml" timestamp="1532069567383">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="8" column="11" />
+      <file name="$USER_HOME$/projects/aws_esb/launcher/docker-compose.yml" timestamp="1532069587293">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="13" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/ejb/JNDIConfig.java" timestamp="1531136488020">
         <mark key="[" line="17" column="0" />
@@ -519,13 +519,13 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>build</text>
+        <text>.</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>amq</text>
