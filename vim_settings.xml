@@ -22,12 +22,6 @@
         <mark key="." line="47" column="33" />
         <mark key="^" line="47" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/PTVServicesSOAPImpl.java" timestamp="1531921543926">
-        <mark key="'" line="54" column="12" />
-        <mark key="[" line="194" column="50" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/JNDIConfig.java" timestamp="1532064790386">
         <mark key="[" line="8" column="53" />
         <mark key="]" line="8" column="53" />
@@ -35,12 +29,6 @@
       </file>
       <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/transportorder/TransportOrderBidWebservice.java" timestamp="1532081685154">
         <mark key="'" line="29" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" timestamp="1531198902648">
-        <mark key="'" line="133" column="49" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="152" column="32" />
-        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1531307067940">
         <mark key="'" line="185" column="32" />
@@ -66,18 +54,6 @@
         <mark key="." line="32" column="44" />
         <mark key="^" line="32" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/activemq-cluster/wildfly/standalone.xml" timestamp="1531286071151">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="333" column="0" />
-        <mark key="]" line="333" column="0" />
-        <mark key="." line="333" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/pom.xml" timestamp="1531891980116">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq.xml" timestamp="1531222490710">
         <mark key="[" line="112" column="120" />
         <mark key="]" line="112" column="125" />
@@ -95,12 +71,6 @@
         <mark key="]" line="33" column="21" />
         <mark key="." line="33" column="21" />
         <mark key="^" line="33" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" timestamp="1531892818390">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="144" column="32" />
-        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/wildfly/Dockerfile" timestamp="1532069045518">
         <mark key="'" line="19" column="86" />
@@ -138,12 +108,6 @@
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/widget/Header.ui.xml" timestamp="1531462084630">
-        <mark key="'" line="225" column="76" />
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/Processed.java" timestamp="1531304870364">
         <mark key="[" line="30" column="5" />
         <mark key="]" line="13" column="40" />
@@ -175,11 +139,11 @@
         <mark key="[" line="4" column="37" />
         <mark key="]" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1532069442379">
-        <mark key="'" line="24" column="14" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="43" column="27" />
-        <mark key="." line="3" column="55" />
+      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1532089267164">
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="52" />
+        <mark key="^" line="22" column="52" />
       </file>
       <file name="$USER_HOME$/projects/aws_esb/launcher/docker-compose.yml" timestamp="1532069587293">
         <mark key="[" line="8" column="11" />
@@ -192,12 +156,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="30" column="3" />
         <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_prod.properties" timestamp="1531900193010">
-        <mark key="'" line="42" column="52" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="156" column="32" />
-        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/controller/Controller.java" timestamp="1531304942443">
         <mark key="[" line="23" column="0" />
@@ -216,10 +174,10 @@
         <mark key="]" line="25" column="6" />
         <mark key="." line="25" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1531904812063">
-        <mark key="'" line="178" column="18" />
-        <mark key="[" line="43" column="40" />
-        <mark key="]" line="43" column="40" />
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1532089257967">
+        <mark key="'" line="83" column="31" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="14" />
         <mark key="." line="43" column="40" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/FxTest.java" timestamp="1532000431775">
@@ -259,12 +217,6 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1531198893833">
-        <mark key="'" line="129" column="54" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="148" column="32" />
-        <mark key="." line="147" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_demo.properties" timestamp="1531912798292">
         <mark key="'" line="0" column="0" />
       </file>
@@ -290,12 +242,6 @@
         <mark key="[" line="5" column="20" />
         <mark key="]" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/impl/VehicleOfferActionManagerImpl.java" timestamp="1531481683077">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1532081364442">
         <mark key="[" line="62" column="7" />
         <mark key="]" line="62" column="24" />
@@ -307,7 +253,7 @@
         <mark key="]" line="34" column="40" />
         <mark key="." line="34" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532072965711">
+      <file name="/Dummy.txt" timestamp="1532089344308">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
@@ -325,8 +271,12 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1531894640816">
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1532088803897">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="555" column="60" />
+        <mark key="]" line="555" column="62" />
+        <mark key="^" line="555" column="62" />
+        <mark key="." line="555" column="62" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/Dockerfile" timestamp="1531295613713">
         <mark key="[" line="0" column="18" />
@@ -352,18 +302,12 @@
         <mark key="^" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1532087914741">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="122" column="66" />
-        <mark key="]" line="122" column="69" />
-        <mark key="^" line="122" column="69" />
-        <mark key="." line="122" column="69" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/FxApplication.java" timestamp="1531478751780">
-        <mark key="'" line="56" column="52" />
-        <mark key="[" line="630" column="78" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1532089328422">
+        <mark key="'" line="95" column="29" />
+        <mark key="[" line="133" column="55" />
+        <mark key="]" line="133" column="55" />
+        <mark key="." line="133" column="55" />
+        <mark key="^" line="133" column="55" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/RequestedCalloffServiceBean.java" timestamp="1531740009628">
         <mark key="[" line="103" column="39" />
@@ -422,12 +366,6 @@
         <mark key="." line="14" column="53" />
         <mark key="^" line="14" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/impl/FreightOfferActionManagerImpl.java" timestamp="1531479367086">
-        <mark key="'" line="36" column="13" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/LinkStepDefinitions.java" timestamp="1532003437419">
         <mark key="[" line="4" column="48" />
         <mark key="]" line="5" column="3" />
@@ -436,11 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="54" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" />
-      <jump line="144" column="66" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" />
-      <jump line="133" column="49" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" />
-      <jump line="160" column="65" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
-      <jump line="130" column="67" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_null.properties" />
       <jump line="19" column="23" filename="$USER_HOME$/projects/activemq-cluster/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/activemq-cluster/wildfly/standalone.xml" />
       <jump line="120" column="69" filename="$USER_HOME$/projects/activemq-cluster/activemq/activemq.xml" />
@@ -536,61 +469,66 @@
       <jump line="17" column="25" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
       <jump line="24" column="14" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
       <jump line="29" column="13" filename="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/transportorder/TransportOrderBidWebservice.java" />
+      <jump line="174" column="3" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
+      <jump line="277" column="9" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
+      <jump line="83" column="31" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
+      <jump line="90" column="15" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
+      <jump line="95" column="29" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>dev</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
-        <text>amq</text>
+        <text>spot</text>
       </register>
-      <register name="0" type="4">
-        <text>SpotBid-5js1ys</text>
+      <register name="0" type="2">
+        <text encoding="base64">aWYgWyAiJEZYX0VOViIgPSAiZGV2IiBdOyB0aGVuCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmVyc2lvbjogIjMiCnNlcnZpY2VzOgogICAgYXBwOgogICAgICAgIGltYWdlOiBkb2NrZXJodWIudHcuaW50cmEvbmdtcC9meC13aWxkZmx5OjE4LjA5LTEKICAgICAgICBwb3J0czoKICAgICAgICAgICAgLSAiNzAwMTo3MDAxIgogICAgICAgICAgICAtICI3MDExOjcwMTEiCiAgICAgICAgICAgIC0gIjg3ODc6ODc4NyIKICAgICAgICAgICAgLSAiOTk5MDo5OTkwIgogICAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgICAtIFBHX0hPU1Q9ZGIKICAgICAgICAgICAgLSBQR19EQj10ZnhfZGF0YQogICAgICAgICAgICAtIFBHX1VTRVI9dGZ4X2RhdGEKICAgICAgICAgICAgLSBQR19QV0Q9dGZ4X2RhdGEKICAgICAgICAgICAgLSBBTV9BRERSRVNTPXRjcDovLyR7RE9DS0VSX0hPU1RfSVB9OjYxNjE2CiAgICAgICAgICAgIC0gQU1fVVNFUj1hZG1pbgogICAgICAgICAgICAtIEFNX1BXPWFkbWluCiAgICAgICAgICAgIC0gRlhfRU5WPWxvY2FsCiAgICAgICAgICAgIC0gWE1TPTY0bQogICAgICAgICAgICAtIFhNWD0xRwogICAgICAgICAgICAtIE1TX01FVEE9OTZNCiAgICAgICAgICAgIC0gTVhfTUVUQT0xRwogICAgICAgIGRlcGVuZHNfb246CiAgICAgICAgICAgIC0gZGIKICAgICAgICAgICAgLSBtZW0KICAgICAgICB2b2x1bWVzOgogICAgICAgICAgICAtIC4vZG9ja2VyL3dmbG9ncy9hcHA6L29wdC9qYm9zcy93aWxkZmx5L3N0YW5kYWxvbmUvbG9nCiAgICBkYjoKICAgICAgICBpbWFnZTogZG9ja2VyaHViLnR3LmludHJhL25nbXAvcG9zdGdyZXM6bGF0ZXN0CiAgICAgICAgZW52aXJvbm1lbnQ6CiAgICAgICAgICAgIC0gUE9TVEdSRVNfREI9dGZ4X2RhdGEKICAgICAgICAgICAgLSBQT1NUR1JFU19VU0VSPXRmeF9kYXRhCiAgICAgICAgICAgIC0gUE9TVEdSRVNfUEFTU1dPUkQ9dGZ4X2RhdGEKICAgICAgICBwb3J0czoKICAgICAgICAgICAgLSAiNTQzMjo1NDMyIgogICAgICAgIHZvbHVtZXM6CiAgICAgICAgICAgIC0gcGdkYXRhOi92YXIvbGliL3Bvc3RncmVzcWwvZGF0YQogICAgICAgICAgICAtIC4vZG9ja2VyL3Bvc3RncmVzL2luaXRkYjovZG9ja2VyLWVudHJ5cG9pbnQtaW5pdGRiLmQKICAgIG1lbToKICAgICAgICBpbWFnZTogZG9ja2VyaHViLnR3LmludHJhL25nbXAvZWxhc3RpY2FjaGU6bGF0ZXN0CiAgICAgICAgY29tbWFuZDogWyJmYWtlLWVsYXN0aWNhY2hlLnJiIiwgIi1zIiwgIm1lbW5vZGV8bWVtbm9kZXwxMTIxMSJdCiAgICAgICAgZGVwZW5kc19vbjoKICAgICAgICAgIC0gbWVtbm9kZQogICAgbWVtbm9kZToKICAgICAgICBpbWFnZTogbWVtY2FjaGVkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAnbTMxb2Fkdmk0cnA2Y2xzMDZ1dTNwYjZ0NW5mMGdrajAnCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAnbzNnMjY2dXBnNjZnN2Y2YjR1bjhzNGFtZDFiOTQ5YjQnLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGFtcToK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBkb2NrZXJodWIudHcuaW50cmEvbmdtcC9hY3RpdmVtcQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAnbTMxb2Fkdmk0cnA2Y2xzMDZ1dTNwYjZ0NW5mMGdrajAnCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAnbzNnMjY2dXBnNjZnN2Y2YjR1bjhzNGFtZDFiOTQ5YjQnLAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">bWQ1c3VtIGFzYi1zdGFydGVyLSRBU0JfVkVSU0lPTi5qYXIK</text>
+        <text encoding="base64">ICAgIGFtcToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>amq</last-search>
+      <last-search>spot</last-search>
       <last-offset />
-      <last-pattern>amq</last-pattern>
+      <last-pattern>spot</last-pattern>
       <last-replace>\.</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -598,7 +536,6 @@
     </search>
     <history>
       <history-search>
-        <entry>quoteCurrency</entry>
         <entry>showNonEurWarnings</entry>
         <entry>ids</entry>
         <entry>tgz</entry>
@@ -618,6 +555,7 @@
         <entry>IN</entry>
         <entry>\/</entry>
         <entry>amq</entry>
+        <entry>spot</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1BlcmNlbnRhZ2UvbWluL2c=</entry>
