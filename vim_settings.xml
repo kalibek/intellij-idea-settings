@@ -360,6 +360,10 @@
         <mark key="[" line="530" column="38" />
         <mark key="]" line="530" column="61" />
       </file>
+      <file name="$USER_HOME$/projects/aws_esb/aws/utils/launcher/src/start_asb-local-ngmp.sh" timestamp="1532079454125">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="10" column="70" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbClient.java" timestamp="1531202096513">
         <mark key="[" line="8" column="56" />
         <mark key="]" line="8" column="62" />
@@ -407,9 +411,6 @@
         <mark key="]" line="5" column="3" />
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
-      </file>
-      <file name="/fragment.java" timestamp="1532001270034">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -519,7 +520,13 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text># -Dserver.port=8082 \
+# -Dlog4j.configurationFile=log4j2-local.xml \
+# -DASB.jms.endpoint.URL=tcp://127.0.0.1:61616 -DASB.jms.endpoint.user=admin -DASB.jms.endpoint.pwd=admin \
+# -DTFX.jms.endpoint.URL=tcp://127.0.0.1:61616 \
+# -DSpotBidding.jms.endpoint.URL=tcp://127.0.0.1:61616 \
+# -Droutes-config.SpotBidding.http.endpoint.output=http://localhost:8011/mock \
+# -Droutes-config.TFX.http.endpoint.output=http://localhost:8011/mock \</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
@@ -530,8 +537,14 @@
       <register name="/" type="4">
         <text>amq</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFtcToKICAgICAgICBpbWFnZTogZG9ja2VyaHViLnR3LmludHJhL25nbXAvYWN0aXZlbXE6bGF0ZXN0CiAgICAgICAgcG9ydHM6CiAgICAgICAgICAgIC0gIjgxNjE6ODE2MSIKICAgICAgICAgICAgLSAiNjE2MTY6NjE2MTYiCg==</text>
+      <register name="0" type="4">
+        <text># -Dserver.port=8082 \
+# -Dlog4j.configurationFile=log4j2-local.xml \
+# -DASB.jms.endpoint.URL=tcp://127.0.0.1:61616 -DASB.jms.endpoint.user=admin -DASB.jms.endpoint.pwd=admin \
+# -DTFX.jms.endpoint.URL=tcp://127.0.0.1:61616 \
+# -DSpotBidding.jms.endpoint.URL=tcp://127.0.0.1:61616 \
+# -Droutes-config.SpotBidding.http.endpoint.output=http://localhost:8011/mock \
+# -Droutes-config.TFX.http.endpoint.output=http://localhost:8011/mock \</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFtcToK</text>
