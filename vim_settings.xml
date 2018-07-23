@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" timestamp="1532064326405">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="114" column="11" />
-        <mark key="]" line="114" column="26" />
-        <mark key="^" line="113" column="10" />
-        <mark key="." line="113" column="10" />
-      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/LinkStepDefinitions.java" timestamp="1532062151355">
         <mark key="[" line="11" column="74" />
         <mark key="]" line="11" column="74" />
@@ -151,7 +144,7 @@
         <mark key="^" line="30" column="3" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/messages/client/EsbJMSClientBean.java" timestamp="1532338074177">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/messages/client/EsbJMSClientBean.java" timestamp="1532341833849">
         <mark key="[" line="2" column="54" />
         <mark key="]" line="2" column="54" />
         <mark key="^" line="2" column="53" />
@@ -211,13 +204,6 @@
         <mark key="]" line="16" column="51" />
         <mark key="." line="16" column="51" />
         <mark key="^" line="17" column="66" />
-      </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11412-api-links-handling-in-responses.feature" timestamp="1532062116851">
-        <mark key="'" line="0" column="49" />
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="26" />
-        <mark key="^" line="5" column="17" />
-        <mark key="." line="5" column="18" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_demo.properties" timestamp="1531912798292">
         <mark key="'" line="0" column="0" />
@@ -349,13 +335,6 @@
         <mark key="^" line="30" column="89" />
         <mark key="." line="30" column="89" />
       </file>
-      <file name="$USER_HOME$/projects/aws_esb/launcher/Dockerfile" timestamp="1532069116894">
-        <mark key="'" line="8" column="70" />
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="12" column="10" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="12" column="10" />
-      </file>
       <file name="$USER_HOME$/projects/simple/http-worker.go" timestamp="1530685929236">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="53" />
@@ -367,6 +346,9 @@
         <mark key="]" line="5" column="3" />
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
+      </file>
+      <file name="/fragment.java" timestamp="1532341655669">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
