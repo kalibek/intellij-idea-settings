@@ -139,11 +139,11 @@
         <mark key="[" line="4" column="37" />
         <mark key="]" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1532322620384">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="47" />
-        <mark key="." line="22" column="52" />
-        <mark key="^" line="22" column="52" />
+      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1532324578096">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="29" column="43" />
       </file>
       <file name="$USER_HOME$/projects/aws_esb/launcher/docker-compose.yml" timestamp="1532069587293">
         <mark key="[" line="8" column="11" />
@@ -174,11 +174,12 @@
         <mark key="]" line="25" column="6" />
         <mark key="." line="25" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1532089257967">
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1532324426849">
         <mark key="'" line="83" column="31" />
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="14" />
-        <mark key="." line="43" column="40" />
+        <mark key="[" line="160" column="23" />
+        <mark key="]" line="160" column="34" />
+        <mark key="." line="160" column="39" />
+        <mark key="^" line="160" column="39" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/FxTest.java" timestamp="1532000431775">
         <mark key="[" line="8" column="0" />
@@ -210,10 +211,10 @@
       <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/manager/transportorder/TransportOrderManager.java" timestamp="1531982214386">
         <mark key="'" line="70" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker/asb-local/docker-compose.yml" timestamp="1532322682363">
-        <mark key="[" line="17" column="52" />
-        <mark key="]" line="17" column="66" />
-        <mark key="." line="17" column="66" />
+      <file name="$USER_HOME$/projects/fx/docker/asb-local/docker-compose.yml" timestamp="1532324169964">
+        <mark key="[" line="16" column="51" />
+        <mark key="]" line="16" column="51" />
+        <mark key="." line="16" column="51" />
         <mark key="^" line="17" column="66" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11412-api-links-handling-in-responses.feature" timestamp="1532062116851">
@@ -485,14 +486,14 @@
       <register name="a" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>mock</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLSBTUE9UX0xJTks9aHR0cDovLyR7RE9DS0VSX0hPU1RfSVB9OjgwODAvaW50ZWdyYXRpb24vcmVzdC9tYnMvMC4xL2NhbGxvZmZzLwo=</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>mock</text>
+        <text>ve018</text>
       </register>
       <register name="/" type="4">
         <text>spot</text>
@@ -501,31 +502,31 @@
         <text>${DOCKER_HOST_IP}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBTUE9UX0xJTks9aHR0cDovLyR7RE9DS0VSX0hPU1RfSVB9OjgwODAvaW50ZWdyYXRpb24vcmVzdC9tYnMvMC4xL2NhbGxvZmZzLwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmVyc2lvbjogIjMiCnNlcnZpY2VzOgogICAgYXBwOgogICAgICAgIGltYWdlOiBkb2NrZXJodWIudHcuaW50cmEvbmdtcC9meC13aWxkZmx5OjE4LjA5LTEKICAgICAgICBwb3J0czoKICAgICAgICAgICAgLSAiNzAwMTo3MDAxIgogICAgICAgICAgICAtICI3MDExOjcwMTEiCiAgICAgICAgICAgIC0gIjg3ODc6ODc4NyIKICAgICAgICAgICAgLSAiOTk5MDo5OTkwIgogICAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgICAtIFBHX0hPU1Q9ZGIKICAgICAgICAgICAgLSBQR19EQj10ZnhfZGF0YQogICAgICAgICAgICAtIFBHX1VTRVI9dGZ4X2RhdGEKICAgICAgICAgICAgLSBQR19QV0Q9dGZ4X2RhdGEKICAgICAgICAgICAgLSBBTV9BRERSRVNTPXRjcDovLyR7RE9DS0VSX0hPU1RfSVB9OjYxNjE2CiAgICAgICAgICAgIC0gQU1fVVNFUj1hZG1pbgogICAgICAgICAgICAtIEFNX1BXPWFkbWluCiAgICAgICAgICAgIC0gRlhfRU5WPWxvY2FsCiAgICAgICAgICAgIC0gWE1TPTY0bQogICAgICAgICAgICAtIFhNWD0xRwogICAgICAgICAgICAtIE1TX01FVEE9OTZNCiAgICAgICAgICAgIC0gTVhfTUVUQT0xRwogICAgICAgIGRlcGVuZHNfb246CiAgICAgICAgICAgIC0gZGIKICAgICAgICAgICAgLSBtZW0KICAgICAgICB2b2x1bWVzOgogICAgICAgICAgICAtIC4vZG9ja2VyL3dmbG9ncy9hcHA6L29wdC9qYm9zcy93aWxkZmx5L3N0YW5kYWxvbmUvbG9nCiAgICBkYjoKICAgICAgICBpbWFnZTogZG9ja2VyaHViLnR3LmludHJhL25nbXAvcG9zdGdyZXM6bGF0ZXN0CiAgICAgICAgZW52aXJvbm1lbnQ6CiAgICAgICAgICAgIC0gUE9TVEdSRVNfREI9dGZ4X2RhdGEKICAgICAgICAgICAgLSBQT1NUR1JFU19VU0VSPXRmeF9kYXRhCiAgICAgICAgICAgIC0gUE9TVEdSRVNfUEFTU1dPUkQ9dGZ4X2RhdGEKICAgICAgICBwb3J0czoKICAgICAgICAgICAgLSAiNTQzMjo1NDMyIgogICAgICAgIHZvbHVtZXM6CiAgICAgICAgICAgIC0gcGdkYXRhOi92YXIvbGliL3Bvc3RncmVzcWwvZGF0YQogICAgICAgICAgICAtIC4vZG9ja2VyL3Bvc3RncmVzL2luaXRkYjovZG9ja2VyLWVudHJ5cG9pbnQtaW5pdGRiLmQKICAgIG1lbToKICAgICAgICBpbWFnZTogZG9ja2VyaHViLnR3LmludHJhL25nbXAvZWxhc3RpY2FjaGU6bGF0ZXN0CiAgICAgICAgY29tbWFuZDogWyJmYWtlLWVsYXN0aWNhY2hlLnJiIiwgIi1zIiwgIm1lbW5vZGV8bWVtbm9kZXwxMTIxMSJdCiAgICAgICAgZGVwZW5kc19vbjoKICAgICAgICAgIC0gbWVtbm9kZQogICAgbWVtbm9kZToKICAgICAgICBpbWFnZTogbWVtY2FjaGVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmVyc2lvbjogIjMiCnNlcnZpY2VzOgogICAgYXBwOgogICAgICAgIGltYWdlOiBkb2NrZXJodWIudHcuaW50cmEvbmdtcC9meC13aWxkZmx5OjE4LjA5LTEKICAgICAgICBwb3J0czoKICAgICAgICAgICAgLSAiNzAwMTo3MDAxIgogICAgICAgICAgICAtICI3MDExOjcwMTEiCiAgICAgICAgICAgIC0gIjg3ODc6ODc4NyIKICAgICAgICAgICAgLSAiOTk5MDo5OTkwIgogICAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgICAtIFBHX0hPU1Q9ZGIKICAgICAgICAgICAgLSBQR19EQj10ZnhfZGF0YQogICAgICAgICAgICAtIFBHX1VTRVI9dGZ4X2RhdGEKICAgICAgICAgICAgLSBQR19QV0Q9dGZ4X2RhdGEKICAgICAgICAgICAgLSBBTV9BRERSRVNTPXRjcDovLyR7RE9DS0VSX0hPU1RfSVB9OjYxNjE2CiAgICAgICAgICAgIC0gQU1fVVNFUj1hZG1pbgogICAgICAgICAgICAtIEFNX1BXPWFkbWluCiAgICAgICAgICAgIC0gRlhfRU5WPWxvY2FsCiAgICAgICAgICAgIC0gWE1TPTY0bQogICAgICAgICAgICAtIFhNWD0xRwogICAgICAgICAgICAtIE1TX01FVEE9OTZNCiAgICAgICAgICAgIC0gTVhfTUVUQT0xRwogICAgICAgIGRlcGVuZHNfb246CiAgICAgICAgICAgIC0gZGIKICAgICAgICAgICAgLSBtZW0KICAgICAgICB2b2x1bWVzOgogICAgICAgICAgICAtIC4vZG9ja2VyL3dmbG9ncy9hcHA6L29wdC9qYm9zcy93aWxkZmx5L3N0YW5kYWxvbmUvbG9nCiAgICBkYjoKICAgICAgICBpbWFnZTogZG9ja2VyaHViLnR3LmludHJhL25nbXAvcG9zdGdyZXM6bGF0ZXN0CiAgICAgICAgZW52aXJvbm1lbnQ6CiAgICAgICAgICAgIC0gUE9TVEdSRVNfREI9dGZ4X2RhdGEKICAgICAgICAgICAgLSBQT1NUR1JFU19VU0VSPXRmeF9kYXRhCiAgICAgICAgICAgIC0gUE9TVEdSRVNfUEFTU1dPUkQ9dGZ4X2RhdGEKICAgICAgICBwb3J0czoKICAgICAgICAgICAgLSAiNTQzMjo1NDMyIgogICAgICAgIHZvbHVtZXM6CiAgICAgICAgICAgIC0gcGdkYXRhOi92YXIvbGliL3Bvc3RncmVzcWwvZGF0YQogICAgICAgICAgICAtIC4vZG9ja2VyL3Bvc3RncmVzL2luaXRkYjovZG9ja2VyLWVudHJ5cG9pbnQtaW5pdGRiLmQKICAgIG1lbToKICAgICAgICBpbWFnZTogZG9ja2VyaHViLnR3LmludHJhL25nbXAvZWxhc3RpY2FjaGU6bGF0ZXN0CiAgICAgICAgY29tbWFuZDogWyJmYWtlLWVsYXN0aWNhY2hlLnJiIiwgIi1zIiwgIm1lbW5vZGV8bWVtbm9kZXwxMTIxMSJdCiAgICAgICAgZGVwZW5kc19vbjoKICAgICAgICAgIC0gbWVtbm9kZQogICAgbWVtbm9kZToKICAgICAgICBpbWFnZTogbWVtY2FjaGVkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAnbTMxb2Fkdmk0cnA2Y2xzMDZ1dTNwYjZ0NW5mMGdrajAnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAnbzNnMjY2dXBnNjZnN2Y2YjR1bjhzNGFtZDFiOTQ5YjQnLAo=</text>
+        <text encoding="base64">ICAnbTMxb2Fkdmk0cnA2Y2xzMDZ1dTNwYjZ0NW5mMGdrajAnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFtcToK</text>
+        <text encoding="base64">ICAnbzNnMjY2dXBnNjZnN2Y2YjR1bjhzNGFtZDFiOTQ5YjQnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
