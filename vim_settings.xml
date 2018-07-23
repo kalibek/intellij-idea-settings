@@ -145,7 +145,7 @@
         <mark key="^" line="30" column="3" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/messages/client/EsbJMSClientBean.java" timestamp="1532344210232">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/messages/client/EsbJMSClientBean.java" timestamp="1532345767790">
         <mark key="[" line="2" column="54" />
         <mark key="]" line="2" column="54" />
         <mark key="^" line="2" column="53" />
@@ -185,7 +185,7 @@
       <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/manager/transportorder/TransportOrderManager.java" timestamp="1531982214386">
         <mark key="'" line="70" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker/asb-local/docker-compose.yml" timestamp="1532343390159">
+      <file name="$USER_HOME$/projects/fx/docker/asb-local/docker-compose.yml" timestamp="1532345703824">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="21" column="17" />
         <mark key="." line="21" column="17" />
@@ -212,11 +212,11 @@
         <mark key="^" line="1" column="82" />
         <mark key="." line="1" column="82" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker/asb-local/start.sh" timestamp="1532343360916">
-        <mark key="[" line="17" column="73" />
-        <mark key="]" line="17" column="74" />
+      <file name="$USER_HOME$/projects/fx/docker/asb-local/start.sh" timestamp="1532346041261">
+        <mark key="[" line="17" column="59" />
+        <mark key="]" line="17" column="60" />
         <mark key="^" line="17" column="74" />
-        <mark key="." line="17" column="74" />
+        <mark key="." line="17" column="60" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1532081364442">
         <mark key="[" line="62" column="7" />
