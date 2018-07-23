@@ -139,9 +139,9 @@
         <mark key="[" line="4" column="37" />
         <mark key="]" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1532089267164">
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="22" />
+      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1532322620384">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="47" />
         <mark key="." line="22" column="52" />
         <mark key="^" line="22" column="52" />
       </file>
@@ -209,6 +209,12 @@
       </file>
       <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/manager/transportorder/TransportOrderManager.java" timestamp="1531982214386">
         <mark key="'" line="70" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/docker/asb-local/docker-compose.yml" timestamp="1532322682363">
+        <mark key="[" line="17" column="52" />
+        <mark key="]" line="17" column="66" />
+        <mark key="." line="17" column="66" />
+        <mark key="^" line="17" column="66" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11412-api-links-handling-in-responses.feature" timestamp="1532062116851">
         <mark key="'" line="0" column="49" />
@@ -480,19 +486,19 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>mock</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>mock</text>
       </register>
       <register name="/" type="4">
         <text>spot</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aWYgWyAiJEZYX0VOViIgPSAiZGV2IiBdOyB0aGVuCg==</text>
+      <register name="0" type="4">
+        <text>${DOCKER_HOST_IP}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
