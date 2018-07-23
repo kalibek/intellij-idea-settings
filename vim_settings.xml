@@ -22,11 +22,6 @@
         <mark key="." line="47" column="33" />
         <mark key="^" line="47" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/JNDIConfig.java" timestamp="1532064790386">
-        <mark key="[" line="8" column="53" />
-        <mark key="]" line="8" column="53" />
-        <mark key="." line="8" column="53" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/transportorder/TransportOrderBidWebservice.java" timestamp="1532081685154">
         <mark key="'" line="29" column="13" />
       </file>
@@ -54,7 +49,7 @@
         <mark key="." line="32" column="44" />
         <mark key="^" line="32" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1532325565134">
+      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1532327277216">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -89,12 +84,12 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1532064749053">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1532326480312">
         <mark key="'" line="490" column="35" />
-        <mark key="[" line="467" column="16" />
-        <mark key="]" line="490" column="35" />
-        <mark key="^" line="467" column="15" />
-        <mark key="." line="467" column="16" />
+        <mark key="[" line="470" column="46" />
+        <mark key="]" line="470" column="47" />
+        <mark key="^" line="470" column="47" />
+        <mark key="." line="470" column="47" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/Stupid.feature" timestamp="1532000631627">
         <mark key="[" line="1" column="12" />
@@ -162,6 +157,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="30" column="3" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/messages/client/EsbJMSClientBean.java" timestamp="1532326561425">
+        <mark key="[" line="2" column="54" />
+        <mark key="]" line="2" column="54" />
+        <mark key="^" line="2" column="53" />
+        <mark key="." line="2" column="54" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/controller/Controller.java" timestamp="1531304942443">
         <mark key="[" line="23" column="0" />
@@ -266,7 +267,7 @@
         <mark key="]" line="34" column="40" />
         <mark key="." line="34" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532089344308">
+      <file name="/Dummy.txt" timestamp="1532327230323">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
@@ -493,7 +494,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFtcToKICAgICAgICBpbWFnZTogZG9ja2VyaHViLnR3LmludHJhL25nbXAvYWN0aXZlbXE6bGF0ZXN0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
@@ -504,35 +505,38 @@
       <register name="/" type="4">
         <text>spot</text>
       </register>
-      <register name="0" type="4">
-        <text>${DOCKER_HOST_IP}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEpNU19DT05OX0ZBQ1RPUlkgPSAiamF2YTovam1zL1dLVFNDb25uRmFjdG9yeSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFtcToKICAgICAgICBpbWFnZTogZG9ja2VyaHViLnR3LmludHJhL25nbXAvYWN0aXZlbXE6bGF0ZXN0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBhbXEK</text>
+      <register name="2" type="4">
+        <text>amq:
+        image: dockerhub.tw.intra/ngmp/activemq:latest
+        ports:
+            - &quot;8162:8161&quot;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBTUE9UX0xJTks9aHR0cDovLyR7RE9DS0VSX0hPU1RfSVB9OjgwODAvaW50ZWdyYXRpb24vcmVzdC9tYnMvMC4xL2NhbGxvZmZzLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBhbXEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFtcToKICAgICAgICBpbWFnZTogZG9ja2VyaHViLnR3LmludHJhL25nbXAvYWN0aXZlbXE6bGF0ZXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBhbXEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmVyc2lvbjogIjMiCnNlcnZpY2VzOgogICAgYXBwOgogICAgICAgIGltYWdlOiBkb2NrZXJodWIudHcuaW50cmEvbmdtcC9meC13aWxkZmx5OjE4LjA5LTEKICAgICAgICBwb3J0czoKICAgICAgICAgICAgLSAiNzAwMTo3MDAxIgogICAgICAgICAgICAtICI3MDExOjcwMTEiCiAgICAgICAgICAgIC0gIjg3ODc6ODc4NyIKICAgICAgICAgICAgLSAiOTk5MDo5OTkwIgogICAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgICAtIFBHX0hPU1Q9ZGIKICAgICAgICAgICAgLSBQR19EQj10ZnhfZGF0YQogICAgICAgICAgICAtIFBHX1VTRVI9dGZ4X2RhdGEKICAgICAgICAgICAgLSBQR19QV0Q9dGZ4X2RhdGEKICAgICAgICAgICAgLSBBTV9BRERSRVNTPXRjcDovLyR7RE9DS0VSX0hPU1RfSVB9OjYxNjE2CiAgICAgICAgICAgIC0gQU1fVVNFUj1hZG1pbgogICAgICAgICAgICAtIEFNX1BXPWFkbWluCiAgICAgICAgICAgIC0gRlhfRU5WPWxvY2FsCiAgICAgICAgICAgIC0gWE1TPTY0bQogICAgICAgICAgICAtIFhNWD0xRwogICAgICAgICAgICAtIE1TX01FVEE9OTZNCiAgICAgICAgICAgIC0gTVhfTUVUQT0xRwogICAgICAgIGRlcGVuZHNfb246CiAgICAgICAgICAgIC0gZGIKICAgICAgICAgICAgLSBtZW0KICAgICAgICB2b2x1bWVzOgogICAgICAgICAgICAtIC4vZG9ja2VyL3dmbG9ncy9hcHA6L29wdC9qYm9zcy93aWxkZmx5L3N0YW5kYWxvbmUvbG9nCiAgICBkYjoKICAgICAgICBpbWFnZTogZG9ja2VyaHViLnR3LmludHJhL25nbXAvcG9zdGdyZXM6bGF0ZXN0CiAgICAgICAgZW52aXJvbm1lbnQ6CiAgICAgICAgICAgIC0gUE9TVEdSRVNfREI9dGZ4X2RhdGEKICAgICAgICAgICAgLSBQT1NUR1JFU19VU0VSPXRmeF9kYXRhCiAgICAgICAgICAgIC0gUE9TVEdSRVNfUEFTU1dPUkQ9dGZ4X2RhdGEKICAgICAgICBwb3J0czoKICAgICAgICAgICAgLSAiNTQzMjo1NDMyIgogICAgICAgIHZvbHVtZXM6CiAgICAgICAgICAgIC0gcGdkYXRhOi92YXIvbGliL3Bvc3RncmVzcWwvZGF0YQogICAgICAgICAgICAtIC4vZG9ja2VyL3Bvc3RncmVzL2luaXRkYjovZG9ja2VyLWVudHJ5cG9pbnQtaW5pdGRiLmQKICAgIG1lbToKICAgICAgICBpbWFnZTogZG9ja2VyaHViLnR3LmludHJhL25nbXAvZWxhc3RpY2FjaGU6bGF0ZXN0CiAgICAgICAgY29tbWFuZDogWyJmYWtlLWVsYXN0aWNhY2hlLnJiIiwgIi1zIiwgIm1lbW5vZGV8bWVtbm9kZXwxMTIxMSJdCiAgICAgICAgZGVwZW5kc19vbjoKICAgICAgICAgIC0gbWVtbm9kZQogICAgbWVtbm9kZToKICAgICAgICBpbWFnZTogbWVtY2FjaGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBTUE9UX0xJTks9aHR0cDovLyR7RE9DS0VSX0hPU1RfSVB9OjgwODAvaW50ZWdyYXRpb24vcmVzdC9tYnMvMC4xL2NhbGxvZmZzLwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmVyc2lvbjogIjMiCnNlcnZpY2VzOgogICAgYXBwOgogICAgICAgIGltYWdlOiBkb2NrZXJodWIudHcuaW50cmEvbmdtcC9meC13aWxkZmx5OjE4LjA5LTEKICAgICAgICBwb3J0czoKICAgICAgICAgICAgLSAiNzAwMTo3MDAxIgogICAgICAgICAgICAtICI3MDExOjcwMTEiCiAgICAgICAgICAgIC0gIjg3ODc6ODc4NyIKICAgICAgICAgICAgLSAiOTk5MDo5OTkwIgogICAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgICAtIFBHX0hPU1Q9ZGIKICAgICAgICAgICAgLSBQR19EQj10ZnhfZGF0YQogICAgICAgICAgICAtIFBHX1VTRVI9dGZ4X2RhdGEKICAgICAgICAgICAgLSBQR19QV0Q9dGZ4X2RhdGEKICAgICAgICAgICAgLSBBTV9BRERSRVNTPXRjcDovLyR7RE9DS0VSX0hPU1RfSVB9OjYxNjE2CiAgICAgICAgICAgIC0gQU1fVVNFUj1hZG1pbgogICAgICAgICAgICAtIEFNX1BXPWFkbWluCiAgICAgICAgICAgIC0gRlhfRU5WPWxvY2FsCiAgICAgICAgICAgIC0gWE1TPTY0bQogICAgICAgICAgICAtIFhNWD0xRwogICAgICAgICAgICAtIE1TX01FVEE9OTZNCiAgICAgICAgICAgIC0gTVhfTUVUQT0xRwogICAgICAgIGRlcGVuZHNfb246CiAgICAgICAgICAgIC0gZGIKICAgICAgICAgICAgLSBtZW0KICAgICAgICB2b2x1bWVzOgogICAgICAgICAgICAtIC4vZG9ja2VyL3dmbG9ncy9hcHA6L29wdC9qYm9zcy93aWxkZmx5L3N0YW5kYWxvbmUvbG9nCiAgICBkYjoKICAgICAgICBpbWFnZTogZG9ja2VyaHViLnR3LmludHJhL25nbXAvcG9zdGdyZXM6bGF0ZXN0CiAgICAgICAgZW52aXJvbm1lbnQ6CiAgICAgICAgICAgIC0gUE9TVEdSRVNfREI9dGZ4X2RhdGEKICAgICAgICAgICAgLSBQT1NUR1JFU19VU0VSPXRmeF9kYXRhCiAgICAgICAgICAgIC0gUE9TVEdSRVNfUEFTU1dPUkQ9dGZ4X2RhdGEKICAgICAgICBwb3J0czoKICAgICAgICAgICAgLSAiNTQzMjo1NDMyIgogICAgICAgIHZvbHVtZXM6CiAgICAgICAgICAgIC0gcGdkYXRhOi92YXIvbGliL3Bvc3RncmVzcWwvZGF0YQogICAgICAgICAgICAtIC4vZG9ja2VyL3Bvc3RncmVzL2luaXRkYjovZG9ja2VyLWVudHJ5cG9pbnQtaW5pdGRiLmQKICAgIG1lbToKICAgICAgICBpbWFnZTogZG9ja2VyaHViLnR3LmludHJhL25nbXAvZWxhc3RpY2FjaGU6bGF0ZXN0CiAgICAgICAgY29tbWFuZDogWyJmYWtlLWVsYXN0aWNhY2hlLnJiIiwgIi1zIiwgIm1lbW5vZGV8bWVtbm9kZXwxMTIxMSJdCiAgICAgICAgZGVwZW5kc19vbjoKICAgICAgICAgIC0gbWVtbm9kZQogICAgbWVtbm9kZToKICAgICAgICBpbWFnZTogbWVtY2FjaGVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
