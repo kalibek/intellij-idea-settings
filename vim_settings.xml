@@ -125,6 +125,7 @@
         <mark key="^" line="85" column="43" />
         <mark key="." line="85" column="43" />
       </file>
+      <file name="$USER_HOME$/projects/aws_esb/aws/core/src/main/resources/core/routes-config.yml" timestamp="1532344725572" />
       <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1532324578096">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -144,7 +145,7 @@
         <mark key="^" line="30" column="3" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/messages/client/EsbJMSClientBean.java" timestamp="1532341833849">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/messages/client/EsbJMSClientBean.java" timestamp="1532344210232">
         <mark key="[" line="2" column="54" />
         <mark key="]" line="2" column="54" />
         <mark key="^" line="2" column="53" />
@@ -162,27 +163,12 @@
         <mark key="^" line="126" column="45" />
         <mark key="." line="113" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/vx/connect/rest/controller/countries/CountriesController.java" timestamp="1531995761965">
-        <mark key="[" line="25" column="2" />
-        <mark key="]" line="25" column="6" />
-        <mark key="." line="25" column="2" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1532324426849">
         <mark key="'" line="83" column="31" />
         <mark key="[" line="160" column="23" />
         <mark key="]" line="160" column="34" />
         <mark key="." line="160" column="39" />
         <mark key="^" line="160" column="39" />
-      </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/FxTest.java" timestamp="1532000431775">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/map/PTVClientsWrapperBean.java" timestamp="1531916432221">
-        <mark key="[" line="58" column="60" />
-        <mark key="]" line="58" column="60" />
-        <mark key="." line="58" column="60" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1532081500905">
         <mark key="[" line="33" column="1" />
@@ -199,11 +185,11 @@
       <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/manager/transportorder/TransportOrderManager.java" timestamp="1531982214386">
         <mark key="'" line="70" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker/asb-local/docker-compose.yml" timestamp="1532324169964">
-        <mark key="[" line="16" column="51" />
-        <mark key="]" line="16" column="51" />
-        <mark key="." line="16" column="51" />
-        <mark key="^" line="17" column="66" />
+      <file name="$USER_HOME$/projects/fx/docker/asb-local/docker-compose.yml" timestamp="1532343390159">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="17" />
+        <mark key="." line="21" column="17" />
+        <mark key="^" line="21" column="17" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_demo.properties" timestamp="1531912798292">
         <mark key="'" line="0" column="0" />
@@ -226,16 +212,17 @@
         <mark key="^" line="1" column="82" />
         <mark key="." line="1" column="82" />
       </file>
+      <file name="$USER_HOME$/projects/fx/docker/asb-local/start.sh" timestamp="1532343360916">
+        <mark key="[" line="17" column="73" />
+        <mark key="]" line="17" column="74" />
+        <mark key="^" line="17" column="74" />
+        <mark key="." line="17" column="74" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1532081364442">
         <mark key="[" line="62" column="7" />
         <mark key="]" line="62" column="24" />
         <mark key="." line="62" column="24" />
         <mark key="^" line="62" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_prod.properties" timestamp="1531992848862">
-        <mark key="[" line="34" column="40" />
-        <mark key="]" line="34" column="40" />
-        <mark key="." line="34" column="40" />
       </file>
       <file name="/Dummy.txt" timestamp="1532327230323">
         <mark key="[" line="0" column="0" />
@@ -249,7 +236,8 @@
         <mark key="^" line="1" column="36" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/aws_esb/aws/core/src/main/resources/core/routes.yml" timestamp="1532339041273">
+      <file name="$USER_HOME$/projects/aws_esb/aws/core/src/main/java/com/alpegagroup/aws/esb/bean/SendingMessageToQueueBean.java" timestamp="1532343701693" />
+      <file name="$USER_HOME$/projects/aws_esb/aws/core/src/main/resources/core/routes.yml" timestamp="1532344476974">
         <mark key="'" line="168" column="15" />
         <mark key="[" line="190" column="37" />
         <mark key="]" line="190" column="36" />
@@ -311,11 +299,6 @@
         <mark key="]" line="86" column="33" />
         <mark key="." line="86" column="33" />
         <mark key="^" line="86" column="46" />
-      </file>
-      <file name="$USER_HOME$/projects/aws_esb/aws/utils/launcher/src/start_asb-local-ngmp.sh" timestamp="1532080058195">
-        <mark key="[" line="17" column="32" />
-        <mark key="]" line="17" column="32" />
-        <mark key="." line="17" column="32" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbClient.java" timestamp="1531202096513">
         <mark key="[" line="8" column="56" />
@@ -458,19 +441,19 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bGFzdF91cGRhdGVkX2RhdGUg</text>
+        <text>8082</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGFzdF91cGRhdGVkX2RhdGUg</text>
+        <text>8082</text>
       </register>
       <register name="/" type="4">
         <text>transportorder:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEpNU19DT05OX0ZBQ1RPUlkgPSAiamF2YTovam1zL1dLVFNDb25uRmFjdG9yeSI7Cg==</text>
+        <text encoding="base64">ICAgICAgLSAiODA4Mjo4MDgyIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
