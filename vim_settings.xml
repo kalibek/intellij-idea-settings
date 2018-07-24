@@ -33,10 +33,10 @@
         <mark key="." line="32" column="44" />
         <mark key="^" line="32" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1532327277216">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1532409637807">
+        <mark key="[" line="3" column="52" />
+        <mark key="]" line="3" column="52" />
+        <mark key="." line="3" column="52" />
         <mark key="^" line="15" column="47" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq.xml" timestamp="1531222490710">
@@ -442,13 +442,13 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>login = 'tfxcarrierC'</text>
+        <text>latest</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>FXadmin2018</text>
+        <text>latest</text>
       </register>
       <register name="/" type="4">
         <text>transportorder:</text>
@@ -457,31 +457,31 @@
         <text>login = 'tfxcarrierC'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBUT0RPIHVuY29tbWVudAo=</text>
+        <text encoding="base64">ICAgIGFtcToKICAgICAgICBpbWFnZTogZG9ja2VyaHViLnR3LmludHJhL25nbXAvYWN0aXZlbXE6bGF0ZXN0CiAgICAgICAgcG9ydHM6CiAgICAgICAgICAgIC0gIjgxNjI6ODE2MSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBUT0RPIHVuY29tbWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBhbXEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBUT0RPIHJlbW92ZSBsaW5lIGJlbG93Cg==</text>
+        <text encoding="base64">IyBUT0RPIHVuY29tbWVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q09QWSBhcHAuamFyIC9hcHAuamFyCg==</text>
+        <text encoding="base64">IyBUT0RPIHVuY29tbWVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q09QWSBhcHAuamFyIC9hcHAsCg==</text>
+        <text encoding="base64">IyBUT0RPIHJlbW92ZSBsaW5lIGJlbG93Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgaHR0cERlc3RpbmF0aW9uczogU2hpcHBlclRNUywgQkkK</text>
+        <text encoding="base64">Q09QWSBhcHAuamFyIC9hcHAuamFyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgaHR0cERlc3RpbmF0aW9uczogQkkK</text>
+        <text encoding="base64">Q09QWSBhcHAuamFyIC9hcHAsCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgaHR0cERlc3RpbmF0aW9uczogU2hpcHBlclRNUywgQkkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgaHR0cERlc3RpbmF0aW9uczogU2hpcHBlclRNUywgQkkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgaHR0cERlc3RpbmF0aW9uczogQkkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
