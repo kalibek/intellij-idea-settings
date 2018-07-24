@@ -21,11 +21,11 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1532406673686">
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="29" column="19" />
-        <mark key="^" line="29" column="19" />
-        <mark key="." line="29" column="19" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1532420812262">
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="34" column="23" />
+        <mark key="." line="34" column="23" />
+        <mark key="^" line="34" column="23" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightOfferEnpointSteps.java" timestamp="1532003718418">
         <mark key="[" line="32" column="45" />
@@ -118,12 +118,13 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1532339332096">
-        <mark key="[" line="85" column="37" />
-        <mark key="]" line="85" column="43" />
-        <mark key="^" line="85" column="43" />
-        <mark key="." line="85" column="43" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1532420332698">
+        <mark key="[" line="91" column="7" />
+        <mark key="]" line="91" column="23" />
+        <mark key="^" line="91" column="23" />
+        <mark key="." line="91" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/transportorder/TransportOrderClient.java" timestamp="1532421107512" />
       <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1532324578096">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -167,6 +168,7 @@
         <mark key="." line="160" column="39" />
         <mark key="^" line="160" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/BidIntegrationServiceBean.java" timestamp="1532420162865" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/BidIntegrationHandler.java" timestamp="1532412477242" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1532081500905">
         <mark key="[" line="33" column="1" />
@@ -443,46 +445,46 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>latest</text>
+        <text>'</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>latest</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>transportorder:</text>
       </register>
       <register name="0" type="4">
-        <text>login = 'tfxcarrierC'</text>
+        <text>U-00003</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFtcToKICAgICAgICBpbWFnZTogZG9ja2VyaHViLnR3LmludHJhL25nbXAvYWN0aXZlbXE6bGF0ZXN0CiAgICAgICAgcG9ydHM6CiAgICAgICAgICAgIC0gIjgxNjI6ODE2MSIK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBhbXEK</text>
+        <text encoding="base64">ICAgIGFtcToKICAgICAgICBpbWFnZTogZG9ja2VyaHViLnR3LmludHJhL25nbXAvYWN0aXZlbXE6bGF0ZXN0CiAgICAgICAgcG9ydHM6CiAgICAgICAgICAgIC0gIjgxNjI6ODE2MSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBUT0RPIHVuY29tbWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBhbXEK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">IyBUT0RPIHVuY29tbWVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBUT0RPIHJlbW92ZSBsaW5lIGJlbG93Cg==</text>
+        <text encoding="base64">IyBUT0RPIHVuY29tbWVudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q09QWSBhcHAuamFyIC9hcHAuamFyCg==</text>
+        <text encoding="base64">IyBUT0RPIHJlbW92ZSBsaW5lIGJlbG93Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q09QWSBhcHAuamFyIC9hcHAsCg==</text>
+        <text encoding="base64">Q09QWSBhcHAuamFyIC9hcHAuamFyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgaHR0cERlc3RpbmF0aW9uczogU2hpcHBlclRNUywgQkkK</text>
+        <text encoding="base64">Q09QWSBhcHAuamFyIC9hcHAsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgaHR0cERlc3RpbmF0aW9uczogQkkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgaHR0cERlc3RpbmF0aW9uczogU2hpcHBlclRNUywgQkkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
