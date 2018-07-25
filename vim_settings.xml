@@ -260,10 +260,10 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1532490870124">
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1532492294728">
         <mark key="'" line="505" column="43" />
-        <mark key="[" line="511" column="30" />
-        <mark key="]" line="511" column="43" />
+        <mark key="[" line="566" column="0" />
+        <mark key="]" line="566" column="56" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/Dockerfile" timestamp="1531295613713">
         <mark key="[" line="0" column="18" />
@@ -457,8 +457,8 @@
       <register name="a" type="4">
         <text>4xj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>FX_IN_HOSTNAME</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxyZXNvdXJjZS1hZGFwdGVyIGlkPSJhY3RpdmVtcS1yYXIucmFyIj4K</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
@@ -469,8 +469,8 @@
       <register name="/" type="4">
         <text>resour</text>
       </register>
-      <register name="0" type="4">
-        <text>FX_IN_HOSTNAME</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxyZXNvdXJjZS1hZGFwdGVyIGlkPSJhY3RpdmVtcS1yYXIucmFyIj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxzZXQtcHJvcGVydHkgbmFtZT0idXNlci5hZ2VudCIgdmFsdWU9IiR7Z3d0LmNvbXBpbGVyLnVzZXJhZ2VudH0iLz4K</text>
