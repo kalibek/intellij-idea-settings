@@ -144,7 +144,7 @@
         <mark key="]" line="5" column="70" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/messages/client/EsbClientWrapper.java" timestamp="1532430338416" />
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1532430915167">
+      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1532490899731">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="23" column="14" />
         <mark key="]" line="23" column="28" />
@@ -260,7 +260,7 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1532432703192">
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1532490870124">
         <mark key="'" line="505" column="43" />
         <mark key="[" line="511" column="30" />
         <mark key="]" line="511" column="43" />
@@ -289,7 +289,7 @@
         <mark key="^" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1532430913078">
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1532490887707">
         <mark key="'" line="93" column="15" />
         <mark key="[" line="110" column="11" />
         <mark key="]" line="110" column="24" />
