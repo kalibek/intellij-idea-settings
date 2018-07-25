@@ -25,11 +25,6 @@
       <file name="$USER_HOME$/projects/fx/fx-web/pom.xml" timestamp="1532429682415">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/mdb/OfferActionNotifierBean.java" timestamp="1532493901980">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="44" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1532493716389">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="43" />
@@ -113,15 +108,15 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1532495276965">
-        <mark key="'" line="295" column="38" />
-        <mark key="[" line="443" column="38" />
-        <mark key="]" line="443" column="60" />
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbJMSClient.java" timestamp="1532513052759">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/receive/ThrottlingMailConsumer.java" timestamp="1532495250397">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="36" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbSOAPClient.java" timestamp="1532511926543">
+        <mark key="]" line="17" column="35" />
+        <mark key="^" line="17" column="35" />
+        <mark key="." line="17" column="35" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-utils/src/main/java/com/wktransportservices/spotbidding/utils/config/ConfigUtils.java" timestamp="1532430120207">
         <mark key="'" line="405" column="80" />
@@ -150,6 +145,13 @@
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/FxGuiDev.gwt.xml" timestamp="1532429710608">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="53" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" timestamp="1532512702623">
+        <mark key="'" line="110" column="27" />
+        <mark key="[" line="158" column="22" />
+        <mark key="]" line="158" column="72" />
+        <mark key="^" line="159" column="37" />
+        <mark key="." line="158" column="22" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/Msg.java" timestamp="1531294760897">
         <mark key="[" line="11" column="37" />
@@ -203,11 +205,11 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/ejb/JNDIConfig.java" timestamp="1532433020731">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="30" column="3" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/ejb/JNDIConfig.java" timestamp="1532512687871">
+        <mark key="[" line="22" column="96" />
+        <mark key="]" line="22" column="145" />
+        <mark key="^" line="22" column="50" />
+        <mark key="." line="22" column="50" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/message/MailMessageDrivenBean.java" timestamp="1532495172718">
         <mark key="'" line="34" column="25" />
@@ -219,6 +221,11 @@
       <file name="$USER_HOME$/projects/fx/docker/asb-local/.env" timestamp="1532497138122">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSClient.java" timestamp="1532511906144">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="13" />
+        <mark key="." line="26" column="13" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/messages/client/EsbJMSClientBean.java" timestamp="1532427474094">
         <mark key="[" line="2" column="54" />
@@ -245,21 +252,16 @@
         <mark key="^" line="126" column="45" />
         <mark key="." line="113" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/realtime/AtmosphereMessageDrivenBean.java" timestamp="1532495209930">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="36" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1532081500905">
         <mark key="[" line="33" column="1" />
         <mark key="]" line="33" column="1" />
         <mark key="^" line="33" column="1" />
         <mark key="." line="33" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSPublisher.java" timestamp="1532495980556">
-        <mark key="[" line="42" column="5" />
-        <mark key="]" line="44" column="3" />
-        <mark key="." line="44" column="3" />
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSPublisher.java" timestamp="1532511843607">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="13" />
         <mark key="^" line="44" column="3" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/docker-compose.yml" timestamp="1532345703824">
@@ -267,11 +269,6 @@
         <mark key="]" line="21" column="17" />
         <mark key="." line="21" column="17" />
         <mark key="^" line="21" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/BidMessageDrivenBean.java" timestamp="1532495232257">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="36" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/AmqTestApplication.java" timestamp="1531296592900">
         <mark key="[" line="34" column="57" />
@@ -341,11 +338,6 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1532493807725">
-        <mark key="'" line="505" column="43" />
-        <mark key="[" line="566" column="38" />
-        <mark key="]" line="566" column="53" />
-      </file>
       <file name="$USER_HOME$/projects/amq-test/Dockerfile" timestamp="1531295613713">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="24" />
@@ -397,16 +389,14 @@
         <mark key="]" line="34" column="44" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/log4j2.xml" timestamp="1532512767605">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbClient.java" timestamp="1531202096513">
         <mark key="[" line="8" column="56" />
         <mark key="]" line="8" column="62" />
         <mark key="." line="8" column="62" />
         <mark key="^" line="8" column="62" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-push/src/main/java/com/wktransportservices/fx/web/push/server/mdb/SocialActionReceiverBean.java" timestamp="1532494021437">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/jms/EsbMessageQueueReceiverBean.java" timestamp="1530696942983">
         <mark key="[" line="67" column="29" />
@@ -427,11 +417,6 @@
         <mark key="^" line="142" column="27" />
         <mark key="." line="142" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/resources/com/wktransportservices/spotbidding/web/SpotBiddingModule.gwt.xml" timestamp="1532429756402">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/.gitignore" timestamp="1532497036087">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -444,6 +429,12 @@
         <mark key="." line="14" column="53" />
         <mark key="^" line="14" column="53" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbClientService.java" timestamp="1532512284556">
+        <mark key="[" line="27" column="74" />
+        <mark key="]" line="27" column="86" />
+        <mark key="^" line="27" column="86" />
+        <mark key="." line="27" column="86" />
+      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/LinkStepDefinitions.java" timestamp="1532003437419">
         <mark key="[" line="4" column="48" />
         <mark key="]" line="5" column="3" />
@@ -452,10 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="52" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_prod.properties" />
-      <jump line="18" column="56" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_prod.properties" />
-      <jump line="17" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" />
-      <jump line="22" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-properties/templates/environment/environment_local.properties" />
       <jump line="178" column="18" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
       <jump line="54" column="12" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/PTVServicesSOAPImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_demo.properties" />
@@ -552,61 +539,65 @@
       <jump line="87" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="109" column="32" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="138" column="2" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="159" column="30" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="110" column="27" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>4xj</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCJVbmFibGUgdG8gcHVibGlzaCBldmVudCBtZXNzYWdlLCB7fSIsIG1lc3NhZ2UsIGUpOwo=</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>resource</text>
+        <text>INCOM</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">RE9DS0VSX0hPU1RfSVA9MTAuMTQuOS4yNQo=</text>
+      <register name="0" type="4">
+        <text>com.wktransportservices.fx.esb.client.EsbJMSClient</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCJVbmFibGUgdG8gcHVibGlzaCBldmVudCBtZXNzYWdlLCB7fSIsIG1lc3NhZ2UsIGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCJVbmFibGUgdG8gcHVibGlzaCBldmVudCBtZXNzYWdlLCB7fSIsIG1lc3NhZ2UsIGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+        <text encoding="base64">ICAgICAgICBMT0cuaW5mbygiU2VuZGluZyBtZXNzYWdlOiB7fSIsIG1lc3NhZ2UpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MS4gcnVuIGBidWlsZC5zaGAgdG8gYnVpbGQgYXNiLWxvY2FsIGRvY2tlciBpbWFnZSBhbmQgcHVzaCBpdCByZWdpc3RyeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q09QWSBhcHAuamFyIC9hcHAuamFyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBUT0RPIHJlbW92ZSBsaW5lIGJlbG93Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>resource</last-search>
+      <last-search>INCOM</last-search>
       <last-offset />
-      <last-pattern>resource</last-pattern>
+      <last-pattern>INCOM</last-pattern>
       <last-replace>TFX</last-replace>
       <last-substitute>SPOT</last-substitute>
       <last-dir>1</last-dir>
@@ -614,9 +605,6 @@
     </search>
     <history>
       <history-search>
-        <entry>-</entry>
-        <entry>TFX</entry>
-        <entry>FX</entry>
         <entry>In</entry>
         <entry>IN</entry>
         <entry>\/</entry>
@@ -634,6 +622,9 @@
         <entry>jboss</entry>
         <entry>prop</entry>
         <entry>resource</entry>
+        <entry>INCO</entry>
+        <entry>OUTGOING</entry>
+        <entry>INCOM</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1BlcmNlbnRhZ2UvTWluL2c=</entry>
