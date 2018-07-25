@@ -25,10 +25,21 @@
       <file name="$USER_HOME$/projects/fx/fx-web/pom.xml" timestamp="1532429682415">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1532493357975">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/mdb/OfferActionNotifierBean.java" timestamp="1532493901980">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="44" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1532493716389">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="43" />
+        <mark key="." line="19" column="25" />
+        <mark key="^" line="19" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/src/main/java/com/wktransportservices/fx/bi/service/internal/queue/BiQueueMessageSendingListener.java" timestamp="1532493829251">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="44" />
+        <mark key="." line="26" column="26" />
       </file>
       <file name="/a.dummy" timestamp="1531392849544">
         <mark key="[" line="0" column="3" />
@@ -47,6 +58,11 @@
         <mark key="]" line="32" column="44" />
         <mark key="." line="32" column="44" />
         <mark key="^" line="32" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/pom.xml" timestamp="1532493737717">
+        <mark key="[" line="138" column="8" />
+        <mark key="]" line="142" column="20" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1532428357430">
         <mark key="[" line="45" column="0" />
@@ -83,6 +99,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="17" column="23" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/pom.xml" timestamp="1532493923107">
+        <mark key="[" line="1602" column="12" />
+        <mark key="]" line="1607" column="24" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ResponseValidationStepDefs.java" timestamp="1532062036355">
         <mark key="[" line="17" column="23" />
@@ -122,6 +142,12 @@
         <mark key="]" line="11" column="37" />
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/pom.xml" timestamp="1532493742173">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="77" column="21" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/Processed.java" timestamp="1531304870364">
         <mark key="[" line="30" column="5" />
@@ -176,6 +202,13 @@
         <mark key="]" line="2" column="54" />
         <mark key="^" line="2" column="53" />
         <mark key="." line="2" column="54" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-push/pom.xml" timestamp="1532493929890">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="83" column="7" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/controller/Controller.java" timestamp="1531304942443">
         <mark key="[" line="23" column="0" />
@@ -268,10 +301,10 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1532492294728">
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1532493807725">
         <mark key="'" line="505" column="43" />
-        <mark key="[" line="566" column="0" />
-        <mark key="]" line="566" column="56" />
+        <mark key="[" line="566" column="38" />
+        <mark key="]" line="566" column="53" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/Dockerfile" timestamp="1531295613713">
         <mark key="[" line="0" column="18" />
@@ -316,11 +349,22 @@
         <mark key="." line="86" column="33" />
         <mark key="^" line="86" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-push/src/main/java/com/wktransportservices/fx/web/push/server/mdb/OfferActionReceiverBean.java" timestamp="1532494017641">
+        <mark key="'" line="70" column="58" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="44" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbClient.java" timestamp="1531202096513">
         <mark key="[" line="8" column="56" />
         <mark key="]" line="8" column="62" />
         <mark key="." line="8" column="62" />
         <mark key="^" line="8" column="62" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-push/src/main/java/com/wktransportservices/fx/web/push/server/mdb/SocialActionReceiverBean.java" timestamp="1532494021437">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/jms/EsbMessageQueueReceiverBean.java" timestamp="1530696942983">
         <mark key="[" line="67" column="29" />
@@ -360,9 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="40" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="227" column="35" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
-      <jump line="229" column="36" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="233" column="50" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffView.java" />
       <jump line="27" column="22" filename="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/OfferDTO.java" />
       <jump line="211" column="64" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/pom.xml" />
@@ -460,52 +501,63 @@
       <jump line="119" column="41" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="422" column="53" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-push/pom.xml" />
+      <jump line="70" column="58" filename="$USER_HOME$/projects/fx/fx-push/src/main/java/com/wktransportservices/fx/web/push/server/mdb/OfferActionReceiverBean.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>4xj</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydHlWYWx1ZSA9IEpORElDb25maWcuSk1TX0lOX0NPTk5FQ1RJT05fRkFDVE9SWSksCg==</text>
+        <text encoding="base64">QFJlc291cmNlQWRhcHRlcigpCg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>FX_OUT_HOSTNAME</text>
+        <text>TFX.In.ActiveMQ</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PG1kYg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxyZXNvdXJjZS1hZGFwdGVyIGlkPSJhY3RpdmVtcS1yYXIucmFyIj4K</text>
+        <text encoding="base64">QFJlc291cmNlQWRhcHRlcih2YWx1ZSA9ICJhY3RpdmVtcS1yYXIucmFyIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydHlWYWx1ZSA9IEpORElDb25maWcuSk1TX0lOX0NPTk5FQ1RJT05fRkFDVE9SWSksCg==</text>
+        <text encoding="base64">QFJlc291cmNlQWRhcHRlcigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBBY3RpdmF0aW9uQ29uZmlnUHJvcGVydHkocHJvcGVydHlOYW1lID0gImNvbm5lY3Rpb25GYWN0b3J5Sm5kaU5hbWUiLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzZXQtcHJvcGVydHkgbmFtZT0idXNlci5hZ2VudCIgdmFsdWU9IiR7Z3d0LmNvbXBpbGVyLnVzZXJhZ2VudH0iLz4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwb3J0czoK</text>
+      <register name="3" type="4">
+        <text>/*@MessageDriven(activationConfig = {
+        @ActivationConfigProperty(
+                propertyName = &quot;destination&quot;, propertyValue = JNDIConfig.JMS_SOCIAL_TOPIC
+        )
+})*/</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAiODE2Mjo4MTYxIgo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBBY3RpdmF0aW9uQ29uZmlnUHJvcGVydHkocHJvcGVydHlOYW1lID0gImNvbm5lY3Rpb25GYWN0b3J5Sm5kaU5hbWUiLAogICAgICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eVZhbHVlID0gSk5ESUNvbmZpZy5KTVNfQ09OTkVDVElPTl9GQUNUT1JZKSwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>/*@MessageDriven(activationConfig = {
+        @ActivationConfigProperty(
+                propertyName = &quot;destination&quot;, propertyValue = JNDIConfig.JMS_TOPIC_NAME
+        )
+})*/</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAiNjE2MTY6NjE2MTYiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBBY3RpdmF0aW9uQ29uZmlnUHJvcGVydHkocHJvcGVydHlOYW1lID0gImNvbm5lY3Rpb25GYWN0b3J5Sm5kaU5hbWUiLAogICAgICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eVZhbHVlID0gSk5ESUNvbmZpZy5KTVNfQ09OTkVDVElPTl9GQUNUT1JZKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAiODE2MTo4MTYxIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7amJvc3MtZWpiMy1leHQtYXBpLnZlcmlvbn08L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwb3J0czoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydHlWYWx1ZSA9IEpORElDb25maWcuSk1TX0NPTk5FQ1RJT05fRkFDVE9SWSksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
