@@ -22,6 +22,9 @@
         <mark key="." line="47" column="33" />
         <mark key="^" line="47" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-web/pom.xml" timestamp="1532429682415">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/mdb/OfferActionNotifierBean.java" timestamp="1532493901980">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="44" />
@@ -189,10 +192,9 @@
         <mark key="]" line="5" column="70" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1532497696516">
-        <mark key="'" line="58" column="0" />
+        <mark key="'" line="62" column="0" />
         <mark key="[" line="3" column="56" />
         <mark key="]" line="3" column="57" />
-        <mark key="^" line="24" column="31" />
         <mark key="." line="3" column="57" />
       </file>
       <file name="$USER_HOME$/projects/aws_esb/launcher/docker-compose.yml" timestamp="1532069587293">
@@ -375,11 +377,7 @@
         <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1532496925415">
-        <mark key="'" line="138" column="2" />
-        <mark key="[" line="95" column="47" />
-        <mark key="]" line="95" column="59" />
-        <mark key="^" line="99" column="3" />
-        <mark key="." line="99" column="3" />
+        <mark key="'" line="147" column="2" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/RequestedCalloffServiceBean.java" timestamp="1531740009628">
         <mark key="[" line="103" column="39" />
