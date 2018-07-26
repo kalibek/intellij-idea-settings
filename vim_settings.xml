@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" timestamp="1532520730965">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="84" column="49" />
-        <mark key="]" line="84" column="61" />
-        <mark key="^" line="84" column="68" />
-        <mark key="." line="87" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/LinkStepDefinitions.java" timestamp="1532062151355">
         <mark key="[" line="11" column="74" />
         <mark key="]" line="11" column="74" />
@@ -61,16 +54,6 @@
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/pom.xml" timestamp="1532506790305">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="606" column="0" />
-        <mark key="]" line="606" column="0" />
-        <mark key="^" line="603" column="7" />
-        <mark key="." line="606" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1532496724409">
-        <mark key="[" line="26" column="27" />
-        <mark key="]" line="26" column="31" />
-        <mark key="." line="26" column="31" />
-        <mark key="^" line="26" column="31" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq.xml" timestamp="1531222490710">
         <mark key="[" line="112" column="120" />
@@ -131,11 +114,6 @@
         <mark key="." line="1" column="48" />
         <mark key="^" line="1" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/IncomingMessageListener.java" timestamp="1532495280179">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="17" column="49" />
-        <mark key="." line="17" column="26" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/fax/async/FaxClient.java" timestamp="1530696954102">
         <mark key="[" line="42" column="29" />
         <mark key="]" line="42" column="29" />
@@ -154,12 +132,6 @@
         <mark key="]" line="11" column="37" />
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="28" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/pom.xml" timestamp="1532506668378">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/Processed.java" timestamp="1531304870364">
         <mark key="[" line="30" column="5" />
@@ -185,12 +157,6 @@
         <mark key="^" line="91" column="23" />
         <mark key="." line="91" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1532497696516">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="3" column="56" />
-        <mark key="]" line="3" column="57" />
-        <mark key="." line="3" column="57" />
-      </file>
       <file name="$USER_HOME$/projects/aws_esb/launcher/docker-compose.yml" timestamp="1532069587293">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="13" />
@@ -202,13 +168,6 @@
         <mark key="]" line="20" column="145" />
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/message/MailMessageDrivenBean.java" timestamp="1532495172718">
-        <mark key="'" line="34" column="25" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="36" />
-        <mark key="." line="34" column="25" />
-        <mark key="^" line="34" column="33" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSClient.java" timestamp="1532511906144">
         <mark key="[" line="26" column="13" />
@@ -287,10 +246,6 @@
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/pom.xml" timestamp="1532506785405">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="305" column="0" />
-        <mark key="]" line="305" column="0" />
-        <mark key="^" line="302" column="7" />
-        <mark key="." line="305" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1532081364442">
         <mark key="[" line="62" column="7" />
@@ -375,12 +330,6 @@
         <mark key="." line="86" column="33" />
         <mark key="^" line="86" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-push/src/main/java/com/wktransportservices/fx/web/push/server/mdb/OfferActionReceiverBean.java" timestamp="1532494017641">
-        <mark key="'" line="70" column="58" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="44" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/log4j2.xml" timestamp="1532512767605">
         <mark key="'" line="0" column="0" />
       </file>
@@ -404,10 +353,6 @@
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" timestamp="1532520758823">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="142" column="23" />
-        <mark key="]" line="142" column="27" />
-        <mark key="^" line="142" column="27" />
-        <mark key="." line="142" column="27" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/.gitignore" timestamp="1532497036087">
         <mark key="[" line="0" column="0" />
