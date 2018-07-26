@@ -174,7 +174,7 @@
         <mark key="]" line="26" column="13" />
         <mark key="." line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/messages/client/EsbJMSClientBean.java" timestamp="1532427474094">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/messages/client/EsbJMSClientBean.java" timestamp="1532592783178">
         <mark key="[" line="2" column="54" />
         <mark key="]" line="2" column="54" />
         <mark key="^" line="2" column="53" />
@@ -266,7 +266,7 @@
         <mark key="^" line="1" column="36" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/aws_esb/aws/core/src/main/resources/core/routes.yml" timestamp="1532425172269">
+      <file name="$USER_HOME$/projects/aws_esb/aws/core/src/main/resources/core/routes.yml" timestamp="1532592147510">
         <mark key="'" line="168" column="15" />
         <mark key="[" line="198" column="0" />
         <mark key="]" line="198" column="0" />
