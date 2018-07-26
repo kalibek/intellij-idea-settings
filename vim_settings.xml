@@ -18,7 +18,7 @@
       <file name="$USER_HOME$/projects/fx/fx-web/pom.xml" timestamp="1532429682415">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1532493716389">
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1532593718444">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="43" />
         <mark key="." line="19" column="25" />
@@ -318,6 +318,7 @@
       <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1532520813705">
         <mark key="'" line="86" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/SpotBidConfirmationProcessorService.java" timestamp="1532593750340" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/RequestedCalloffServiceBean.java" timestamp="1531740009628">
         <mark key="[" line="103" column="39" />
         <mark key="]" line="104" column="31" />
