@@ -21,8 +21,8 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1531392849544">
-        <mark key="[" line="0" column="3" />
+      <file name="/a.dummy" timestamp="1532688898773">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -80,6 +80,11 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/NotificationService.java" timestamp="1532688826937">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/Stupid.feature" timestamp="1532000631627">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="48" />
@@ -116,6 +121,18 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_dev.properties" timestamp="1532688012130">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="53" column="17" />
+        <mark key="]" line="53" column="17" />
+        <mark key="." line="53" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/push/src/main/resources/application.properties" timestamp="1532688938735">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/aws_esb/launcher/docker-compose.yml" timestamp="1532069587293">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="13" />
@@ -146,13 +163,12 @@
         <mark key="^" line="126" column="45" />
         <mark key="." line="113" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" timestamp="1532687577012">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="30" column="23" />
+      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" timestamp="1532689544524">
+        <mark key="[" line="50" column="26" />
+        <mark key="]" line="51" column="23" />
+        <mark key="." line="51" column="23" />
+        <mark key="^" line="51" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker/postgres/initdb/restore.sh" timestamp="1532686713722" />
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSPublisher.java" timestamp="1532511843607">
         <mark key="[" line="22" column="13" />
         <mark key="]" line="22" column="13" />
@@ -164,6 +180,12 @@
         <mark key="]" line="21" column="17" />
         <mark key="." line="21" column="17" />
         <mark key="^" line="21" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/push/src/main/resources/application.yml" timestamp="1532689002425">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="1" column="11" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/AmqTestApplication.java" timestamp="1531296592900">
         <mark key="[" line="34" column="57" />
@@ -198,11 +220,11 @@
         <mark key="^" line="17" column="74" />
         <mark key="." line="17" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532672192938">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="5" />
+      <file name="/Dummy.txt" timestamp="1532688641245">
+        <mark key="[" line="0" column="55" />
+        <mark key="]" line="0" column="52" />
+        <mark key="^" line="0" column="69" />
+        <mark key="." line="0" column="52" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq/Dockerfile" timestamp="1531222649773">
         <mark key="[" line="1" column="36" />
@@ -267,11 +289,10 @@
         <mark key="." line="86" column="33" />
         <mark key="^" line="86" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/Notification.java" timestamp="1532687617845">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="4" column="4" />
-        <mark key="^" line="4" column="4" />
-        <mark key="." line="4" column="4" />
+      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/Notification.java" timestamp="1532688844732">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1532683128773">
         <mark key="[" line="93" column="0" />
@@ -297,6 +318,7 @@
         <mark key="^" line="30" column="89" />
         <mark key="." line="30" column="89" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" timestamp="1532688522735" />
       <file name="$USER_HOME$/projects/fx/docker/asb-local/.gitignore" timestamp="1532497036087">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -326,7 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="398" column="22" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
       <jump line="399" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
       <jump line="409" column="22" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
       <jump line="410" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
@@ -426,70 +447,68 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
       <jump line="160" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
       <jump line="86" column="47" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
+      <jump line="24" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_dev.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>4xj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text>\csdm</text>
+        <text>true</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSB3bGNsdXN0ZXJfYjJiX2FjdGl2ZTsK</text>
+      <register name="0" type="4">
+        <text>notification</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgTm90aWZpY2F0aW9uIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QERhdGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>@Data
-class Notification {
-    private String origin;
-    private String subject;
-}</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
-      </register>
-      <register name="5" type="4">
+      <register name="4" type="4">
         <text>@Data
 @AllArgsConstructor
-class Notification {
+public class Notification {
+
     private String origin;
     private String subject;
 }</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">QFNlcnZpY2UKcHVibGljIGNsYXNzIE5vdGlmaWNhdGlvblNlcnZpY2UgewoKICAgIHB1YmxpYyBNb25vPFNlcnZlclJlc3BvbnNlPiBnZXROb3RpZmljYXRpb24oU2VydmVyUmVxdWVzdCBzZXJ2ZXJSZXF1ZXN0KSB7CiAgICAgICAgaWYgKHNlcnZlclJlcXVlc3QucGF0aFZhcmlhYmxlKCJpZCIpLmVxdWFscygiMSIpKSB7CiAgICAgICAgICAgIE5vdGlmaWNhdGlvbiBub3RpZmljYXRpb24gPSBuZXcgTm90aWZpY2F0aW9uKCJmeCIsICJmeDAwMSIpOwogICAgICAgICAgICByZXR1cm4gU2VydmVyUmVzcG9uc2Uub2soKS5ib2R5KE1vbm8uanVzdChub3RpZmljYXRpb24pLCBOb3RpZmljYXRpb24uY2xhc3MpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBTZXJ2ZXJSZXNwb25zZS5ub3RGb3VuZCgpLmJ1aWxkKCk7CiAgICAgICAgfQogICAgfQp9</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">QEJlYW4K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSB3bGNsdXN0ZXJfd2ViX2FjdGl2ZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ubmlvLnNjdHAuTm90aWZpY2F0aW9uSGFuZGxlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSB3bGNsdXN0ZXJfYjJiX2FjdGl2ZTsK</text>
+        <text encoding="base64">ICAgIEBTZXJ2aWNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLmZ4LmVzYi5jbGllbnQuTm90aWZ5V0tUU1B1Ymxpc2hlcjsK</text>
+        <text encoding="base64">Y2xhc3MgTm90aWZpY2F0aW9uSGFuZGxlciB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\csdm</last-search>
+      <last-search>true</last-search>
       <last-offset />
-      <last-pattern>\csdm</last-pattern>
+      <last-pattern>true</last-pattern>
       <last-replace>TFX</last-replace>
       <last-substitute>SPOT</last-substitute>
       <last-dir>1</last-dir>
@@ -497,8 +516,6 @@ class Notification {
     </search>
     <history>
       <history-search>
-        <entry>spot</entry>
-        <entry>transportorder:</entry>
         <entry>SPOT</entry>
         <entry>esb</entry>
         <entry>develop</entry>
@@ -517,6 +534,8 @@ class Notification {
         <entry>de</entry>
         <entry>sdm</entry>
         <entry>\csdm</entry>
+        <entry>true|false</entry>
+        <entry>true</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1BlcmNlbnRhZ2UvTWluL2c=</entry>
