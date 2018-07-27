@@ -39,7 +39,6 @@
         <mark key="." line="32" column="44" />
         <mark key="^" line="32" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/aws_esb/aws/core/src/main/java/com/alpegagroup/aws/esb/bean/RoutesConfigHandler.java" timestamp="1532601147289" />
       <file name="$USER_HOME$/projects/activemq-cluster/activemq.xml" timestamp="1531222490710">
         <mark key="[" line="112" column="120" />
         <mark key="]" line="112" column="125" />
@@ -160,7 +159,6 @@
         <mark key="." line="22" column="13" />
         <mark key="^" line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/manager/transportorder/TransportOrderManager.java" timestamp="1532606518679" />
       <file name="$USER_HOME$/projects/fx/docker/asb-local/docker-compose.yml" timestamp="1532345703824">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="21" column="17" />
@@ -200,12 +198,11 @@
         <mark key="." line="62" column="24" />
         <mark key="^" line="62" column="24" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/transwide/utils/tw-utils/1.3.2/tw-utils-1.3.2.jar!/com/transwide/utils/config/ConfigUtils.class" timestamp="1532521318405" />
-      <file name="/Dummy.txt" timestamp="1532615902225">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="37" />
-        <mark key="^" line="0" column="37" />
-        <mark key="." line="0" column="37" />
+      <file name="/Dummy.txt" timestamp="1532672192938">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq/Dockerfile" timestamp="1531222649773">
         <mark key="[" line="1" column="36" />
@@ -216,14 +213,12 @@
       <file name="$USER_HOME$/projects/aws_esb/aws/core/src/main/resources/core/routes.yml" timestamp="1532598606085">
         <mark key="'" line="168" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/aws_esb/aws/core/src/main/java/com/alpegagroup/aws/esb/util/ExchangeUtil.java" timestamp="1532598706694" />
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/runner/CommandLineAppStartupRunner.java" timestamp="1531293529390">
         <mark key="[" line="27" column="12" />
         <mark key="]" line="27" column="20" />
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/lang/Class.java" timestamp="1532595657099" />
       <file name="$USER_HOME$/projects/amq-test/Dockerfile" timestamp="1531295613713">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="24" />
@@ -248,20 +243,18 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/src/main/java/com/wktransportservices/fx/bi/service/SearchEventPublisherBean.java" timestamp="1532671652050">
+        <mark key="[" line="43" column="76" />
+        <mark key="]" line="43" column="76" />
+        <mark key="^" line="43" column="70" />
+        <mark key="." line="43" column="76" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/MapService.java" timestamp="1531977756320">
         <mark key="[" line="91" column="24" />
         <mark key="]" line="91" column="0" />
         <mark key="^" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/SpotBidConfirmationProcessorService.java" timestamp="1532615502545" />
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/XmlConversionBean.java" timestamp="1532615886598">
-        <mark key="[" line="54" column="28" />
-        <mark key="]" line="56" column="74" />
-        <mark key="." line="56" column="74" />
-        <mark key="^" line="56" column="74" />
-      </file>
-      <file name="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/src.zip!/java/util/List.java" timestamp="1532601387159" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/RequestedCalloffServiceBean.java" timestamp="1531740009628">
         <mark key="[" line="103" column="39" />
         <mark key="]" line="104" column="31" />
@@ -427,13 +420,13 @@
         <text>4xj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>FXadmin2018</text>
+        <text>459 [ASB] - Usage of local ASB</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>FXadmin2018</text>
+        <text>459 [ASB] - Usage of local ASB</text>
       </register>
       <register name="/" type="4">
         <text>\csdm</text>
@@ -442,31 +435,31 @@
         <text encoding="base64">dXBkYXRlIHVzZXJzIHNldCBidXNpbmVzc19pZCA9ICdVLTAwMDA1JyB3aGVyZSBsb2dpbiA9ICdGWGFkbWluMjAxOCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5jb21pbmdEZXN0aW5hdGlvbnMucmV0YWluQWxsKHJlZ2lzdGVyZWREZXN0aW5hdGlvbnMpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLmZ4LmVzYi5jbGllbnQuTm90aWZ5V0tUU1B1Ymxpc2hlcjsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW5jb21pbmdEZXN0aW5hdGlvbnMucmV0YWluQWxsKHJlZ2lzdGVyZWREZXN0aW5hdGlvbnMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5jb21pbmdEZXN0aW5hdGlvbnMucmV0YWluQWxsKHJlZ2lzdGVyZWREZXN0aW5hdGlvbnMpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCJVbmFibGUgdG8gcHVibGlzaCBldmVudCBtZXNzYWdlLCB7fSIsIG1lc3NhZ2UsIGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCJVbmFibGUgdG8gcHVibGlzaCBldmVudCBtZXNzYWdlLCB7fSIsIG1lc3NhZ2UsIGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCJVbmFibGUgdG8gcHVibGlzaCBldmVudCBtZXNzYWdlLCB7fSIsIG1lc3NhZ2UsIGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cuaW5mbygiU2VuZGluZyBtZXNzYWdlOiB7fSIsIG1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
