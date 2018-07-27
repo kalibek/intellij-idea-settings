@@ -146,6 +146,13 @@
         <mark key="^" line="126" column="45" />
         <mark key="." line="113" column="59" />
       </file>
+      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" timestamp="1532687577012">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="30" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/docker/postgres/initdb/restore.sh" timestamp="1532686713722" />
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSPublisher.java" timestamp="1532511843607">
         <mark key="[" line="22" column="13" />
         <mark key="]" line="22" column="13" />
@@ -259,6 +266,12 @@
         <mark key="]" line="86" column="33" />
         <mark key="." line="86" column="33" />
         <mark key="^" line="86" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/Notification.java" timestamp="1532687617845">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1532683128773">
         <mark key="[" line="93" column="0" />
@@ -418,14 +431,14 @@
       <register name="a" type="4">
         <text>4xj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSB3bGNsdXN0ZXJfd2ViX2FjdGl2ZTsK</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnJvbSA=</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>\csdm</text>
@@ -434,31 +447,40 @@
         <text encoding="base64">c2VsZWN0ICogZnJvbSB3bGNsdXN0ZXJfYjJiX2FjdGl2ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSB3bGNsdXN0ZXJfd2ViX2FjdGl2ZTsK</text>
+        <text encoding="base64">Y2xhc3MgTm90aWZpY2F0aW9uIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSB3bGNsdXN0ZXJfYjJiX2FjdGl2ZTsK</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLmZ4LmVzYi5jbGllbnQuTm90aWZ5V0tUU1B1Ymxpc2hlcjsK</text>
+      <register name="3" type="4">
+        <text>@Data
+class Notification {
+    private String origin;
+    private String subject;
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5jb21pbmdEZXN0aW5hdGlvbnMucmV0YWluQWxsKHJlZ2lzdGVyZWREZXN0aW5hdGlvbnMpOwo=</text>
+        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5jb21pbmdEZXN0aW5hdGlvbnMucmV0YWluQWxsKHJlZ2lzdGVyZWREZXN0aW5hdGlvbnMpOwo=</text>
+      <register name="5" type="4">
+        <text>@Data
+@AllArgsConstructor
+class Notification {
+    private String origin;
+    private String subject;
+}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEJlYW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSB3bGNsdXN0ZXJfd2ViX2FjdGl2ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSB3bGNsdXN0ZXJfYjJiX2FjdGl2ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCJVbmFibGUgdG8gcHVibGlzaCBldmVudCBtZXNzYWdlLCB7fSIsIG1lc3NhZ2UsIGUpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLmZ4LmVzYi5jbGllbnQuTm90aWZ5V0tUU1B1Ymxpc2hlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
