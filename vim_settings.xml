@@ -250,11 +250,11 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/interview-tasks/src/main/java/com/epam/interview/Tasks.java" timestamp="1532691900000">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="16" column="5" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="4" />
+      <file name="$USER_HOME$/projects/interview-tasks/src/main/java/com/epam/interview/Tasks.java" timestamp="1532691999836">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="23" />
+        <mark key="^" line="5" column="15" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/test/java/com/wktransportservices/fx/esb/client/audit/manager/AuditManagerTest.java" timestamp="1530696855098">
         <mark key="[" line="70" column="15" />
@@ -469,36 +469,47 @@
         <text>4xj</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAgIHJldmVyc2VOdW1iZXIoKTsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgcmV2ZXJzZU51bWJlcigpIHsKICAgICAgICBpbnQgbiA9IDY1NDk4NzsKICAgICAgICBpbnQgeiA9IDA7CiAgICAgICAgd2hpbGUgKG4gPiAwKSB7CiAgICAgICAgICAgIGludCB4ID0gbiAlIDEwOwogICAgICAgICAgICBuID0gbiAvIDEwOwogICAgICAgICAgICB6ID0geiAqIDEwICsgeDsKICAgICAgICB9CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHopOwogICAgfQ==</text>
+        <text>maxTimes</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>maxTimes</text>
       </register>
       <register name="/" type="4">
         <text>true</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAgIHJldmVyc2VOdW1iZXIoKTsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgcmV2ZXJzZU51bWJlcigpIHsKICAgICAgICBpbnQgbiA9IDY1NDk4NzsKICAgICAgICBpbnQgeiA9IDA7CiAgICAgICAgd2hpbGUgKG4gPiAwKSB7CiAgICAgICAgICAgIGludCB4ID0gbiAlIDEwOwogICAgICAgICAgICBuID0gbiAvIDEwOwogICAgICAgICAgICB6ID0geiAqIDEwICsgeDsKICAgICAgICB9CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHopOwogICAgfQ==</text>
+        <text>maxMulti</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRSb3V0ZSgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgR0VUKCIvc3RyZWFtL3tpZH0iKS5hbmQoY29udGVudFR5cGUoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX1NUUkVBTV9KU09OKSksIGhhbmRsZXI6OmdldFN0cmVhbSk7Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBpbnRbXSBpbnRzID0gey0xLCAxMCwgMzQsIDAsIDYsIDkwfTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="3" type="4">
+        <text>public static void main(String[] args) {
+        reverseNumber();
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRSb3V0ZSgK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgR0VUKCIvc3RyZWFtL3tpZH0iKS5hbmQoY29udGVudFR5cGUoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX1NUUkVBTV9KU09OKSksIGhhbmRsZXI6OmdldFN0cmVhbSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>@Data
 @AllArgsConstructor
 public class Notification {
@@ -506,15 +517,6 @@ public class Notification {
     private String origin;
     private String subject;
 }</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">QFNlcnZpY2UKcHVibGljIGNsYXNzIE5vdGlmaWNhdGlvblNlcnZpY2UgewoKICAgIHB1YmxpYyBNb25vPFNlcnZlclJlc3BvbnNlPiBnZXROb3RpZmljYXRpb24oU2VydmVyUmVxdWVzdCBzZXJ2ZXJSZXF1ZXN0KSB7CiAgICAgICAgaWYgKHNlcnZlclJlcXVlc3QucGF0aFZhcmlhYmxlKCJpZCIpLmVxdWFscygiMSIpKSB7CiAgICAgICAgICAgIE5vdGlmaWNhdGlvbiBub3RpZmljYXRpb24gPSBuZXcgTm90aWZpY2F0aW9uKCJmeCIsICJmeDAwMSIpOwogICAgICAgICAgICByZXR1cm4gU2VydmVyUmVzcG9uc2Uub2soKS5ib2R5KE1vbm8uanVzdChub3RpZmljYXRpb24pLCBOb3RpZmljYXRpb24uY2xhc3MpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBTZXJ2ZXJSZXNwb25zZS5ub3RGb3VuZCgpLmJ1aWxkKCk7CiAgICAgICAgfQogICAgfQp9</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ubmlvLnNjdHAuTm90aWZpY2F0aW9uSGFuZGxlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
