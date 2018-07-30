@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" timestamp="1532929458620">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" timestamp="1532931508085">
+        <mark key="'" line="70" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/LinkStepDefinitions.java" timestamp="1532062151355">
         <mark key="[" line="11" column="74" />
@@ -229,7 +229,7 @@
         <mark key="^" line="17" column="74" />
         <mark key="." line="17" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532929630873">
+      <file name="/Dummy.txt" timestamp="1532931557345">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="52" />
         <mark key="^" line="0" column="69" />
@@ -294,6 +294,9 @@
         <mark key="]" line="4" column="1" />
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1532931400720">
+        <mark key="'" line="128" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/RequestedCalloffServiceBean.java" timestamp="1531740009628">
         <mark key="[" line="103" column="39" />
@@ -365,8 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="399" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
-      <jump line="409" column="22" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
       <jump line="410" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
       <jump line="435" column="22" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
       <jump line="436" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
@@ -465,6 +466,8 @@
       <jump line="86" column="47" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_dev.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
+      <jump line="128" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
+      <jump line="70" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -480,7 +483,7 @@
         <text>maxTimes</text>
       </register>
       <register name="/" type="4">
-        <text>true</text>
+        <text>PTV</text>
       </register>
       <register name="0" type="4">
         <text>maxMulti</text>
@@ -525,9 +528,9 @@ public class Notification {
       </register>
     </registers>
     <search>
-      <last-search>true</last-search>
+      <last-search>PTV</last-search>
       <last-offset />
-      <last-pattern>true</last-pattern>
+      <last-pattern>PTV</last-pattern>
       <last-replace>TFX</last-replace>
       <last-substitute>SPOT</last-substitute>
       <last-dir>1</last-dir>
@@ -535,7 +538,6 @@ public class Notification {
     </search>
     <history>
       <history-search>
-        <entry>SPOT</entry>
         <entry>esb</entry>
         <entry>develop</entry>
         <entry>resour</entry>
@@ -555,6 +557,7 @@ public class Notification {
         <entry>\csdm</entry>
         <entry>true|false</entry>
         <entry>true</entry>
+        <entry>PTV</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1BlcmNlbnRhZ2UvTWluL2c=</entry>
