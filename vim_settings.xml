@@ -93,6 +93,9 @@
         <mark key="." line="14" column="60" />
         <mark key="^" line="14" column="60" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE.jar!/org/springframework/http/MediaType.class" timestamp="1532958859677">
+        <mark key="'" line="18" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ResponseValidationStepDefs.java" timestamp="1532062036355">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="17" column="34" />
@@ -188,11 +191,11 @@
         <mark key="^" line="126" column="45" />
         <mark key="." line="113" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" timestamp="1532691787598">
-        <mark key="[" line="47" column="9" />
-        <mark key="]" line="47" column="9" />
-        <mark key="." line="47" column="9" />
-        <mark key="^" line="47" column="9" />
+      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" timestamp="1532958814199">
+        <mark key="[" line="40" column="58" />
+        <mark key="]" line="42" column="23" />
+        <mark key="." line="42" column="23" />
+        <mark key="^" line="42" column="23" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSPublisher.java" timestamp="1532511843607">
         <mark key="[" line="22" column="13" />
@@ -384,11 +387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="410" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
-      <jump line="435" column="22" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
-      <jump line="436" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
-      <jump line="454" column="22" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
-      <jump line="455" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CityZipWidget.java" />
       <jump line="380" column="59" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
       <jump line="30" column="24" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
@@ -484,46 +482,51 @@
       <jump line="70" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="84" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="95" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
+      <jump line="53" column="76" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE.jar!/org/springframework/http/MediaType.class" />
+      <jump line="66" column="74" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE.jar!/org/springframework/http/MediaType.class" />
+      <jump line="67" column="69" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE.jar!/org/springframework/http/MediaType.class" />
+      <jump line="237" column="31" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE.jar!/org/springframework/http/MediaType.class" />
+      <jump line="18" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE.jar!/org/springframework/http/MediaType.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>4xj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBGbHV4PFN0cmluZz4gZXZlbnRzOwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>PTV</text>
+        <text>\cstream</text>
       </register>
       <register name="0" type="4">
         <text>ESB_SEND_TO_Q</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBGbHV4PFN0cmluZz4gZXZlbnRzOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">TW9ubzxTZXJ2ZXJSZXNwb25zZT4gZ2V0Tm90aWZpY2F0aW9uKFNlcnZlclJlcXVlc3Qgc2VydmVyUmVxdWVzdCkgewogICAgICAgIGlmIChzZXJ2ZXJSZXF1ZXN0LnBhdGhWYXJpYWJsZSgiaWQiKS5lcXVhbHMoIjEiKSkgewogICAgICAgICAgICBOb3RpZmljYXRpb24gbm90aWZpY2F0aW9uID0gbmV3IE5vdGlmaWNhdGlvbigiZngiLCAiZngwMDEiKTsKICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLm9rKCkuYm9keShNb25vLmp1c3Qobm90aWZpY2F0aW9uKSwgTm90aWZpY2F0aW9uLmNsYXNzKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gU2VydmVyUmVzcG9uc2UuYmFkUmVxdWVzdCgpLmJ1aWxkKCk7CiAgICAgICAgfQogICAgfQoKICAgIEZsdXg8U2VydmVyUmVzcG9uc2U+IGdldFN0cmVhbShTZXJ2ZXJSZXF1ZXN0IHNlcnZlclJlcXVlc3QpIHsKICAgICAgICByZXR1cm4gRmx1eC5uZXZlcigpOwogICAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudHMgPSBzdHJpbmdGbHV4KCk7Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBGbHV4PFN0cmluZz4gZXZlbnRzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudHMucHUK</text>
+        <text encoding="base64">ICAgICAgICBldmVudHMgPSBzdHJpbmdGbHV4KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudHMucHUK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SkFWQV9PUFRTPSIkSkFWQV9PUFRTIC1EZnguZXNiLnNlbmQudG8ucXVldWU9JHtFU0JfU0VORF9UT19ROi1mYWxzZX0iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SkFWQV9PUFRTPSIkSkFWQV9PUFRTIC1EZnguZXNiLnNlbmQudG8ucXVldWU9JHtFU0JfU0VORF9UT19ROi1mYWxzZX0iCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -536,9 +539,9 @@
       </register>
     </registers>
     <search>
-      <last-search>PTV</last-search>
+      <last-search>\cstream</last-search>
       <last-offset />
-      <last-pattern>PTV</last-pattern>
+      <last-pattern>\cstream</last-pattern>
       <last-replace>TFX</last-replace>
       <last-substitute>SPOT</last-substitute>
       <last-dir>1</last-dir>
@@ -546,7 +549,6 @@
     </search>
     <history>
       <history-search>
-        <entry>esb</entry>
         <entry>develop</entry>
         <entry>resour</entry>
         <entry>activemq-rar</entry>
@@ -566,6 +568,7 @@
         <entry>true|false</entry>
         <entry>true</entry>
         <entry>PTV</entry>
+        <entry>\cstream</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1BlcmNlbnRhZ2UvTWluL2c=</entry>
