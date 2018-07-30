@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" timestamp="1532929458620">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/LinkStepDefinitions.java" timestamp="1532062151355">
         <mark key="[" line="11" column="74" />
         <mark key="]" line="11" column="74" />
@@ -226,8 +229,8 @@
         <mark key="^" line="17" column="74" />
         <mark key="." line="17" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532688641245">
-        <mark key="[" line="0" column="55" />
+      <file name="/Dummy.txt" timestamp="1532929630873">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="52" />
         <mark key="^" line="0" column="69" />
         <mark key="." line="0" column="52" />
@@ -275,10 +278,10 @@
         <mark key="." line="15" column="7" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/src/main/java/com/wktransportservices/fx/bi/service/SearchEventPublisherBean.java" timestamp="1532671652050">
-        <mark key="[" line="43" column="76" />
-        <mark key="]" line="43" column="76" />
-        <mark key="^" line="43" column="70" />
-        <mark key="." line="43" column="76" />
+        <mark key="[" line="2" column="76" />
+        <mark key="]" line="2" column="76" />
+        <mark key="^" line="2" column="70" />
+        <mark key="." line="2" column="76" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/MapService.java" timestamp="1531977756320">
         <mark key="[" line="91" column="24" />
@@ -333,7 +336,6 @@
         <mark key="^" line="30" column="89" />
         <mark key="." line="30" column="89" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" timestamp="1532688522735" />
       <file name="$USER_HOME$/projects/fx/docker/asb-local/.gitignore" timestamp="1532497036087">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -378,7 +380,6 @@
       <jump line="2" column="2" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11426_align_api_offer_ID.feature" />
       <jump line="38" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="82" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="119" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="34" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
@@ -463,6 +464,7 @@
       <jump line="160" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
       <jump line="86" column="47" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_dev.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
     </jumps>
     <registers>
       <register name="a" type="4">
