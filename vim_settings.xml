@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" timestamp="1532950600700">
-        <mark key="'" line="70" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" timestamp="1532951275780">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="86" column="28" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/LinkStepDefinitions.java" timestamp="1532062151355">
         <mark key="[" line="11" column="74" />
@@ -229,11 +233,11 @@
         <mark key="^" line="17" column="74" />
         <mark key="." line="17" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532931557345">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="52" />
-        <mark key="^" line="0" column="69" />
-        <mark key="." line="0" column="52" />
+      <file name="/Dummy.txt" timestamp="1532951989862">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="50" />
+        <mark key="^" line="0" column="50" />
+        <mark key="." line="0" column="50" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq/Dockerfile" timestamp="1531222649773">
         <mark key="[" line="1" column="36" />
@@ -295,8 +299,11 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1532931400720">
-        <mark key="'" line="128" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1532951395018">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="98" column="3" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/RequestedCalloffServiceBean.java" timestamp="1531740009628">
         <mark key="[" line="103" column="39" />
@@ -396,7 +403,6 @@
       <jump line="277" column="9" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
       <jump line="83" column="31" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
       <jump line="90" column="15" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
-      <jump line="95" column="29" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/aws_esb/aws/core/src/main/resources/core/routes.yml" />
       <jump line="259" column="12" filename="$USER_HOME$/projects/aws_esb/aws/core/src/main/resources/core/routes.yml" />
       <jump line="260" column="15" filename="$USER_HOME$/projects/aws_esb/aws/core/src/main/resources/core/routes.yml" />
@@ -404,7 +410,6 @@
       <jump line="168" column="15" filename="$USER_HOME$/projects/aws_esb/aws/core/src/main/resources/core/routes.yml" />
       <jump line="137" column="6" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="93" column="15" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
-      <jump line="84" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="139" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
       <jump line="136" column="5" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
       <jump line="117" column="29" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
@@ -468,60 +473,54 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="128" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="70" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
+      <jump line="84" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
+      <jump line="95" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>4xj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>maxTimes</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>maxTimes</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>PTV</text>
       </register>
       <register name="0" type="4">
-        <text>maxMulti</text>
+        <text>ESB_SEND_TO_Q</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBpbnRbXSBpbnRzID0gey0xLCAxMCwgMzQsIDAsIDYsIDkwfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>public static void main(String[] args) {
-        reverseNumber();
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">SkFWQV9PUFRTPSIkSkFWQV9PUFRTIC1EZnguZXNiLnNlbmQudG8ucXVldWU9JHtFU0JfU0VORF9UT19ROi1mYWxzZX0iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRSb3V0ZSgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgR0VUKCIvc3RyZWFtL3tpZH0iKS5hbmQoY29udGVudFR5cGUoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX1NUUkVBTV9KU09OKSksIGhhbmRsZXI6OmdldFN0cmVhbSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SkFWQV9PUFRTPSIkSkFWQV9PUFRTIC1Ec3BvdC5lc2Iuc2VuZC50by5xdWV1ZT0ke0VTQl9TRU5EX1RPX1E6LWZhbHNlfSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SkFWQV9PUFRTPSIkSkFWQV9PUFRTIC1Ec3BvdC5lc2Iuc2VuZC50by5xdWV1ZT0ke0VTQl9TRU5EX1RPX1E6LWZhbHNlfSIK</text>
       </register>
-      <register name="9" type="4">
-        <text>@Data
-@AllArgsConstructor
-public class Notification {
-
-    private String origin;
-    private String subject;
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
