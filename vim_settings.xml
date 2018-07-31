@@ -44,17 +44,14 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1533036618846">
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="25" />
-        <mark key="." line="14" column="25" />
-        <mark key="^" line="14" column="25" />
-      </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq.xml" timestamp="1531222490710">
         <mark key="[" line="112" column="120" />
         <mark key="]" line="112" column="125" />
         <mark key="." line="112" column="125" />
         <mark key="^" line="112" column="125" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_sprint.properties" timestamp="1533037371118">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/build.sh" timestamp="1532497355630">
         <mark key="[" line="2" column="14" />
@@ -130,11 +127,11 @@
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" timestamp="1533035570404">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" timestamp="1533037363844">
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="60" />
         <mark key="^" line="26" column="43" />
-        <mark key="." line="28" column="0" />
+        <mark key="." line="28" column="33" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/Processed.java" timestamp="1531304870364">
         <mark key="[" line="30" column="5" />
@@ -153,12 +150,6 @@
         <mark key="]" line="18" column="13" />
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_dev.properties" timestamp="1532688012130">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="53" column="17" />
-        <mark key="]" line="53" column="17" />
-        <mark key="." line="53" column="17" />
       </file>
       <file name="$USER_HOME$/projects/push/src/main/resources/application.properties" timestamp="1532688938735">
         <mark key="[" line="0" column="0" />
@@ -250,11 +241,11 @@
         <mark key="^" line="17" column="74" />
         <mark key="." line="17" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532951989862">
+      <file name="/Dummy.txt" timestamp="1533037831525">
         <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="50" />
-        <mark key="^" line="0" column="50" />
-        <mark key="." line="0" column="50" />
+        <mark key="]" line="0" column="57" />
+        <mark key="^" line="0" column="57" />
+        <mark key="." line="0" column="57" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq/Dockerfile" timestamp="1531222649773">
         <mark key="[" line="1" column="36" />
@@ -392,7 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="380" column="59" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
       <jump line="30" column="24" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
       <jump line="70" column="13" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/manager/transportorder/TransportOrderManager.java" />
@@ -492,25 +482,26 @@
       <jump line="67" column="69" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE.jar!/org/springframework/http/MediaType.class" />
       <jump line="237" column="31" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE.jar!/org/springframework/http/MediaType.class" />
       <jump line="18" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE.jar!/org/springframework/http/MediaType.class" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_sprint.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>4xj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>local</text>
+        <text>http://spot.wkts.dev</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text>http://spot.wkts.dev</text>
       </register>
       <register name="/" type="4">
-        <text>\cstream</text>
+        <text>base</text>
       </register>
       <register name="0" type="4">
-        <text>ESB_SEND_TO_Q</text>
+        <text>http://spot.rnd.alpega.info</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2FtbF9hcHBsaWNhdGlvbl9lbnRpdHlfYmFzZV91cmw9aHR0cDovL3Nwb3QuLmRldgo=</text>
@@ -544,9 +535,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\cstream</last-search>
+      <last-search>base</last-search>
       <last-offset />
-      <last-pattern>\cstream</last-pattern>
+      <last-pattern>base</last-pattern>
       <last-replace>TFX</last-replace>
       <last-substitute>\cstream</last-substitute>
       <last-dir>1</last-dir>
@@ -554,7 +545,6 @@
     </search>
     <history>
       <history-search>
-        <entry>develop</entry>
         <entry>resour</entry>
         <entry>activemq-rar</entry>
         <entry>activemq\-rar</entry>
@@ -574,6 +564,7 @@
         <entry>true</entry>
         <entry>PTV</entry>
         <entry>\cstream</entry>
+        <entry>base</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1BlcmNlbnRhZ2UvTWluL2c=</entry>
