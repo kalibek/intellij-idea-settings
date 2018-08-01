@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" timestamp="1533112410127">
+        <mark key="[" line="93" column="12" />
+        <mark key="]" line="93" column="27" />
+      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/LinkStepDefinitions.java" timestamp="1532062151355">
         <mark key="[" line="11" column="74" />
         <mark key="]" line="11" column="74" />
@@ -45,8 +49,8 @@
       <file name="/cd_companies [tfx_data@localhost]" timestamp="1533102303078">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1532081500905">
-        <mark key="[" line="33" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1533111683135">
+        <mark key="[" line="35" column="53" />
         <mark key="]" line="33" column="1" />
         <mark key="^" line="33" column="1" />
         <mark key="." line="33" column="1" />
@@ -57,9 +61,6 @@
         <mark key="." line="112" column="125" />
         <mark key="^" line="112" column="125" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_sprint.properties" timestamp="1533037371118">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="/cd_comp_access [tfx_data@localhost]" timestamp="1533102311265">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,6 +70,7 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/wktransportservices/schema/mbs/fx/mbs-fx/2.1/mbs-fx-2.1.jar!/com/wktransportservices/schema/mbs/fx/companiesdirectories/v2_1/DirectoryCompaniesList.class" timestamp="1533111273769" />
       <file name="$USER_HOME$/projects/simple/static/style.css" timestamp="1530687191861">
         <mark key="[" line="6" column="140" />
         <mark key="]" line="6" column="140" />
@@ -107,9 +109,6 @@
         <mark key="." line="14" column="60" />
         <mark key="^" line="14" column="60" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE.jar!/org/springframework/http/MediaType.class" timestamp="1532958859677">
-        <mark key="'" line="18" column="17" />
-      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ResponseValidationStepDefs.java" timestamp="1532062036355">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="17" column="34" />
@@ -139,13 +138,6 @@
         <mark key="]" line="11" column="37" />
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="28" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" timestamp="1533099480881">
-        <mark key="'" line="28" column="33" />
-        <mark key="[" line="19" column="34" />
-        <mark key="]" line="19" column="50" />
-        <mark key="^" line="28" column="37" />
-        <mark key="." line="19" column="34" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/Processed.java" timestamp="1531304870364">
         <mark key="[" line="30" column="5" />
@@ -355,9 +347,9 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1532951395018">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1533112318207">
+        <mark key="[" line="129" column="15" />
+        <mark key="]" line="129" column="29" />
         <mark key="." line="95" column="0" />
         <mark key="^" line="98" column="3" />
       </file>
@@ -535,7 +527,7 @@
         <text>4xj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>SPOT_NGMP_MQ_PWD</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
@@ -547,7 +539,7 @@
         <text>idp</text>
       </register>
       <register name="0" type="4">
-        <text>setPrivateType</text>
+        <text>SPOT_NGMP_MQ_PWD</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb21wYW5pZXNEaXJlY3Rvcnkuc2V0UHJpdmF0ZVR5cGUoU01BUlQpOwo=</text>
