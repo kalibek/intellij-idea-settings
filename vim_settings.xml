@@ -265,11 +265,11 @@
         <mark key="^" line="1" column="82" />
         <mark key="." line="1" column="82" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1533102081352">
-        <mark key="[" line="50" column="36" />
-        <mark key="]" line="50" column="36" />
-        <mark key="." line="50" column="36" />
-        <mark key="^" line="50" column="36" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1533111182327">
+        <mark key="[" line="53" column="7" />
+        <mark key="]" line="53" column="19" />
+        <mark key="." line="53" column="19" />
+        <mark key="^" line="53" column="19" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/start.sh" timestamp="1532346041261">
         <mark key="[" line="17" column="59" />
@@ -277,7 +277,7 @@
         <mark key="^" line="17" column="74" />
         <mark key="." line="17" column="60" />
       </file>
-      <file name="/dummy.sql" timestamp="1533107641840">
+      <file name="/dummy.sql" timestamp="1533110411089">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/companies_addresses [tfx_data@localhost]" timestamp="1533102163357">
@@ -361,6 +361,9 @@
         <mark key="." line="95" column="0" />
         <mark key="^" line="98" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/wktransportservices/schema/mbs/fx/mbs-fx/2.1/mbs-fx-2.1.jar!/com/wktransportservices/schema/mbs/fx/companiesdirectories/v2_1/CompaniesDirectory.class" timestamp="1533110988029">
+        <mark key="'" line="33" column="159" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/RequestedCalloffServiceBean.java" timestamp="1531740009628">
         <mark key="[" line="103" column="39" />
         <mark key="]" line="104" column="31" />
@@ -426,7 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="25" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
       <jump line="24" column="14" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
       <jump line="29" column="13" filename="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/transportorder/TransportOrderBidWebservice.java" />
       <jump line="174" column="3" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
@@ -526,19 +528,20 @@
       <jump line="45" column="4" filename="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/scenario/SmartDirectoryWebservice.java" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/scenario/SmartDirectoryWebservice.java" />
       <jump line="102" column="0" filename="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/scenario/SmartDirectoryWebservice.java" />
+      <jump line="33" column="159" filename="$MAVEN_REPOSITORY$/com/wktransportservices/schema/mbs/fx/mbs-fx/2.1/mbs-fx-2.1.jar!/com/wktransportservices/schema/mbs/fx/companiesdirectories/v2_1/CompaniesDirectory.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>4xj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>companiesDirectory</text>
+        <text>*</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>companiesDirectory</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>idp</text>
