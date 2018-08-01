@@ -71,6 +71,9 @@
         <mark key="." line="33" column="21" />
         <mark key="^" line="33" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" timestamp="1533097936598">
+        <mark key="'" line="41" column="57" />
+      </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/Dockerfile" timestamp="1532497396404">
         <mark key="[" line="15" column="5" />
         <mark key="]" line="15" column="6" />
@@ -127,7 +130,7 @@
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" timestamp="1533096316527">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" timestamp="1533097994679">
         <mark key="'" line="28" column="33" />
         <mark key="[" line="28" column="37" />
         <mark key="]" line="28" column="37" />
@@ -384,9 +387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
-      <jump line="82" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
-      <jump line="119" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="34" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
       <jump line="140" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
       <jump line="5" column="70" filename="$USER_HOME$/projects/aws_esb/launcher/Dockerfile" />
@@ -484,6 +484,9 @@
       <jump line="11" column="27" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" />
       <jump line="23" column="26" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" />
       <jump line="28" column="33" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" />
+      <jump line="25" column="38" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" />
+      <jump line="41" column="57" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -499,7 +502,7 @@
         <text>http://spot.wkts.dev</text>
       </register>
       <register name="/" type="4">
-        <text>http</text>
+        <text>idp</text>
       </register>
       <register name="0" type="4">
         <text>http://spot.rnd.alpega.info</text>
@@ -536,9 +539,9 @@
       </register>
     </registers>
     <search>
-      <last-search>http</last-search>
+      <last-search>idp</last-search>
       <last-offset />
-      <last-pattern>http</last-pattern>
+      <last-pattern>idp</last-pattern>
       <last-replace>TFX</last-replace>
       <last-substitute>\cstream</last-substitute>
       <last-dir>1</last-dir>
@@ -546,7 +549,6 @@
     </search>
     <history>
       <history-search>
-        <entry>activemq-rar</entry>
         <entry>activemq\-rar</entry>
         <entry>activemq</entry>
         <entry encoding="base64">PG1kYg==</entry>
@@ -566,6 +568,7 @@
         <entry>\cstream</entry>
         <entry>base</entry>
         <entry>http</entry>
+        <entry>idp</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1BlcmNlbnRhZ2UvTWluL2c=</entry>
