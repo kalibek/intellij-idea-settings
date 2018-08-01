@@ -64,6 +64,12 @@
       <file name="/cd_comp_access [tfx_data@localhost]" timestamp="1533102311265">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-webservices/src/test/java/com/wktransportservices/fx/webservices/mapper/company/SmartDirectoryMapperTest.java" timestamp="1533124462304">
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="21" />
+        <mark key="^" line="24" column="45" />
+        <mark key="." line="24" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/build.sh" timestamp="1532497355630">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="44" />
@@ -157,9 +163,11 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/mapper/company/DirectoryMapper.java" timestamp="1533103647962">
-        <mark key="[" line="40" column="12" />
-        <mark key="]" line="40" column="25" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_dev.properties" timestamp="1532688012130">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="53" column="17" />
+        <mark key="]" line="53" column="17" />
+        <mark key="." line="53" column="17" />
       </file>
       <file name="$USER_HOME$/projects/push/src/main/resources/application.properties" timestamp="1532688938735">
         <mark key="[" line="0" column="0" />
@@ -214,6 +222,10 @@
         <mark key="." line="39" column="63" />
         <mark key="^" line="39" column="63" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/GroupDTO.java" timestamp="1533124891742">
+        <mark key="[" line="19" column="40" />
+        <mark key="]" line="19" column="50" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSPublisher.java" timestamp="1532511843607">
         <mark key="[" line="22" column="13" />
         <mark key="]" line="22" column="13" />
@@ -232,12 +244,11 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/scenario/SmartDirectoryWebservice.java" timestamp="1533104044636">
-        <mark key="'" line="106" column="0" />
-        <mark key="[" line="66" column="36" />
-        <mark key="]" line="66" column="40" />
-        <mark key="." line="66" column="40" />
-        <mark key="^" line="66" column="40" />
+      <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/scenario/SmartDirectoryWebservice.java" timestamp="1533123966799">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="66" column="81" />
+        <mark key="]" line="66" column="81" />
+        <mark key="." line="66" column="81" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/AmqTestApplication.java" timestamp="1531296592900">
         <mark key="[" line="34" column="57" />
@@ -287,11 +298,11 @@
         <mark key="^" line="1" column="36" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/mapper/company/SmartDirectoryMapper.java" timestamp="1533121994668">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="3" column="12" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="3" column="12" />
+      <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/mapper/company/SmartDirectoryMapper.java" timestamp="1533124898309">
+        <mark key="[" line="26" column="52" />
+        <mark key="]" line="26" column="63" />
+        <mark key="^" line="26" column="51" />
+        <mark key="." line="26" column="52" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/runner/CommandLineAppStartupRunner.java" timestamp="1531293529390">
         <mark key="[" line="27" column="12" />
@@ -353,14 +364,16 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1533112318207">
-        <mark key="[" line="129" column="15" />
-        <mark key="]" line="129" column="29" />
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1533122663536">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="61" />
         <mark key="." line="95" column="0" />
         <mark key="^" line="98" column="3" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/wktransportservices/schema/mbs/fx/mbs-fx/2.1/mbs-fx-2.1.jar!/com/wktransportservices/schema/mbs/fx/companiesdirectories/v2_1/CompaniesDirectory.class" timestamp="1533110988029">
+      <file name="$MAVEN_REPOSITORY$/com/wktransportservices/schema/mbs/fx/mbs-fx/2.1/mbs-fx-2.1.jar!/com/wktransportservices/schema/mbs/fx/companiesdirectories/v2_1/CompaniesDirectory.class" timestamp="1533124860302">
         <mark key="'" line="33" column="159" />
+        <mark key="[" line="45" column="39" />
+        <mark key="]" line="45" column="62" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/RequestedCalloffServiceBean.java" timestamp="1531740009628">
         <mark key="[" line="103" column="39" />
@@ -422,7 +435,7 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1532691745009">
+      <file name="/fragment.java" timestamp="1533124093109">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -533,141 +546,46 @@
         <text>4xj</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">aW50ZXJmYWNlIA==</text>
+        <text>privateType</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50ZXJmYWNlIA==</text>
+        <text>yDirectory</text>
       </register>
       <register name="/" type="4">
         <text>idp</text>
       </register>
       <register name="0" type="4">
-        <text>SPOT_NGMP_MQ_PWD</text>
+        <text>privateType</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tYXBzdHJ1Y3QuZmFjdG9yeS5NYXBwZXJzOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcudGVzdG5nLkFzc2VydC4qOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tYXBzdHJ1Y3QuTWFwcGVyOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">cHVibGljIHN0YXRpYyBTbWFydERpcmVjdG9yeU1hcHBlciBnZXRJbnN0YW5jZSgpIHsKICAgICAgICBpZiAoaW5zdGFuY2UgPT0gbnVsbCkgewogICAgICAgICAgICBpbnN0YW5jZSA9IG5ldyBTbWFydERpcmVjdG9yeU1hcHBlcigpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gaW5zdGFuY2U7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QE1hcHBlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNtYXJ0RGlyZWN0b3J5TWFwcGVyIE1BUFBFUiA9IE1hcHBlcnMuZ2V0TWFwcGVyKFNtYXJ0RGlyZWN0b3J5TWFwcGVyLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwcGVyRmFjYWRlIG1hcHBlciA9IFNtYXJ0RGlyZWN0b3J5TWFwcGVyLmdldEluc3RhbmNlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wYW5pZXNEaXJlY3Rvcnkuc2V0UHJpdmF0ZVR5cGUoU01BUlQpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tYXBzdHJ1Y3QuZmFjdG9yeS5NYXBwZXJzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaXJlY3RvcnlEVE8uc2V0VHlwZShDb21wYW55RGlyZWN0b3J5VHlwZS5TTUFSVCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tYXBzdHJ1Y3QuTWFwcGVyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wYW5pZXNEaXJlY3RvcnkuCg==</text>
+        <text encoding="base64">QE1hcHBlcgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>import com.wktransportservices.fx.business.actor.remote.social.CompanyDirectoryActorRemote;
-import com.wktransportservices.fx.business.util.ejb.social.SocialActors;
-import com.wktransportservices.fx.dto.CompanyDirectoryDTO;
-import com.wktransportservices.fx.enums.CompanyLikingState;
-import com.wktransportservices.fx.exception.ServiceException;
-import com.wktransportservices.fx.webservices.logging.exception.ExceptionResponse;
-import com.wktransportservices.fx.webservices.logging.exception.ExceptionResponseType;
-import com.wktransportservices.fx.webservices.mapper.company.DirectoryMapper;
-import com.wktransportservices.fx.webservices.messages.service.ResponseUtil;
-import com.wktransportservices.schema.mbs.fx.cmcompanyuseraddress.v2_1.Response;
-import com.wktransportservices.schema.mbs.fx.companiesdirectories.v2_1.CompaniesDirectory;
-import io.swagger.annotations.Api;
-import io.swagger.annotations.ApiOperation;
-import io.swagger.annotations.ApiResponse;
-import io.swagger.annotations.ApiResponses;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
-import javax.servlet.UnavailableException;
-import javax.ws.rs.Consumes;
-import javax.ws.rs.PUT;
-import javax.ws.rs.Path;
-import javax.ws.rs.Produces;
-import javax.ws.rs.core.MediaType;
-
-@Path(&quot;/directory&quot;)
-@ExceptionResponse(ExceptionResponseType.COMUNITY_MANAGER)
-@Api(value = &quot;/directory&quot;, description = &quot;Operations on Smart Directories&quot;)
-@Consumes({MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML})
-@Produces({MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML})
-public class SmartDirectoryWebservice {
-
-    private static final Logger LOG = LoggerFactory.getLogger(SmartDirectoryWebservice.class);
-
-    private CompanyDirectoryActorRemote actor;
-
-    public SmartDirectoryWebservice() throws UnavailableException {
-        try {
-            actor = SocialActors.companyDirectoryActor();
-        } catch (Exception e) {
-            LOG.error(&quot;Can't init Service&quot;, e);
-            throw new UnavailableException(e.getMessage(), 5);
-        }
-    }
-
-    @PUT
-    @Consumes({MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML})
-    @Produces({MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML})
-    @ApiOperation(value = &quot;Update Companies Directory&quot;, response = Response.class)
-    @ApiResponses(value = {@ApiResponse(code = 400, message = &quot;Bad Request&quot;, response = Response.class),
-            @ApiResponse(code = 409, message = &quot;Directory updating error&quot;, response = Response.class)})
-    public Response update(CompaniesDirectory jaxb) throws ServiceException {
-        LOG.debug(&quot;Companies directory updating request {}&quot;, jaxb);
-
-        CompanyDirectoryDTO directoryDTO = DirectoryMapper.INSTANCE.apply(jaxb);
-        String businessId = directoryDTO.getBusinessId();
-
-        directoryDTO = actor.save(directoryDTO);
-
-        CompanyLikingState targetState = getTargetState(directoryDTO.getPrivateType());
-        if (targetState == null) {
-            return ResponseUtil.createResponse(businessId, businessId, javax.ws.rs.core.Response.Status.OK);
-        }
-        actor.updateLikings(directoryDTO, targetState);
-
-        return ResponseUtil.createResponse(businessId, businessId, javax.ws.rs.core.Response.Status.OK);
-    }
-
-    private CompanyLikingState getTargetState(CompanyDirectoryPrivateType cdPrivateType) {
-        CompanyLikingState result;
-        switch (cdPrivateType) {
-            case BLACKLISTED:
-                result = CompanyLikingState.BLACKLISTED;
-                break;
-
-            case MY_COMPANIES:
-                result = CompanyLikingState.PREFFERED;
-                break;
-
-            default:
-                result = null;
-        }
-
-        return result;
-    }
-
-    @DELETE
-    @Path(&quot;/{businessId}&quot;)
-    @Produces({MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML})
-    @ApiOperation(value = &quot;Delete Companies Directory&quot;, response = Response.class)
-    public Response delete(@PathParam(&quot;businessId&quot;) String businessId) throws ServiceException {
-        LOG.debug(&quot;Deleting a companies directory, business id: {}&quot;, businessId);
-        actor.delete(businessId);
-        return ResponseUtil.createResponse(businessId, businessId, Status.OK);
-    }
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFNtYXJ0RGlyZWN0b3J5TWFwcGVyIE1BUFBFUiA9IE1hcHBlcnMuZ2V0TWFwcGVyKFNtYXJ0RGlyZWN0b3J5TWFwcGVyLmNsYXNzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnJlc291cmNlLnNwaS5VbmF2YWlsYWJsZUV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICBjb21wYW5pZXNEaXJlY3Rvcnkuc2V0UHJpdmF0ZVR5cGUoU01BUlQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
