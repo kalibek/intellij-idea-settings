@@ -55,11 +55,11 @@
       <file name="/cd_companies [tfx_data@localhost]" timestamp="1533102303078">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1533126648733">
-        <mark key="[" line="41" column="73" />
-        <mark key="]" line="42" column="30" />
-        <mark key="^" line="42" column="30" />
-        <mark key="." line="42" column="30" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1533133148439">
+        <mark key="[" line="42" column="7" />
+        <mark key="]" line="42" column="40" />
+        <mark key="^" line="42" column="40" />
+        <mark key="." line="42" column="40" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq.xml" timestamp="1531222490710">
         <mark key="[" line="112" column="120" />
@@ -83,7 +83,6 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/wktransportservices/schema/mbs/fx/mbs-fx/2.1/mbs-fx-2.1.jar!/com/wktransportservices/schema/mbs/fx/companiesdirectories/v2_1/DirectoryCompaniesList.class" timestamp="1533111273769" />
       <file name="$USER_HOME$/projects/simple/static/style.css" timestamp="1530687191861">
         <mark key="[" line="6" column="140" />
         <mark key="]" line="6" column="140" />
@@ -177,12 +176,6 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_dev.properties" timestamp="1532688012130">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="53" column="17" />
-        <mark key="]" line="53" column="17" />
-        <mark key="." line="53" column="17" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/mapper/company/PrivateDirectoryTypeConverter.java" timestamp="1533128560074">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -248,6 +241,7 @@
         <mark key="." line="39" column="63" />
         <mark key="^" line="39" column="63" />
       </file>
+      <file name="$USER_HOME$/projects/aws_esb/aws/utils/launcher/src/start_asb-local.bat" timestamp="1533133641311" />
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/GroupDTO.java" timestamp="1533124891742">
         <mark key="[" line="19" column="40" />
         <mark key="]" line="19" column="50" />
@@ -270,11 +264,12 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/scenario/SmartDirectoryWebservice.java" timestamp="1533123966799">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="66" column="81" />
-        <mark key="]" line="66" column="81" />
-        <mark key="." line="66" column="81" />
+      <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/scenario/SmartDirectoryWebservice.java" timestamp="1533132288404">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="55" column="66" />
+        <mark key="]" line="55" column="66" />
+        <mark key="." line="55" column="66" />
+        <mark key="^" line="56" column="24" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/AmqTestApplication.java" timestamp="1531296592900">
         <mark key="[" line="34" column="57" />
@@ -417,6 +412,7 @@
         <mark key="." line="86" column="33" />
         <mark key="^" line="86" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/aws_esb/aws/utils/launcher/src/start_asb-local-ngmp.sh" timestamp="1533134326699" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1532683128773">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="34" />
@@ -575,14 +571,14 @@
       <register name="a" type="4">
         <text>4xj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+      <register name="&quot;" type="4">
+        <text>where</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>ownerId</text>
+        <text>where</text>
       </register>
       <register name="/" type="4">
         <text>BusinessIden</text>
@@ -591,31 +587,51 @@
         <text>ownerCompanyBid</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ud2t0cmFuc3BvcnRzZXJ2aWNlcy5meC5lbnVtcy5jZC5Db21wYW55RGlyZWN0b3J5UHJpdmF0ZVR5cGUuU01BUlQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBidXNpbmVzc0lkLnNldElkKGlkKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IEBERUxFVEUKICAgIEBQYXRoKCIve2J1c2luZXNzSWR9IikKICAgIEBQcm9kdWNlcyh7TWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT04sIE1lZGlhVHlwZS5BUFBMSUNBVElPTl9YTUx9KQogICAgQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICJEZWxldGUgU21hcnQgRGlyZWN0b3J5IiwgcmVzcG9uc2UgPSBSZXNwb25zZS5jbGFzcykKICAgIHB1YmxpYyBSZXNwb25zZSBkZWxldGUoQFBhdGhQYXJhbSgiYnVzaW5lc3NJZCIpIFN0cmluZyBidXNpbmVzc0lkKSB0aHJvd3MgU2VydmljZUV4Y2VwdGlvbiB7CiAgICAgICAgTE9HLmRlYnVnKCJEZWxldGluZyBhIGNvbXBhbmllcyBkaXJlY3RvcnksIGJ1c2luZXNzIGlkOiB7fSIsIGJ1c2luZXNzSWQpOwogICAgICAgIGFjdG9yLmRlbGV0ZShidXNpbmVzc0lkKTsKICAgICAgICByZXR1cm4gUmVzcG9uc2VVdGlsLmNyZWF0ZVJlc3BvbnNlKGJ1c2luZXNzSWQsIGJ1c2luZXNzSWQsIFN0YXR1cy5PSyk7CiAgICB9</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBCdXNpbmVzc0lkZW50aWZpZXIgYnVzaW5lc3NJZCA9IG5ldyBCdXNpbmVzc0lkZW50aWZpZXIoKTsK</text>
+      <register name="4" type="4">
+        <text>private CompanyLikingState getTargetState(CompanyDirectoryPrivateType cdPrivateType) {
+        CompanyLikingState result;
+        switch (cdPrivateType) {
+            case BLACKLISTED:
+                result = CompanyLikingState.BLACKLISTED;
+                break;
+
+            case MY_COMPANIES:
+                result = CompanyLikingState.PREFFERED;
+                break;
+
+            default:
+                result = null;
+        }
+
+        return result;
+    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBidXNpbmVzc0lkLnNldElkKEJVU0lORVNTX0lEKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYnVzaW5lc3NJZCA9IGRpcmVjdG9yeURUTy5nZXRCdXNpbmVzc0lkKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCdXNpbmVzc0lkZW50aWZpZXIgYnVzaW5lc3NJZCA9IG5ldyBCdXNpbmVzc0lkZW50aWZpZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICBkaXJlY3RvcnlEVE8uc2V0UHJpdmF0ZVR5cGUoU01BUlQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wYW5pZXNEaXJlY3Rvcnkuc2V0RGlyZWN0b3J5VHlwZUVudW0oRGlyZWN0b3J5VHlwZUVudW0uUFVCTElDKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoZHRvLmdldFR5cGUoKSwgQ29tcGFueURpcmVjdG9yeVR5cGUuUFVCTElDKTsK</text>
+      <register name="8" type="4">
+        <text>CompanyLikingState targetState = getTargetState(directoryDTO.getPrivateType());
+        if (targetState == null) {
+            return ResponseUtil.createResponse(businessId, businessId, Status.OK);
+        }
+        actor.updateLikings(directoryDTO, targetState);</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wYW5pZXNEaXJlY3Rvcnkuc2V0RGlyZWN0b3J5VHlwZUVudW0oRGlyZWN0b3J5VHlwZUVudW0uUFVCTElDKTsK</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
