@@ -127,11 +127,12 @@
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" timestamp="1533037363844">
-        <mark key="[" line="28" column="33" />
-        <mark key="]" line="28" column="60" />
-        <mark key="^" line="26" column="43" />
-        <mark key="." line="28" column="33" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" timestamp="1533096316527">
+        <mark key="'" line="28" column="33" />
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="37" />
+        <mark key="^" line="28" column="37" />
+        <mark key="." line="28" column="37" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/Processed.java" timestamp="1531304870364">
         <mark key="[" line="30" column="5" />
@@ -383,12 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ptv-services/ptv-web/src/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
-      <jump line="30" column="24" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
-      <jump line="70" column="13" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/manager/transportorder/TransportOrderManager.java" />
-      <jump line="0" column="49" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11412-api-links-handling-in-responses.feature" />
-      <jump line="2" column="2" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11426_align_api_offer_ID.feature" />
-      <jump line="38" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="82" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="119" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
@@ -483,6 +478,12 @@
       <jump line="237" column="31" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE.jar!/org/springframework/http/MediaType.class" />
       <jump line="18" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE.jar!/org/springframework/http/MediaType.class" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_sprint.properties" />
+      <jump line="27" column="31" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" />
+      <jump line="6" column="41" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" />
+      <jump line="9" column="28" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" />
+      <jump line="11" column="27" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" />
+      <jump line="23" column="26" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" />
+      <jump line="28" column="33" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -498,7 +499,7 @@
         <text>http://spot.wkts.dev</text>
       </register>
       <register name="/" type="4">
-        <text>base</text>
+        <text>http</text>
       </register>
       <register name="0" type="4">
         <text>http://spot.rnd.alpega.info</text>
@@ -535,9 +536,9 @@
       </register>
     </registers>
     <search>
-      <last-search>base</last-search>
+      <last-search>http</last-search>
       <last-offset />
-      <last-pattern>base</last-pattern>
+      <last-pattern>http</last-pattern>
       <last-replace>TFX</last-replace>
       <last-substitute>\cstream</last-substitute>
       <last-dir>1</last-dir>
@@ -545,7 +546,6 @@
     </search>
     <history>
       <history-search>
-        <entry>resour</entry>
         <entry>activemq-rar</entry>
         <entry>activemq\-rar</entry>
         <entry>activemq</entry>
@@ -565,6 +565,7 @@
         <entry>PTV</entry>
         <entry>\cstream</entry>
         <entry>base</entry>
+        <entry>http</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1BlcmNlbnRhZ2UvTWluL2c=</entry>
