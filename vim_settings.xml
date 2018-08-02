@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/CompanyDirectoryDTO.java" timestamp="1533198513365">
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/CompanyDirectoryDTO.java" timestamp="1533202540605">
         <mark key="'" line="72" column="42" />
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="26" column="58" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="38" />
         <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/sms/async/SMSClient.java" timestamp="1530696981492">
@@ -46,14 +46,24 @@
         <mark key="." line="112" column="125" />
         <mark key="^" line="112" column="125" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-webservices/src/test/java/com/wktransportservices/fx/webservices/mapper/company/SmartDirectoryMapperTest.java" timestamp="1533131450167">
+        <mark key="'" line="117" column="12" />
+        <mark key="[" line="53" column="43" />
+        <mark key="]" line="53" column="42" />
+        <mark key="^" line="53" column="42" />
+        <mark key="." line="53" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/build.sh" timestamp="1532497355630">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="44" />
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/CompanyDirectoryManager.java" timestamp="1533201510727">
-        <mark key="[" line="131" column="63" />
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/CompanyDirectoryManager.java" timestamp="1533203489137">
+        <mark key="[" line="133" column="58" />
+        <mark key="]" line="133" column="58" />
+        <mark key="^" line="133" column="56" />
+        <mark key="." line="133" column="58" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/Dockerfile" timestamp="1532497396404">
         <mark key="[" line="15" column="5" />
@@ -84,10 +94,11 @@
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapper.java" timestamp="1533201825894">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapper.java" timestamp="1533203273690">
+        <mark key="[" line="33" column="44" />
+        <mark key="]" line="33" column="88" />
+        <mark key="." line="33" column="88" />
+        <mark key="^" line="33" column="88" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/JMSPublisher.java" timestamp="1530700709981">
         <mark key="[" line="18" column="13" />
@@ -110,11 +121,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/scenario/SmartCompany.java" timestamp="1533198492186">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="5" column="34" />
-        <mark key="." line="5" column="34" />
-        <mark key="^" line="5" column="34" />
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/scenario/SmartCompany.java" timestamp="1533202107647">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="4" column="48" />
+        <mark key="." line="4" column="48" />
+        <mark key="^" line="4" column="48" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/AuthorizationStepDefs.java" timestamp="1533187085210">
         <mark key="[" line="13" column="0" />
@@ -173,6 +184,13 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/entity/social/CompanyDirectory.java" timestamp="1533202952619">
+        <mark key="'" line="205" column="6" />
+        <mark key="[" line="134" column="5" />
+        <mark key="]" line="137" column="34" />
+        <mark key="." line="137" column="34" />
+        <mark key="^" line="137" column="34" />
+      </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/core/Reciever.java" timestamp="1531305182275">
         <mark key="[" line="49" column="38" />
         <mark key="]" line="49" column="38" />
@@ -189,6 +207,13 @@
         <mark key="]" line="60" column="32" />
         <mark key="." line="60" column="32" />
         <mark key="^" line="60" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapperTest.java" timestamp="1533202972799">
+        <mark key="'" line="85" column="8" />
+        <mark key="[" line="31" column="43" />
+        <mark key="]" line="31" column="43" />
+        <mark key="^" line="31" column="42" />
+        <mark key="." line="31" column="43" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq/Dockerfile" timestamp="1531222649773">
         <mark key="[" line="1" column="36" />
@@ -373,11 +398,11 @@
         <mark key="]" line="5" column="54" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/scenario/SmartDirectoryWebservice.java" timestamp="1533201039462">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="59" column="70" />
-        <mark key="]" line="59" column="70" />
-        <mark key="^" line="59" column="67" />
-        <mark key="." line="59" column="70" />
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="58" column="70" />
+        <mark key="]" line="58" column="70" />
+        <mark key="^" line="58" column="67" />
+        <mark key="." line="58" column="70" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/FreightOffer.java" timestamp="1533185080736">
         <mark key="[" line="11" column="0" />
@@ -389,10 +414,12 @@
         <mark key="^" line="34" column="57" />
         <mark key="." line="34" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/scenario/SmartDirectory.java" timestamp="1533200400031">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/scenario/SmartDirectory.java" timestamp="1533203034891">
+        <mark key="'" line="13" column="23" />
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="11" column="40" />
+        <mark key="." line="11" column="40" />
+        <mark key="^" line="11" column="39" />
       </file>
       <file name="$USER_HOME$/projects/aws_esb/launcher/build.sh" timestamp="1532068304015">
         <mark key="[" line="0" column="11" />
@@ -429,6 +456,13 @@
         <mark key="]" line="0" column="57" />
         <mark key="^" line="0" column="57" />
         <mark key="." line="0" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/mapper/company/SmartDirectoryMapper.java" timestamp="1533131542703">
+        <mark key="'" line="23" column="36" />
+        <mark key="[" line="25" column="53" />
+        <mark key="]" line="25" column="68" />
+        <mark key="^" line="25" column="59" />
+        <mark key="." line="25" column="53" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/runner/CommandLineAppStartupRunner.java" timestamp="1531293529390">
         <mark key="[" line="27" column="12" />
@@ -544,15 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="459" column="45" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="442" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="443" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="491" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="490" column="18" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="467" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="466" column="18" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="441" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="428" column="49" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="444" column="55" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="452" column="70" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="457" column="61" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
@@ -644,72 +669,87 @@
       <jump line="156" column="3" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" />
       <jump line="28" column="61" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_sprint.properties" />
+      <jump line="29" column="52" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapperTest.java" />
+      <jump line="115" column="4" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapperTest.java" />
+      <jump line="26" column="23" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapperTest.java" />
+      <jump line="106" column="8" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapperTest.java" />
+      <jump line="96" column="8" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapperTest.java" />
+      <jump line="30" column="27" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapperTest.java" />
+      <jump line="89" column="8" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapperTest.java" />
+      <jump line="88" column="8" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapperTest.java" />
+      <jump line="13" column="23" filename="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/scenario/SmartDirectory.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>4xj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>smartDirectory</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>businessId</text>
+        <text>smartDirectory</text>
       </register>
       <register name="/" type="4">
-        <text>esb</text>
+        <text>CompanyDirectoryDTO</text>
       </register>
       <register name="0" type="4">
-        <text>http://esb.wkts.sprint/FX/proxy/NotifyWKTSFromFX/v18_09</text>
+        <text>SmartDirectoryMapper.getInstance().map(smartDirectory);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWVsZCgiIiwgInByaXZhdGVUeXBlOiAiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLnNjaGVtYS5tYnMuZnguY29tcGFuaWVzZGlyZWN0b3JpZXMudjJfMS5Db21wYW5pZXNEaXJlY3Rvcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vLmZpZWxkKCJwcml2YXRlRGlyZWN0b3J5VHlwZUVudW0iLCAicHJpdmF0ZVR5cGUiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLnNjaGVtYS5tYnMuZnguY21jb21wYW55dXNlcmFkZHJlc3MudjJfMS5Db21wYW55Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>private void configureConverters() {
+        ConverterFactory converterFactory = mapperFactory.getConverterFactory();
+        converterFactory.registerConverter(new PrivateDirectoryTypeConverter());
+        converterFactory.registerConverter(new DirectoryTypeConverter());
+    }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25maWd1cmVDb252ZXJ0ZXJzKCk7Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">cHVibGljIExpc3Q8U21hcnREaXJlY3Rvcnk+IGdldENvbXBhbmllcygpIHsKICAgICAgICByZXR1cm4gY29tcGFuaWVzOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENvbXBhbmllcyhMaXN0PFNtYXJ0RGlyZWN0b3J5PiBjb21wYW5pZXMpIHsKICAgICAgICB0aGlzLmNvbXBhbmllcyA9IGNvbXBhbmllczsKICAgIH0=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Q29tcGFueURpcmVjdG9yeURUTyBkaXJlY3RvcnlEVE8gPSBTbWFydERpcmVjdG9yeU1hcHBlci5nZXRJbnN0YW5jZSgpLm1hcChjb21wYW5pZXNEaXJlY3RvcnkpOwogICAgICAgIFN0cmluZyBidXNpbmVzc0lkID0gZGlyZWN0b3J5RFRPLmdldEJ1c2luZXNzSWQoKTsK</text>
+        <text>public CompanyDirectoryPrivateType getPrivateType() {
+        return privateType;
+    }
+
+    public void setPrivateType(CompanyDirectoryPrivateType privateType) {
+        this.privateType = privateType;
+    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>esb</last-search>
+      <last-search>CompanyDirectoryDTO</last-search>
       <last-offset />
-      <last-pattern>esb</last-pattern>
-      <last-replace>TFX</last-replace>
-      <last-substitute>\cstream</last-substitute>
+      <last-pattern>CompanyDirectoryDTO</last-pattern>
+      <last-replace>CompanyDirectory</last-replace>
+      <last-substitute>CompanyDirectoryDTO</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jboss</entry>
-        <entry>prop</entry>
-        <entry>resource</entry>
-        <entry>INCO</entry>
         <entry>OUTGOING</entry>
         <entry>INCOM</entry>
         <entry>SDM</entry>
@@ -726,12 +766,12 @@
         <entry>AM</entry>
         <entry>BusinessIden</entry>
         <entry>esb</entry>
+        <entry>companiesDirectory</entry>
+        <entry>CompaniesDirectory</entry>
+        <entry>dto</entry>
+        <entry>CompanyDirectoryDTO</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1BlcmNlbnRhZ2UvTWluL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL1BlcmNlbnRhZ2UvTWF4L2c=</entry>
-        <entry encoding="base64">JzwsJz5zLzAvQmlnRGVjaW1hbC5aRVJPL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLy4vXy9n</entry>
         <entry encoding="base64">JzwsJz5zL1wuL18vZw==</entry>
         <entry encoding="base64">JzwsJz5zL18vL2c=</entry>
         <entry>%s/=v18_09/=18_09/g</entry>
@@ -747,6 +787,10 @@
         <entry encoding="base64">JzwsJz5zL0lOL09VVC9n</entry>
         <entry encoding="base64">JzwsJz5zL1wvL1wuL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1NQT1QvVEZYL2c=</entry>
+        <entry>%s/companiesDirectory/smartDirectory/g</entry>
+        <entry>%s/CompaniesDirectory/SmartDirectory/g</entry>
+        <entry>%s/dto/entity/g</entry>
+        <entry>%s/CompanyDirectoryDTO/CompanyDirectory/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
