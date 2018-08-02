@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/CompanyDirectoryDTO.java" timestamp="1533131544944">
+        <mark key="'" line="56" column="4" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/sms/async/SMSClient.java" timestamp="1530696981492">
         <mark key="[" line="47" column="33" />
         <mark key="]" line="47" column="33" />
@@ -112,11 +118,11 @@
         <mark key="^" line="39" column="63" />
       </file>
       <file name="$USER_HOME$/projects/aws_esb/aws/utils/launcher/src/start_asb-local.bat" timestamp="1533133641311" />
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ScenarioStepDefs.java" timestamp="1533187182779">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="8" />
-        <mark key="." line="15" column="8" />
-        <mark key="^" line="15" column="48" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ScenarioStepDefs.java" timestamp="1533188857176">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="23" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/docker-compose.yml" timestamp="1532345703824">
         <mark key="[" line="21" column="14" />
@@ -129,6 +135,12 @@
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/entity/social/CompanyDirectory.java" timestamp="1533189545477">
+        <mark key="'" line="196" column="6" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/core/Reciever.java" timestamp="1531305182275">
         <mark key="[" line="49" column="38" />
@@ -249,10 +261,11 @@
         <mark key="." line="14" column="60" />
         <mark key="^" line="14" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ResponseValidationStepDefs.java" timestamp="1533184984091">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ResponseValidationStepDefs.java" timestamp="1533188566197">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="33" />
+        <mark key="." line="13" column="33" />
+        <mark key="^" line="13" column="33" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/Stupid.feature" timestamp="1532000631627">
         <mark key="[" line="1" column="12" />
@@ -278,7 +291,7 @@
         <mark key="." line="31" column="61" />
         <mark key="^" line="31" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1533187488520" />
+      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1533189949338" />
       <file name="$USER_HOME$/projects/aws_esb/launcher/docker-compose.yml" timestamp="1532069587293">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="13" />
@@ -303,11 +316,10 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/SmartDirectory.java" timestamp="1533185352395">
-        <mark key="[" line="26" column="39" />
-        <mark key="]" line="26" column="45" />
-        <mark key="." line="26" column="45" />
-        <mark key="^" line="26" column="45" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/SmartDirectory.java" timestamp="1533188789949">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSPublisher.java" timestamp="1532511843607">
         <mark key="[" line="22" column="13" />
@@ -357,7 +369,7 @@
       <file name="/dummy.sql" timestamp="1533110411089">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/scenario/FX-11340-internal-api-to-create-smart-directory.feature" timestamp="1533185872734">
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/scenario/FX-11340-internal-api-to-create-smart-directory.feature" timestamp="1533188960809">
         <mark key="[" line="9" column="44" />
         <mark key="]" line="9" column="51" />
         <mark key="." line="9" column="51" />
@@ -366,7 +378,7 @@
       <file name="/companies_addresses [tfx_data@localhost]" timestamp="1533102163357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533186785581">
+      <file name="/Dummy.txt" timestamp="1533190011603">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="^" line="0" column="57" />
@@ -380,6 +392,12 @@
       </file>
       <file name="/companies [tfx_data@localhost]" timestamp="1533102175370">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/tests-common/src/main/java/com/alpegagroup/ngmp/test/api/JsonTemplate.java" timestamp="1533189423240">
+        <mark key="[" line="26" column="61" />
+        <mark key="]" line="26" column="61" />
+        <mark key="." line="26" column="61" />
+        <mark key="^" line="26" column="60" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/Dockerfile" timestamp="1531295613713">
         <mark key="[" line="0" column="18" />
@@ -460,12 +478,11 @@
         <mark key="^" line="25" column="86" />
         <mark key="." line="25" column="86" />
       </file>
-      <file name="/fragment.java" timestamp="1533187224989">
+      <file name="/fragment.java" timestamp="1533189342097">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="15" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="139" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
       <jump line="136" column="5" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
       <jump line="117" column="29" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
@@ -565,19 +582,20 @@
       <jump line="107" column="12" filename="$USER_HOME$/projects/fx/fx-webservices/src/test/java/com/wktransportservices/fx/webservices/mapper/company/SmartDirectoryMapperTest.java" />
       <jump line="60" column="4" filename="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/CompanyDirectoryDTO.java" />
       <jump line="42" column="25" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/xml/directory.xml" />
+      <jump line="196" column="6" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/entity/social/CompanyDirectory.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>4xj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">QmVmb3JlKCgpIC0+IHJlcXVlc3QgPSBmeFV0aWxzLmdldEJhc2VSZXF1ZXN0KCkKICAgICAgICAgICAgICAgIC5hY2NlcHQoQ29udGVudFR5cGUuSlNPTikKICAgICAgICAgICAgICAgIC5jb250ZW50VHlwZShDb250ZW50VHlwZS5VUkxFTkMpKTs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>);</text>
+        <text>file</text>
       </register>
       <register name="/" type="4">
         <text>BusinessIden</text>
@@ -585,40 +603,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgUmVxdWVzdFNwZWNpZmljYXRpb24gcmVxdWVzdDsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">QmVmb3JlKCgpIC0+IHJlcXVlc3QgPSBmeFV0aWxzLmdldEJhc2VSZXF1ZXN0KCkKICAgICAgICAgICAgICAgIC5hY2NlcHQoQ29udGVudFR5cGUuSlNPTikKICAgICAgICAgICAgICAgIC5jb250ZW50VHlwZShDb250ZW50VHlwZS5VUkxFTkMpKTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFBlbmRpbmdFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYnVpbGQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRVcFBpY2tVcEFuZERlbGl2ZXJ5RGF5cygpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUmVxdWVzdFNwZWNpZmljYXRpb24gcmVxdWVzdDsK</text>
       </register>
-      <register name="5" type="4">
-        <text>private void setUpPickUpAndDeliveryDays() {
-        LocalDate now = LocalDate.now();
-
-        fields.put(&quot;pickUp.interval.start&quot;,now.plusDays(1).atTime(10,0).format(DateTimeFormatter.ISO_DATE_TIME));
-        fields.put(&quot;pickUp.interval.end&quot;,now.plusDays(1).atTime(16,0).format(DateTimeFormatter.ISO_DATE_TIME));
-
-        fields.put(&quot;delivery.interval.start&quot;,now.plusDays(3).atTime(10,0).format(DateTimeFormatter.ISO_DATE_TIME));
-        fields.put(&quot;delivery.interval.end&quot;,now.plusDays(3).atTime(16,0).format(DateTimeFormatter.ISO_DATE_TIME));
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBCZWZvcmUoKCkgLT4gcmVxdWVzdCA9IGZ4VXRpbHMuZ2V0QmFzZVJlcXVlc3QoKQogICAgICAgICAgICAgICAgLmFjY2VwdChDb250ZW50VHlwZS5KU09OKQogICAgICAgICAgICAgICAgLmNvbnRlbnRUeXBlKENvbnRlbnRUeXBlLlVSTEVOQykpOwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgUmVxdWVzdFNwZWNpZmljYXRpb24gcmVxdWVzdDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb250ZW50VHlwZShDb250ZW50VHlwZS5VUkxFTkMpKTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">V2hlbigiXlBVVCBuZXcgc21hcnQgZGlyZWN0b3J5IHdpdGggXCIoW15cIl0qKVwiIHdpdGggYnVzaW5lc3NJZCBcIihbXlwiXSopXCIkIiwgKFN0cmluZyBhcmcwLCBTdHJpbmcgYXJnMSkgLT4gewogICAgICAgICAgICAvLyBXcml0ZSBjb2RlIGhlcmUgdGhhdCB0dXJucyB0aGUgcGhyYXNlIGFib3ZlIGludG8gY29uY3JldGUgYWN0aW9ucwogICAgICAgICAgICB0aHJvdyBuZXcgUGVuZGluZ0V4Y2VwdGlvbigpOwogICAgICAgIH0pOw==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICBHaXZlbigiXlNtYXJ0IGRpcmVjdG9yeSB0eXBlIGlzIFwiKFteXCJdKilcIiQiLCB0eXBlIC0+IHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHR5cGUpOwogICAgICAgIH0pOw==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEdpdmVuIFNtYXJ0IGRpcmVjdG9yeSB0eXBlIGlzICJwdWJsaWMiCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">QmVmb3JlKCgpIC0+IHJlcXVlc3QgPSBmeFV0aWxzLmdldEJhc2VSZXF1ZXN0KCkKICAgICAgICAgICAgICAgIC5hY2NlcHQoQ29udGVudFR5cGUuSlNPTik=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
