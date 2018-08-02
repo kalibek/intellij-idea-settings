@@ -157,11 +157,11 @@
         <mark key="." line="39" column="63" />
         <mark key="^" line="39" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ScenarioStepDefs.java" timestamp="1533197898269">
-        <mark key="[" line="13" column="85" />
-        <mark key="]" line="13" column="85" />
-        <mark key="." line="13" column="85" />
-        <mark key="^" line="13" column="85" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ScenarioStepDefs.java" timestamp="1533210047993">
+        <mark key="[" line="24" column="40" />
+        <mark key="]" line="25" column="49" />
+        <mark key="." line="25" column="49" />
+        <mark key="^" line="25" column="49" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/tests-common/src/main/java/com/alpegagroup/ngmp/test/api/IdUtils.java" timestamp="1533194826791">
         <mark key="[" line="22" column="0" />
@@ -384,6 +384,12 @@
         <mark key="^" line="49" column="52" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/SmartDirectory.java" timestamp="1533210072313">
+        <mark key="[" line="16" column="43" />
+        <mark key="]" line="16" column="52" />
+        <mark key="." line="16" column="52" />
+        <mark key="^" line="16" column="52" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSPublisher.java" timestamp="1532511843607">
         <mark key="[" line="22" column="13" />
         <mark key="]" line="22" column="13" />
@@ -411,12 +417,12 @@
         <mark key="^" line="34" column="57" />
         <mark key="." line="34" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/scenario/SmartDirectory.java" timestamp="1533203034891">
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/scenario/SmartDirectory.java" timestamp="1533209624169">
         <mark key="'" line="13" column="23" />
         <mark key="[" line="11" column="40" />
-        <mark key="]" line="11" column="40" />
-        <mark key="." line="11" column="40" />
-        <mark key="^" line="11" column="39" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="19" column="17" />
       </file>
       <file name="$USER_HOME$/projects/aws_esb/launcher/build.sh" timestamp="1532068304015">
         <mark key="[" line="0" column="11" />
@@ -548,21 +554,16 @@
         <mark key="^" line="30" column="89" />
         <mark key="." line="30" column="89" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/scenario/directory.json" timestamp="1533197839156">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/scenario/directory.json" timestamp="1533209651128">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="17" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/.gitignore" timestamp="1532497036087">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/scenario/SmartDirectoryDTO.java" timestamp="1533198414997">
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbClientService.java" timestamp="1532512284556">
         <mark key="[" line="25" column="74" />
@@ -680,47 +681,47 @@
       <register name="a" type="4">
         <text>4xj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>directoryName</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>companyDirectoryCaptor.capture()</text>
+        <text>directoryName</text>
       </register>
       <register name="/" type="4">
         <text>CompanyDirectoryDTO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1hcHBlci5tYXAoZGlyZWN0b3J5KSkudGhlblJldHVybihjb21wYW55RGlyZWN0b3J5KTsK</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHMucHV0KCJkaXJlY3RvcnkubmFtZSIsIGRpcmVjdG9yeU5hbWUpOwogICAgICAgIHJldHVybiB0aGlzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTbWFydERpcmVjdG9yeSBidXNpbmVzc0lkKFN0cmluZyBidXNpbmVzc0lkKSB7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBDYXB0b3IKICAgIHByaXZhdGUgQXJndW1lbnRDYXB0b3I8Q29tcGFueURpcmVjdG9yeT4gY29tcGFueURpcmVjdG9yeUNhcHRvcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoZHRvLCBjb21wYW55RGlyZWN0b3J5Q2FwdG9yLmdldFZhbHVlKCkpOwo=</text>
+        <text encoding="base64">ICAgIEBDYXB0b3IKICAgIHByaXZhdGUgQXJndW1lbnRDYXB0b3I8Q29tcGFueURpcmVjdG9yeT4gY29tcGFueURpcmVjdG9yeUNhcHRvcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1hcHBlci5tYXAoY29tcGFueURpcmVjdG9yeSkpLnRoZW5SZXR1cm4oZGlyZWN0b3J5KTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoZHRvLCBjb21wYW55RGlyZWN0b3J5Q2FwdG9yLmdldFZhbHVlKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYW5hZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKG1hcHBlci5tYXAoY29tcGFueURpcmVjdG9yeSkpLnRoZW5SZXR1cm4oZGlyZWN0b3J5KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICBtYW5hZ2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IFNtYXJ0RGlyZWN0b3J5TWFwcGVyLmdldEluc3RhbmNlKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IFNtYXJ0RGlyZWN0b3J5TWFwcGVyLmdldEluc3RhbmNlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
