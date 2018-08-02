@@ -15,9 +15,6 @@
         <mark key="." line="47" column="33" />
         <mark key="^" line="47" column="46" />
       </file>
-      <file name="/companies_directories [tfx_data@localhost]" timestamp="1533190496933">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1533198378870">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -64,6 +61,11 @@
         <mark key="^" line="12" column="57" />
         <mark key="." line="12" column="57" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-inf/src/main/java/com/wktransportservices/fx/business/actor/remote/social/CompanyDirectoryActorRemote.java" timestamp="1533201001831">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="25" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/Msg.java" timestamp="1531294760897">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="11" column="37" />
@@ -75,6 +77,9 @@
         <mark key="]" line="18" column="13" />
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_sprint.properties" timestamp="1533201273617">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/mapper/company/PrivateDirectoryTypeConverter.java" timestamp="1533128560074">
         <mark key="[" line="19" column="0" />
@@ -123,7 +128,6 @@
         <mark key="." line="39" column="63" />
         <mark key="^" line="39" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/aws_esb/aws/utils/launcher/src/start_asb-local.bat" timestamp="1533133641311" />
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ScenarioStepDefs.java" timestamp="1533197898269">
         <mark key="[" line="13" column="85" />
         <mark key="]" line="13" column="85" />
@@ -151,12 +155,6 @@
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/entity/social/CompanyDirectory.java" timestamp="1533189545477">
-        <mark key="'" line="196" column="6" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/core/Reciever.java" timestamp="1531305182275">
         <mark key="[" line="49" column="38" />
@@ -192,9 +190,6 @@
         <mark key="]" line="70" column="30" />
         <mark key="." line="70" column="30" />
         <mark key="^" line="70" column="30" />
-      </file>
-      <file name="/cd_access_lists [tfx_data@localhost]" timestamp="1533102331980">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/MapService.java" timestamp="1531977756320">
         <mark key="[" line="91" column="24" />
@@ -250,12 +245,6 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
-      <file name="/cd_companies [tfx_data@localhost]" timestamp="1533102303078">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/cd_comp_access [tfx_data@localhost]" timestamp="1533102311265">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/simple/static/style.css" timestamp="1530687191861">
         <mark key="[" line="6" column="140" />
         <mark key="]" line="6" column="140" />
@@ -268,8 +257,12 @@
         <mark key="." line="33" column="21" />
         <mark key="^" line="33" column="21" />
       </file>
-      <file name="/company_likings [tfx_data@localhost]" timestamp="1533107641617">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/actor/social/CompanyDirectoryActorImpl.java" timestamp="1533201010134">
+        <mark key="'" line="35" column="13" />
+        <mark key="[" line="63" column="11" />
+        <mark key="]" line="63" column="25" />
+        <mark key="^" line="66" column="14" />
+        <mark key="." line="63" column="11" />
       </file>
       <file name="$USER_HOME$/projects/interview-tasks/src/main/java/com/epam/interview/reactor/Main.java" timestamp="1532956863527">
         <mark key="[" line="14" column="20" />
@@ -295,6 +288,10 @@
         <mark key="." line="42" column="29" />
         <mark key="^" line="42" column="42" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" timestamp="1533201248583">
+        <mark key="'" line="28" column="61" />
+        <mark key="^" line="10" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/Processed.java" timestamp="1531304870364">
         <mark key="[" line="30" column="5" />
         <mark key="]" line="13" column="40" />
@@ -307,7 +304,6 @@
         <mark key="." line="31" column="61" />
         <mark key="^" line="31" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1533189949338" />
       <file name="$USER_HOME$/projects/aws_esb/launcher/docker-compose.yml" timestamp="1532069587293">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="13" />
@@ -347,12 +343,12 @@
         <mark key="[" line="5" column="39" />
         <mark key="]" line="5" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/scenario/SmartDirectoryWebservice.java" timestamp="1533192847050">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="49" column="6" />
-        <mark key="]" line="49" column="8" />
-        <mark key="." line="49" column="8" />
-        <mark key="^" line="49" column="8" />
+      <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/scenario/SmartDirectoryWebservice.java" timestamp="1533201039462">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="59" column="70" />
+        <mark key="]" line="59" column="70" />
+        <mark key="^" line="59" column="67" />
+        <mark key="." line="59" column="70" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/FreightOffer.java" timestamp="1533185080736">
         <mark key="[" line="11" column="0" />
@@ -364,10 +360,9 @@
         <mark key="^" line="34" column="57" />
         <mark key="." line="34" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/scenario/SmartDirectory.java" timestamp="1533198610636">
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/scenario/SmartDirectory.java" timestamp="1533200400031">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
-        <mark key="^" line="10" column="3" />
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/aws_esb/launcher/build.sh" timestamp="1532068304015">
@@ -388,17 +383,11 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="36" />
       </file>
-      <file name="/dummy.sql" timestamp="1533190497676">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/scenario/FX-11340-internal-api-to-create-smart-directory.feature" timestamp="1533193223072">
         <mark key="[" line="3" column="53" />
         <mark key="]" line="3" column="53" />
         <mark key="." line="3" column="53" />
         <mark key="^" line="6" column="56" />
-      </file>
-      <file name="/companies_addresses [tfx_data@localhost]" timestamp="1533102163357">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1533192630973">
         <mark key="[" line="0" column="0" />
@@ -412,9 +401,6 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="/companies [tfx_data@localhost]" timestamp="1533102175370">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/tests-common/src/main/java/com/alpegagroup/ngmp/test/api/JsonTemplate.java" timestamp="1533189423240">
         <mark key="[" line="26" column="61" />
         <mark key="]" line="26" column="61" />
@@ -426,6 +412,11 @@
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" timestamp="1533201181638">
+        <mark key="'" line="156" column="3" />
+        <mark key="[" line="168" column="17" />
+        <mark key="]" line="168" column="71" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/README.md" timestamp="1532497257896">
         <mark key="[" line="9" column="38" />
@@ -510,18 +501,8 @@
         <mark key="^" line="25" column="86" />
         <mark key="." line="25" column="86" />
       </file>
-      <file name="/fragment.java" timestamp="1533189342097">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="5" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
-      <jump line="117" column="29" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="405" column="80" filename="$USER_HOME$/projects/spotbidding/spotbidding-utils/src/main/java/com/wktransportservices/spotbidding/utils/config/ConfigUtils.java" />
-      <jump line="371" column="64" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="505" column="43" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" />
-      <jump line="56" column="0" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
       <jump line="459" column="45" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="442" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="443" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
@@ -590,7 +571,6 @@
       <jump line="9" column="28" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" />
       <jump line="11" column="27" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" />
       <jump line="23" column="26" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" />
-      <jump line="28" column="33" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" />
       <jump line="25" column="38" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" />
       <jump line="41" column="57" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" />
@@ -615,61 +595,69 @@
       <jump line="42" column="25" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/xml/directory.xml" />
       <jump line="196" column="6" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/entity/social/CompanyDirectory.java" />
       <jump line="72" column="42" filename="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/CompanyDirectoryDTO.java" />
+      <jump line="34" column="13" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/actor/social/CompanyDirectoryActorImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" />
+      <jump line="153" column="3" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" />
+      <jump line="154" column="3" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" />
+      <jump line="155" column="3" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" />
+      <jump line="156" column="3" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" />
+      <jump line="28" column="61" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_sprint.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>4xj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+      <register name="&quot;" type="4">
+        <text>http://esb.wkts.sprint/FX/proxy/NotifyWKTSFromFX/v18_09</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>SimplifiedCompanyDTO</text>
+        <text>businessId</text>
       </register>
       <register name="/" type="4">
-        <text>BusinessIden</text>
+        <text>esb</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cHJpdmF0ZSBMaXN0PFNpbXBsaWZpZWRDb21wYW55RFRPPiBjb21wYW5pZXM7CgogICAgcHJpdmF0ZSBDb21wYW55RGlyZWN0b3J5UHJpdmF0ZVR5cGUgcHJpdmF0ZVR5cGU7</text>
+        <text>http://esb.wkts.sprint/FX/proxy/NotifyWKTSFromFX/v18_09</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTbWFydERpcmVjdG9yeT4gY29tcGFuaWVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29tcGFueURpcmVjdG9yeVByaXZhdGVUeXBlIHByaXZhdGVUeXBlOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxDb21wYW55RGlyZWN0b3J5Vmlld0FjY2Vzc0RUTz4gdmlld0FjY2VzczsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">Q29tcGFueURpcmVjdG9yeURUTyBkaXJlY3RvcnlEVE8gPSBTbWFydERpcmVjdG9yeU1hcHBlci5nZXRJbnN0YW5jZSgpLm1hcChjb21wYW5pZXNEaXJlY3RvcnkpOwogICAgICAgIFN0cmluZyBidXNpbmVzc0lkID0gZGlyZWN0b3J5RFRPLmdldEJ1c2luZXNzSWQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29tcGFueURpcmVjdG9yeVR5cGUgdHlwZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTbWFydERpcmVjdG9yeT4gY29tcGFuaWVzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29tcGFueURpcmVjdG9yeVByaXZhdGVUeXBlIHByaXZhdGVUeXBlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>BusinessIden</last-search>
+      <last-search>esb</last-search>
       <last-offset />
-      <last-pattern>BusinessIden</last-pattern>
+      <last-pattern>esb</last-pattern>
       <last-replace>TFX</last-replace>
       <last-substitute>\cstream</last-substitute>
       <last-dir>1</last-dir>
@@ -677,7 +665,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PG1kYg==</entry>
         <entry>jboss</entry>
         <entry>prop</entry>
         <entry>resource</entry>
@@ -697,6 +684,7 @@
         <entry>idp</entry>
         <entry>AM</entry>
         <entry>BusinessIden</entry>
+        <entry>esb</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1BlcmNlbnRhZ2UvTWluL2c=</entry>
