@@ -42,6 +42,10 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightOfferEnpointSteps.java" timestamp="1533185132271">
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="33" column="46" />
+      </file>
       <file name="/cd_companies [tfx_data@localhost]" timestamp="1533102303078">
         <mark key="[" line="0" column="0" />
       </file>
@@ -85,11 +89,6 @@
         <mark key="." line="33" column="21" />
         <mark key="^" line="33" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" timestamp="1533099477816">
-        <mark key="'" line="41" column="57" />
-        <mark key="[" line="43" column="19" />
-        <mark key="]" line="43" column="34" />
-      </file>
       <file name="/company_likings [tfx_data@localhost]" timestamp="1533107641617">
         <mark key="[" line="0" column="0" />
       </file>
@@ -110,6 +109,11 @@
         <mark key="]" line="14" column="60" />
         <mark key="." line="14" column="60" />
         <mark key="^" line="14" column="60" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ResponseValidationStepDefs.java" timestamp="1533184984091">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/Stupid.feature" timestamp="1532000631627">
         <mark key="[" line="1" column="12" />
@@ -184,11 +188,6 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/company/CompanyDirectoryWebservice.java" timestamp="1533101664922">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="102" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/enums/cd/CompanyDirectoryPrivateType.java" timestamp="1533103548664">
         <mark key="[" line="9" column="37" />
         <mark key="]" line="9" column="43" />
@@ -226,17 +225,27 @@
         <mark key="^" line="39" column="63" />
       </file>
       <file name="$USER_HOME$/projects/aws_esb/aws/utils/launcher/src/start_asb-local.bat" timestamp="1533133641311" />
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ScenarioStepDefs.java" timestamp="1533183645835">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="38" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ScenarioStepDefs.java" timestamp="1533185687689">
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="19" column="44" />
+        <mark key="." line="19" column="44" />
+        <mark key="^" line="19" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/SmartDirectory.java" timestamp="1533185352395">
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="45" />
+        <mark key="." line="26" column="45" />
+        <mark key="^" line="26" column="45" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSPublisher.java" timestamp="1532511843607">
         <mark key="[" line="22" column="13" />
         <mark key="]" line="22" column="13" />
         <mark key="." line="22" column="13" />
         <mark key="^" line="44" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/scenario/private-directory.json" timestamp="1533185344645">
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="5" column="54" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/docker-compose.yml" timestamp="1532345703824">
         <mark key="[" line="21" column="14" />
@@ -256,6 +265,10 @@
         <mark key="]" line="55" column="66" />
         <mark key="." line="55" column="66" />
         <mark key="^" line="56" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/FreightOffer.java" timestamp="1533185080736">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="32" column="4" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/AmqTestApplication.java" timestamp="1531296592900">
         <mark key="[" line="34" column="57" />
@@ -301,11 +314,11 @@
       <file name="/dummy.sql" timestamp="1533110411089">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/scenario/FX-11340-internal-api-to-create-smart-directory.feature" timestamp="1533183375010">
-        <mark key="[" line="10" column="35" />
-        <mark key="]" line="10" column="40" />
-        <mark key="^" line="10" column="40" />
-        <mark key="." line="10" column="40" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/scenario/FX-11340-internal-api-to-create-smart-directory.feature" timestamp="1533185872734">
+        <mark key="[" line="9" column="44" />
+        <mark key="]" line="9" column="51" />
+        <mark key="." line="9" column="51" />
+        <mark key="^" line="9" column="51" />
       </file>
       <file name="/companies_addresses [tfx_data@localhost]" timestamp="1533102163357">
         <mark key="[" line="0" column="0" />
@@ -337,9 +350,6 @@
       </file>
       <file name="/companies [tfx_data@localhost]" timestamp="1533102175370">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1533130208136">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/Dockerfile" timestamp="1531295613713">
         <mark key="[" line="0" column="18" />
@@ -397,11 +407,6 @@
         <mark key="]" line="111" column="61" />
         <mark key="." line="95" column="0" />
         <mark key="^" line="98" column="3" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/wktransportservices/schema/mbs/fx/mbs-fx/2.1/mbs-fx-2.1.jar!/com/wktransportservices/schema/mbs/fx/companiesdirectories/v2_1/CompaniesDirectory.class" timestamp="1533128854914">
-        <mark key="'" line="33" column="159" />
-        <mark key="[" line="41" column="21" />
-        <mark key="]" line="41" column="33" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/RequestedCalloffServiceBean.java" timestamp="1531740009628">
         <mark key="[" line="103" column="39" />
@@ -476,7 +481,7 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1533131405751">
+      <file name="/fragment.java" timestamp="1533186003575">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -587,46 +592,54 @@
         <text>4xj</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Oi8vMTI3LjAuMC4xOjYxNjE2IA==</text>
+        <text>private</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Oi8vMTI3LjAuMC4xOjYxNjE2IA==</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>BusinessIden</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEdpdmVuIFNtYXJ0IGRpcmVjdG9yeSB0eXBlIGlzICJwcml2YXRlIgo=</text>
+      <register name="0" type="4">
+        <text>owner.businessId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUGVuZGluZ0V4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFBlbmRpbmdFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBXcml0ZSBjb2RlIGhlcmUgdGhhdCB0dXJucyB0aGUgcGhyYXNlIGFib3ZlIGludG8gY29uY3JldGUgYWN0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRVcFBpY2tVcEFuZERlbGl2ZXJ5RGF5cygpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNtYXJ0RGlyZWN0b3J5VHlwZUlzKFN0cmluZyBhcmcwKSB0aHJvd3MgVGhyb3dhYmxlIHsK</text>
+      <register name="4" type="4">
+        <text>private void setUpPickUpAndDeliveryDays() {
+        LocalDate now = LocalDate.now();
+
+        fields.put(&quot;pickUp.interval.start&quot;,now.plusDays(1).atTime(10,0).format(DateTimeFormatter.ISO_DATE_TIME));
+        fields.put(&quot;pickUp.interval.end&quot;,now.plusDays(1).atTime(16,0).format(DateTimeFormatter.ISO_DATE_TIME));
+
+        fields.put(&quot;delivery.interval.start&quot;,now.plusDays(3).atTime(10,0).format(DateTimeFormatter.ISO_DATE_TIME));
+        fields.put(&quot;delivery.interval.end&quot;,now.plusDays(3).atTime(16,0).format(DateTimeFormatter.ISO_DATE_TIME));
+    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBHaXZlbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEdpdmVuIFB1YmxpYyBzbWFydCBkaXJlY3RvcnkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">V2hlbigiXlBVVCBuZXcgc21hcnQgZGlyZWN0b3J5IHdpdGggXCIoW15cIl0qKVwiIHdpdGggYnVzaW5lc3NJZCBcIihbXlwiXSopXCIkIiwgKFN0cmluZyBhcmcwLCBTdHJpbmcgYXJnMSkgLT4gewogICAgICAgICAgICAvLyBXcml0ZSBjb2RlIGhlcmUgdGhhdCB0dXJucyB0aGUgcGhyYXNlIGFib3ZlIGludG8gY29uY3JldGUgYWN0aW9ucwogICAgICAgICAgICB0aHJvdyBuZXcgUGVuZGluZ0V4Y2VwdGlvbigpOwogICAgICAgIH0pOw==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAib3duZXJDb21wYW55QnVzaW5lc3NJZCI6IHsgImlkIjogIiR7b3duZXIuYnVzaW5lc3NJZH0iIH0sCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICBHaXZlbigiXlNtYXJ0IGRpcmVjdG9yeSB0eXBlIGlzIFwiKFteXCJdKilcIiQiLCB0eXBlIC0+IHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHR5cGUpOwogICAgICAgIH0pOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEdpdmVuIFNtYXJ0IGRpcmVjdG9yeSB0eXBlIGlzICJwdWJsaWMiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEdpdmVuOiAK</text>
+        <text encoding="base64">ICAgIEdpdmVuIFNtYXJ0IGRpcmVjdG9yeSB0eXBlIGlzICJwcml2YXRlIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
