@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/CompanyDirectoryDTO.java" timestamp="1533131544944">
-        <mark key="'" line="56" column="4" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/CompanyDirectoryDTO.java" timestamp="1533198513365">
+        <mark key="'" line="72" column="42" />
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="26" column="58" />
         <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/sms/async/SMSClient.java" timestamp="1530696981492">
@@ -18,7 +18,7 @@
       <file name="/companies_directories [tfx_data@localhost]" timestamp="1533190496933">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1533131405740">
+      <file name="/a.dummy" timestamp="1533198378870">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="20" />
@@ -88,6 +88,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/scenario/SmartCompany.java" timestamp="1533198492186">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="5" column="34" />
+        <mark key="." line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/AuthorizationStepDefs.java" timestamp="1533187085210">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="41" />
@@ -118,17 +124,21 @@
         <mark key="^" line="39" column="63" />
       </file>
       <file name="$USER_HOME$/projects/aws_esb/aws/utils/launcher/src/start_asb-local.bat" timestamp="1533133641311" />
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ScenarioStepDefs.java" timestamp="1533194867823">
-        <mark key="[" line="19" column="68" />
-        <mark key="]" line="19" column="68" />
-        <mark key="." line="19" column="68" />
-        <mark key="^" line="19" column="68" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ScenarioStepDefs.java" timestamp="1533197898269">
+        <mark key="[" line="13" column="85" />
+        <mark key="]" line="13" column="85" />
+        <mark key="." line="13" column="85" />
+        <mark key="^" line="13" column="85" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/tests-common/src/main/java/com/alpegagroup/ngmp/test/api/IdUtils.java" timestamp="1533194826791">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="17" column="66" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/GroupDTO.java" timestamp="1533198568469">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="19" column="51" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/docker-compose.yml" timestamp="1532345703824">
         <mark key="[" line="21" column="14" />
@@ -322,10 +332,10 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/SmartDirectory.java" timestamp="1533188789949">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/SmartDirectory.java" timestamp="1533197912570">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/NotifyWKTSPublisher.java" timestamp="1532511843607">
         <mark key="[" line="22" column="13" />
@@ -353,6 +363,12 @@
         <mark key="]" line="34" column="57" />
         <mark key="^" line="34" column="57" />
         <mark key="." line="34" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/scenario/SmartDirectory.java" timestamp="1533198610636">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/aws_esb/launcher/build.sh" timestamp="1532068304015">
         <mark key="[" line="0" column="11" />
@@ -472,11 +488,21 @@
         <mark key="^" line="30" column="89" />
         <mark key="." line="30" column="89" />
       </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/scenario/directory.json" timestamp="1533197839156">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/.gitignore" timestamp="1532497036087">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/scenario/SmartDirectoryDTO.java" timestamp="1533198414997">
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbClientService.java" timestamp="1532512284556">
         <mark key="[" line="25" column="74" />
@@ -489,7 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
       <jump line="136" column="5" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
       <jump line="117" column="29" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
@@ -589,59 +614,53 @@
       <jump line="60" column="4" filename="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/CompanyDirectoryDTO.java" />
       <jump line="42" column="25" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/xml/directory.xml" />
       <jump line="196" column="6" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/entity/social/CompanyDirectory.java" />
+      <jump line="72" column="42" filename="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/CompanyDirectoryDTO.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>4xj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>UUID.randomUUID().toString();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>UUID.randomUUID().toString();</text>
+        <text>SimplifiedCompanyDTO</text>
       </register>
       <register name="/" type="4">
         <text>BusinessIden</text>
       </register>
       <register name="0" type="4">
-        <text>prefix</text>
+        <text encoding="base64">cHJpdmF0ZSBMaXN0PFNpbXBsaWZpZWRDb21wYW55RFRPPiBjb21wYW5pZXM7CgogICAgcHJpdmF0ZSBDb21wYW55RGlyZWN0b3J5UHJpdmF0ZVR5cGUgcHJpdmF0ZVR5cGU7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>public static void main(String[] args) {
-        System.out.println(generateRandomBusinessId(10, &quot;PRE-&quot;));
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTbWFydERpcmVjdG9yeT4gY29tcGFuaWVzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSYW5kb20gciA9IG5ldyBSYW5kb20oKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29tcGFueURpcmVjdG9yeVByaXZhdGVUeXBlIHByaXZhdGVUeXBlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxDb21wYW55RGlyZWN0b3J5Vmlld0FjY2Vzc0RUTz4gdmlld0FjY2VzczsK</text>
       </register>
-      <register name="6" type="4">
-        <text>// Write code here that turns the phrase above into concrete actions
-            throw new PendingException();</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>Scenario: Create public smart directory and check response
-    When PUT new smart directory with &quot;json/scenario/public-directory.json&quot; with businessId &quot;SD-002&quot;
-    Then response code should be &quot;200&quot;
-    And response field &quot;applicationId&quot; contains string &quot;FX&quot;
-    And response field &quot;correlationId&quot; contains string &quot;SD-002&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29tcGFueURpcmVjdG9yeVR5cGUgdHlwZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
