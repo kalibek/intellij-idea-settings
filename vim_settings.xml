@@ -118,11 +118,17 @@
         <mark key="^" line="39" column="63" />
       </file>
       <file name="$USER_HOME$/projects/aws_esb/aws/utils/launcher/src/start_asb-local.bat" timestamp="1533133641311" />
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ScenarioStepDefs.java" timestamp="1533193078855">
-        <mark key="[" line="35" column="58" />
-        <mark key="]" line="35" column="67" />
-        <mark key="." line="35" column="67" />
-        <mark key="^" line="35" column="67" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ScenarioStepDefs.java" timestamp="1533194867823">
+        <mark key="[" line="19" column="68" />
+        <mark key="]" line="19" column="68" />
+        <mark key="." line="19" column="68" />
+        <mark key="^" line="19" column="68" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/tests-common/src/main/java/com/alpegagroup/ngmp/test/api/IdUtils.java" timestamp="1533194826791">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="17" column="66" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/docker-compose.yml" timestamp="1532345703824">
         <mark key="[" line="21" column="14" />
@@ -589,52 +595,53 @@
         <text>4xj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>UUID.randomUUID().toString();</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>UUID.randomUUID().toString();</text>
       </register>
       <register name="/" type="4">
         <text>BusinessIden</text>
       </register>
       <register name="0" type="4">
-        <text>world.getResponse().then().log().ifValidationFails()
-                    .body(field, containsString(value));</text>
+        <text>prefix</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>public static void main(String[] args) {
+        System.out.println(generateRandomBusinessId(10, &quot;PRE-&quot;));
+    }</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSYW5kb20gciA9IG5ldyBSYW5kb20oKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMK</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>// Write code here that turns the phrase above into concrete actions
             throw new PendingException();</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>Scenario: Create public smart directory and check response
     When PUT new smart directory with &quot;json/scenario/public-directory.json&quot; with businessId &quot;SD-002&quot;
     Then response code should be &quot;200&quot;
     And response field &quot;applicationId&quot; contains string &quot;FX&quot;
     And response field &quot;correlationId&quot; contains string &quot;SD-002&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYnVpbGQpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUmVxdWVzdFNwZWNpZmljYXRpb24gcmVxdWVzdDsK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBCZWZvcmUoKCkgLT4gcmVxdWVzdCA9IGZ4VXRpbHMuZ2V0QmFzZVJlcXVlc3QoKQogICAgICAgICAgICAgICAgLmFjY2VwdChDb250ZW50VHlwZS5KU09OKQogICAgICAgICAgICAgICAgLmNvbnRlbnRUeXBlKENvbnRlbnRUeXBlLlVSTEVOQykpOwo=</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUmVxdWVzdFNwZWNpZmljYXRpb24gcmVxdWVzdDsK</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
