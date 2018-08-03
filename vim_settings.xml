@@ -199,6 +199,11 @@
         <mark key="." line="151" column="28" />
         <mark key="^" line="151" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/balance/src/main/kotlin/balance/transactions.kt" timestamp="1533295939465">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/core/Reciever.java" timestamp="1531305182275">
         <mark key="[" line="49" column="38" />
         <mark key="]" line="49" column="38" />
@@ -410,6 +415,11 @@
         <mark key="." line="22" column="13" />
         <mark key="^" line="44" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/balance/src/main/kotlin/balance/BalanceApplication.kt" timestamp="1533295985279">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="/transactions [data@localhost]" timestamp="1533276733524">
         <mark key="[" line="0" column="0" />
       </file>
@@ -516,6 +526,11 @@
         <mark key="^" line="2" column="70" />
         <mark key="." line="2" column="76" />
       </file>
+      <file name="$USER_HOME$/projects/balance/src/main/kotlin/balance/holders.kt" timestamp="1533295873694">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="16" column="71" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/RequestedCalloffServiceBean.java" timestamp="1531740009628">
         <mark key="[" line="103" column="39" />
         <mark key="]" line="104" column="31" />
@@ -570,7 +585,7 @@
         <mark key="^" line="25" column="86" />
         <mark key="." line="25" column="86" />
       </file>
-      <file name="/fragment.java" timestamp="1533294232710">
+      <file name="/fragment.java" timestamp="1533295876888">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -680,8 +695,8 @@
       <register name="a" type="4">
         <text>data</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ompany</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
@@ -693,43 +708,34 @@
         <text>postgres</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">VGhlbigiXnJlc3BvbnNlIGZpZWxkIFwiKFteXCJdKilcIiBjb250YWlucyBzdHJpbmcgXCIoW15cIl0qKVwiJCIsIChTdHJpbmcgZmllbGQsU3RyaW5nIHZhbHVlKSAtPiB7CiAgICAgICAgICAgIHdvcmxkLmdldFJlc3BvbnNlKCkudGhlbigpLmxvZygpLmlmVmFsaWRhdGlvbkZhaWxzKCkKICAgICAgICAgICAgICAgICAgICAuYm9keShmaWVsZCwgY29udGFpbnNTdHJpbmcodmFsdWUpKTsKICAgICAgICB9KTs=</text>
+        <text encoding="base64">QEVudGl0eQpAVGFibGUobmFtZSA9ICJob2xkZXJzIikKZGF0YSBjbGFzcyBDYXJkSG9sZGVyKAogICAgICAgIEBJZCBAR2VuZXJhdGVkVmFsdWUoc3RyYXRlZ3kgPSBHZW5lcmF0aW9uVHlwZS5JREVOVElUWSkKICAgICAgICB2YWwgaWQ6IExvbmcsCiAgICAgICAgdmFsIG5hbWU6IFN0cmluZywKICAgICAgICB2YWwgbnVtYmVyOiBTdHJpbmcKKQoKQFJlcG9zaXRvcnlSZXN0UmVzb3VyY2UoY29sbGVjdGlvblJlc291cmNlUmVsID0gImhvbGRlcnMiLCBwYXRoID0gImhvbGRlcnMiKQppbnRlcmZhY2UgQ2FyZEhvbGRlclJlcG8gOiBQYWdpbmdBbmRTb3J0aW5nUmVwb3NpdG9yeTxDYXJkSG9sZGVyLCBMb25nPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFuZCByZXNwb25zZSBmaWVsZCAiY29tcGFuaWVzWzBdLmJ1c2luZXNzSWQiIGNvbnRhaW5zIHN0cmluZyAiTE1DVTEwMTAwNSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEFuZCByZXNwb25zZSBmaWVsZCAiY29tcGFuaWVzWzBdLmJ1c2luZXNzSWQiIGNvbnRhaW5zIHN0cmluZyAiTE1DVTEwMTAwNSIK</text>
+      <register name="2" type="4">
+        <text encoding="base64">QENvbXBvbmVudApjbGFzcyBJbml0KAogICAgICAgIHZhbCBob2xkZXJSZXBvc2l0b3J5OiBDYXJkSG9sZGVyUmVwbywKICAgICAgICB2YWwgdHJhbnNhY3Rpb25SZXBvc2l0b3J5OiBDYXJkVHJhbnNhY3Rpb25SZXBvCikgOiBDb21tYW5kTGluZVJ1bm5lciB7CiAgICBvdmVycmlkZSBmdW4gcnVuKHZhcmFyZyBhcmdzOiBTdHJpbmc/KSB7CiAgICAgICAgdmFsIGppbSA9IGhvbGRlclJlcG9zaXRvcnkuc2F2ZShDYXJkSG9sZGVyKDAsICJKaW0iLCAiMDAwMDEiKSkKICAgICAgICB0cmFuc2FjdGlvblJlcG9zaXRvcnkuc2F2ZShDYXJkVHJhbnNhY3Rpb24oMCwgMTAuMCwgRGF0ZSgpLCBqaW0uaWQpKQogICAgfQp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFuZCByZXNwb25zZSBmaWVsZCAiY29tcGFuaWVzWzBdLmJ1c2luZXNzSWQiIGNvbnRhaW5zIHN0cmluZyAiTE1DVTEwMTAwNSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">QEVudGl0eQpAVGFibGUobmFtZSA9ICJ0cmFuc2FjdGlvbnMiKQpkYXRhIGNsYXNzIENhcmRUcmFuc2FjdGlvbigKICAgICAgICBASWQgQEdlbmVyYXRlZFZhbHVlKHN0cmF0ZWd5ID0gR2VuZXJhdGlvblR5cGUuSURFTlRJVFkpCiAgICAgICAgdmFsIGlkOiBMb25nLAogICAgICAgIHZhbCBzdW06IERvdWJsZSwKICAgICAgICB2YWwgc3RhbXA6IERhdGUsCiAgICAgICAgQENvbHVtbihuYW1lID0gImhvbGRlcl9pZCIpCiAgICAgICAgdmFsIGhvbGRlcklkOiBMb25nCikKCmRhdGEgY2xhc3MgU3VtRFRPKAogICAgICAgIHZhbCBpZDogTG9uZywKICAgICAgICB2YWwgc3VtOiBEb3VibGUKKQoKQFJlcG9zaXRvcnlSZXN0UmVzb3VyY2UoY29sbGVjdGlvblJlc291cmNlUmVsID0gInRyYW5zYWN0aW9ucyIsIHBhdGggPSAidHJhbnNhY3Rpb25zIikKaW50ZXJmYWNlIENhcmRUcmFuc2FjdGlvblJlcG8gOiBQYWdpbmdBbmRTb3J0aW5nUmVwb3NpdG9yeTxDYXJkVHJhbnNhY3Rpb24sIExvbmc+IHsKICAgIEBRdWVyeSgKICAgICAgICAgICAgdmFsdWUgPSAic2VsZWN0IC0xIGFzIGlkLCBzdW0oc3VtKSBhcyBzdW0sIGN1cnJlbnRfdGltZXN0YW1wIGFzIHN0YW1wLCBob2xkZXJfaWQgZnJvbSB0cmFuc2FjdGlvbnMgd2hlcmUgaG9sZGVyX2lkID0gPzEgZ3JvdXAgYnkgaG9sZGVyX2lkIiwKICAgICAgICAgICAgbmF0aXZlUXVlcnkgPSB0cnVlCiAgICApCiAgICBmdW4gYmFsYW5jZShob2xkZXJJZDogTG9uZyk6IENhcmRUcmFuc2FjdGlvbgoKICAgIEBRdWVyeSgic2VsZWN0IG5ldyBiYWxhbmNlLlN1bURUTyh0LmhvbGRlcklkLCBzdW0odC5zdW0pKSBmcm9tIENhcmRUcmFuc2FjdGlvbiB0IHdoZXJlIHQuaG9sZGVySWQgPSA/MSBncm91cCBieSB0LmhvbGRlcklkIikKICAgIGZ1biBjYWxjKGhvbGRlcklkOiBMb25nKTogU3VtRFRPCn0K</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CkBFbnRpdHkK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>@Test
-    public void save_GivenSmartCompanyDirectoryWithoutBusinessId_ShouldSaveWithCorrectBusinessId() {
-        SmartDirectory directory = new SmartDirectory();
-        CompanyDirectory companyDirectory = new CompanyDirectory();
-        when(dao.findById(BUSINESS_ID)).thenReturn(companyDirectory);
-        when(mapper.map(directory)).thenReturn(companyDirectory);
-
-        manager.update(directory, BUSINESS_ID);
-
-    }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkobWFwcGVyKS5tYXAoYW55KENvbXBhbnlEaXJlY3RvcnkuY2xhc3MpKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">QEVudGl0eQpAVGFibGUobmFtZSA9ICJob2xkZXJzIikKZGF0YSBjbGFzcyBDYXJkSG9sZGVyKAogICAgICAgIEBJZCBAR2VuZXJhdGVkVmFsdWUoc3RyYXRlZ3kgPSBHZW5lcmF0aW9uVHlwZS5JREVOVElUWSkKICAgICAgICB2YWwgaWQ6IExvbmcsCiAgICAgICAgdmFsIG5hbWU6IFN0cmluZywKICAgICAgICB2YWwgbnVtYmVyOiBTdHJpbmcKKQoKQFJlcG9zaXRvcnlSZXN0UmVzb3VyY2UoY29sbGVjdGlvblJlc291cmNlUmVsID0gImhvbGRlcnMiLCBwYXRoID0gImhvbGRlcnMiKQppbnRlcmZhY2UgQ2FyZEhvbGRlclJlcG8gOiBQYWdpbmdBbmRTb3J0aW5nUmVwb3NpdG9yeTxDYXJkSG9sZGVyLCBMb25nPg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFuZCByZXNwb25zZSBmaWVsZCAiY29tcGFuaWVzWzBdLmJ1c2luZXNzSWQiIGNvbnRhaW5zIHN0cmluZyAiTE1DVTEwMTAwNSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
