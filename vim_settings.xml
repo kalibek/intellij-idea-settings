@@ -36,6 +36,12 @@
         <mark key="^" line="42" column="40" />
         <mark key="." line="42" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/balance/src/main/kotlin/com/epam/balance/BalanceApplication.kt" timestamp="1533272185544">
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq.xml" timestamp="1531222490710">
         <mark key="[" line="112" column="120" />
         <mark key="]" line="112" column="125" />
@@ -55,12 +61,12 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/CompanyDirectoryManager.java" timestamp="1533271551522">
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/CompanyDirectoryManager.java" timestamp="1533272011964">
         <mark key="'" line="130" column="0" />
-        <mark key="[" line="132" column="32" />
-        <mark key="]" line="132" column="32" />
-        <mark key="^" line="132" column="32" />
-        <mark key="." line="132" column="32" />
+        <mark key="[" line="132" column="71" />
+        <mark key="]" line="133" column="48" />
+        <mark key="^" line="133" column="48" />
+        <mark key="." line="133" column="48" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/Dockerfile" timestamp="1532497396404">
         <mark key="[" line="15" column="5" />
@@ -119,6 +125,12 @@
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/balance/pom.xml" timestamp="1533272421594">
+        <mark key="[" line="30" column="36" />
+        <mark key="]" line="30" column="51" />
+        <mark key="^" line="30" column="51" />
+        <mark key="." line="30" column="51" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/scenario/SmartCompany.java" timestamp="1533202107647">
         <mark key="[" line="2" column="26" />
@@ -676,46 +688,46 @@
         <text>4xj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>get</text>
+        <text>j</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>scen</text>
       </register>
       <register name="0" type="4">
-        <text>SmartDirectoryActorRemote</text>
+        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci1kYXRhLXJlc3Q8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU21hcnREaXJlY3RvcnlBY3RvclJlbW90ZSBhY3RvcjsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJqYXZhOmdsb2JhbC9meC9meC1idXNpbmVzcy1zb2NpYWwtZWpiL1NtYXJ0RGlyZWN0b3J5QWN0b3IhY29tLndrdHJhbnNwb3J0c2VydmljZXMuZnguYnVzaW5lc3MuYWN0b3IucmVtb3RlLnNjZW5hcmlvLlNtYXJ0RGlyZWN0b3J5QWN0b3JSZW1vdGUiLAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBDb21wYW55RGlyZWN0b3J5IGRpcmVjdG9yeSA9IGRhby5maW5kQnlJZChidXNpbmVzc0lkKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU21hcnREaXJlY3RvcnlBY3RvclJlbW90ZSBhY3RvcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU21hcnREaXJlY3RvcnlBY3RvclJlbW90ZSBzbWFydERpcmVjdG9yeUFjdG9yKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJqYXZhOmdsb2JhbC9meC9meC1idXNpbmVzcy1zb2NpYWwtZWpiL1NtYXJ0RGlyZWN0b3J5QWN0b3IhY29tLndrdHJhbnNwb3J0c2VydmljZXMuZnguYnVzaW5lc3MuYWN0b3IucmVtb3RlLnNjZW5hcmlvLlNtYXJ0RGlyZWN0b3J5QWN0b3JSZW1vdGUiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9va3VwQnlKbmRpTmFtZSgKICAgICAgICAgICAgICAgICJqYXZhOmdsb2JhbC9meC9meC1idXNpbmVzcy1zb2NpYWwtZWpiL1NtYXJ0RGlyZWN0b3J5QWN0b3IhY29tLndrdHJhbnNwb3J0c2VydmljZXMuZnguYnVzaW5lc3MuYWN0b3IucmVtb3RlLnNjZW5hcmlvLlNtYXJ0RGlyZWN0b3J5QWN0b3JSZW1vdGUiLAogICAgICAgICAgICAgICAgU21hcnREaXJlY3RvcnlBY3RvclJlbW90ZS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBCRUFOX05BTUUgPSAiQ29tcGFueURpcmVjdG9yeUFjdG9yIjsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU21hcnREaXJlY3RvcnlBY3RvclJlbW90ZSBzbWFydERpcmVjdG9yeUFjdG9yKCkgewo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBQYXRoKCJ7YnVzaW5lc3NJZH0iKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9va3VwQnlKbmRpTmFtZSgKICAgICAgICAgICAgICAgICJqYXZhOmdsb2JhbC9meC9meC1idXNpbmVzcy1zb2NpYWwtZWpiL1NtYXJ0RGlyZWN0b3J5QWN0b3IhY29tLndrdHJhbnNwb3J0c2VydmljZXMuZnguYnVzaW5lc3MuYWN0b3IucmVtb3RlLnNjZW5hcmlvLlNtYXJ0RGlyZWN0b3J5QWN0b3JSZW1vdGUiLAogICAgICAgICAgICAgICAgU21hcnREaXJlY3RvcnlBY3RvclJlbW90ZS5jbGFzcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
