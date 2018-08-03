@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/CompanyDirectoryDTO.java" timestamp="1533202540605">
-        <mark key="'" line="72" column="42" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="38" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/sms/async/SMSClient.java" timestamp="1530696981492">
         <mark key="[" line="47" column="33" />
         <mark key="]" line="47" column="33" />
@@ -36,11 +30,10 @@
         <mark key="^" line="42" column="40" />
         <mark key="." line="42" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/balance/src/main/kotlin/com/epam/balance/BalanceApplication.kt" timestamp="1533272185544">
-        <mark key="[" line="3" column="46" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="18" />
+      <file name="$USER_HOME$/projects/balance/src/main/kotlin/com/epam/balance/BalanceApplication.kt" timestamp="1533272815137">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq.xml" timestamp="1531222490710">
         <mark key="[" line="112" column="120" />
@@ -61,12 +54,12 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/CompanyDirectoryManager.java" timestamp="1533272011964">
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/CompanyDirectoryManager.java" timestamp="1533273027144">
         <mark key="'" line="130" column="0" />
-        <mark key="[" line="132" column="71" />
-        <mark key="]" line="133" column="48" />
-        <mark key="^" line="133" column="48" />
-        <mark key="." line="133" column="48" />
+        <mark key="[" line="134" column="45" />
+        <mark key="]" line="134" column="54" />
+        <mark key="^" line="134" column="54" />
+        <mark key="." line="134" column="54" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/Dockerfile" timestamp="1532497396404">
         <mark key="[" line="15" column="5" />
@@ -126,11 +119,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/balance/pom.xml" timestamp="1533272421594">
-        <mark key="[" line="30" column="36" />
-        <mark key="]" line="30" column="51" />
+      <file name="$USER_HOME$/projects/balance/pom.xml" timestamp="1533272550606">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
         <mark key="^" line="30" column="51" />
-        <mark key="." line="30" column="51" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/scenario/SmartCompany.java" timestamp="1533202107647">
         <mark key="[" line="2" column="26" />
@@ -394,11 +387,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/manager/social/CompanyDirectoryManagerTest.java" timestamp="1533207920512">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="49" column="52" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/manager/social/CompanyDirectoryManagerTest.java" timestamp="1533273004707">
+        <mark key="[" line="46" column="8" />
+        <mark key="]" line="46" column="8" />
+        <mark key="^" line="46" column="7" />
+        <mark key="." line="46" column="8" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/SmartDirectory.java" timestamp="1533210072313">
         <mark key="[" line="16" column="43" />
@@ -453,11 +446,11 @@
       <file name="/dummy.sql" timestamp="1533190497676">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/scenario/FX-11340-internal-api-to-create-smart-directory.feature" timestamp="1533193223072">
-        <mark key="[" line="3" column="53" />
-        <mark key="]" line="3" column="53" />
-        <mark key="." line="3" column="53" />
-        <mark key="^" line="6" column="56" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/scenario/FX-11340-internal-api-to-create-smart-directory.feature" timestamp="1533272477993">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="56" />
       </file>
       <file name="/companies_addresses [tfx_data@localhost]" timestamp="1533102163357">
         <mark key="[" line="0" column="0" />
@@ -688,46 +681,58 @@
         <text>4xj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>smartDirectory.getBusinessId()</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>smartDirectory.getBusinessId()</text>
       </register>
       <register name="/" type="4">
         <text>scen</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci1kYXRhLXJlc3Q8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+        <text>@Test
+    public void save_GivenSmartCompanyDirectory_ShouldInvokeDao() {
+        SmartDirectory directory = new SmartDirectory();
+        directory.setBusinessId(BUSINESS_ID);
+        CompanyDirectory companyDirectory = new CompanyDirectory();
+        when(mapper.map(directory)).thenReturn(companyDirectory);
+
+        SmartDirectory dto = manager.update(directory, BUSINESS_ID);
+
+        verify(dao).createOrUpdate(any(CompanyDirectory.class), businessIdCaptor.capture());
+        verify(mapper).map(any(CompanyDirectory.class));
+        assertEquals(businessIdCaptor.getValue(), BUSINESS_ID);
+    }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXJlY3Rvcnkuc2V0QnVzaW5lc3NJZChCVVNJTkVTU19JRCk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wYW55RGlyZWN0b3J5IGRpcmVjdG9yeSA9IGRhby5maW5kQnlJZChidXNpbmVzc0lkKTsK</text>
+        <text encoding="base64">ICAgIEBQb3N0Q29uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU21hcnREaXJlY3RvcnlBY3RvclJlbW90ZSBhY3RvcjsK</text>
+        <text encoding="base64">QFJlc3RSZXNvdXJjZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJqYXZhOmdsb2JhbC9meC9meC1idXNpbmVzcy1zb2NpYWwtZWpiL1NtYXJ0RGlyZWN0b3J5QWN0b3IhY29tLndrdHJhbnNwb3J0c2VydmljZXMuZnguYnVzaW5lc3MuYWN0b3IucmVtb3RlLnNjZW5hcmlvLlNtYXJ0RGlyZWN0b3J5QWN0b3JSZW1vdGUiLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5mbHl3YXlkYjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Zmx5d2F5LWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIEFuZCByZXNwb25zZSBmaWVsZCAiYXBwbGljYXRpb25JZCIgY29udGFpbnMgc3RyaW5nICJGWCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU21hcnREaXJlY3RvcnlBY3RvclJlbW90ZSBzbWFydERpcmVjdG9yeUFjdG9yKCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9va3VwQnlKbmRpTmFtZSgKICAgICAgICAgICAgICAgICJqYXZhOmdsb2JhbC9meC9meC1idXNpbmVzcy1zb2NpYWwtZWpiL1NtYXJ0RGlyZWN0b3J5QWN0b3IhY29tLndrdHJhbnNwb3J0c2VydmljZXMuZnguYnVzaW5lc3MuYWN0b3IucmVtb3RlLnNjZW5hcmlvLlNtYXJ0RGlyZWN0b3J5QWN0b3JSZW1vdGUiLAogICAgICAgICAgICAgICAgU21hcnREaXJlY3RvcnlBY3RvclJlbW90ZS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
