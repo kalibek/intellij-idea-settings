@@ -78,6 +78,12 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/search-city-to-city.ftl" timestamp="1533534782801">
+        <mark key="[" line="96" column="30" />
+        <mark key="]" line="96" column="30" />
+        <mark key="^" line="96" column="30" />
+        <mark key="." line="96" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/interview-tasks/pom.xml" timestamp="1532955956951">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="12" column="57" />
@@ -179,6 +185,9 @@
         <mark key="]" line="22" column="0" />
         <mark key="^" line="17" column="66" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/smart-scenario.ftl" timestamp="1533534835820">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/docker-compose.yml" timestamp="1532345703824">
         <mark key="[" line="21" column="14" />
