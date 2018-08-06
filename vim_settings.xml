@@ -85,9 +85,9 @@
         <mark key="." line="12" column="57" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-inf/src/main/java/com/wktransportservices/fx/business/actor/remote/social/CompanyDirectoryActorRemote.java" timestamp="1533288427605">
-        <mark key="[" line="25" column="55" />
-        <mark key="]" line="25" column="55" />
-        <mark key="." line="25" column="55" />
+        <mark key="[" line="3" column="55" />
+        <mark key="]" line="3" column="55" />
+        <mark key="." line="3" column="55" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/Msg.java" timestamp="1531294760897">
         <mark key="[" line="11" column="37" />
@@ -193,11 +193,7 @@
         <mark key="^" line="1" column="11" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/entity/social/CompanyDirectory.java" timestamp="1533290377562">
-        <mark key="'" line="204" column="6" />
-        <mark key="[" line="151" column="17" />
-        <mark key="]" line="151" column="28" />
-        <mark key="." line="151" column="28" />
-        <mark key="^" line="151" column="28" />
+        <mark key="'" line="196" column="6" />
       </file>
       <file name="$USER_HOME$/projects/balance/src/main/kotlin/balance/transactions.kt" timestamp="1533295939465">
         <mark key="[" line="8" column="0" />
@@ -241,6 +237,9 @@
       </file>
       <file name="/cd_access_lists [tfx_data@localhost]" timestamp="1533102331980">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-inf/src/main/java/com/wktransportservices/fx/business/util/ejb/BusinessActors.java" timestamp="1533270469396">
+        <mark key="'" line="164" column="37" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/MapService.java" timestamp="1531977756320">
         <mark key="[" line="91" column="24" />
@@ -490,6 +489,9 @@
       </file>
       <file name="/companies [tfx_data@localhost]" timestamp="1533102175370">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1533130208136">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/tests-common/src/main/java/com/alpegagroup/ngmp/test/api/JsonTemplate.java" timestamp="1533189423240">
         <mark key="[" line="26" column="61" />
