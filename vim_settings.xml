@@ -287,11 +287,11 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1533637000927">
-        <mark key="[" line="344" column="89" />
-        <mark key="]" line="344" column="101" />
-        <mark key="." line="344" column="101" />
-        <mark key="^" line="344" column="101" />
+      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1533639924010">
+        <mark key="[" line="206" column="117" />
+        <mark key="]" line="206" column="118" />
+        <mark key="." line="206" column="118" />
+        <mark key="^" line="206" column="118" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/enums/cd/CompanyDirectoryType.java" timestamp="1533101838019">
         <mark key="[" line="9" column="19" />
@@ -311,6 +311,12 @@
       <file name="/cd_comp_access [tfx_data@localhost]" timestamp="1533102311265">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/manager/scenario/SmartScenarioManager.java" timestamp="1533639248369">
+        <mark key="[" line="51" column="19" />
+        <mark key="]" line="51" column="36" />
+        <mark key="." line="57" column="73" />
+        <mark key="^" line="57" column="73" />
+      </file>
       <file name="$USER_HOME$/projects/balance/docker-compose.yml" timestamp="1533275797303">
         <mark key="'" line="7" column="34" />
         <mark key="[" line="3" column="19" />
@@ -324,7 +330,7 @@
         <mark key="." line="6" column="140" />
         <mark key="^" line="6" column="140" />
       </file>
-      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferService.java" timestamp="1533637066332" />
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferService.java" timestamp="1533639546488" />
       <file name="$USER_HOME$/projects/simple/main.go" timestamp="1530533409045">
         <mark key="[" line="33" column="22" />
         <mark key="]" line="33" column="21" />
@@ -714,50 +720,47 @@
       <register name="a" type="4">
         <text>data</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWVsZCgiIiwgInNjZW5hcmlvIikK</text>
+      <register name="&quot;" type="4">
+        <text>dto.getSmartScenario().getBusinessId()</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>createFreightOfferDTO</text>
+        <text>dto.getIds().getFxId());</text>
       </register>
       <register name="/" type="4">
         <text>\cbefore</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">U21hcnQg</text>
+        <text>dto.getSmartScenario().getBusinessId()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWVsZCgiIiwgInNjZW5hcmlvIikK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGFvLmZpbmRCeUJ1c2luZXNzSWQoYnVzaW5lc3NJZCkudG9EVE8oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTbWFydFNjZW5hcmlvRFRPIGdldEJ5QnVzaW5lc3NJZChTdHJpbmcgYnVzaW5lc3NJZCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBtYXBfR2l2ZW5NYXBTY2VuYXJpb3NfaG91bGRUb1NtYXJ0U2NlbmFyaW8oKSB7CiAgICAgICAgRgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
       </register>
-      <register name="6" type="4">
-        <text>@Test
-    public void map_GivenMapScenarios_houldToSmartScenario() {
-        F
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWVsZCgiIiwgInNjZW5hcmlvIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5leGNsdWRlKCIiLCAic2NlbmFyaW8iKQo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBtYXBfR2l2ZW5NYXBTY2VuYXJpb3NfaG91bGRUb1NtYXJ0U2NlbmFyaW8oKSB7CiAgICAgICAgRgogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
