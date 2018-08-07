@@ -225,11 +225,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1533542158472">
-        <mark key="[" line="69" column="36" />
-        <mark key="]" line="70" column="26" />
-        <mark key="." line="70" column="26" />
-        <mark key="^" line="70" column="26" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1533616999819">
+        <mark key="[" line="82" column="72" />
+        <mark key="]" line="82" column="72" />
+        <mark key="." line="82" column="72" />
+        <mark key="^" line="82" column="72" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapperTest.java" timestamp="1533547470835">
         <mark key="'" line="59" column="67" />
@@ -739,28 +739,24 @@
         <text>data</text>
       </register>
       <register name="&quot;" type="4">
-        <text>private CompanyDirectory createCompanyDirectory() {
-        CompanyDirectory companyDirectory = new CompanyDirectory();
-        companyDirectory.setBusinessId(BUSINESS_ID);
-        companyDirectory.setDirectoryName(DIRECTORY_NAME);
-        companyDirectory.setType(CompanyDirectoryType.PUBLIC);
-        companyDirectory.setOwnerCompanyBid(OWNER_BUSINESS_ID);
-        return companyDirectory;
-    }</text>
+        <text>smarr</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>new CompanyDirectory();</text>
+        <text>smarr</text>
       </register>
       <register name="/" type="4">
         <text>postgres</text>
       </register>
       <register name="0" type="4">
-        <text>_companyDirectoryBid</text>
+        <text>'CD_TEST_01'</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSB1c2Vycwo=</text>
+      </register>
+      <register name="2" type="4">
         <text>private CompanyDirectory createCompanyDirectory() {
         CompanyDirectory companyDirectory = new CompanyDirectory();
         companyDirectory.setBusinessId(BUSINESS_ID);
@@ -770,29 +766,26 @@
         return companyDirectory;
     }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">cHJpdmF0ZSBTbWFydERpcmVjdG9yeSBjcmVhdGVTbWFydERpcmVjdG9yeSgpIHsKICAgICAgICBTbWFydERpcmVjdG9yeSBzbWFydERpcmVjdG9yeSA9IG5ldyBTbWFydERpcmVjdG9yeSgpOwogICAgICAgIHNtYXJ0RGlyZWN0b3J5LnNldEJ1c2luZXNzSWQoQlVTSU5FU1NfSUQpOwogICAgICAgIHNtYXJ0RGlyZWN0b3J5LnNldERpcmVjdG9yeU5hbWUoRElSRUNUT1JZX05BTUUpOwogICAgICAgIHNtYXJ0RGlyZWN0b3J5LnNldFR5cGUoQ29tcGFueURpcmVjdG9yeVR5cGUuUFVCTElDKTsKICAgICAgICBzbWFydERpcmVjdG9yeS5zZXRPd25lckNvbXBhbnlCaWQoT1dORVJfQlVTSU5FU1NfSUQpOwogICAgICAgIHJldHVybiBzbWFydERpcmVjdG9yeTsKICAgIH0K</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgbWFwX0dpdmVuTGlzdE9mQ29tcGFuaWVzX1Nob3VsZE1hcFRvU21hcnRDb21wYW5pZXMoKSB7CiAgICAgICAgQ29tcGFueURpcmVjdG9yeSBjb21wYW55RGlyZWN0b3J5ID0gY3JlYXRlQ29tcGFueURpcmVjdG9yeVdpdGhDb21wYW5pZXMoKTsKCiAgICAgICAgU21hcnREaXJlY3RvcnkgZHRvID0gbWFwcGVyLm1hcChjb21wYW55RGlyZWN0b3J5KTsKCgogICAgfQo=</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgbWFwX0dpdmVuTGlzdE9mQ29tcGFuaWVzX1Nob3VsZE1hcFRvU21hcnRDb21wYW5pZXMoKSB7CiAgICAgICAgQ29tcGFueURpcmVjdG9yeSBjb21wYW55RGlyZWN0b3J5ID0gY3JlYXRlQ29tcGFueURpcmVjdG9yeVdpdGhDb21wYW5pZXMoKTsKCiAgICAgICAgU21hcnREaXJlY3RvcnkgZHRvID0gbWFwcGVyLm1hcChjb21wYW55RGlyZWN0b3J5KTsKCgogICAgfQo=</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">QFRlc3QKICAgIHB1YmxpYyB2b2lkIG1hcF9HaXZlbkxpc3RPZkNvbXBhbmllc19TaG91bGRNYXBUb1NtYXJ0Q29tcGFuaWVzKCkgewogICAgICAgIENvbXBhbnlEaXJlY3RvcnkgY29tcGFueURpcmVjdG9yeSA9IGNyZWF0ZUNvbXBhbnlEaXJlY3RvcnlXaXRoQ29tcGFuaWVzKCk7CgogICAgICAgIFNtYXJ0RGlyZWN0b3J5IGR0byA9IG1hcHBlci5tYXAoY29tcGFueURpcmVjdG9yeSk7CgoKICAgIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoZHRvLmdldENvbXBhbmllcygpLmdldCgwKS5nZXRCdXNpbmVzc0lkKCksIEZJUlNUX0JVU0lORVNTX0lEKTsKICAgICAgICBhc3NlcnRFcXVhbHMoZHRvLmdldENvbXBhbmllcygpLmdldCgxKS5nZXRCdXNpbmVzc0lkKCksIFNFQ09ORF9CVVNJTkVTU19JRCk7Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoZHRvLmdldENvbXBhbmllcygpLmdldCgwKS5nZXRCdXNpbmVzc0lkKCksIEZJUlNUX0JVU0lORVNTX0lEKTsKICAgICAgICBhc3NlcnRFcXVhbHMoZHRvLmdldENvbXBhbmllcygpLmdldCgxKS5nZXRCdXNpbmVzc0lkKCksIFNFQ09ORF9CVVNJTkVTU19JRCk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
