@@ -30,7 +30,6 @@
         <mark key="^" line="42" column="40" />
         <mark key="." line="42" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/impl/BulkOfferDAO.java" timestamp="1533619262125" />
       <file name="$USER_HOME$/projects/balance/src/main/kotlin/com/epam/balance/BalanceApplication.kt" timestamp="1533281841617">
         <mark key="[" line="51" column="148" />
         <mark key="]" line="51" column="147" />
@@ -322,11 +321,11 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/resources/META-INF/queries/BulkOfferDAO.xml" timestamp="1533619387019">
-        <mark key="[" line="37" column="14" />
-        <mark key="]" line="37" column="17" />
-        <mark key="^" line="37" column="17" />
-        <mark key="." line="37" column="17" />
+      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/resources/META-INF/queries/BulkOfferDAO.xml" timestamp="1533628923070">
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="36" column="31" />
+        <mark key="^" line="36" column="31" />
+        <mark key="." line="36" column="31" />
       </file>
       <file name="/cd_companies [tfx_data@localhost]" timestamp="1533102303078">
         <mark key="[" line="0" column="0" />
