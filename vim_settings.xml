@@ -315,6 +315,12 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1533630337402">
+        <mark key="[" line="348" column="79" />
+        <mark key="]" line="348" column="79" />
+        <mark key="." line="348" column="79" />
+        <mark key="^" line="348" column="79" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/enums/cd/CompanyDirectoryType.java" timestamp="1533101838019">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="25" />
@@ -435,12 +441,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/search-city-to-city_tsvector.ftl" timestamp="1533546265535">
+      <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/search-city-to-city_tsvector.ftl" timestamp="1533630380798">
         <mark key="'" line="5" column="56" />
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="24" />
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="34" column="32" />
+        <mark key="." line="34" column="32" />
+        <mark key="^" line="34" column="32" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/SmartDirectory.java" timestamp="1533210072313">
         <mark key="[" line="16" column="43" />
@@ -461,6 +467,12 @@
       </file>
       <file name="/transactions [data@localhost]" timestamp="1533541811426">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/AbstractSearchQueryBuilder.java" timestamp="1533630475932">
+        <mark key="[" line="238" column="42" />
+        <mark key="]" line="238" column="53" />
+        <mark key="." line="238" column="53" />
+        <mark key="^" line="238" column="53" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/scenario/SmartDirectoryWebservice.java" timestamp="1533288345821">
         <mark key="'" line="59" column="0" />
@@ -621,12 +633,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/search/MatchingContextDTO.java" timestamp="1533546435521">
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/search/MatchingContextDTO.java" timestamp="1533630436341">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="43" column="19" />
-        <mark key="]" line="43" column="37" />
-        <mark key="^" line="43" column="37" />
-        <mark key="." line="43" column="37" />
+        <mark key="[" line="209" column="19" />
+        <mark key="]" line="209" column="20" />
+        <mark key="^" line="209" column="20" />
+        <mark key="." line="209" column="20" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbClientService.java" timestamp="1532512284556">
         <mark key="[" line="25" column="74" />
@@ -745,19 +757,19 @@
         <text>data</text>
       </register>
       <register name="&quot;" type="4">
-        <text>smarr</text>
+        <text>ScenarioFinished</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>smarr</text>
+        <text>ScenarioFinished</text>
       </register>
       <register name="/" type="4">
         <text>postgres</text>
       </register>
-      <register name="0" type="4">
-        <text>'CD_TEST_01'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRQYXJhbSgiX3NjZW5hcmlvRmluaXNoZWQiLCBjb250ZXh0LmlzU2NlbmFyaW9GaW5pc2hlZCgpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSB1c2Vycwo=</text>
