@@ -211,6 +211,9 @@
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/entity/social/CompanyDirectory.java" timestamp="1533290377562">
         <mark key="'" line="188" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/entity/Offer.java" timestamp="1533636949821">
+        <mark key="'" line="236" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/balance/src/main/kotlin/balance/transactions.kt" timestamp="1533541917681">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="49" column="0" />
@@ -228,11 +231,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1533616999819">
-        <mark key="[" line="82" column="72" />
-        <mark key="]" line="82" column="72" />
-        <mark key="." line="82" column="72" />
-        <mark key="^" line="82" column="72" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1533635801759">
+        <mark key="[" line="85" column="7" />
+        <mark key="]" line="85" column="19" />
+        <mark key="." line="85" column="19" />
+        <mark key="^" line="85" column="19" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapperTest.java" timestamp="1533547470835">
         <mark key="'" line="59" column="67" />
@@ -355,6 +358,7 @@
         <mark key="." line="6" column="140" />
         <mark key="^" line="6" column="140" />
       </file>
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferService.java" timestamp="1533636878927" />
       <file name="$USER_HOME$/projects/simple/main.go" timestamp="1530533409045">
         <mark key="[" line="33" column="22" />
         <mark key="]" line="33" column="21" />
@@ -655,9 +659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
-      <jump line="104" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
-      <jump line="142" column="27" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
       <jump line="160" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
       <jump line="86" column="47" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
@@ -755,6 +756,9 @@
       <jump line="37" column="29" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/AbstractSearchQueryBuilder.java" />
       <jump line="247" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/AbstractSearchQueryBuilder.java" />
       <jump line="42" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/AbstractSearchQueryBuilder.java" />
+      <jump line="63" column="22" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/entity/Offer.java" />
+      <jump line="235" column="24" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/entity/Offer.java" />
+      <jump line="236" column="26" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/entity/Offer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -770,7 +774,7 @@
         <text encoding="base64">Iiwg</text>
       </register>
       <register name="/" type="4">
-        <text>postgres</text>
+        <text>smart</text>
       </register>
       <register name="0" type="4">
         <text>unmatchAll</text>
@@ -814,9 +818,9 @@
       </register>
     </registers>
     <search>
-      <last-search>postgres</last-search>
+      <last-search>smart</last-search>
       <last-offset />
-      <last-pattern>postgres</last-pattern>
+      <last-pattern>smart</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>postgres</last-substitute>
       <last-dir>1</last-dir>
@@ -824,7 +828,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sdm</entry>
         <entry>\csdm</entry>
         <entry>true|false</entry>
         <entry>true</entry>
@@ -844,6 +847,7 @@
         <entry>Company</entry>
         <entry>scen</entry>
         <entry>postgres</entry>
+        <entry>smart</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
