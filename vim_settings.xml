@@ -730,7 +730,7 @@
         <text>dto.getIds().getFxId());</text>
       </register>
       <register name="/" type="4">
-        <text>\cbefore</text>
+        <text>owner</text>
       </register>
       <register name="0" type="4">
         <text>dto.getSmartScenario().getBusinessId()</text>
@@ -767,9 +767,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\cbefore</last-search>
+      <last-search>owner</last-search>
       <last-offset />
-      <last-pattern>\cbefore</last-pattern>
+      <last-pattern>owner</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>postgres</last-substitute>
       <last-dir>1</last-dir>
@@ -777,7 +777,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PTV</entry>
         <entry>\cstream</entry>
         <entry>base</entry>
         <entry>http</entry>
@@ -797,6 +796,7 @@
         <entry>\cscenario</entry>
         <entry>Sc</entry>
         <entry>\cbefore</entry>
+        <entry>owner</entry>
       </history-search>
       <history-cmd>
         <entry>%s/-test//h</entry>
