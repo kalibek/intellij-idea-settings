@@ -15,9 +15,6 @@
         <mark key="^" line="89" column="33" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="/companies_directories [tfx_data@localhost]" timestamp="1533190496933">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1533638274282">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -126,12 +123,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/offer_tsvector.ftl" timestamp="1533634878235">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="150" column="11" />
-        <mark key="]" line="150" column="19" />
-        <mark key="." line="150" column="19" />
-        <mark key="^" line="150" column="19" />
+      <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/offer_tsvector.ftl" timestamp="1533714626150">
+        <mark key="'" line="162" column="6" />
+        <mark key="[" line="148" column="22" />
+        <mark key="]" line="148" column="22" />
+        <mark key="." line="148" column="22" />
+        <mark key="^" line="50" column="88" />
       </file>
       <file name="$USER_HOME$/projects/balance/pom.xml" timestamp="1533278565862">
         <mark key="[" line="94" column="33" />
@@ -169,9 +166,6 @@
         <mark key="." line="39" column="63" />
         <mark key="^" line="39" column="63" />
       </file>
-      <file name="/flyway_schema_history [data@localhost]" timestamp="1533276191582">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ScenarioStepDefs.java" timestamp="1533294819136">
         <mark key="[" line="33" column="54" />
         <mark key="]" line="33" column="54" />
@@ -190,6 +184,7 @@
         <mark key="." line="23" column="27" />
         <mark key="^" line="23" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/search/impl/MatchingDAO.java" timestamp="1533715607932" />
       <file name="$USER_HOME$/projects/fx/docker/asb-local/docker-compose.yml" timestamp="1532345703824">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="21" column="17" />
@@ -257,9 +252,6 @@
         <mark key="." line="70" column="30" />
         <mark key="^" line="70" column="30" />
       </file>
-      <file name="/cd_access_lists [tfx_data@localhost]" timestamp="1533102331980">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/MapService.java" timestamp="1531977756320">
         <mark key="[" line="91" column="24" />
         <mark key="]" line="91" column="0" />
@@ -314,19 +306,19 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" timestamp="1533714211340">
+      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" timestamp="1533714277930">
         <mark key="'" line="81" column="20" />
-        <mark key="[" line="77" column="4" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="77" column="4" />
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="0" />
+        <mark key="." line="212" column="0" />
         <mark key="^" line="77" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1533703873319">
+      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1533716603779">
         <mark key="'" line="230" column="32" />
-        <mark key="[" line="205" column="106" />
-        <mark key="]" line="205" column="140" />
-        <mark key="^" line="205" column="105" />
-        <mark key="." line="205" column="106" />
+        <mark key="[" line="342" column="55" />
+        <mark key="]" line="342" column="80" />
+        <mark key="^" line="342" column="80" />
+        <mark key="." line="342" column="80" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/enums/cd/CompanyDirectoryType.java" timestamp="1533101838019">
         <mark key="[" line="9" column="19" />
@@ -339,12 +331,6 @@
         <mark key="]" line="38" column="30" />
         <mark key="^" line="38" column="30" />
         <mark key="." line="38" column="30" />
-      </file>
-      <file name="/cd_companies [tfx_data@localhost]" timestamp="1533102303078">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/cd_comp_access [tfx_data@localhost]" timestamp="1533102311265">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/manager/scenario/SmartScenarioManager.java" timestamp="1533705981118">
         <mark key="[" line="51" column="21" />
@@ -384,9 +370,6 @@
         <mark key="]" line="65" column="55" />
         <mark key="^" line="65" column="55" />
         <mark key="." line="65" column="55" />
-      </file>
-      <file name="/company_likings [tfx_data@localhost]" timestamp="1533107641617">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/interview-tasks/src/main/java/com/epam/interview/reactor/Main.java" timestamp="1532956863527">
         <mark key="[" line="14" column="20" />
@@ -430,6 +413,12 @@
         <mark key="." line="31" column="61" />
         <mark key="^" line="31" column="61" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/AbstractOfferQueryBuilder.java" timestamp="1533715994105">
+        <mark key="[" line="316" column="15" />
+        <mark key="]" line="316" column="40" />
+        <mark key="." line="316" column="40" />
+        <mark key="^" line="316" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/aws_esb/launcher/docker-compose.yml" timestamp="1532069587293">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="13" />
@@ -460,10 +449,10 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/search-city-to-city_tsvector.ftl" timestamp="1533630380798">
-        <mark key="'" line="5" column="56" />
-        <mark key="[" line="34" column="32" />
-        <mark key="]" line="34" column="32" />
+      <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/search-city-to-city_tsvector.ftl" timestamp="1533714479541">
+        <mark key="'" line="5" column="12" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="22" />
         <mark key="." line="34" column="32" />
         <mark key="^" line="34" column="32" />
       </file>
@@ -478,9 +467,6 @@
         <mark key="]" line="22" column="13" />
         <mark key="." line="22" column="13" />
         <mark key="^" line="44" column="3" />
-      </file>
-      <file name="/transactions [data@localhost]" timestamp="1533541811426">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/AbstractSearchQueryBuilder.java" timestamp="1533714238689">
         <mark key="'" line="0" column="0" />
@@ -536,26 +522,17 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="36" />
       </file>
-      <file name="/dummy.sql" timestamp="1533548765369">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/scenario/FX-11340-internal-api-to-create-smart-directory.feature" timestamp="1533295047865">
         <mark key="[" line="6" column="48" />
         <mark key="]" line="6" column="48" />
         <mark key="^" line="6" column="48" />
         <mark key="." line="6" column="48" />
       </file>
-      <file name="/companies_addresses [tfx_data@localhost]" timestamp="1533102163357">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1533708842568">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="46" />
         <mark key="." line="0" column="7" />
-      </file>
-      <file name="/holders [data@localhost]" timestamp="1533541811401">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/leader/club/pom.xml" timestamp="1533709357286">
         <mark key="'" line="12" column="0" />
@@ -569,9 +546,6 @@
         <mark key="]" line="27" column="20" />
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
-      </file>
-      <file name="/companies [tfx_data@localhost]" timestamp="1533102175370">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/tests-common/src/main/java/com/alpegagroup/ngmp/test/api/JsonTemplate.java" timestamp="1533189423240">
         <mark key="[" line="26" column="61" />
@@ -664,9 +638,6 @@
         <mark key="^" line="25" column="86" />
         <mark key="." line="25" column="86" />
       </file>
-      <file name="/fragment.java" timestamp="1533703906689">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/leader/club/src/main/kotlin/club/Application.kt" timestamp="1533709274186">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="14" column="1" />
@@ -675,8 +646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/company/CompanyDirectoryWebservice.java" />
-      <jump line="45" column="4" filename="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/scenario/SmartDirectoryWebservice.java" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/scenario/SmartDirectoryWebservice.java" />
       <jump line="102" column="0" filename="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/scenario/SmartDirectoryWebservice.java" />
       <jump line="33" column="159" filename="$MAVEN_REPOSITORY$/com/wktransportservices/schema/mbs/fx/mbs-fx/2.1/mbs-fx-2.1.jar!/com/wktransportservices/schema/mbs/fx/companiesdirectories/v2_1/CompaniesDirectory.class" />
@@ -730,7 +699,6 @@
       <jump line="40" column="67" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/manager/social/CompanyDirectoryManagerTest.java" />
       <jump line="15" column="0" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/smart-scenario.ftl" />
       <jump line="146" column="22" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/AbstractSearchQueryBuilder.java" />
-      <jump line="5" column="56" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/search-city-to-city_tsvector.ftl" />
       <jump line="44" column="0" filename="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/search/MatchingContextDTO.java" />
       <jump line="280" column="30" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/java/com/wktransportservices/fx/indb/actor/search/MatchingActor.java" />
       <jump line="95" column="67" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapperTest.java" />
@@ -775,52 +743,59 @@
       <jump line="54" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
       <jump line="81" column="20" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/AbstractSearchQueryBuilder.java" />
+      <jump line="34" column="20" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/search-city-to-city_tsvector.ftl" />
+      <jump line="5" column="12" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/search-city-to-city_tsvector.ftl" />
+      <jump line="162" column="6" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/offer_tsvector.ftl" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>data</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>action == Action.UNMATCH</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>action == Action.UNMATCH</text>
       </register>
       <register name="/" type="4">
         <text>applyCont</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmNpZXM+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci13ZWI8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItZGF0YS1qcGE8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItZGF0YS1yZXN0PC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnBvc3RncmVzcWw8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnBvc3RncmVzcWw8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmpldGJyYWlucy5rb3RsaW48L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmtvdGxpbi1zdGRsaWItamRrODwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5qZXRicmFpbnMua290bGluPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5rb3RsaW4tcmVmbGVjdDwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItdGVzdDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgIDwvZGVwZW5kZW5jaWVzPgoKICAgIDxidWlsZD4KICAgICAgICA8cGx1Z2lucz4KICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCiAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmpldGJyYWlucy5rb3RsaW48L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5rb3RsaW4tbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPGFyZ3M+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcmc+LVhqc3IzMDU9c3RyaWN0PC9hcmc+CiAgICAgICAgICAgICAgICAgICAgPC9hcmdzPgogICAgICAgICAgICAgICAgICAgIDxjb21waWxlclBsdWdpbnM+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwbHVnaW4+c3ByaW5nPC9wbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwbHVnaW4+anBhPC9wbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgPC9jb21waWxlclBsdWdpbnM+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICA8ZGVwZW5kZW5jaWVzPgogICAgICAgICAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuamV0YnJhaW5zLmtvdGxpbjwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+a290bGluLW1hdmVuLWFsbG9wZW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7a290bGluLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgICAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmpldGJyYWlucy5rb3RsaW48L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmtvdGxpbi1tYXZlbi1ub2FyZzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+JHtrb3RsaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPC9kZXBlbmRlbmNpZXM+CiAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgIDwvcGx1Z2lucz4KICAgIDwvYnVpbGQ+Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">PCNpZiBfaW5jbHVkZVNjZW5hcmlvPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLmZ4LmR0by5zZWFyY2guTWF0Y2hpbmdDb250ZXh0RFRPOwo=</text>
+      <register name="2" type="4">
+        <text>//        spatialContext = context.getSpatialContext();
+
+        loggedUsersOnly = context.isLoggedUsersOnly();
+        newestScenarioStepOnly = context.isNewestScenarioStepOnly();
+        percolationMatching = context.isPercolation();</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLmZ4LnV0aWwuUXVlcnlCdWlsZGVyOwo=</text>
+        <text encoding="base64">PCNpZgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIEBUZW1wbGF0ZVZhcmlhYmxlCiAgICBwcml2YXRlIGJvb2xlYW4gc2NlbmFyaW9GaW5pc2hlZDsKCiAgICBAVGVtcGxhdGVWYXJpYWJsZQogICAgcHJpdmF0ZSBib29sZWFuIGluY2x1ZGVTY2VuYXJpbzsK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuYXBwbHlDb250ZXh0KGNvbnRleHQpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFF1ZXJ5QnVpbGRlciBhcHBseUNvbnRleHQoTWF0Y2hpbmdDb250ZXh0RFRPIGNvbnRleHQpIHsKCiAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLmZ4LmR0by5zZWFyY2guTWF0Y2hpbmdDb250ZXh0RFRPOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBzZXRQYXJhbSgiX3NjZW5hcmlvRGlyZWN0b3J5QmlkIiwgY29udGV4dC5nZXRTY2VuYXJpb0RpcmVjdG9yeUJpZCgpKTsKICAgICAgICBzY2VuYXJpb0ZpbmlzaGVkID0gY29udGV4dC5pc1NjZW5hcmlvRmluaXNoZWQoKTsKICAgICAgICBpbmNsdWRlU2NlbmFyaW8gPSBjb250ZXh0LmlzSW5jbHVkZVNjZW5hcmlvKCk7CiAgICAgICAgcmV0dXJuIHN1cGVyLmFwcGx5Q29udGV4dChjb250ZXh0KTs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLmZ4LnV0aWwuUXVlcnlCdWlsZGVyOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIEBUZW1wbGF0ZVZhcmlhYmxlCiAgICBwcml2YXRlIGJvb2xlYW4gc2NlbmFyaW9GaW5pc2hlZDsKCiAgICBAVGVtcGxhdGVWYXJpYWJsZQogICAgcHJpdmF0ZSBib29sZWFuIGluY2x1ZGVTY2VuYXJpbzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -937,6 +912,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
