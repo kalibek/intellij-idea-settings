@@ -528,11 +528,11 @@
         <mark key="^" line="6" column="48" />
         <mark key="." line="6" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533708842568">
+      <file name="/Dummy.txt" timestamp="1533718554886">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="46" />
-        <mark key="." line="0" column="7" />
+        <mark key="]" line="0" column="50" />
+        <mark key="^" line="0" column="50" />
+        <mark key="." line="0" column="50" />
       </file>
       <file name="$USER_HOME$/projects/leader/club/pom.xml" timestamp="1533709357286">
         <mark key="'" line="12" column="0" />
