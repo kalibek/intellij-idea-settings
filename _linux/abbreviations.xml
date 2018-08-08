@@ -1,11 +1,14 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
+      <action id="ChooseRunConfiguration">
+        <abbreviation name="run" />
+      </action>
       <action id="Vcs.QuickListPopupAction">
         <abbreviation name="git" />
       </action>
       <action id="VimPluginToggle">
-        <abbreviation name="vi" />
+        <abbreviation name="vim" />
       </action>
     </abbreviations>
   </component>

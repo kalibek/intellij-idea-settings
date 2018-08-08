@@ -287,11 +287,8 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1533639924010">
-        <mark key="[" line="206" column="117" />
-        <mark key="]" line="206" column="118" />
-        <mark key="." line="206" column="118" />
-        <mark key="^" line="206" column="118" />
+      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1533702571295">
+        <mark key="'" line="230" column="32" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/enums/cd/CompanyDirectoryType.java" timestamp="1533101838019">
         <mark key="[" line="9" column="19" />
@@ -498,8 +495,8 @@
       <file name="/companies_addresses [tfx_data@localhost]" timestamp="1533102163357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533642962246">
-        <mark key="[" line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1533701545200">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="46" />
         <mark key="." line="0" column="7" />
@@ -615,7 +612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="128" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="70" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
       <jump line="84" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
@@ -715,6 +711,7 @@
       <jump line="49" column="13" filename="$USER_HOME$/projects/fx/vx-connect/src/test/java/com/wktransportservices/connect/fx/mappers/FreightOfferDtoMapper_FreightOfferDto_To_FreightOfferDto_Test.java" />
       <jump line="11" column="17" filename="$USER_HOME$/projects/fx/vx-connect/src/test/java/com/wktransportservices/connect/fx/mappers/FreightOfferDtoMapper_FreightOfferDto_To_FreightOfferDto_Test.java" />
       <jump line="48" column="5" filename="$USER_HOME$/projects/fx/vx-connect/src/test/java/com/wktransportservices/connect/fx/mappers/FreightOfferDtoMapper_FreightOfferDto_To_FreightOfferDto_Test.java" />
+      <jump line="230" column="32" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -730,7 +727,7 @@
         <text>0 Internal API to create smart directory</text>
       </register>
       <register name="/" type="4">
-        <text>owner</text>
+        <text>repost</text>
       </register>
       <register name="0" type="4">
         <text>dto.getSmartScenario().getBusinessId()</text>
@@ -767,9 +764,9 @@
       </register>
     </registers>
     <search>
-      <last-search>owner</last-search>
+      <last-search>repost</last-search>
       <last-offset />
-      <last-pattern>owner</last-pattern>
+      <last-pattern>repost</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>postgres</last-substitute>
       <last-dir>1</last-dir>
@@ -777,7 +774,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\cstream</entry>
         <entry>base</entry>
         <entry>http</entry>
         <entry>idp</entry>
@@ -797,6 +793,7 @@
         <entry>Sc</entry>
         <entry>\cbefore</entry>
         <entry>owner</entry>
+        <entry>repost</entry>
       </history-search>
       <history-cmd>
         <entry>%s/-test//h</entry>
