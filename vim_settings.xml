@@ -123,13 +123,6 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/offer_tsvector.ftl" timestamp="1533714626150">
-        <mark key="'" line="162" column="6" />
-        <mark key="[" line="148" column="22" />
-        <mark key="]" line="148" column="22" />
-        <mark key="." line="148" column="22" />
-        <mark key="^" line="50" column="88" />
-      </file>
       <file name="$USER_HOME$/projects/balance/pom.xml" timestamp="1533278565862">
         <mark key="[" line="94" column="33" />
         <mark key="]" line="99" column="32" />
@@ -214,6 +207,12 @@
         <mark key="]" line="49" column="38" />
         <mark key="." line="49" column="38" />
         <mark key="^" line="49" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferResponseBuilder.java" timestamp="1533729158100">
+        <mark key="'" line="51" column="4" />
+        <mark key="[" line="89" column="4" />
+        <mark key="]" line="89" column="4" />
+        <mark key="." line="89" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1533704389103">
         <mark key="[" line="80" column="0" />
@@ -479,11 +478,11 @@
         <mark key="^" line="1" column="82" />
         <mark key="." line="1" column="82" />
       </file>
-      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/rest/controller/FreightOfferController.java" timestamp="1533726603175">
-        <mark key="[" line="114" column="54" />
-        <mark key="]" line="114" column="86" />
-        <mark key="." line="114" column="86" />
-        <mark key="^" line="114" column="86" />
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/rest/controller/FreightOfferController.java" timestamp="1533729378262">
+        <mark key="[" line="124" column="82" />
+        <mark key="]" line="125" column="15" />
+        <mark key="." line="125" column="15" />
+        <mark key="^" line="125" column="15" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/start.sh" timestamp="1532346041261">
         <mark key="[" line="17" column="59" />
@@ -508,13 +507,6 @@
         <mark key="]" line="0" column="50" />
         <mark key="^" line="0" column="50" />
         <mark key="." line="0" column="50" />
-      </file>
-      <file name="$USER_HOME$/projects/leader/club/pom.xml" timestamp="1533709357286">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="79" column="12" />
-        <mark key="^" line="23" column="52" />
-        <mark key="." line="23" column="52" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/runner/CommandLineAppStartupRunner.java" timestamp="1531293529390">
         <mark key="[" line="27" column="12" />
@@ -600,13 +592,6 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/search/MatchingContextDTO.java" timestamp="1533630436341">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="209" column="19" />
-        <mark key="]" line="209" column="20" />
-        <mark key="^" line="209" column="20" />
-        <mark key="." line="209" column="20" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbClientService.java" timestamp="1532512284556">
         <mark key="[" line="25" column="74" />
         <mark key="]" line="25" column="86" />
@@ -621,7 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/scenario/SmartDirectoryWebservice.java" />
       <jump line="102" column="0" filename="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/scenario/SmartDirectoryWebservice.java" />
       <jump line="33" column="159" filename="$MAVEN_REPOSITORY$/com/wktransportservices/schema/mbs/fx/mbs-fx/2.1/mbs-fx-2.1.jar!/com/wktransportservices/schema/mbs/fx/companiesdirectories/v2_1/CompaniesDirectory.class" />
       <jump line="21" column="36" filename="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/mapper/company/SmartDirectoryMapper.java" />
@@ -721,56 +705,67 @@
       <jump line="34" column="20" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/search-city-to-city_tsvector.ftl" />
       <jump line="5" column="12" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/search-city-to-city_tsvector.ftl" />
       <jump line="162" column="6" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/offer_tsvector.ftl" />
+      <jump line="49" column="4" filename="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferResponseBuilder.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>data</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PE1lc3NhZ2U+</text>
+        <text>)</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PE1lc3NhZ2U+</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>applyCont</text>
       </register>
       <register name="0" type="4">
-        <text>)</text>
+        <text encoding="base64">bmV3IFJlc3BvbnNlRW50aXR5PD4o</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZXhjaGFuZ2UoCiAgICAgICAgICAgICAgICAiL21lc3NhZ2VzIiwKICAgICAgICAgICAgICAgIEh0dHBNZXRob2QuR0VULAogICAgICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgICAgIFBhcmFtZXRlcml6ZWRUeXBlUmVmZXJlbmNlPExpc3Q8TWVzc2FnZT4+KCkKICAgICAgICAp</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBFcnJvclJlc3BvbnNlIHJlc3BvbnNlID0gcmVzcG9uc2VCdWlsZGVyLmJ1aWxkRXhjZXB0aW9uUmVzcG9uc2UoZXhjZXB0aW9uKTsK</text>
       </register>
       <register name="2" type="4">
+        <text>public ErrorResponse buildExceptionResponse(Exception exception) {
+        if (exception.getCause().getClass().equals(ScenarioForbiddenException.class)) {
+            return buildBadRequestResponse(ErrorCode.E34);
+        }
+
+        if (exception.getCause().getClass().equals(ScenarioForbiddenException.class)) {
+            return buildAccessDeniedResponse();
+        }
+
+        return buildInternalErrorResponse();
+    }</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">QEV4Y2VwdGlvbkhhbmRsZXIoU2NlbmFyaW9Ob3RGb3VuZEV4Y2VwdGlvbi5jbGFzcykKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxFcnJvclJlc3BvbnNlPiBoYW5kbGVTY2VuYXJpb05vdEZvdW5kKCkgewogICAgICAgIEVycm9yUmVzcG9uc2UgcmVzcG9uc2UgPSByZXNwb25zZUJ1aWxkZXIuYnVpbGRCYWRSZXF1ZXN0UmVzcG9uc2UoRXJyb3JDb2RlLkUzNCk7CiAgICAgICAgcmV0dXJuIG5ldyBSZXNwb25zZUVudGl0eTw+KHJlc3BvbnNlLCBIdHRwU3RhdHVzLkJBRF9SRVFVRVNUKTsKICAgIH0KCiAgICBARXhjZXB0aW9uSGFuZGxlcihTY2VuYXJpb0ZvcmJpZGRlbkV4Y2VwdGlvbi5jbGFzcykKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxFcnJvclJlc3BvbnNlPiBoYW5kbGVTY2VuYXJpb0ZvcmJpZGRlbigpIHsKICAgICAgICBFcnJvclJlc3BvbnNlIHJlc3BvbnNlID0gcmVzcG9uc2VCdWlsZGVyLmJ1aWxkSW50ZXJuYWxFcnJvclJlc3BvbnNlKCk7CiAgICAgICAgcmV0dXJuIG5ldyBSZXNwb25zZUVudGl0eTw+KHJlc3BvbnNlLCBIdHRwU3RhdHVzLkZPUkJJRERFTik7CiAgICB9Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ZXhjaGFuZ2UoCiAgICAgICAgICAgICAgICAiL21lc3NhZ2VzIiwKICAgICAgICAgICAgICAgIEh0dHBNZXRob2QuR0VULAogICAgICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgICAgIFBhcmFtZXRlcml6ZWRUeXBlUmVmZXJlbmNlPExpc3Q8TWVzc2FnZT4+KCkKICAgICAgICAp</text>
+      </register>
+      <register name="8" type="4">
         <text>restTemplate.exchange(
                 &quot;/messages&quot;,
                 HttpMethod.GET,
                 null,
                 ParameterizedTypeReference.forType(List::class.java))</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEZyZWlnaHRPZmZlckNyZWF0aW9uRXhjZXB0aW9uKCJVbmFibGUgdG8gY3JlYXRlIGZyZWlnaHQgb2ZmZXIiLCBlKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWVzc2FnZXM6IFI8TWVzc2FnZT4gPSByZXN0VGVtcGxhdGUuZ2V0Rm9yT2JqZWN0KCIvbWVzc2FnZXMiLCBMaXN0OjpjbGFzcy5qYXZhKQo=</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
