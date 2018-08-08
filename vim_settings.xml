@@ -69,6 +69,11 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-inf/src/main/java/com/wktransportservices/fx/business/util/ejb/social/SocialActors.java" timestamp="1533270396505">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/search-city-to-city.ftl" timestamp="1533534782801">
         <mark key="[" line="96" column="30" />
         <mark key="]" line="96" column="30" />
@@ -93,6 +98,11 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-inf/src/main/java/com/wktransportservices/fx/business/actor/remote/social/CompanyDirectoryActorRemote.java" timestamp="1533288427605">
+        <mark key="[" line="3" column="55" />
+        <mark key="]" line="3" column="55" />
+        <mark key="." line="3" column="55" />
+      </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/Msg.java" timestamp="1531294760897">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="11" column="37" />
@@ -110,6 +120,11 @@
         <mark key="]" line="18" column="13" />
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="17" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7e9e873-5947-4860-9b8b-4a7fcd4ef5a6/console.sql" timestamp="1533281327940">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/mapper/company/PrivateDirectoryTypeConverter.java" timestamp="1533128560074">
         <mark key="[" line="19" column="0" />
@@ -141,6 +156,11 @@
         <mark key="]" line="4" column="48" />
         <mark key="." line="4" column="48" />
         <mark key="^" line="4" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/AuthorizationStepDefs.java" timestamp="1533187085210">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="20" column="46" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/enums/cd/CompanyDirectoryPrivateType.java" timestamp="1533103548664">
         <mark key="[" line="9" column="37" />
@@ -208,6 +228,11 @@
         <mark key="]" line="49" column="38" />
         <mark key="." line="49" column="38" />
         <mark key="^" line="49" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/scenario/public-directory.json" timestamp="1533183317165">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1533704389103">
         <mark key="[" line="80" column="0" />
@@ -307,18 +332,9 @@
         <mark key="^" line="19" column="24" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" timestamp="1533714277930">
-        <mark key="'" line="81" column="20" />
         <mark key="[" line="212" column="0" />
         <mark key="]" line="212" column="0" />
         <mark key="." line="212" column="0" />
-        <mark key="^" line="77" column="3" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1533716603779">
-        <mark key="'" line="230" column="32" />
-        <mark key="[" line="342" column="55" />
-        <mark key="]" line="342" column="80" />
-        <mark key="^" line="342" column="80" />
-        <mark key="." line="342" column="80" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/enums/cd/CompanyDirectoryType.java" timestamp="1533101838019">
         <mark key="[" line="9" column="19" />
@@ -414,10 +430,10 @@
         <mark key="^" line="31" column="61" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/AbstractOfferQueryBuilder.java" timestamp="1533715994105">
-        <mark key="[" line="316" column="15" />
-        <mark key="]" line="316" column="40" />
-        <mark key="." line="316" column="40" />
-        <mark key="^" line="316" column="40" />
+        <mark key="[" line="306" column="15" />
+        <mark key="]" line="306" column="40" />
+        <mark key="." line="306" column="40" />
+        <mark key="^" line="306" column="40" />
       </file>
       <file name="$USER_HOME$/projects/aws_esb/launcher/docker-compose.yml" timestamp="1532069587293">
         <mark key="[" line="8" column="11" />
@@ -468,7 +484,12 @@
         <mark key="." line="22" column="13" />
         <mark key="^" line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/AbstractSearchQueryBuilder.java" timestamp="1533714238689">
+      <file name="$USER_HOME$/projects/balance/src/main/kotlin/balance/BalanceApplication.kt" timestamp="1533541911003">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/AbstractSearchQueryBuilder.java" timestamp="1533724359056">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -480,16 +501,6 @@
         <mark key="]" line="47" column="62" />
         <mark key="^" line="30" column="38" />
         <mark key="." line="47" column="62" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/vx-connect/src/test/java/com/wktransportservices/connect/fx/mappers/FreightOfferMapperTest.java" timestamp="1533637465976">
-        <mark key="'" line="283" column="0" />
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="283" column="0" />
-        <mark key="." line="283" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/tmp/pom.xml" timestamp="1533707809340">
-        <mark key="[" line="41" column="8" />
-        <mark key="]" line="45" column="20" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/AmqTestApplication.java" timestamp="1531296592900">
         <mark key="[" line="34" column="57" />
@@ -565,6 +576,11 @@
         <mark key="." line="9" column="58" />
         <mark key="^" line="9" column="58" />
       </file>
+      <file name="$USER_HOME$/projects/balance/src/main/resources/application.yml" timestamp="1533281262392">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/test/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/requested/RequestedCalloffViewTest.java" timestamp="1531197314655">
         <mark key="[" line="14" column="71" />
         <mark key="]" line="15" column="7" />
@@ -576,6 +592,11 @@
         <mark key="]" line="2" column="76" />
         <mark key="^" line="2" column="70" />
         <mark key="." line="2" column="76" />
+      </file>
+      <file name="$USER_HOME$/projects/balance/src/main/kotlin/balance/holders.kt" timestamp="1533295873694">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="16" column="71" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/RequestedCalloffServiceBean.java" timestamp="1531740009628">
         <mark key="[" line="103" column="39" />
