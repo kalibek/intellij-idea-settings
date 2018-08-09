@@ -317,6 +317,12 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="5" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/test/java/com/wktransportservices/vx/connect/service/VehicleOfferServiceTest.java" timestamp="1533796067702">
+        <mark key="[" line="50" column="94" />
+        <mark key="]" line="50" column="94" />
+        <mark key="^" line="50" column="94" />
+        <mark key="." line="50" column="94" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/test/java/com/wktransportservices/fx/esb/client/audit/manager/AuditManagerTest.java" timestamp="1530696855098">
         <mark key="[" line="70" column="15" />
         <mark key="]" line="70" column="30" />
