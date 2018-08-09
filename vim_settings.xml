@@ -290,9 +290,6 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="44" column="80" />
       </file>
-      <file name="$USER_HOME$/projects/fx/vx-connect/src/test/java/com/wktransportservices/connect/fx/rest/controller/FreightOfferController_GeneralTest.java" timestamp="1533787388710">
-        <mark key="^" line="74" column="7" />
-      </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq/Dockerfile" timestamp="1531222649773">
         <mark key="[" line="1" column="36" />
         <mark key="]" line="1" column="36" />
@@ -719,12 +716,8 @@
       <file name="/holders [data@localhost]" timestamp="1533541811401">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/leader/club/pom.xml" timestamp="1533709357286">
+      <file name="$USER_HOME$/projects/leader/club/pom.xml" timestamp="1533800017464">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="79" column="12" />
-        <mark key="^" line="23" column="52" />
-        <mark key="." line="23" column="52" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/runner/CommandLineAppStartupRunner.java" timestamp="1531293529390">
         <mark key="[" line="27" column="12" />
@@ -966,19 +959,19 @@
         <text>ResponseEntity</text>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>l</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>owner</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">QXJyYXk8TWVzc2FnZT4=</text>
+        <text>org.springframework.boot</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
