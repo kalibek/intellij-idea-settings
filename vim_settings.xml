@@ -53,12 +53,6 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/actor/social/UserActorTest.java" timestamp="1533793080539">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="60" column="16" />
-        <mark key="]" line="60" column="50" />
-        <mark key="." line="90" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/balance/src/main/resources/db/migration/V001__init.sql" timestamp="1533276119937">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="11" />
@@ -387,18 +381,18 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/UserManager.java" timestamp="1533809560604">
-        <mark key="[" line="288" column="63" />
-        <mark key="]" line="288" column="82" />
-        <mark key="." line="288" column="82" />
-        <mark key="^" line="288" column="82" />
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/UserManager.java" timestamp="1533811376460">
+        <mark key="[" line="288" column="81" />
+        <mark key="]" line="285" column="27" />
+        <mark key="." line="285" column="27" />
+        <mark key="^" line="285" column="27" />
       </file>
       <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/vx/connect/service/VehicleOfferService.java" timestamp="1533809521967">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="42" column="7" />
+        <mark key="'" line="28" column="4" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="41" column="7" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/LinkStepDefinitions.java" timestamp="1532062151355">
         <mark key="[" line="11" column="74" />
@@ -427,6 +421,12 @@
         <mark key="[" line="205" column="0" />
         <mark key="]" line="205" column="0" />
         <mark key="." line="205" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/manager/social/CompanyHierarchyLevelResolverTest.java" timestamp="1533811253707">
+        <mark key="[" line="47" column="65" />
+        <mark key="]" line="48" column="24" />
+        <mark key="." line="48" column="24" />
+        <mark key="^" line="48" column="24" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/enums/cd/CompanyDirectoryType.java" timestamp="1533101838019">
         <mark key="[" line="9" column="19" />
@@ -529,11 +529,11 @@
         <mark key="." line="42" column="29" />
         <mark key="^" line="42" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/actor/social/UserActor.java" timestamp="1533792843430">
-        <mark key="[" line="114" column="50" />
-        <mark key="]" line="114" column="73" />
-        <mark key="." line="114" column="73" />
-        <mark key="^" line="114" column="73" />
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/actor/social/UserActor.java" timestamp="1533811398180">
+        <mark key="[" line="113" column="20" />
+        <mark key="]" line="113" column="19" />
+        <mark key="." line="113" column="19" />
+        <mark key="^" line="113" column="19" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-inf/src/main/java/com/wktransportservices/fx/business/actor/remote/scenario/SmartDirectoryActorRemote.java" timestamp="1533270168122">
         <mark key="[" line="6" column="76" />
@@ -633,11 +633,11 @@
         <mark key="." line="22" column="13" />
         <mark key="^" line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/helper/social/UserHelper.java" timestamp="1533805431517">
-        <mark key="[" line="102" column="36" />
-        <mark key="]" line="103" column="3" />
-        <mark key="." line="103" column="3" />
+      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/helper/social/UserHelper.java" timestamp="1533811643116">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
         <mark key="^" line="103" column="3" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/projects/balance/src/main/kotlin/balance/BalanceApplication.kt" timestamp="1533541911003">
         <mark key="[" line="5" column="0" />
@@ -646,12 +646,6 @@
       </file>
       <file name="/transactions [data@localhost]" timestamp="1533541811426">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/AbstractSearchQueryBuilder.java" timestamp="1533724359056">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/helper/SimplifiedCompanyHelper.java" timestamp="1533805830255">
         <mark key="[" line="5" column="0" />
@@ -664,12 +658,6 @@
         <mark key="]" line="47" column="62" />
         <mark key="^" line="30" column="38" />
         <mark key="." line="47" column="62" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/vx-connect/src/test/java/com/wktransportservices/connect/fx/mappers/FreightOfferMapperTest.java" timestamp="1533637465976">
-        <mark key="'" line="283" column="0" />
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="283" column="0" />
-        <mark key="." line="283" column="0" />
       </file>
       <file name="$USER_HOME$/projects/tmp/pom.xml" timestamp="1533800401053">
         <mark key="[" line="41" column="8" />
@@ -725,17 +713,11 @@
       <file name="/companies_addresses [tfx_data@localhost]" timestamp="1533102163357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/manager/social/UserManagerTest.java" timestamp="1533794726104">
-        <mark key="'" line="103" column="10" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1533801810452">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="59" />
-        <mark key="." line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1533811763987">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="41" />
+        <mark key="^" line="0" column="41" />
+        <mark key="." line="0" column="41" />
       </file>
       <file name="/holders [data@localhost]" timestamp="1533541811401">
         <mark key="[" line="0" column="0" />
@@ -785,11 +767,10 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/CompanyHierarchyLevelResolver.java" timestamp="1533809426294">
-        <mark key="[" line="31" column="15" />
-        <mark key="]" line="31" column="15" />
-        <mark key="." line="31" column="15" />
-        <mark key="^" line="31" column="15" />
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/CompanyHierarchyLevelResolver.java" timestamp="1533811436117">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/src/main/java/com/wktransportservices/fx/bi/service/SearchEventPublisherBean.java" timestamp="1532671652050">
         <mark key="[" line="2" column="76" />
@@ -876,7 +857,7 @@
         <mark key="^" line="25" column="86" />
         <mark key="." line="25" column="86" />
       </file>
-      <file name="/fragment.java" timestamp="1533794088603">
+      <file name="/fragment.java" timestamp="1533810761474">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/leader/club/src/main/kotlin/club/Application.kt" timestamp="1533801968046">
@@ -992,53 +973,47 @@
       <register name="a" type="4">
         <text>ResponseEntity</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aWYgKG93bmVyID09IG51bGwgfHwgcG9zdGVyID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KICAgICAgICBTaW1wbGlmaWVkQ29tcGFueSBwb3N0ZXJDb21wYW55ID0gcG9zdGVyLmdldENvbXBhbnkoKTsKICAgICAgICBTaW1wbGlmaWVkQ29tcGFueSBvd25lckNvbXBhbnkgPSBvd25lci5nZXRDb21wYW55KCk7CiAgICAgICAgcmV0dXJuIHBvc3RlckNvbXBhbnkuZ2V0SGllcmFyY2h5SWQoKSAhPSBudWxsICYmCiAgICAgICAgICAgICAgICBwb3N0ZXJDb21wYW55LmdldEhpZXJhcmNoeUlkKCkuZXF1YWxzKG93bmVyQ29tcGFueS5nZXRIaWVyYXJjaHlJZCgpKTs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBOTlFfQ0hFQ0tfSElFUkFSQ0hZX0lEX1FVRVJZID0gIiI7Cg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>owner</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVXNlciBwb3N0ZXI7Cg==</text>
+      <register name="0" type="4">
+        <text>testng</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aWYgKG93bmVyID09IG51bGwgfHwgcG9zdGVyID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KICAgICAgICBTaW1wbGlmaWVkQ29tcGFueSBwb3N0ZXJDb21wYW55ID0gcG9zdGVyLmdldENvbXBhbnkoKTsKICAgICAgICBTaW1wbGlmaWVkQ29tcGFueSBvd25lckNvbXBhbnkgPSBvd25lci5nZXRDb21wYW55KCk7CiAgICAgICAgcmV0dXJuIHBvc3RlckNvbXBhbnkuZ2V0SGllcmFyY2h5SWQoKSAhPSBudWxsICYmCiAgICAgICAgICAgICAgICBwb3N0ZXJDb21wYW55LmdldEhpZXJhcmNoeUlkKCkuZXF1YWxzKG93bmVyQ29tcGFueS5nZXRIaWVyYXJjaHlJZCgpKTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBOTlFfQ0hFQ0tfSElFUkFSQ0hZX0lEX1FVRVJZID0gIiI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBOTlFfQ0hFQ0tfSElFUkFSQ0hZX0lEID0gIlVzZXIuY2hlY2tIaWVyYXJjaHlJZCI7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>if(!userActor.areUsersHaveSameHierarchyId(authenticatedUserData.getUserLogin(),offer.getOwner().getLogin())) {
-            throw new AccessDeniedException(&quot;Owner and poster do not have same hierarchy ID&quot;);
-        }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>if(!userActor.areUsersHaveSameHierarchyId(authenticatedUserData.getUserLogin(),offer.getOwner().getLogin())) {
-            throw new AccessDeniedException(&quot;Owner and poster do not have same hierarchy ID&quot;);
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICYmIGJvdGhVc2Vyc0V4aXN0cygpCg==</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IAogICAgICAgICAgICAgICAg</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>public CompanyHierarchyLevelResolver(User poster, User owner) {
-        
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wYW55IG93bmVyQ29tcGFueSA9IGNvbXBhbnlNYW5hZ2VyLmdldEJ5QnVzaW5lc3NJZChvd25lci5nZXRDb21wYW55KCkuZ2V0QnVzaW5lc3NJZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
