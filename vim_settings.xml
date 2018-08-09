@@ -572,11 +572,11 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/leader/push/src/main/kotlin/push/Application.kt" timestamp="1533727687582">
-        <mark key="[" line="23" column="42" />
-        <mark key="]" line="23" column="42" />
-        <mark key="." line="23" column="42" />
-        <mark key="^" line="24" column="59" />
+      <file name="$USER_HOME$/projects/leader/push/src/main/kotlin/push/Application.kt" timestamp="1533798822746">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="30" column="27" />
+        <mark key="^" line="30" column="27" />
+        <mark key="." line="30" column="27" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/exception/ScenarioNotFoundException.java" timestamp="1533724599577">
         <mark key="[" line="2" column="64" />
@@ -965,49 +965,44 @@
       <register name="a" type="4">
         <text>ResponseEntity</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIG93bmVyID0gbmV3IFVzZXIoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>body</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>body</text>
       </register>
       <register name="/" type="4">
         <text>owner</text>
       </register>
       <register name="0" type="4">
-        <text>@Test
-    public void areUsersHaveSameHierarchyId_GiveOwnerNotFound_ShouldReturnFalse() {
-        boolean areUsersHaveSameHierarchyId = manager.areUsersHaveSameHierarchyId(POSTER_LOGIN, OWNER_LOGIN);
-        assertFalse(areUsersHaveSameHierarchyId);
-        verify(companyManager, never()).getByBusinessId(anyString());
-    }</text>
+        <text encoding="base64">QXJyYXk8TWVzc2FnZT4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIG93bmVyID0gbmV3IFVzZXIoKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5SZXNwb25zZUVudGl0eQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wYW55IGNvbXBhbnkgPSBuZXcgQ29tcGFueSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRGb3JFbnRpdHkoIi9tZXNzYWdlcyIsIEFycmF5OjpjbGFzcy5qYXZhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wYW55LnNldEJ1c2luZXNzSWQoIm93bmVyX2NvbXBhbnlfYnVzaW5lc3NfaWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIG93bmVyID0gbmV3IFVzZXIoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvd25lci5zZXRDb21wYW55KGNvbXBhbnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBDb21wYW55IGNvbXBhbnkgPSBuZXcgQ29tcGFueSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIG93bmVyQ29tcGFueTsK</text>
+        <text encoding="base64">ICAgICAgICBjb21wYW55LnNldEJ1c2luZXNzSWQoIm93bmVyX2NvbXBhbnlfYnVzaW5lc3NfaWQiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGRhby5maW5kQnlMb2dpbihPV05FUl9MT0dJTikpLnRoZW5SZXR1cm4obmV3IFVzZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvd25lci5zZXRDb21wYW55KGNvbXBhbnkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGRhby5maW5kQnlMb2dpbihPV05FUl9MT0dJTikpLnRoZW5SZXR1cm4obmV3IFVzZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIG93bmVyQ29tcGFueTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGRhby5maW5kQnlMb2dpbihQT1NURVJfTE9HSU4pKS50aGVuUmV0dXJuKG5ldyBVc2VyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGRhby5maW5kQnlMb2dpbihPV05FUl9MT0dJTikpLnRoZW5SZXR1cm4obmV3IFVzZXIoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB3aGVuKGRhby5maW5kQnlMb2dpbihPV05FUl9MT0dJTikpLnRoZW5SZXR1cm4obmV3IFVzZXIoKSk7Cg==</text>
