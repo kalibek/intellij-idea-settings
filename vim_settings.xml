@@ -359,6 +359,10 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/vx/connect/service/VehicleOfferService.java" timestamp="1533791559823">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/LinkStepDefinitions.java" timestamp="1532062151355">
         <mark key="[" line="11" column="74" />
         <mark key="]" line="11" column="74" />
@@ -430,12 +434,12 @@
         <mark key="." line="6" column="140" />
         <mark key="^" line="6" column="140" />
       </file>
-      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferService.java" timestamp="1533789613292">
-        <mark key="'" line="137" column="8" />
-        <mark key="[" line="129" column="8" />
-        <mark key="]" line="129" column="9" />
-        <mark key="^" line="129" column="9" />
-        <mark key="." line="129" column="9" />
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferService.java" timestamp="1533791871582">
+        <mark key="'" line="149" column="8" />
+        <mark key="[" line="90" column="73" />
+        <mark key="]" line="90" column="77" />
+        <mark key="." line="90" column="77" />
+        <mark key="^" line="90" column="77" />
       </file>
       <file name="$USER_HOME$/projects/leader/club/src/main/resources/db/migration/V001__init.sql" timestamp="1533709098380">
         <mark key="[" line="4" column="1" />
@@ -582,6 +586,10 @@
         <mark key="]" line="47" column="62" />
         <mark key="^" line="30" column="38" />
         <mark key="." line="47" column="62" />
+      </file>
+      <file name="$USER_HOME$/projects/tmp/pom.xml" timestamp="1533707809340">
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="45" column="20" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/AmqTestApplication.java" timestamp="1531296592900">
         <mark key="[" line="34" column="57" />
@@ -768,8 +776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="0" filename="$USER_HOME$/projects/fx/fx-webservices/src/test/java/com/wktransportservices/fx/webservices/mapper/company/SmartDirectoryMapperTest.java" />
-      <jump line="108" column="52" filename="$USER_HOME$/projects/fx/fx-webservices/src/test/java/com/wktransportservices/fx/webservices/mapper/company/SmartDirectoryMapperTest.java" />
       <jump line="5" column="71" filename="$USER_HOME$/projects/fx/fx-webservices/src/test/java/com/wktransportservices/fx/webservices/mapper/company/SmartDirectoryMapperTest.java" />
       <jump line="29" column="47" filename="$USER_HOME$/projects/fx/fx-webservices/src/test/java/com/wktransportservices/fx/webservices/mapper/company/SmartDirectoryMapperTest.java" />
       <jump line="103" column="41" filename="$USER_HOME$/projects/fx/fx-webservices/src/test/java/com/wktransportservices/fx/webservices/mapper/company/SmartDirectoryMapperTest.java" />
@@ -868,52 +874,54 @@
       <jump line="142" column="8" filename="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferService.java" />
       <jump line="32" column="13" filename="$USER_HOME$/projects/fx/vx-connect/src/test/java/com/wktransportservices/connect/fx/mappers/FreightOfferDtoMapper_FreightOfferDto_To_FreightOfferDto_Test.java" />
       <jump line="27" column="23" filename="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/dto/offer/api/FreightOfferDTO.java" />
+      <jump line="29" column="29" filename="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferService.java" />
+      <jump line="143" column="8" filename="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ResponseEntity</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBPd25lciBvd25lciA9IG5ldyBPd25lcigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>userData</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5ldyBPd25lcig=</text>
+        <text>userData</text>
       </register>
       <register name="/" type="4">
         <text>owner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHJlc3BvbnNlQnVpbGRlci5idWlsZE5vdEZvdW5kUmVzcG9uc2UoT2ZmZXJFcnJvckNvZGUuRTEpKQogICAgICAgICAgICAgICAgLnRoZW5SZXR1cm4obm90Rm91bmRSZXNwb25zZShPZmZlckVycm9yQ29kZS5FMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXNlckRhdGEgb3duZXIgPSBnZXRPZmZlck93bmVyVXNlckRhdGEoZHRvLCB1c2VyRGF0YSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBPd25lciBvd25lciA9IG5ldyBPd25lcigpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkdG8uc2V0QWRkSW5mbyhhZGRJbmZvKTsKICAgICAgICBPd25lciBvd25lciA9KTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkdG8uc2V0QWRkSW5mbyhhZGRJbmZvKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkdG8uc2V0QWRkSW5mbyhhZGRJbmZvKTsKICAgICAgICBPd25lciBvd25lciA9KTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWVsZCgib3duZXIubG9naW4iLCAiIikK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVXNlckRhdGEgb3duZXIgPSBnZXRPZmZlck93bmVyVXNlckRhdGEoZHRvLCB1c2VyRGF0YSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVXNlckRhdGEgb3duZXIgPSBnZXRPZmZlck93bmVyVXNlckRhdGEoZHRvLCB1c2VyRGF0YSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmcmVpZ2h0T2ZmZXJEdG8uc2V0T3duZXIodXNlckRhdGEuZ2V0U2ltcGxpZmllZFVzZXJEVE8oKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvL2ZyZWlnaHRPZmZlckR0by5zZXRPd25lcih1c2VyRGF0YS5nZXRTaW1wbGlmaWVkVXNlckRUTygpKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5odHRwY2xpZW50Lm1ldGhvZHMuUmVxdWVzdEVudGl0eTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRW50aXR5PD4ocmVzcG9uc2UsIEh0dHBTdGF0dXMuTk9UX0ZPVU5EKTsK</text>
+        <text encoding="base64">ICAgICAgICBPd25lciBvd25lciA9IG5ldyBPd25lcigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEh0dHBTdGF0dXMuSU5URVJOQUxfU0VSVkVSX0VSUk9SKTsK</text>
+        <text encoding="base64">ICAgICAgICBkdG8uc2V0QWRkSW5mbyhhZGRJbmZvKTsKICAgICAgICBPd25lciBvd25lciA9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
