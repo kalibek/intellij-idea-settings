@@ -15,10 +15,10 @@
         <mark key="^" line="89" column="33" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1533638274282">
+      <file name="/a.dummy" timestamp="1533785802205">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="5" />
+        <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1533133148439">
@@ -50,6 +50,12 @@
         <mark key="]" line="8" column="11" />
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/test/java/com/wktransportservices/connect/fx/service/FreightOfferResponseBuilderTest.java" timestamp="1533786556513">
+        <mark key="[" line="116" column="32" />
+        <mark key="]" line="116" column="41" />
+        <mark key="." line="116" column="41" />
+        <mark key="^" line="116" column="41" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/Dockerfile" timestamp="1532497396404">
         <mark key="[" line="15" column="5" />
@@ -228,11 +234,11 @@
         <mark key="." line="49" column="38" />
         <mark key="^" line="49" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferResponseBuilder.java" timestamp="1533785641742">
-        <mark key="[" line="60" column="7" />
-        <mark key="]" line="60" column="13" />
-        <mark key="." line="60" column="13" />
-        <mark key="^" line="60" column="13" />
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferResponseBuilder.java" timestamp="1533787130317">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="63" column="26" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/scenario/public-directory.json" timestamp="1533183317165">
         <mark key="[" line="5" column="0" />
@@ -250,6 +256,12 @@
         <mark key="]" line="6" column="17" />
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/test/java/com/wktransportservices/connect/fx/rest/controller/FreightOfferController_GeneralTest.java" timestamp="1533787388710">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="76" column="7" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/projects/activemq-cluster/activemq/Dockerfile" timestamp="1531222649773">
         <mark key="[" line="1" column="36" />
@@ -292,6 +304,12 @@
         <mark key="]" line="111" column="61" />
         <mark key="." line="95" column="0" />
         <mark key="^" line="98" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/test/java/com/wktransportservices/connect/fx/rest/controller/FreightOfferControllerTestBase.java" timestamp="1533787151207">
+        <mark key="[" line="97" column="44" />
+        <mark key="]" line="97" column="66" />
+        <mark key="." line="97" column="66" />
+        <mark key="^" line="97" column="66" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/exception/scenario/ScenarioNotFoundException.java" timestamp="1533784031648">
         <mark key="[" line="2" column="47" />
@@ -387,7 +405,7 @@
         <mark key="." line="6" column="140" />
         <mark key="^" line="6" column="140" />
       </file>
-      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferService.java" timestamp="1533784592095">
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferService.java" timestamp="1533786954031">
         <mark key="'" line="142" column="8" />
         <mark key="[" line="141" column="72" />
         <mark key="]" line="141" column="85" />
@@ -513,12 +531,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/AbstractSearchQueryBuilder.java" timestamp="1533724359056">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/AmqTestApplication.java" timestamp="1531296592900">
         <mark key="[" line="34" column="57" />
         <mark key="]" line="34" column="57" />
@@ -531,12 +543,12 @@
         <mark key="^" line="1" column="82" />
         <mark key="." line="1" column="82" />
       </file>
-      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/rest/controller/FreightOfferController.java" timestamp="1533785670631">
-        <mark key="'" line="115" column="8" />
-        <mark key="[" line="121" column="95" />
-        <mark key="]" line="121" column="95" />
-        <mark key="." line="121" column="95" />
-        <mark key="^" line="121" column="80" />
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/rest/controller/FreightOfferController.java" timestamp="1533787191130">
+        <mark key="'" line="112" column="8" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="95" column="13" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/asb-local/start.sh" timestamp="1532346041261">
         <mark key="[" line="17" column="59" />
@@ -793,57 +805,51 @@
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>data</text>
+        <text>ResponseEntity</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>FORBIDDEN</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>FORBIDDEN</text>
+        <text>ErrorResponse</text>
       </register>
       <register name="/" type="4">
         <text>applyCont</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIuc2V0RXJyb3JDb2RlKGVycm9yQ29kZS5nZXRDb2RlKCkpOwogICAgICAgIGhlYWRlci5zZXRFcnJvck1lc3NhZ2UoZXJyb3JDb2RlLmdldERlc2NyaXB0aW9uKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHJlc3BvbnNlQnVpbGRlci5idWlsZE5vdEZvdW5kUmVzcG9uc2UoT2ZmZXJFcnJvckNvZGUuRTEpKQogICAgICAgICAgICAgICAgLnRoZW5SZXR1cm4obm90Rm91bmRSZXNwb25zZShPZmZlckVycm9yQ29kZS5FMSkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>public ErrorResponse buildBadRequestResponse(MessageCode errorCode) {
-        Header header = createHeader(HttpStatus.BAD_REQUEST);
-        header.setErrorCode(errorCode.getCode());
-        header.setErrorMessage(errorCode.getDescription());
-
-        ErrorResponse response = new ErrorResponse();
-        response.setHeader(header);
-        return response;
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5odHRwY2xpZW50Lm1ldGhvZHMuUmVxdWVzdEVudGl0eTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLmZ4LmV4Y2VwdGlvbi5zY2VuYXJpby5TY2VuYXJpb05vdEZvdW5kRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRW50aXR5PD4ocmVzcG9uc2UsIEh0dHBTdGF0dXMuTk9UX0ZPVU5EKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLmZ4LmV4Y2VwdGlvbi5zY2VuYXJpby5TY2VuYXJpb0ZvcmJpZGRlbkV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEh0dHBTdGF0dXMuSU5URVJOQUxfU0VSVkVSX0VSUk9SKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLmZ4LmV4Y2VwdGlvbi5zY2VuYXJpby5TY2VuYXJpb0ZvcmJpZGRlbkV4Y2VwdGlvbjsKaW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLmZ4LmV4Y2VwdGlvbi5zY2VuYXJpby5TY2VuYXJpb05vdEZvdW5kRXhjZXB0aW9uOwo=</text>
+      <register name="5" type="4">
+        <text>,
+                    HttpStatus.FORBIDDEN)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text>,
+                    HttpStatus.FORBIDDEN)</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aWYgKGUuZ2V0Q2F1c2UoKS5nZXRDbGFzcygpLmVxdWFscyhTY2VuYXJpb05vdEZvdW5kRXhjZXB0aW9uLmNsYXNzKSkgewogICAgICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRW50aXR5PD4ocmVzcG9uc2VCdWlsZGVyLmJ1aWxkQmFkUmVxdWVzdFJlc3BvbnNlKEVycm9yQ29kZS5FMzUpLAogICAgICAgICAgICAgICAgICAgIEh0dHBTdGF0dXMuRk9SQklEREVOKTsKICAgICAgICB9CgogICAgICAgIGlmIChlLmdldENhdXNlKCkuZ2V0Q2xhc3MoKS5lcXVhbHMoU2NlbmFyaW9Gb3JiaWRkZW5FeGNlcHRpb24uY2xhc3MpKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgUmVzcG9uc2VFbnRpdHk8PihyZXNwb25zZUJ1aWxkZXIuYnVpbGRCYWRSZXF1ZXN0UmVzcG9uc2UoRXJyb3JDb2RlLkUzNCksCiAgICAgICAgICAgICAgICAgICAgSHR0cFN0YXR1cy5GT1JCSURERU4pOwogICAgICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRW50aXR5PD4ocmVzcG9uc2UsIEh0dHBTdGF0dXMuRk9SQklEREVOKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRW50aXR5PD4ocmVzcG9uc2UsIEh0dHBTdGF0dXMuQkFEX1JFUVVFU1QpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
