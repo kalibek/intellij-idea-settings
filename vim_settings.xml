@@ -716,8 +716,12 @@
       <file name="/holders [data@localhost]" timestamp="1533541811401">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/leader/club/pom.xml" timestamp="1533800017464">
-        <mark key="'" line="12" column="0" />
+      <file name="$USER_HOME$/projects/leader/club/pom.xml" timestamp="1533800197859">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+        <mark key="^" line="11" column="26" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/runner/CommandLineAppStartupRunner.java" timestamp="1531293529390">
         <mark key="[" line="27" column="12" />
@@ -958,8 +962,8 @@
       <register name="a" type="4">
         <text>ResponseEntity</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxhcnRpZmFjdElkPmNsdWI8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
@@ -974,31 +978,31 @@
         <text>org.springframework.boot</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIDxhcnRpZmFjdElkPmNsdWI8L2FydGlmYWN0SWQ+Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy13ZWI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjUuMC44LlJFTEVBU0U8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5SZXNwb25zZUVudGl0eQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRGb3JFbnRpdHkoIi9tZXNzYWdlcyIsIEFycmF5OjpjbGFzcy5qYXZhKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBVc2VyIG93bmVyID0gbmV3IFVzZXIoKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBDb21wYW55IGNvbXBhbnkgPSBuZXcgQ29tcGFueSgpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb21wYW55LnNldEJ1c2luZXNzSWQoIm93bmVyX2NvbXBhbnlfYnVzaW5lc3NfaWQiKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvd25lci5zZXRDb21wYW55KGNvbXBhbnkpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIG93bmVyQ29tcGFueTsK</text>
+        <text encoding="base64">ICAgICAgICBvd25lci5zZXRDb21wYW55KGNvbXBhbnkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
