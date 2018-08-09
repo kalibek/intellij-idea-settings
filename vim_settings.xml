@@ -157,7 +157,6 @@
         <mark key="^" line="19" column="5" />
         <mark key="." line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/fx/vx-connect/src/test/java/com/wktransportservices/connect/fx/rest/controller/FreightOfferController_XMLTest.java" timestamp="1533790456451" />
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/enums/cd/CompanyDirectoryPrivateType.java" timestamp="1533103548664">
         <mark key="[" line="9" column="37" />
         <mark key="]" line="9" column="43" />
@@ -210,7 +209,6 @@
         <mark key="." line="23" column="27" />
         <mark key="^" line="23" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/search/impl/MatchingDAO.java" timestamp="1533715607932" />
       <file name="$USER_HOME$/projects/fx/docker/asb-local/docker-compose.yml" timestamp="1532345703824">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="21" column="17" />
@@ -272,7 +270,7 @@
         <mark key="^" line="41" column="78" />
         <mark key="." line="41" column="78" />
       </file>
-      <file name="$USER_HOME$/projects/leader/push/pom.xml" timestamp="1533801052979">
+      <file name="$USER_HOME$/projects/leader/push/pom.xml" timestamp="1533801990838">
         <mark key="[" line="42" column="11" />
         <mark key="]" line="43" column="7" />
         <mark key="." line="43" column="7" />
@@ -441,11 +439,11 @@
         <mark key="." line="148" column="86" />
         <mark key="^" line="148" column="85" />
       </file>
-      <file name="$USER_HOME$/projects/leader/club/src/main/resources/db/migration/V001__init.sql" timestamp="1533709098380">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="4" column="1" />
-        <mark key="^" line="4" column="1" />
-        <mark key="." line="4" column="1" />
+      <file name="$USER_HOME$/projects/leader/club/src/main/resources/db/migration/V001__init.sql" timestamp="1533801840875">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
       </file>
       <file name="$USER_HOME$/projects/simple/main.go" timestamp="1530533409045">
         <mark key="[" line="33" column="22" />
@@ -529,11 +527,11 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/leader/push/src/main/kotlin/push/Application.kt" timestamp="1533798822746">
-        <mark key="[" line="30" column="27" />
-        <mark key="]" line="30" column="27" />
-        <mark key="^" line="30" column="27" />
-        <mark key="." line="30" column="27" />
+      <file name="$USER_HOME$/projects/leader/push/src/main/kotlin/push/Application.kt" timestamp="1533801437689">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="23" column="41" />
+        <mark key="^" line="23" column="41" />
+        <mark key="." line="23" column="41" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/exception/ScenarioNotFoundException.java" timestamp="1533724599577">
         <mark key="[" line="2" column="64" />
@@ -666,7 +664,7 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533789153741">
+      <file name="/Dummy.txt" timestamp="1533801810452">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="59" />
@@ -675,12 +673,12 @@
       <file name="/holders [data@localhost]" timestamp="1533541811401">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/leader/club/pom.xml" timestamp="1533801045941">
+      <file name="$USER_HOME$/projects/leader/club/pom.xml" timestamp="1533801775591">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="52" column="85" />
-        <mark key="." line="21" column="29" />
-        <mark key="^" line="23" column="3" />
+        <mark key="[" line="35" column="35" />
+        <mark key="]" line="34" column="32" />
+        <mark key="." line="34" column="32" />
+        <mark key="^" line="34" column="32" />
       </file>
       <file name="$USER_HOME$/projects/amq-test/src/main/java/com/example/amqtest/runner/CommandLineAppStartupRunner.java" timestamp="1531293529390">
         <mark key="[" line="27" column="12" />
@@ -798,11 +796,11 @@
       <file name="/fragment.java" timestamp="1533794088603">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/leader/club/src/main/kotlin/club/Application.kt" timestamp="1533725899015">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="17" column="55" />
-        <mark key="." line="14" column="1" />
+      <file name="$USER_HOME$/projects/leader/club/src/main/kotlin/club/Application.kt" timestamp="1533801968046">
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="16" column="75" />
+        <mark key="^" line="16" column="75" />
+        <mark key="." line="16" column="75" />
       </file>
     </filemarks>
     <jumps>
@@ -912,13 +910,13 @@
         <text>ResponseEntity</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8c291cmNlRGlyZWN0b3J5PiR7cHJvamVjdC5iYXNlZGlyfS9zcmMvbWFpbi9rb3RsaW48L3NvdXJjZURpcmVjdG9yeT4KICAgICAgICA8dGVzdFNvdXJjZURpcmVjdG9yeT4ke3Byb2plY3QuYmFzZWRpcn0vc3JjL3Rlc3Qva290bGluPC90ZXN0U291cmNlRGlyZWN0b3J5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9tb2R1bGVzPg==</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>owner</text>
@@ -927,31 +925,31 @@
         <text encoding="base64">ICAgICAgICA8c291cmNlRGlyZWN0b3J5PiR7cHJvamVjdC5iYXNlZGlyfS9zcmMvbWFpbi9rb3RsaW48L3NvdXJjZURpcmVjdG9yeT4KICAgICAgICA8dGVzdFNvdXJjZURpcmVjdG9yeT4ke3Byb2plY3QuYmFzZWRpcn0vc3JjL3Rlc3Qva290bGluPC90ZXN0U291cmNlRGlyZWN0b3J5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxtb2RlbFZlcnNpb24+NC4wLjA8L21vZGVsVmVyc2lvbj4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDxhcnRpZmFjdElkPmNsdWI8L2FydGlmYWN0SWQ+Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy13ZWI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjUuMC44LlJFTEVBU0U8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5tb2R1bGU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmphc2tzb24tbW9kdWxlLWtvdGxpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHtqYWNrc29uLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxtb2RlbFZlcnNpb24+NC4wLjA8L21vZGVsVmVyc2lvbj4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxhcnRpZmFjdElkPmNsdWI8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5SZXNwb25zZUVudGl0eQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRGb3JFbnRpdHkoIi9tZXNzYWdlcyIsIEFycmF5OjpjbGFzcy5qYXZhKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy13ZWI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjUuMC44LlJFTEVBU0U8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIG93bmVyID0gbmV3IFVzZXIoKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5SZXNwb25zZUVudGl0eQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wYW55IGNvbXBhbnkgPSBuZXcgQ29tcGFueSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRGb3JFbnRpdHkoIi9tZXNzYWdlcyIsIEFycmF5OjpjbGFzcy5qYXZhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wYW55LnNldEJ1c2luZXNzSWQoIm93bmVyX2NvbXBhbnlfYnVzaW5lc3NfaWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIG93bmVyID0gbmV3IFVzZXIoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
