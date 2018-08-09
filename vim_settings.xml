@@ -786,6 +786,12 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/CompanyHierarchyLevelResolver.java" timestamp="1533807414489">
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="22" column="39" />
+        <mark key="." line="22" column="39" />
+        <mark key="^" line="22" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/src/main/java/com/wktransportservices/fx/bi/service/SearchEventPublisherBean.java" timestamp="1532671652050">
         <mark key="[" line="2" column="76" />
         <mark key="]" line="2" column="76" />
@@ -988,46 +994,48 @@
         <text>ResponseEntity</text>
       </register>
       <register name="&quot;" type="4">
-        <text>int</text>
+        <text>!</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>owner</text>
       </register>
-      <register name="0" type="4">
-        <text>NNQ_CHECK_HIERARCHY_ID_QUERY</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgVXNlciBwb3N0ZXI7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wYW55IG93bmVyQ29tcGFueSA9IGNvbXBhbnlNYW5hZ2VyLmdldEJ5QnVzaW5lc3NJZChvd25lci5nZXRDb21wYW55KCkuZ2V0QnVzaW5lc3NJZCgpKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IAogICAgICAgICAgICAgICAg</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wYW55IHBvc3RlckNvbXBhbnkgPSBjb21wYW55TWFuYWdlci5nZXRCeUJ1c2luZXNzSWQocG9zdGVyLmdldENvbXBhbnkoKS5nZXRCdXNpbmVzc0lkKCkpOwo=</text>
+      <register name="2" type="4">
+        <text>public CompanyHierarchyLevelResolver(User poster, User owner) {
+        
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBISUVSQVJDSFlfSUQgPSAiSElFUkFSQ0hZX0lEIjsK</text>
+        <text encoding="base64">ICAgICAgICBDb21wYW55IG93bmVyQ29tcGFueSA9IGNvbXBhbnlNYW5hZ2VyLmdldEJ5QnVzaW5lc3NJZChvd25lci5nZXRDb21wYW55KCkuZ2V0QnVzaW5lc3NJZCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBDbwogICAgcHJpdmF0ZSBpbnQgaGllcmFyY2h5SWQK</text>
+        <text encoding="base64">ICAgICAgICBDb21wYW55IHBvc3RlckNvbXBhbnkgPSBjb21wYW55TWFuYWdlci5nZXRCeUJ1c2luZXNzSWQocG9zdGVyLmdldENvbXBhbnkoKS5nZXRCdXNpbmVzc0lkKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlubmVyIGpvaW4gY29tcGFuaWVzIGMyIG9uIG93bmVyLmNvbXBhbnlfaWQgPSBjMi5jb21wYW55X2lkCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBISUVSQVJDSFlfSUQgPSAiSElFUkFSQ0hZX0lEIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlubmVyIGpvaW4gdXNlcnMgcG9zdGVyIG9uIHBvc3RlciA9ICdmbWljaG90dGUnCg==</text>
+        <text encoding="base64">ICAgIEBDbwogICAgcHJpdmF0ZSBpbnQgaGllcmFyY2h5SWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlubmVyIGpvaW4gdXNlcnMgcG9zdGVyIG9uIHBvc3RlciA9ICdmbWljaG90dGUnCg==</text>
+        <text encoding="base64">ICAgIGlubmVyIGpvaW4gY29tcGFuaWVzIGMyIG9uIG93bmVyLmNvbXBhbnlfaWQgPSBjMi5jb21wYW55X2lkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlubmVyIGpvaW4gY29tcGFuaWVzIGMgb24gb3duZXIuY29tcGFueV9pZCA9IGMuY29tcGFueV9pZAo=</text>
+        <text encoding="base64">ICAgIGlubmVyIGpvaW4gdXNlcnMgcG9zdGVyIG9uIHBvc3RlciA9ICdmbWljaG90dGUnCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">c2VsZWN0IGMuaGllcmFyY2h5X2lkIGZyb20gdXNlcnMgdQogIGlubmVyIGpvaW4gY29tcGFuaWVzIGMgb24gdS5jb21wYW55X2lkID0gYy5jb21wYW55X2lkCiAgd2hlcmUg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGlubmVyIGpvaW4gdXNlcnMgcG9zdGVyIG9uIHBvc3RlciA9ICdmbWljaG90dGUnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
