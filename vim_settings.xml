@@ -341,6 +341,12 @@
         <mark key="^" line="56" column="7" />
         <mark key="." line="83" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/users/users_local.properties" timestamp="1533900008461">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/jms/EsbMessageQueueReceiverBean.java" timestamp="1530696942983">
         <mark key="[" line="67" column="29" />
         <mark key="]" line="67" column="29" />
@@ -442,6 +448,12 @@
         <mark key="]" line="3" column="40" />
         <mark key="^" line="3" column="40" />
         <mark key="." line="3" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/README.md" timestamp="1533901680810">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="2" />
+        <mark key="^" line="1" column="2" />
+        <mark key="." line="1" column="2" />
       </file>
       <file name="$USER_HOME$/projects/balance/docker-compose.yml" timestamp="1533275797303">
         <mark key="'" line="7" column="34" />
@@ -824,7 +836,7 @@
         <mark key="^" line="25" column="86" />
         <mark key="." line="25" column="86" />
       </file>
-      <file name="/fragment.java" timestamp="1533878551496">
+      <file name="/fragment.java" timestamp="1533901059217">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/leader/club/src/main/kotlin/club/Application.kt" timestamp="1533801968046">
@@ -946,19 +958,19 @@
         <text>ResponseEntity</text>
       </register>
       <register name="&quot;" type="4">
-        <text>using second user from this FX company with FX subscription with posting rights</text>
+        <text>2</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>using second user from this FX company with FX subscription with posting rights</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>post freight offer</text>
       </register>
-      <register name="0" type="4">
-        <text>using second user with FX subscription with posting rights</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2Vjb25kLnBhc3N3b3JkPXRlc3QwMQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
