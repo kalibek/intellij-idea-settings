@@ -356,11 +356,12 @@
         <mark key="^" line="2" column="63" />
         <mark key="." line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" timestamp="1533873815031">
-        <mark key="[" line="42" column="10" />
-        <mark key="]" line="42" column="10" />
-        <mark key="^" line="42" column="10" />
-        <mark key="." line="42" column="10" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" timestamp="1533875166291">
+        <mark key="'" line="131" column="9" />
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="8" />
+        <mark key="^" line="131" column="9" />
+        <mark key="." line="2" column="8" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/jms/EsbMessageQueueReceiverBean.java" timestamp="1530696942983">
         <mark key="[" line="67" column="29" />
@@ -867,17 +868,13 @@
         <mark key="^" line="16" column="75" />
         <mark key="." line="16" column="75" />
       </file>
+      <file name="$USER_HOME$/projects/scenario" timestamp="1533874781541">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="515" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="3" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" />
-      <jump line="155" column="3" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" />
-      <jump line="156" column="3" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" />
-      <jump line="28" column="61" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/security_dev.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_sprint.properties" />
-      <jump line="29" column="52" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapperTest.java" />
-      <jump line="115" column="4" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapperTest.java" />
-      <jump line="26" column="23" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapperTest.java" />
-      <jump line="106" column="8" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapperTest.java" />
       <jump line="96" column="8" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapperTest.java" />
       <jump line="30" column="27" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapperTest.java" />
       <jump line="89" column="8" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/mapper/SmartDirectoryMapperTest.java" />
@@ -969,37 +966,46 @@
       <jump line="45" column="0" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/UserManager.java" />
       <jump line="195" column="29" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/entity/social/User.java" />
       <jump line="291" column="8" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/UserManager.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
+      <jump line="512" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
+      <jump line="516" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/scenario" />
+      <jump line="517" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
+      <jump line="33" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
+      <jump line="505" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
+      <jump line="130" column="9" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ResponseEntity</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>9</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LiA=</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>owner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgQW5kIHRoZSBuZXcgRnJlaWdodCBvZmZlciBpcyBzaG93biBvbiBVSQo=</text>
+        <text encoding="base64">IyBTdGVwIDE5IFZFSElDTEUgT0ZGRVJTCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IyBTdGVwIDE4CiAgRlggQmlkZGFibGUgT2ZmZXIKCiAgaHR0cHM6Ly9pc3N1ZXMud2t0cy5ldS9icm93c2UvRlgtMTE0MTEK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBtZXRob2QgUFVUIGZ4SG9zdC9hcGkvZnJlaWdodHMvdjEvb2ZmZXJzL2V4dGVybmFsSWQK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IyBTdGVwIDE4CiAgRlggQmlkZGFibGUgT2ZmZXIKCiAgaHR0cHM6Ly9pc3N1ZXMud2t0cy5ldS9icm93c2UvRlgtMTE0MTEKCiMgU3RlcCAxOQogIFZFSElDTEUgT0ZGRVJTCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICNBbmQgIG5ldyBGcmVpZ2h0IG9mZmVyIGlzIHNob3duIG9uIFVJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1008,13 +1014,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBOTlFfQ0hFQ0tfSElFUkFSQ0hZX0lEX1FVRVJZID0gIiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBOTlFfQ0hFQ0tfSElFUkFSQ0hZX0lEID0gIlVzZXIuY2hlY2tIaWVyYXJjaHlJZCI7Cg==</text>
+        <text encoding="base64">ICBmeEhvc3QvYXBpL2ZyZWlnaHRzL3YxL29mZmVycy9leHRlcm5hbElkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
