@@ -330,12 +330,12 @@
         <mark key="^" line="2" column="63" />
         <mark key="." line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" timestamp="1533878854215">
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" timestamp="1533879467072">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="39" column="59" />
+        <mark key="[" line="45" column="91" />
+        <mark key="]" line="45" column="91" />
         <mark key="^" line="22" column="81" />
-        <mark key="." line="22" column="81" />
+        <mark key="." line="45" column="91" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/jms/EsbMessageQueueReceiverBean.java" timestamp="1530696942983">
         <mark key="[" line="67" column="29" />
@@ -419,11 +419,10 @@
       <file name="/cd_companies [tfx_data@localhost]" timestamp="1533102303078">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/tmp.feature" timestamp="1533878863045">
-        <mark key="'" line="39" column="59" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/tmp.feature" timestamp="1533879374251">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/cd_comp_access [tfx_data@localhost]" timestamp="1533102311265">
         <mark key="[" line="0" column="0" />
@@ -943,13 +942,13 @@
         <text>ResponseEntity</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">RmVhdHVyZTogRlgtMTEzOTggW0FQSV0gLSBGWCAtIEFsaWduIEFQSSBvZmZlcklkIGhhbmRsaW5nCgogIFNjZW5hcmlvOiBDcmVhdGVkIG9mZmVyIGhhcyBnZW5lcmF0ZWQgb2ZmZXJJZCBhbmQgZXh0ZXJuYWxTeXN0ZW1JZAogICAgR2l2ZW4gdXNlciBoYXMgRlggc3Vic2NyaXB0aW9uIHdpdGggcG9zdGluZyByaWdodHMKICAgIFdoZW4gUE9TVCBmcmVpZ2h0IG9mZmVyIHdpdGggImpzb24vb2ZmZXJzL3ZhbGlkX29mZmVyLmpzb24iCiAgICBUaGVuIHJlc3BvbnNlIGNvZGUgc2hvdWxkIGJlICIyMDEiCiAgICBBbmQgY29udGFpbiAiY29udGVudC5vZmZlcklkIiB2YWx1ZQogICAgQW5kIGNvbnRhaW4gImNvbnRlbnQuZXh0ZXJuYWxJZCIgdmFsdWUKICAgIEFuZCAiY29udGVudC5vZmZlcklkIiB3aXRoICJjb250ZW50LmV4dGVybmFsSWQiIGlzIGVxdWFsCiAgICAjIHRoZSBuZXcgRnJlaWdodCBvZmZlciBpcyBzaG93biBvbiBVSQo=</text>
+        <text encoding="base64">ID0gMTIzNDU2</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text encoding="base64">ID0gMTIzNDU2</text>
       </register>
       <register name="/" type="4">
         <text>post freight offer</text>
@@ -957,34 +956,34 @@
       <register name="0" type="4">
         <text encoding="base64">RmVhdHVyZTogRlgtMTEzOTggW0FQSV0gLSBGWCAtIEFsaWduIEFQSSBvZmZlcklkIGhhbmRsaW5nCgojIFN0ZXAgMSBGUkVJR0hUIE9GRkVSUwojIFN0ZXAgMwogIFNjZW5hcmlvOiBDcmVhdGVkIG9mZmVyIHNob3VsZCBwcm92aWRlIHNlbGYgcmVmZXJlbmNlIGluIGxpbmtzIHNlY3Rpb24KICAgIEdpdmVuIHVzZXIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBPU1QgZnJlaWdodCBvZmZlciB3aXRoICJqc29uL29mZmVycy92YWxpZF9vZmZlci5qc29uIiBhbmQgc2F2ZSByZWZlcmVuY2UKICAgIFRoZW4gbGlua3Mgc2VjdGlvbiBjb250YWlucyBzZWxmIGxpbmsgd2l0aCByZWZlcmVuY2UKCiMgU3RlcCA0CiAgU2NlbmFyaW86IENyZWF0ZWQgb2ZmZXIgaGFzIGdlbmVyYXRlZCBvZmZlcklkIGFuZCBleHRlcm5hbFN5c3RlbUlkCiAgICBHaXZlbiB1c2VyIGhhcyBGWCBzdWJzY3JpcHRpb24gd2l0aCBwb3N0aW5nIHJpZ2h0cwogICAgV2hlbiBQT1NUIGZyZWlnaHQgb2ZmZXIgd2l0aCAianNvbi9vZmZlcnMvdmFsaWRfb2ZmZXIuanNvbiIKICAgIFRoZW4gcmVzcG9uc2UgY29kZSBzaG91bGQgYmUgIjIwMSIKICAgIEFuZCBjb250YWluICJjb250ZW50Lm9mZmVySWQiIHZhbHVlCiAgICBBbmQgY29udGFpbiAiY29udGVudC5leHRlcm5hbElkIiB2YWx1ZQogICAgQW5kICJjb250ZW50Lm9mZmVySWQiIHdpdGggImNvbnRlbnQuZXh0ZXJuYWxJZCIgaXMgZXF1YWwKICAgICMgdGhlIG5ldyBGcmVpZ2h0IG9mZmVyIGlzIHNob3duIG9uIFVJCgojIFN0ZXAgNQogIFNjZW5hcmlvOiBDcmVhdGVkIG9mZmVyIHNob3VsZCBwcm92aWRlIHNlbGYgZXh0ZXJuYWxJZCBpbiBsaW5rcyBzZWN0aW9uCiAgICBHaXZlbiB1c2VyIGhhcyBGWCBzdWJzY3JpcHRpb24gd2l0aCBwb3N0aW5nIHJpZ2h0cwogICAgV2hlbiBQT1NUIGZyZWlnaHQgb2ZmZXIgd2l0aCAianNvbi9vZmZlcnMvdmFsaWRfb2ZmZXIuanNvbiIgYW5kIHNhdmUgcmVmZXJlbmNlCiAgICBUaGVuIGxpbmtzIHNlY3Rpb24gY29udGFpbnMgc2VsZiBsaW5rIHdpdGggZXh0ZXJuYWxJZAoKIyBTdGVwIDYKICBTY2VuYXJpbzogQ3JlYXRlIG9mZmVyIHdpdGggY3VzdG9tIGV4dGVybmFsSWQgaWQKICAgIEdpdmVuIHVzZXIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBVVCBuZXcgZnJlaWdodCBvZmZlciB3aXRoICJqc29uL29mZmVycy92YWxpZF9vZmZlci5qc29uIiBhbmQgY3VzdG9tIGV4dGVybmFsSWQKICAgIFRoZW4gcmVzcG9uc2UgY29kZSBzaG91bGQgYmUgIjIwMSIKICAgIEFuZCBjb250YWluICJjb250ZW50Lm9mZmVySWQiIHZhbHVlCiAgICBBbmQgY29udGFpbiAiY29udGVudC5leHRlcm5hbElkIiB2YWx1ZQogICAgQW5kICJjb250ZW50Lm9mZmVySWQiIHdpdGggImNvbnRlbnQuZXh0ZXJuYWxJZCIgaXMgbm90IGVxdWFsCiAgICAjIHRoZSBuZXcgRnJlaWdodCBvZmZlciBpcyBzaG93biBvbiBVSQoKIyBTdGVwIDcKICBTY2VuYXJpbzogQ3JlYXRlIG9mZmVyIHdpdGggY3VzdG9tIGV4dGVybmFsSWQgaWQsIGxpbmsKICAgIEdpdmVuIHVzZXIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBVVCBuZXcgZnJlaWdodCBvZmZlciB3aXRoICJqc29uL29mZmVycy92YWxpZF9vZmZlci5qc29uIiBhbmQgY3VzdG9tIGV4dGVybmFsSWQKICAgIFRoZW4gcmVzcG9uc2Ugc2hvdWxkIGNvbnRhaW4gY3VzdG9tIGV4dGVybmFsSWQgZnJvbSBVUkwK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CiMgU3RlcCAxIEZSRUlHSFQgT0ZGRVJTCiMgU3RlcCAzCiAgU2NlbmFyaW86IENyZWF0ZWQgb2ZmZXIgc2hvdWxkIHByb3ZpZGUgc2VsZiByZWZlcmVuY2UgaW4gbGlua3Mgc2VjdGlvbgogICAgR2l2ZW4gdXNlciBoYXMgRlggc3Vic2NyaXB0aW9uIHdpdGggcG9zdGluZyByaWdodHMKICAgIFdoZW4gUE9TVCBmcmVpZ2h0IG9mZmVyIHdpdGggImpzb24vb2ZmZXJzL3ZhbGlkX29mZmVyLmpzb24iIGFuZCBzYXZlIHJlZmVyZW5jZQogICAgVGhlbiBsaW5rcyBzZWN0aW9uIGNvbnRhaW5zIHNlbGYgbGluayB3aXRoIHJlZmVyZW5jZQoKIyBTdGVwIDQKICBTY2VuYXJpbzogQ3JlYXRlZCBvZmZlciBoYXMgZ2VuZXJhdGVkIG9mZmVySWQgYW5kIGV4dGVybmFsU3lzdGVtSWQKICAgIEdpdmVuIHVzZXIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBPU1QgZnJlaWdodCBvZmZlciB3aXRoICJqc29uL29mZmVycy92YWxpZF9vZmZlci5qc29uIgogICAgVGhlbiByZXNwb25zZSBjb2RlIHNob3VsZCBiZSAiMjAxIgogICAgQW5kIGNvbnRhaW4gImNvbnRlbnQub2ZmZXJJZCIgdmFsdWUKICAgIEFuZCBjb250YWluICJjb250ZW50LmV4dGVybmFsSWQiIHZhbHVlCiAgICBBbmQgImNvbnRlbnQub2ZmZXJJZCIgd2l0aCAiY29udGVudC5leHRlcm5hbElkIiBpcyBlcXVhbAogICAgIyB0aGUgbmV3IEZyZWlnaHQgb2ZmZXIgaXMgc2hvd24gb24gVUkKCiMgU3RlcCA1CiAgU2NlbmFyaW86IENyZWF0ZWQgb2ZmZXIgc2hvdWxkIHByb3ZpZGUgc2VsZiBleHRlcm5hbElkIGluIGxpbmtzIHNlY3Rpb24KICAgIEdpdmVuIHVzZXIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBPU1QgZnJlaWdodCBvZmZlciB3aXRoICJqc29uL29mZmVycy92YWxpZF9vZmZlci5qc29uIiBhbmQgc2F2ZSByZWZlcmVuY2UKICAgIFRoZW4gbGlua3Mgc2VjdGlvbiBjb250YWlucyBzZWxmIGxpbmsgd2l0aCBleHRlcm5hbElkCgojIFN0ZXAgNgogIFNjZW5hcmlvOiBDcmVhdGUgb2ZmZXIgd2l0aCBjdXN0b20gZXh0ZXJuYWxJZCBpZAogICAgR2l2ZW4gdXNlciBoYXMgRlggc3Vic2NyaXB0aW9uIHdpdGggcG9zdGluZyByaWdodHMKICAgIFdoZW4gUFVUIG5ldyBmcmVpZ2h0IG9mZmVyIHdpdGggImpzb24vb2ZmZXJzL3ZhbGlkX29mZmVyLmpzb24iIGFuZCBjdXN0b20gZXh0ZXJuYWxJZAogICAgVGhlbiByZXNwb25zZSBjb2RlIHNob3VsZCBiZSAiMjAxIgogICAgQW5kIGNvbnRhaW4gImNvbnRlbnQub2ZmZXJJZCIgdmFsdWUKICAgIEFuZCBjb250YWluICJjb250ZW50LmV4dGVybmFsSWQiIHZhbHVlCiAgICBBbmQgImNvbnRlbnQub2ZmZXJJZCIgd2l0aCAiY29udGVudC5leHRlcm5hbElkIiBpcyBub3QgZXF1YWwKICAgICMgdGhlIG5ldyBGcmVpZ2h0IG9mZmVyIGlzIHNob3duIG9uIFVJCgojIFN0ZXAgNwogIFNjZW5hcmlvOiBDcmVhdGUgb2ZmZXIgd2l0aCBjdXN0b20gZXh0ZXJuYWxJZCBpZCwgbGluawogICAgR2l2ZW4gdXNlciBoYXMgRlggc3Vic2NyaXB0aW9uIHdpdGggcG9zdGluZyByaWdodHMKICAgIFdoZW4gUFVUIG5ldyBmcmVpZ2h0IG9mZmVyIHdpdGggImpzb24vb2ZmZXJzL3ZhbGlkX29mZmVyLmpzb24iIGFuZCBjdXN0b20gZXh0ZXJuYWxJZAogICAgVGhlbiByZXNwb25zZSBzaG91bGQgY29udGFpbiBjdXN0b20gZXh0ZXJuYWxJZCBmcm9tIFVSTAo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">RmVhdHVyZTogRlgtMTEzOTggW0FQSV0gLSBGWCAtIEFsaWduIEFQSSBvZmZlcklkIGhhbmRsaW5nCgogIFNjZW5hcmlvOiBDcmVhdGVkIG9mZmVyIGhhcyBnZW5lcmF0ZWQgb2ZmZXJJZCBhbmQgZXh0ZXJuYWxTeXN0ZW1JZAogICAgR2l2ZW4gdXNlciBoYXMgRlggc3Vic2NyaXB0aW9uIHdpdGggcG9zdGluZyByaWdodHMKICAgIFdoZW4gUE9TVCBmcmVpZ2h0IG9mZmVyIHdpdGggImpzb24vb2ZmZXJzL3ZhbGlkX29mZmVyLmpzb24iCiAgICBUaGVuIHJlc3BvbnNlIGNvZGUgc2hvdWxkIGJlICIyMDEiCiAgICBBbmQgY29udGFpbiAiY29udGVudC5vZmZlcklkIiB2YWx1ZQogICAgQW5kIGNvbnRhaW4gImNvbnRlbnQuZXh0ZXJuYWxJZCIgdmFsdWUKICAgIEFuZCAiY29udGVudC5vZmZlcklkIiB3aXRoICJjb250ZW50LmV4dGVybmFsSWQiIGlzIGVxdWFsCiAgICAjIHRoZSBuZXcgRnJlaWdodCBvZmZlciBpcyBzaG93biBvbiBVSQo=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKHJlc3BvbnNlLjxTdHJpbmc+cGF0aChmaWVsZDEpLCByZXNwb25zZS48U3RyaW5nPnBhdGgoZmllbGQyKSk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>// Write code here that turns the phrase above into concrete actions
             throw new PendingException();</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UucGF0aChmaWVsZDIpOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UucGF0aChmaWVsZDIpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">IyBTdGVwIDMKICBTY2VuYXJpbzogQ3JlYXRlZCBvZmZlciBzaG91bGQgcHJvdmlkZSBzZWxmIHJlZmVyZW5jZSBpbiBsaW5rcyBzZWN0aW9uCiAgICBHaXZlbiB1c2VyIGhhcyBGWCBzdWJzY3JpcHRpb24gd2l0aCBwb3N0aW5nIHJpZ2h0cwogICAgV2hlbiBQT1NUIGZyZWlnaHQgb2ZmZXIgd2l0aCAianNvbi9vZmZlcnMvdmFsaWRfb2ZmZXIuanNvbiIgYW5kIHNhdmUgcmVmZXJlbmNlCiAgICBUaGVuIGxpbmtzIHNlY3Rpb24gY29udGFpbnMgc2VsZiBsaW5rIHdpdGggcmVmZXJlbmNlCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>// Write code here that turns the phrase above into concrete actions
             throw new PendingException();</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIEdpdmVuIHVzZXIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFdoZW4gUE9TVCBmcmVpZ2h0IG9mZmVyIHdpdGggImpzb24vb2ZmZXJzL3ZhbGlkX29mZmVyLmpzb24iIGFuZCBzYXZlIHJlZmVyZW5jZQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRoZW4gbGlua3Mgc2VjdGlvbiBjb250YWlucyBzZWxmIGxpbmsgd2l0aCByZWZlcmVuY2UK</text>
+        <text encoding="base64">ICAgIFdoZW4gUE9TVCBmcmVpZ2h0IG9mZmVyIHdpdGggImpzb24vb2ZmZXJzL3ZhbGlkX29mZmVyLmpzb24iIGFuZCBzYXZlIHJlZmVyZW5jZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
