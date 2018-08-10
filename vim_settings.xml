@@ -206,6 +206,10 @@
         <mark key="[" line="23" column="24" />
         <mark key="]" line="23" column="44" />
       </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11426_align_api_offer_ID.feature" timestamp="1533897022612">
+        <mark key="[" line="51" column="8" />
+        <mark key="]" line="51" column="65" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/smart-scenario.ftl" timestamp="1533635005060">
         <mark key="[" line="22" column="24" />
         <mark key="]" line="22" column="43" />
@@ -330,12 +334,12 @@
         <mark key="^" line="2" column="63" />
         <mark key="." line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" timestamp="1533879467072">
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" timestamp="1533897536622">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="45" column="91" />
-        <mark key="]" line="45" column="91" />
-        <mark key="^" line="22" column="81" />
-        <mark key="." line="45" column="91" />
+        <mark key="[" line="83" column="8" />
+        <mark key="]" line="83" column="66" />
+        <mark key="^" line="56" column="7" />
+        <mark key="." line="83" column="8" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/offeraction/manager/jms/EsbMessageQueueReceiverBean.java" timestamp="1530696942983">
         <mark key="[" line="67" column="29" />
@@ -942,48 +946,58 @@
         <text>ResponseEntity</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID0gMTIzNDU2</text>
+        <text>using second user from this FX company with FX subscription with posting rights</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gMTIzNDU2</text>
+        <text>using second user from this FX company with FX subscription with posting rights</text>
       </register>
       <register name="/" type="4">
         <text>post freight offer</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">RmVhdHVyZTogRlgtMTEzOTggW0FQSV0gLSBGWCAtIEFsaWduIEFQSSBvZmZlcklkIGhhbmRsaW5nCgojIFN0ZXAgMSBGUkVJR0hUIE9GRkVSUwojIFN0ZXAgMwogIFNjZW5hcmlvOiBDcmVhdGVkIG9mZmVyIHNob3VsZCBwcm92aWRlIHNlbGYgcmVmZXJlbmNlIGluIGxpbmtzIHNlY3Rpb24KICAgIEdpdmVuIHVzZXIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBPU1QgZnJlaWdodCBvZmZlciB3aXRoICJqc29uL29mZmVycy92YWxpZF9vZmZlci5qc29uIiBhbmQgc2F2ZSByZWZlcmVuY2UKICAgIFRoZW4gbGlua3Mgc2VjdGlvbiBjb250YWlucyBzZWxmIGxpbmsgd2l0aCByZWZlcmVuY2UKCiMgU3RlcCA0CiAgU2NlbmFyaW86IENyZWF0ZWQgb2ZmZXIgaGFzIGdlbmVyYXRlZCBvZmZlcklkIGFuZCBleHRlcm5hbFN5c3RlbUlkCiAgICBHaXZlbiB1c2VyIGhhcyBGWCBzdWJzY3JpcHRpb24gd2l0aCBwb3N0aW5nIHJpZ2h0cwogICAgV2hlbiBQT1NUIGZyZWlnaHQgb2ZmZXIgd2l0aCAianNvbi9vZmZlcnMvdmFsaWRfb2ZmZXIuanNvbiIKICAgIFRoZW4gcmVzcG9uc2UgY29kZSBzaG91bGQgYmUgIjIwMSIKICAgIEFuZCBjb250YWluICJjb250ZW50Lm9mZmVySWQiIHZhbHVlCiAgICBBbmQgY29udGFpbiAiY29udGVudC5leHRlcm5hbElkIiB2YWx1ZQogICAgQW5kICJjb250ZW50Lm9mZmVySWQiIHdpdGggImNvbnRlbnQuZXh0ZXJuYWxJZCIgaXMgZXF1YWwKICAgICMgdGhlIG5ldyBGcmVpZ2h0IG9mZmVyIGlzIHNob3duIG9uIFVJCgojIFN0ZXAgNQogIFNjZW5hcmlvOiBDcmVhdGVkIG9mZmVyIHNob3VsZCBwcm92aWRlIHNlbGYgZXh0ZXJuYWxJZCBpbiBsaW5rcyBzZWN0aW9uCiAgICBHaXZlbiB1c2VyIGhhcyBGWCBzdWJzY3JpcHRpb24gd2l0aCBwb3N0aW5nIHJpZ2h0cwogICAgV2hlbiBQT1NUIGZyZWlnaHQgb2ZmZXIgd2l0aCAianNvbi9vZmZlcnMvdmFsaWRfb2ZmZXIuanNvbiIgYW5kIHNhdmUgcmVmZXJlbmNlCiAgICBUaGVuIGxpbmtzIHNlY3Rpb24gY29udGFpbnMgc2VsZiBsaW5rIHdpdGggZXh0ZXJuYWxJZAoKIyBTdGVwIDYKICBTY2VuYXJpbzogQ3JlYXRlIG9mZmVyIHdpdGggY3VzdG9tIGV4dGVybmFsSWQgaWQKICAgIEdpdmVuIHVzZXIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBVVCBuZXcgZnJlaWdodCBvZmZlciB3aXRoICJqc29uL29mZmVycy92YWxpZF9vZmZlci5qc29uIiBhbmQgY3VzdG9tIGV4dGVybmFsSWQKICAgIFRoZW4gcmVzcG9uc2UgY29kZSBzaG91bGQgYmUgIjIwMSIKICAgIEFuZCBjb250YWluICJjb250ZW50Lm9mZmVySWQiIHZhbHVlCiAgICBBbmQgY29udGFpbiAiY29udGVudC5leHRlcm5hbElkIiB2YWx1ZQogICAgQW5kICJjb250ZW50Lm9mZmVySWQiIHdpdGggImNvbnRlbnQuZXh0ZXJuYWxJZCIgaXMgbm90IGVxdWFsCiAgICAjIHRoZSBuZXcgRnJlaWdodCBvZmZlciBpcyBzaG93biBvbiBVSQoKIyBTdGVwIDcKICBTY2VuYXJpbzogQ3JlYXRlIG9mZmVyIHdpdGggY3VzdG9tIGV4dGVybmFsSWQgaWQsIGxpbmsKICAgIEdpdmVuIHVzZXIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBVVCBuZXcgZnJlaWdodCBvZmZlciB3aXRoICJqc29uL29mZmVycy92YWxpZF9vZmZlci5qc29uIiBhbmQgY3VzdG9tIGV4dGVybmFsSWQKICAgIFRoZW4gcmVzcG9uc2Ugc2hvdWxkIGNvbnRhaW4gY3VzdG9tIGV4dGVybmFsSWQgZnJvbSBVUkwK</text>
+        <text>using second user with FX subscription with posting rights</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiMgU3RlcCAxIEZSRUlHSFQgT0ZGRVJTCiMgU3RlcCAzCiAgU2NlbmFyaW86IENyZWF0ZWQgb2ZmZXIgc2hvdWxkIHByb3ZpZGUgc2VsZiByZWZlcmVuY2UgaW4gbGlua3Mgc2VjdGlvbgogICAgR2l2ZW4gdXNlciBoYXMgRlggc3Vic2NyaXB0aW9uIHdpdGggcG9zdGluZyByaWdodHMKICAgIFdoZW4gUE9TVCBmcmVpZ2h0IG9mZmVyIHdpdGggImpzb24vb2ZmZXJzL3ZhbGlkX29mZmVyLmpzb24iIGFuZCBzYXZlIHJlZmVyZW5jZQogICAgVGhlbiBsaW5rcyBzZWN0aW9uIGNvbnRhaW5zIHNlbGYgbGluayB3aXRoIHJlZmVyZW5jZQoKIyBTdGVwIDQKICBTY2VuYXJpbzogQ3JlYXRlZCBvZmZlciBoYXMgZ2VuZXJhdGVkIG9mZmVySWQgYW5kIGV4dGVybmFsU3lzdGVtSWQKICAgIEdpdmVuIHVzZXIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBPU1QgZnJlaWdodCBvZmZlciB3aXRoICJqc29uL29mZmVycy92YWxpZF9vZmZlci5qc29uIgogICAgVGhlbiByZXNwb25zZSBjb2RlIHNob3VsZCBiZSAiMjAxIgogICAgQW5kIGNvbnRhaW4gImNvbnRlbnQub2ZmZXJJZCIgdmFsdWUKICAgIEFuZCBjb250YWluICJjb250ZW50LmV4dGVybmFsSWQiIHZhbHVlCiAgICBBbmQgImNvbnRlbnQub2ZmZXJJZCIgd2l0aCAiY29udGVudC5leHRlcm5hbElkIiBpcyBlcXVhbAogICAgIyB0aGUgbmV3IEZyZWlnaHQgb2ZmZXIgaXMgc2hvd24gb24gVUkKCiMgU3RlcCA1CiAgU2NlbmFyaW86IENyZWF0ZWQgb2ZmZXIgc2hvdWxkIHByb3ZpZGUgc2VsZiBleHRlcm5hbElkIGluIGxpbmtzIHNlY3Rpb24KICAgIEdpdmVuIHVzZXIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBPU1QgZnJlaWdodCBvZmZlciB3aXRoICJqc29uL29mZmVycy92YWxpZF9vZmZlci5qc29uIiBhbmQgc2F2ZSByZWZlcmVuY2UKICAgIFRoZW4gbGlua3Mgc2VjdGlvbiBjb250YWlucyBzZWxmIGxpbmsgd2l0aCBleHRlcm5hbElkCgojIFN0ZXAgNgogIFNjZW5hcmlvOiBDcmVhdGUgb2ZmZXIgd2l0aCBjdXN0b20gZXh0ZXJuYWxJZCBpZAogICAgR2l2ZW4gdXNlciBoYXMgRlggc3Vic2NyaXB0aW9uIHdpdGggcG9zdGluZyByaWdodHMKICAgIFdoZW4gUFVUIG5ldyBmcmVpZ2h0IG9mZmVyIHdpdGggImpzb24vb2ZmZXJzL3ZhbGlkX29mZmVyLmpzb24iIGFuZCBjdXN0b20gZXh0ZXJuYWxJZAogICAgVGhlbiByZXNwb25zZSBjb2RlIHNob3VsZCBiZSAiMjAxIgogICAgQW5kIGNvbnRhaW4gImNvbnRlbnQub2ZmZXJJZCIgdmFsdWUKICAgIEFuZCBjb250YWluICJjb250ZW50LmV4dGVybmFsSWQiIHZhbHVlCiAgICBBbmQgImNvbnRlbnQub2ZmZXJJZCIgd2l0aCAiY29udGVudC5leHRlcm5hbElkIiBpcyBub3QgZXF1YWwKICAgICMgdGhlIG5ldyBGcmVpZ2h0IG9mZmVyIGlzIHNob3duIG9uIFVJCgojIFN0ZXAgNwogIFNjZW5hcmlvOiBDcmVhdGUgb2ZmZXIgd2l0aCBjdXN0b20gZXh0ZXJuYWxJZCBpZCwgbGluawogICAgR2l2ZW4gdXNlciBoYXMgRlggc3Vic2NyaXB0aW9uIHdpdGggcG9zdGluZyByaWdodHMKICAgIFdoZW4gUFVUIG5ldyBmcmVpZ2h0IG9mZmVyIHdpdGggImpzb24vb2ZmZXJzL3ZhbGlkX29mZmVyLmpzb24iIGFuZCBjdXN0b20gZXh0ZXJuYWxJZAogICAgVGhlbiByZXNwb25zZSBzaG91bGQgY29udGFpbiBjdXN0b20gZXh0ZXJuYWxJZCBmcm9tIFVSTAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">RmVhdHVyZTogRlgtMTEzOTggW0FQSV0gLSBGWCAtIEFsaWduIEFQSSBvZmZlcklkIGhhbmRsaW5nCgogIFNjZW5hcmlvOiBDcmVhdGVkIG9mZmVyIGhhcyBnZW5lcmF0ZWQgb2ZmZXJJZCBhbmQgZXh0ZXJuYWxTeXN0ZW1JZAogICAgR2l2ZW4gdXNlciBoYXMgRlggc3Vic2NyaXB0aW9uIHdpdGggcG9zdGluZyByaWdodHMKICAgIFdoZW4gUE9TVCBmcmVpZ2h0IG9mZmVyIHdpdGggImpzb24vb2ZmZXJzL3ZhbGlkX29mZmVyLmpzb24iCiAgICBUaGVuIHJlc3BvbnNlIGNvZGUgc2hvdWxkIGJlICIyMDEiCiAgICBBbmQgY29udGFpbiAiY29udGVudC5vZmZlcklkIiB2YWx1ZQogICAgQW5kIGNvbnRhaW4gImNvbnRlbnQuZXh0ZXJuYWxJZCIgdmFsdWUKICAgIEFuZCAiY29udGVudC5vZmZlcklkIiB3aXRoICJjb250ZW50LmV4dGVybmFsSWQiIGlzIGVxdWFsCiAgICAjIHRoZSBuZXcgRnJlaWdodCBvZmZlciBpcyBzaG93biBvbiBVSQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKHJlc3BvbnNlLjxTdHJpbmc+cGF0aChmaWVsZDEpLCByZXNwb25zZS48U3RyaW5nPnBhdGgoZmllbGQyKSk7Cg==</text>
+      <register name="3" type="4">
+        <text># Step 10
+    Given user has FX subscription with posting rights
+    And PUT new freight offer with &quot;json/offers/valid_offer.json&quot; and custom externalId
+    And using second user with FX subscription with posting rights
+    When PUT another freight with &quot;json/offers/valid_offer.json&quot; and same custom externalId
+    Then response code should be &quot;201&quot;
+    And contain &quot;content.offerId&quot; value
+    And contain &quot;content.externalId&quot; value
+    And &quot;content.offerId&quot; with &quot;content.externalId&quot; is not equal
+    # the new Freight offer of user2 is shown on UI</text>
       </register>
       <register name="4" type="4">
-        <text>// Write code here that turns the phrase above into concrete actions
-            throw new PendingException();</text>
+        <text>And user 2 PUT new freight offer with &quot;json/offers/valid_offer.json&quot; and custom externalId
+    When PUT a freight offer with &quot;json/offers/valid_offer.json&quot; and same custom externalId as freight offer of user 1</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UucGF0aChmaWVsZDIpOwo=</text>
+      <register name="5" type="4">
+        <text>And user 2 PUT new freight offer with &quot;json/offers/valid_offer.json&quot; and custom externalId
+    When PUT a freight offer with &quot;json/offers/valid_offer.json&quot; and same custom externalId as freight offer of user 1</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBTdGVwIDMKICBTY2VuYXJpbzogQ3JlYXRlZCBvZmZlciBzaG91bGQgcHJvdmlkZSBzZWxmIHJlZmVyZW5jZSBpbiBsaW5rcyBzZWN0aW9uCiAgICBHaXZlbiB1c2VyIGhhcyBGWCBzdWJzY3JpcHRpb24gd2l0aCBwb3N0aW5nIHJpZ2h0cwogICAgV2hlbiBQT1NUIGZyZWlnaHQgb2ZmZXIgd2l0aCAianNvbi9vZmZlcnMvdmFsaWRfb2ZmZXIuanNvbiIgYW5kIHNhdmUgcmVmZXJlbmNlCiAgICBUaGVuIGxpbmtzIHNlY3Rpb24gY29udGFpbnMgc2VsZiBsaW5rIHdpdGggcmVmZXJlbmNlCg==</text>
+        <text encoding="base64">CiMgU3RlcCAxIEZSRUlHSFQgT0ZGRVJTCiMgU3RlcCAzCiAgU2NlbmFyaW86IENyZWF0ZWQgb2ZmZXIgc2hvdWxkIHByb3ZpZGUgc2VsZiByZWZlcmVuY2UgaW4gbGlua3Mgc2VjdGlvbgogICAgR2l2ZW4gdXNlciBoYXMgRlggc3Vic2NyaXB0aW9uIHdpdGggcG9zdGluZyByaWdodHMKICAgIFdoZW4gUE9TVCBmcmVpZ2h0IG9mZmVyIHdpdGggImpzb24vb2ZmZXJzL3ZhbGlkX29mZmVyLmpzb24iIGFuZCBzYXZlIHJlZmVyZW5jZQogICAgVGhlbiBsaW5rcyBzZWN0aW9uIGNvbnRhaW5zIHNlbGYgbGluayB3aXRoIHJlZmVyZW5jZQoKIyBTdGVwIDQKICBTY2VuYXJpbzogQ3JlYXRlZCBvZmZlciBoYXMgZ2VuZXJhdGVkIG9mZmVySWQgYW5kIGV4dGVybmFsU3lzdGVtSWQKICAgIEdpdmVuIHVzZXIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBPU1QgZnJlaWdodCBvZmZlciB3aXRoICJqc29uL29mZmVycy92YWxpZF9vZmZlci5qc29uIgogICAgVGhlbiByZXNwb25zZSBjb2RlIHNob3VsZCBiZSAiMjAxIgogICAgQW5kIGNvbnRhaW4gImNvbnRlbnQub2ZmZXJJZCIgdmFsdWUKICAgIEFuZCBjb250YWluICJjb250ZW50LmV4dGVybmFsSWQiIHZhbHVlCiAgICBBbmQgImNvbnRlbnQub2ZmZXJJZCIgd2l0aCAiY29udGVudC5leHRlcm5hbElkIiBpcyBlcXVhbAogICAgIyB0aGUgbmV3IEZyZWlnaHQgb2ZmZXIgaXMgc2hvd24gb24gVUkKCiMgU3RlcCA1CiAgU2NlbmFyaW86IENyZWF0ZWQgb2ZmZXIgc2hvdWxkIHByb3ZpZGUgc2VsZiBleHRlcm5hbElkIGluIGxpbmtzIHNlY3Rpb24KICAgIEdpdmVuIHVzZXIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBPU1QgZnJlaWdodCBvZmZlciB3aXRoICJqc29uL29mZmVycy92YWxpZF9vZmZlci5qc29uIiBhbmQgc2F2ZSByZWZlcmVuY2UKICAgIFRoZW4gbGlua3Mgc2VjdGlvbiBjb250YWlucyBzZWxmIGxpbmsgd2l0aCBleHRlcm5hbElkCgojIFN0ZXAgNgogIFNjZW5hcmlvOiBDcmVhdGUgb2ZmZXIgd2l0aCBjdXN0b20gZXh0ZXJuYWxJZCBpZAogICAgR2l2ZW4gdXNlciBoYXMgRlggc3Vic2NyaXB0aW9uIHdpdGggcG9zdGluZyByaWdodHMKICAgIFdoZW4gUFVUIG5ldyBmcmVpZ2h0IG9mZmVyIHdpdGggImpzb24vb2ZmZXJzL3ZhbGlkX29mZmVyLmpzb24iIGFuZCBjdXN0b20gZXh0ZXJuYWxJZAogICAgVGhlbiByZXNwb25zZSBjb2RlIHNob3VsZCBiZSAiMjAxIgogICAgQW5kIGNvbnRhaW4gImNvbnRlbnQub2ZmZXJJZCIgdmFsdWUKICAgIEFuZCBjb250YWluICJjb250ZW50LmV4dGVybmFsSWQiIHZhbHVlCiAgICBBbmQgImNvbnRlbnQub2ZmZXJJZCIgd2l0aCAiY29udGVudC5leHRlcm5hbElkIiBpcyBub3QgZXF1YWwKICAgICMgdGhlIG5ldyBGcmVpZ2h0IG9mZmVyIGlzIHNob3duIG9uIFVJCgojIFN0ZXAgNwogIFNjZW5hcmlvOiBDcmVhdGUgb2ZmZXIgd2l0aCBjdXN0b20gZXh0ZXJuYWxJZCBpZCwgbGluawogICAgR2l2ZW4gdXNlciBoYXMgRlggc3Vic2NyaXB0aW9uIHdpdGggcG9zdGluZyByaWdodHMKICAgIFdoZW4gUFVUIG5ldyBmcmVpZ2h0IG9mZmVyIHdpdGggImpzb24vb2ZmZXJzL3ZhbGlkX29mZmVyLmpzb24iIGFuZCBjdXN0b20gZXh0ZXJuYWxJZAogICAgVGhlbiByZXNwb25zZSBzaG91bGQgY29udGFpbiBjdXN0b20gZXh0ZXJuYWxJZCBmcm9tIFVSTAo=</text>
       </register>
       <register name="7" type="4">
-        <text>// Write code here that turns the phrase above into concrete actions
-            throw new PendingException();</text>
+        <text encoding="base64">RmVhdHVyZTogRlgtMTEzOTggW0FQSV0gLSBGWCAtIEFsaWduIEFQSSBvZmZlcklkIGhhbmRsaW5nCgogIFNjZW5hcmlvOiBDcmVhdGVkIG9mZmVyIGhhcyBnZW5lcmF0ZWQgb2ZmZXJJZCBhbmQgZXh0ZXJuYWxTeXN0ZW1JZAogICAgR2l2ZW4gdXNlciBoYXMgRlggc3Vic2NyaXB0aW9uIHdpdGggcG9zdGluZyByaWdodHMKICAgIFdoZW4gUE9TVCBmcmVpZ2h0IG9mZmVyIHdpdGggImpzb24vb2ZmZXJzL3ZhbGlkX29mZmVyLmpzb24iCiAgICBUaGVuIHJlc3BvbnNlIGNvZGUgc2hvdWxkIGJlICIyMDEiCiAgICBBbmQgY29udGFpbiAiY29udGVudC5vZmZlcklkIiB2YWx1ZQogICAgQW5kIGNvbnRhaW4gImNvbnRlbnQuZXh0ZXJuYWxJZCIgdmFsdWUKICAgIEFuZCAiY29udGVudC5vZmZlcklkIiB3aXRoICJjb250ZW50LmV4dGVybmFsSWQiIGlzIGVxdWFsCiAgICAjIHRoZSBuZXcgRnJlaWdodCBvZmZlciBpcyBzaG93biBvbiBVSQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEdpdmVuIHVzZXIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKHJlc3BvbnNlLjxTdHJpbmc+cGF0aChmaWVsZDEpLCByZXNwb25zZS48U3RyaW5nPnBhdGgoZmllbGQyKSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIFdoZW4gUE9TVCBmcmVpZ2h0IG9mZmVyIHdpdGggImpzb24vb2ZmZXJzL3ZhbGlkX29mZmVyLmpzb24iIGFuZCBzYXZlIHJlZmVyZW5jZQo=</text>
+      <register name="9" type="4">
+        <text>// Write code here that turns the phrase above into concrete actions
+            throw new PendingException();</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
