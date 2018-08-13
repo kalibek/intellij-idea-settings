@@ -122,12 +122,11 @@
         <mark key="." line="9" column="18" />
         <mark key="^" line="8" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/rest/controller/FreightOfferController.java" timestamp="1534148334584">
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/rest/controller/FreightOfferController.java" timestamp="1534150102087">
         <mark key="'" line="112" column="8" />
-        <mark key="[" line="127" column="51" />
-        <mark key="]" line="127" column="71" />
-        <mark key="." line="127" column="71" />
-        <mark key="^" line="127" column="71" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1534144274505">
         <mark key="[" line="0" column="0" />
@@ -135,11 +134,11 @@
       <file name="/companies_addresses [tfx_data@localhost]" timestamp="1533102163357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534145449192">
+      <file name="/Dummy.txt" timestamp="1534150132434">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="32" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="/holders [data@localhost]" timestamp="1533541811401">
         <mark key="[" line="0" column="0" />
@@ -273,14 +272,14 @@
       <register name="a" type="4">
         <text>json/vehicles/valid_vehicle</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>vehic</text>
@@ -295,31 +294,31 @@ where business_id in (TJOC305521
     )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlQnVpbGRlci5idWlsZEFjY2Vzc0RlbmllZFJlc3BvbnNlKEVycm9yQ29kZS5FMzQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXhjZXB0aW9uLmdldENhdXNlKCkhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXhjZXB0aW9uLmdldENhdXNlKCkuZ2V0Q2xhc3MoKS5lcXVhbHMoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlQnVpbGRlci5idWlsZEFjY2Vzc0RlbmllZFJlc3BvbnNlKEVycm9yQ29kZS5FMzQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGMuaGllcmFyY2h5X2lkLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGMuaGllcmFyY2h5X2lkLAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZXhjZXB0aW9uLmdldENhdXNlKCkuZ2V0Q2xhc3MoKS5lcXVhbHMoKSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGMuaGllcmFyY2h5X2lkLAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3JlYXRlIHZpZXcgc2ltcGxlX2NvbXBhbnlfdiBhcwo=</text>
+        <text encoding="base64">ICAgIGMuaGllcmFyY2h5X2lkLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlICR7c2NoZW1hfS5leHRlcm5hbF9jb250YWN0ICgKICBleHRlcm5hbF9jb250YWN0X2lkIGJpZ2ludCBwcmltYXJ5IGtleSwKICBmdWxsX25hbWUgICAgICAgICAgIHZhcmNoYXIoMjU1KSwKICBwaG9uZV9udW1iZXIgICAgICAgIHZhcmNoYXIoMzgpLAogIGZheF9udW1iZXIgICAgICAgICAgdmFyY2hhcigzMiksCiAgZW1haWwgICAgICAgICAgICAgICB2YXJjaGFyKDI1NSksCiAgb2ZmZXJfaWQgICAgICAgICAgICBpbnRlZ2VyIG5vdCBudWxsIHJlZmVyZW5jZXMgb2ZmZXJzIChvZmZlcl9pZCkKKTsKCmNyZWF0ZSBpbmRleCBleHRfY29udGFjdF9vZmZlcl9pZF9ma19pZHgKICBvbiAke3NjaGVtYX0uZXh0ZXJuYWxfY29udGFjdCAob2ZmZXJfaWQpOwoKY3JlYXRlIHNlcXVlbmNlIGV4dGVybmFsX2NvbnRhY3RfaWRfc2VxCiAgaW5jcmVtZW50IGJ5IDEwMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
