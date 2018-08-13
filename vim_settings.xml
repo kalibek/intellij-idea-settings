@@ -210,8 +210,8 @@
         <mark key="[" line="23" column="24" />
         <mark key="]" line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11426_align_api_offer_ID.feature" timestamp="1534131364304">
-        <mark key="'" line="0" column="2" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11426_align_api_offer_ID.feature" timestamp="1534133613763">
+        <mark key="'" line="27" column="0" />
         <mark key="[" line="51" column="8" />
         <mark key="]" line="51" column="65" />
       </file>
@@ -332,12 +332,12 @@
         <mark key="^" line="2" column="63" />
         <mark key="." line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" timestamp="1534132521814">
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" timestamp="1534133577939">
         <mark key="'" line="104" column="37" />
-        <mark key="[" line="113" column="63" />
-        <mark key="]" line="113" column="84" />
-        <mark key="^" line="113" column="84" />
-        <mark key="." line="113" column="84" />
+        <mark key="[" line="145" column="33" />
+        <mark key="]" line="145" column="60" />
+        <mark key="^" line="139" column="64" />
+        <mark key="." line="145" column="33" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/users/users_local.properties" timestamp="1534131819040">
         <mark key="[" line="7" column="0" />
@@ -782,7 +782,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="124" filename="$USER_HOME$/projects/fx/fx-business/fx-business-inf/src/main/java/com/wktransportservices/fx/business/util/ejb/BusinessActors.java" />
       <jump line="18" column="56" filename="$USER_HOME$/projects/fx/fx-business/fx-business-inf/src/main/java/com/wktransportservices/fx/business/util/ejb/BusinessActors.java" />
       <jump line="19" column="56" filename="$USER_HOME$/projects/fx/fx-business/fx-business-inf/src/main/java/com/wktransportservices/fx/business/util/ejb/BusinessActors.java" />
       <jump line="20" column="56" filename="$USER_HOME$/projects/fx/fx-business/fx-business-inf/src/main/java/com/wktransportservices/fx/business/util/ejb/BusinessActors.java" />
@@ -882,63 +881,62 @@
       <jump line="0" column="2" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11426_align_api_offer_ID.feature" />
       <jump line="104" column="37" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
       <jump line="93" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightOfferEndpointSteps.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11426_align_api_offer_ID.feature" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>ResponseEntity</text>
+        <text>json/vehicles/valid_vehicle</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Owner not mapped in non-biddable-offer API</text>
+        <text>json/offers/valid_offer</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>Owner not mapped in non-biddable-offer API</text>
+        <text>json/offers/valid_offer</text>
       </register>
       <register name="/" type="4">
-        <text>another</text>
+        <text>vehic</text>
       </register>
       <register name="0" type="4">
-        <text>private static final String FREIGHT_OFFER_PATH = &quot;/api/freights/v1/offers&quot;;
-    private FreightOffer freightOffer;
-    private String reference;</text>
+        <text>json/vehicles/valid_vehicle</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFRFU1RfU09VUkNFID0gInRlc3RTb3VyY2UiOwo=</text>
+        <text encoding="base64">ICAgIFdoZW4gUE9TVCB2ZWhpY2xlIG9mZmVyIHdpdGggImpzb24vb2ZmZXJzL3ZhbGlkX29mZmVyLmpzb24iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydE5vdEVxdWFsczsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFRFU1RfU09VUkNFID0gInRlc3RTb3VyY2UiOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydE5vdEVxdWFsczsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IyBTdGVwIDE2CiAgU2NlbmFyaW86IDIgdXNlcnMgZnJvbSBkaWZmZXJlbnQgY29tcGFuaWVzIGFuZCB1c2VyXzIgZGVsZXRlcyBhbiBvZmZlciBvZiB1c2VyXzEKICAgIEdpdmVuIDIgdXNlcnMgZnJvbSBkaWZmZXJlbnQgY29tcGFuaWVzIGhhdmUgRlggc3Vic2NyaXB0aW9uIHdpdGggcG9zdGluZyByaWdodHMKICAgIEFuZCB1c2VyXzEgUFVUIG5ldyBmcmVpZ2h0IG9mZmVyIHdpdGggImpzb24vb2ZmZXJzL3ZhbGlkX29mZmVyLmpzb24iIGFuZCBjdXN0b20gZXh0ZXJuYWxJZAojICAgIFRoZW4gcmVzcG9uc2UgY29kZSBzaG91bGQgYmUgIjIwMCIKIyAgICBBbmQgY29udGFpbiAiY29udGVudC5vZmZlcklkIiB2YWx1ZQojICAgIEFuZCBjb250YWluICJjb250ZW50LmV4dGVybmFsSWQiIHZhbHVlCiMgICAgQW5kICJjb250ZW50Lm9mZmVySWQiIHdpdGggImNvbnRlbnQuZXh0ZXJuYWxJZCIgaXMgbm90IGVxdWFsCiMgICAgIyB0aGUgbmV3IEZyZWlnaHQgb2ZmZXIgaXMgc2hvd24gb24gVUkKIwojIyBTdGVwIDE3CiAgICBXaGVuIHVzZXJfMiBERUxFVEUgZnJlaWdodCBvZmZlciB3aXRoIGN1c3RvbSBleHRlcm5hbElkIG9mIGZyZWlnaHQgb2ZmZXIgb2YgdXNlcl8xCiAgICBUaGVuIHJlc3BvbnNlIGNvZGUgc2hvdWxkIGJlICI0MDAgQmFkIHJlcXVlc3QiCiAgICAjIHRoZSBGcmVpZ2h0IG9mZmVyIG9mIHVzZXJfMSBzdGlpbHMgaXMgYWN0aXZlIGFuZCBzaG93biBvbiBVSQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">aGllcmFyY2h5LnVzZXJuYW1lPXRmeGNhcnJpZXJBCmhpZXJhcmNoeS5wYXNzd29yZD10ZXN0MDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aGllcmFyY2h5LnVzZXJuYW1lPXRmeGNhcnJpZXJBCmhpZXJhcmNoeS5wYXNzd29yZD10ZXN0MDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">VGhlbigiXlwiKFteXCJdKilcIiB3aXRoIFwiKFteXCJdKilcIiBzaG91bGQgYmUgZXF1YWwkIiwgKFN0cmluZyBmaWVsZDEsIFN0cmluZyBmaWVsZDIpIC0+IHsKICAgICAgICAgICAgT2JqZWN0IHZhbHVlMSA9IHdvcmxkLmdldFJlc3BvbnNlKCkKICAgICAgICAgICAgICAgICAgICAudGhlbigpCiAgICAgICAgICAgICAgICAgICAgLmV4dHJhY3QoKQogICAgICAgICAgICAgICAgICAgIC5wYXRoKGZpZWxkMSk7CiAgICAgICAgICAgIE9iamVjdCB2YWx1ZTIgPSB3b3JsZC5nZXRSZXNwb25zZSgpCiAgICAgICAgICAgICAgICAgICAgLnRoZW4oKQogICAgICAgICAgICAgICAgICAgIC5leHRyYWN0KCkKICAgICAgICAgICAgICAgICAgICAucGF0aChmaWVsZDIpOwoKICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKHZhbHVlMSwgdmFsdWUyKTsKICAgICAgICB9KTsKCiAgICAgICAgVGhlbigiXlwiKFteXCJdKilcIiB3aXRoIFwiKFteXCJdKilcIiBzaG91bGQgbm90IGJlIGVxdWFsJCIsIChTdHJpbmcgZmllbGQxLCBTdHJpbmcgZmllbGQyKSAtPiB7CiAgICAgICAgICAgIE9iamVjdCB2YWx1ZTEgPSB3b3JsZC5nZXRSZXNwb25zZSgpCiAgICAgICAgICAgICAgICAgICAgLnRoZW4oKQogICAgICAgICAgICAgICAgICAgIC5leHRyYWN0KCkKICAgICAgICAgICAgICAgICAgICAucGF0aChmaWVsZDEpOwogICAgICAgICAgICBPYmplY3QgdmFsdWUyID0gd29ybGQuZ2V0UmVzcG9uc2UoKQogICAgICAgICAgICAgICAgICAgIC50aGVuKCkKICAgICAgICAgICAgICAgICAgICAuZXh0cmFjdCgpCiAgICAgICAgICAgICAgICAgICAgLnBhdGgoZmllbGQyKTsKCiAgICAgICAgICAgIGFzc2VydE5vdEVxdWFscyh2YWx1ZTEsIHZhbHVlMik7CiAgICAgICAgfSk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>another</last-search>
+      <last-search>vehic</last-search>
       <last-offset />
-      <last-pattern>another</last-pattern>
+      <last-pattern>vehic</last-pattern>
       <last-replace>POST freight offer</last-replace>
       <last-substitute>post freight offer</last-substitute>
       <last-dir>1</last-dir>
@@ -946,8 +944,6 @@
     </search>
     <history>
       <history-search>
-        <entry>esb</entry>
-        <entry>companiesDirectory</entry>
         <entry>CompaniesDirectory</entry>
         <entry>dto</entry>
         <entry>CompanyDirectoryDTO</entry>
@@ -966,6 +962,8 @@
         <entry>^  the</entry>
         <entry>post freight offer</entry>
         <entry>another</entry>
+        <entry>vehicl</entry>
+        <entry>vehic</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy0vIC9n</entry>
