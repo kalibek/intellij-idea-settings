@@ -11,10 +11,10 @@
         <mark key="[" line="14" column="27" />
         <mark key="]" line="36" column="69" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1534146255637">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1534148427547">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="22" />
-        <mark key="]" line="51" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="52" column="4" />
         <mark key="^" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
@@ -48,6 +48,12 @@
         <mark key="'" line="27" column="0" />
         <mark key="[" line="51" column="8" />
         <mark key="]" line="51" column="65" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1534148471350">
+        <mark key="[" line="103" column="13" />
+        <mark key="]" line="103" column="15" />
+        <mark key="^" line="103" column="15" />
+        <mark key="." line="103" column="15" />
       </file>
       <file name="/cd_access_lists [tfx_data@localhost]" timestamp="1533102331980">
         <mark key="[" line="0" column="0" />
@@ -84,6 +90,12 @@
       <file name="/cd_comp_access [tfx_data@localhost]" timestamp="1533102311265">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferService.java" timestamp="1534147482136">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="155" column="7" />
+      </file>
       <file name="/company_likings [tfx_data@localhost]" timestamp="1533107641617">
         <mark key="[" line="0" column="0" />
       </file>
@@ -110,12 +122,12 @@
         <mark key="." line="9" column="18" />
         <mark key="^" line="8" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/rest/controller/FreightOfferController.java" timestamp="1534146946983">
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/rest/controller/FreightOfferController.java" timestamp="1534148334584">
         <mark key="'" line="112" column="8" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="95" column="13" />
+        <mark key="[" line="127" column="51" />
+        <mark key="]" line="127" column="71" />
+        <mark key="." line="127" column="71" />
+        <mark key="^" line="127" column="71" />
       </file>
       <file name="/dummy.sql" timestamp="1534144274505">
         <mark key="[" line="0" column="0" />
@@ -135,17 +147,18 @@
       <file name="/companies [tfx_data@localhost]" timestamp="1533102175370">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/CompanyHierarchyLevelResolver.java" timestamp="1533811436117">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/CompanyHierarchyLevelResolver.java" timestamp="1534148772740">
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+        <mark key="^" line="24" column="15" />
       </file>
       <file name="$USER_HOME$/projects/fx/vx-connect/src/test/java/com/wktransportservices/connect/fx/mappers/FreightOfferDtoMapper_FreightOfferDto_To_FreightOfferDto_Test.java" timestamp="1534132793919">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1534137804770">
+      <file name="/fragment.java" timestamp="1534148754799">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scenario" timestamp="1533874781541">
@@ -261,46 +274,52 @@
         <text>json/vehicles/valid_vehicle</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>y</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>vehic</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">U0VMRUNUIGMuY29tcGFueV9pZCwKICAgIGMubmFtZSwKICAgIGMuYnVzaW5lc3NfaWQsCiAgICBjLnByb2R1Y3RfYWNjZXNzLAogICAgYy5oaWVyYXJjaHlfaWQsCiAgICAoIFNFTEVDVCBtYXgoKGNhLmNvdW50cnlfY29kZSk6OnRleHQpIEFTIGNvdW50cnlfY29kZQogICAgICAgICAgIEZST00gKGNvbXBhbmllc19hZGRyZXNzZXMgY2EKICAgICAgICAgICAgIEpPSU4gY29tcGFuaWVzX2FkZHJlc3Nlc19sdCBsdCBPTiAoKChsdC5hZGRyZXNzX2lkID0gY2EuYWRkcmVzc19pZCkgQU5EICgobHQubG9jYXRpb25fdHlwZSk6OnRleHQgPSAnUE9TVEFMJzo6dGV4dCkpKSkKICAgICAgICAgIFdIRVJFIChjYS5jb21wYW55X2lkID0gYy5jb21wYW55X2lkKSkgQVMgcG9zdGFsX2NvZGUKICAgRlJPTSBjb21wYW5pZXMgYwo7Cg==</text>
+        <text>select u.login, c.business_id, c.hierarchy_id
+from users u inner join companies c on u.company_id = c.company_id
+where u.login in ('fmichotte', 'tfxcarrierA', 'tfxcarrierD');
+update company set hierarchy_id = 999
+where business_id in (TJOC305521
+    FJVY101004
+    )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGMuaGllcmFyY2h5X2lkLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGMuaGllcmFyY2h5X2lkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlQnVpbGRlci5idWlsZEFjY2Vzc0RlbmllZFJlc3BvbnNlKEVycm9yQ29kZS5FMzQpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y3JlYXRlIHZpZXcgc2ltcGxlX2NvbXBhbnlfdiBhcwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXhjZXB0aW9uLmdldENhdXNlKCkuZ2V0Q2xhc3MoKS5lcXVhbHMoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlICR7c2NoZW1hfS5leHRlcm5hbF9jb250YWN0ICgKICBleHRlcm5hbF9jb250YWN0X2lkIGJpZ2ludCBwcmltYXJ5IGtleSwKICBmdWxsX25hbWUgICAgICAgICAgIHZhcmNoYXIoMjU1KSwKICBwaG9uZV9udW1iZXIgICAgICAgIHZhcmNoYXIoMzgpLAogIGZheF9udW1iZXIgICAgICAgICAgdmFyY2hhcigzMiksCiAgZW1haWwgICAgICAgICAgICAgICB2YXJjaGFyKDI1NSksCiAgb2ZmZXJfaWQgICAgICAgICAgICBpbnRlZ2VyIG5vdCBudWxsIHJlZmVyZW5jZXMgb2ZmZXJzIChvZmZlcl9pZCkKKTsKCmNyZWF0ZSBpbmRleCBleHRfY29udGFjdF9vZmZlcl9pZF9ma19pZHgKICBvbiAke3NjaGVtYX0uZXh0ZXJuYWxfY29udGFjdCAob2ZmZXJfaWQpOwoKY3JlYXRlIHNlcXVlbmNlIGV4dGVybmFsX2NvbnRhY3RfaWRfc2VxCiAgaW5jcmVtZW50IGJ5IDEwMDsK</text>
+        <text encoding="base64">ICAgIGMuaGllcmFyY2h5X2lkLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGMuaGllcmFyY2h5X2lkLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">V2hlbigiXlBPU1QgbmV3IGZyZWlnaHQgb2ZmZXIgd2l0aCBcIihbXlwiXSopXCIgYW5kIGN1c3RvbSBleHRlcm5hbElkJCIsIChTdHJpbmcgZmlsZSkgLT4gewogICAgICAgICAgICBmcmVpZ2h0T2ZmZXIgPSBuZXcgRnJlaWdodE9mZmVyKGZpbGUpOwogICAgICAgICAgICB3b3JsZC5zZXRFeHRlcm5hbElkKElkVXRpbHMuZ2VuZXJhdGVSYW5kb21FeHRlcm5hbElkKCkpOwogICAgICAgICAgICB3b3JsZC5zZXRSZXNwb25zZShmeFV0aWxzLmdldEJhc2VKc29uUmVxdWVzdCgpCiAgICAgICAgICAgICAgICAgICAgLmJvZHkoZnJlaWdodE9mZmVyLmJ1aWxkKCkpCiAgICAgICAgICAgICAgICAgICAgLnBvc3QoRlJFSUdIVF9PRkZFUl9QQVRIICsgIi8iICsgd29ybGQuZ2V0RXh0ZXJuYWxJZCgpKSk7CiAgICAgICAgfSk7</text>
+      <register name="8" type="2">
+        <text encoding="base64">Y3JlYXRlIHZpZXcgc2ltcGxlX2NvbXBhbnlfdiBhcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHJlZmVyZW5jZTsK</text>
+        <text encoding="base64">Y3JlYXRlIHRhYmxlICR7c2NoZW1hfS5leHRlcm5hbF9jb250YWN0ICgKICBleHRlcm5hbF9jb250YWN0X2lkIGJpZ2ludCBwcmltYXJ5IGtleSwKICBmdWxsX25hbWUgICAgICAgICAgIHZhcmNoYXIoMjU1KSwKICBwaG9uZV9udW1iZXIgICAgICAgIHZhcmNoYXIoMzgpLAogIGZheF9udW1iZXIgICAgICAgICAgdmFyY2hhcigzMiksCiAgZW1haWwgICAgICAgICAgICAgICB2YXJjaGFyKDI1NSksCiAgb2ZmZXJfaWQgICAgICAgICAgICBpbnRlZ2VyIG5vdCBudWxsIHJlZmVyZW5jZXMgb2ZmZXJzIChvZmZlcl9pZCkKKTsKCmNyZWF0ZSBpbmRleCBleHRfY29udGFjdF9vZmZlcl9pZF9ma19pZHgKICBvbiAke3NjaGVtYX0uZXh0ZXJuYWxfY29udGFjdCAob2ZmZXJfaWQpOwoKY3JlYXRlIHNlcXVlbmNlIGV4dGVybmFsX2NvbnRhY3RfaWRfc2VxCiAgaW5jcmVtZW50IGJ5IDEwMDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
