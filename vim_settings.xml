@@ -9,11 +9,11 @@
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEnpointSteps.java" timestamp="1534132407453">
         <mark key="[" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightSearchEndpointSteps.java" timestamp="1534313777343">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="58" column="34" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightSearchEndpointSteps.java" timestamp="1534319180595">
+        <mark key="[" line="67" column="51" />
+        <mark key="]" line="67" column="56" />
+        <mark key="^" line="67" column="56" />
+        <mark key="." line="67" column="56" />
       </file>
       <file name="/companies_directories [tfx_data@localhost]" timestamp="1533190496933">
         <mark key="[" line="0" column="0" />
@@ -310,14 +310,14 @@
       <register name="a" type="4">
         <text>delivery</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>content</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>ExternalId</text>
+        <text>content</text>
       </register>
       <register name="/" type="4">
         <text>pickUp</text>
