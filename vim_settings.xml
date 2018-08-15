@@ -47,12 +47,17 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="35" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" timestamp="1534324729671">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="54" column="51" />
-        <mark key="^" line="54" column="48" />
-        <mark key="." line="48" column="62" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" timestamp="1534330886428">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="76" column="101" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="21" column="44" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/searches/FX-11398_Align_API_offerId_handling.feature" timestamp="1534330038832">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleSearchEndpointSteps.java" timestamp="1534324757299">
         <mark key="'" line="46" column="56" />
@@ -71,18 +76,17 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/World.java" timestamp="1534325600292">
-        <mark key="'" line="34" column="4" />
-        <mark key="[" line="46" column="5" />
-        <mark key="]" line="64" column="39" />
-        <mark key="." line="64" column="39" />
-        <mark key="^" line="64" column="39" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/World.java" timestamp="1534330891839">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightSearchService.java" timestamp="1534325873104" />
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightOfferEndpointSteps.java" timestamp="1534324669965">
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightOfferEndpointSteps.java" timestamp="1534329631430">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="48" column="53" />
-        <mark key="]" line="48" column="73" />
+        <mark key="[" line="85" column="8" />
+        <mark key="]" line="96" column="47" />
         <mark key="^" line="48" column="73" />
         <mark key="." line="48" column="73" />
       </file>
@@ -100,6 +104,11 @@
         <mark key="." line="14" column="4" />
       </file>
       <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/rest/controller/FreightSearchController.java" timestamp="1534325826827" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/vehicles/FX-11398_Align_API_offerId_handling.feature" timestamp="1534330071909">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/VehicleOffer.java" timestamp="1534321066165">
         <mark key="[" line="52" column="11" />
         <mark key="]" line="52" column="22" />
@@ -126,17 +135,30 @@
         <mark key="^" line="45" column="10" />
         <mark key="." line="45" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/vehicles/valid_vehicle.json" timestamp="1534325031129">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="28" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/vehicles/valid_vehicle.json" timestamp="1534329414434">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="." line="13" column="20" />
         <mark key="^" line="11" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferResponseBuilder.java" timestamp="1534158992892">
+        <mark key="'" line="75" column="19" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1534324975500">
         <mark key="[" line="156" column="9" />
         <mark key="]" line="156" column="10" />
         <mark key="^" line="156" column="10" />
         <mark key="." line="156" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/rest/controller/FreightOfferController.java" timestamp="1534150102087">
+        <mark key="'" line="112" column="8" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1534157102360">
         <mark key="[" line="0" column="0" />
@@ -166,12 +188,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" timestamp="1534327480197">
-        <mark key="'" line="228" column="36" />
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="263" column="0" />
-        <mark key="." line="216" column="0" />
-        <mark key="^" line="7" column="56" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" timestamp="1534330011928">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="40" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/users/users_local.properties" timestamp="1534131819040">
         <mark key="[" line="7" column="0" />
@@ -181,19 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/AbstractSearchQueryBuilder.java" />
-      <jump line="203" column="8" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
-      <jump line="11" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
-      <jump line="31" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
-      <jump line="37" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
-      <jump line="41" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
-      <jump line="49" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
       <jump line="51" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
       <jump line="54" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
       <jump line="81" column="20" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
@@ -281,49 +289,68 @@
       <jump line="7" column="56" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
       <jump line="216" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
       <jump line="228" column="36" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/vehicles/valid_vehicle.json" />
+      <jump line="108" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
+      <jump line="263" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/searches/FX-11398_Align_API_offerId_handling.feature" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/searches/FX-11398_Align_API_offerId_handling.feature" />
+      <jump line="21" column="11" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" />
+      <jump line="22" column="30" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" />
+      <jump line="86" column="17" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" />
+      <jump line="30" column="58" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" />
+      <jump line="85" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/World.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/World.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>delivery</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IyBTdGVwIDM1IE1BVENISU5HIE9GRkVSUyBGcmVpZ2h0CiMgU3RlcCAzNgogIFNjZW5hcmlvOiBTZWFyY2gtIG9mZmVyCiAgICBHaXZlbiB1c2VyIGhhcyBGWCBzdWJzY3JpcHRpb24gd2l0aCBwb3N0aW5nIHJpZ2h0cwogICAgV2hlbiBQT1NUIGZyZWlnaHQgb2ZmZXIgd2l0aCAianNvbi9vZmZlcnMvdmFsaWRfb2ZmZXIuanNvbiIKICAgIEFuZCByb3V0ZSBkZXRhaWxzIGZyZWlnaHQgb2ZmZXIgLSBCRSwgR2VudCAtIEZSLCBQYXJpcwogICAgVGhlbiByZXNwb25zZSBjb2RlIHNob3VsZCBiZSAiMjAxIgogICAgQW5kIGNvbnRhaW4gImNvbnRlbnQub2ZmZXJJZCIgdmFsdWUKICAgIEFuZCBjb250YWluICJjb250ZW50LmV4dGVybmFsSWQiIHZhbHVlCiAgICBBbmQgImNvbnRlbnQub2ZmZXJJZCIgd2l0aCAiY29udGVudC5leHRlcm5hbElkIiBpcyBlcXVhbAogICAgIyB0aGUgbmV3IEZyZWlnaHQgb2ZmZXIgaXMgc2hvd24gb24gVUkKCiMgU3RlcCAzNwogICAgR2l2ZW4gdXNlcl8yIGhhcyBGWCBzdWJzY3JpcHRpb24gd2l0aCBwb3N0aW5nIHJpZ2h0cwogICAgV2hlbiBQT1NUIGZyZWlnaHQgc2VhcmNoIHdpdGggImpzb24vc2VhcmNoZXMvdmFsaWRfb2ZmZXIuanNvbiIKICAgIFdoZW4gR0VUIGZyZWlnaHQgc2VhcmNoIHJlc3VsdHMKICAgIEFuZCByb3V0ZSBkZXRhaWxzIGZyZWlnaHQgb2ZmZXIgLSBCRSwgR2VudCAtIEZSLCBQYXJpcwogICAgVGhlbiByZXNwb25zZSBjb2RlIHNob3VsZCBiZSAiMjAxIgogICAgVGhlbiBmcmVpZ2h0IG9mZmVycyBpcyBtYXRjaGVkIGluIEFQSSByZXNwb25zZSBhbmQgb24gVUkKCiMgU3RlcCAzOAogIFNjZW5hcmlvOiBzZWFyY2gtb2ZmZXIgUFVUCiAgICBHaXZlbiB1c2VyIGhhcyBGWCBzdWJzY3JpcHRpb24gd2l0aCBwb3N0aW5nIHJpZ2h0cwogICAgV2hlbiBQVVQgbmV3IGZyZWlnaHQgb2ZmZXIgd2l0aCAianNvbi9vZmZlcnMvdmFsaWRfb2ZmZXIuanNvbiIgYW5kIGN1c3RvbSBleHRlcm5hbElkCiAgICBBbmQgcm91dGUgZGV0YWlscyBmcmVpZ2h0IG9mZmVyIC0gQkUsIEdlbnQgLSBGUiwgUGFyaXMKICAgIFRoZW4gcmVzcG9uc2UgY29kZSBzaG91bGQgYmUgIjIwMSIKICAgIEFuZCBjb250YWluICJjb250ZW50Lm9mZmVySWQiIHZhbHVlCiAgICBBbmQgY29udGFpbiAiY29udGVudC5leHRlcm5hbElkIiB2YWx1ZQogICAgQW5kICJjb250ZW50Lm9mZmVySWQiIHdpdGggImNvbnRlbnQuZXh0ZXJuYWxJZCIgaXMgbm90IGVxdWFsCiAgICAjIHRoZSBuZXcgRnJlaWdodCBvZmZlciBpcyBzaG93biBvbiBVSQoKIyBTdGVwIDM5CiAgICBHaXZlbiB1c2VyXzIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBPU1QgZnJlaWdodCBzZWFyY2ggd2l0aCAianNvbi9zZWFyY2hlcy92YWxpZF9vZmZlci5qc29uIgogICAgV2hlbiBHRVQgZnJlaWdodCBzZWFyY2ggcmVzdWx0cwogICAgQW5kIHJvdXRlIGRldGFpbHMgZnJlaWdodCBvZmZlciAtIEJFLCBHZW50IC0gRlIsIFBhcmlzCiAgICBUaGVuIHJlc3BvbnNlIGNvZGUgc2hvdWxkIGJlICIyMDEiCiAgICBUaGVuIGZyZWlnaHQgb2ZmZXJzIGlzIG1hdGNoZWQgaW4gQVBJIHJlc3BvbnNlIGFuZCBvbiBVSQoKIyBTdGVwIDQwIFZlaGljbGUKIyBTdGVwIDQxCiAgU2NlbmFyaW86IFNlYXJjaC0gb2ZmZXIKICAgIEdpdmVuIHVzZXIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBPU1QgdmVoaWNsZSBvZmZlciB3aXRoICJqc29uL29mZmVycy92YWxpZF9vZmZlci5qc29uIgogICAgQW5kIHJvdXRlIGRldGFpbHMgZnJlaWdodCBvZmZlciAtIEJFLCBHZW50IC0gRlIsIFBhcmlzCiAgICBUaGVuIHJlc3BvbnNlIGNvZGUgc2hvdWxkIGJlICIyMDEiCiAgICBBbmQgY29udGFpbiAiY29udGVudC5vZmZlcklkIiB2YWx1ZQogICAgQW5kIGNvbnRhaW4gImNvbnRlbnQuZXh0ZXJuYWxJZCIgdmFsdWUKICAgIEFuZCAiY29udGVudC5vZmZlcklkIiB3aXRoICJjb250ZW50LmV4dGVybmFsSWQiIGlzIGVxdWFsCiAgICAjIHRoZSBuZXcgdmVoaWNsZSBvZmZlciBpcyBzaG93biBvbiBVSQoKIyBTdGVwIDQyCiAgICBHaXZlbiB1c2VyXzIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBPU1QgdmVoaWNsZSBzZWFyY2ggd2l0aCAianNvbi9zZWFyY2hlcy92YWxpZF9vZmZlci5qc29uIgogICAgV2hlbiBHRVQgdmVoaWNsZSBzZWFyY2ggcmVzdWx0cwogICAgQW5kIHJvdXRlIGRldGFpbHMgZnJlaWdodCBvZmZlciAtIEJFLCBHZW50IC0gRlIsIFBhcmlzCiAgICBUaGVuIHJlc3BvbnNlIGNvZGUgc2hvdWxkIGJlICIyMDEiCiAgICBUaGVuIHZlaGljbGUgb2ZmZXJzIGlzIG1hdGNoZWQgaW4gQVBJIHJlc3BvbnNlIGFuZCBvbiBVSQoKIyBTdGVwIDQzCiAgU2NlbmFyaW86IHNlYXJjaC1vZmZlciBQVVQKICAgIEdpdmVuIHVzZXIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBVVCBuZXcgdmVoaWNsZSBvZmZlciB3aXRoICJqc29uL29mZmVycy92YWxpZF9vZmZlci5qc29uIiBhbmQgY3VzdG9tIGV4dGVybmFsSWQKICAgIFRoZW4gcmVzcG9uc2UgY29kZSBzaG91bGQgYmUgIjIwMSIKICAgIEFuZCByb3V0ZSBkZXRhaWxzIGZyZWlnaHQgb2ZmZXIgLSBCRSwgR2VudCAtIEZSLCBQYXJpcwogICAgVGhlbiByZXNwb25zZSBjb2RlIHNob3VsZCBiZSAiMjAxIgogICAgQW5kIGNvbnRhaW4gImNvbnRlbnQub2ZmZXJJZCIgdmFsdWUKICAgIEFuZCBjb250YWluICJjb250ZW50LmV4dGVybmFsSWQiIHZhbHVlCiAgICBBbmQgImNvbnRlbnQub2ZmZXJJZCIgd2l0aCAiY29udGVudC5leHRlcm5hbElkIiBpcyBub3QgZXF1YWwKICAgICMgdGhlIG5ldyB2ZWhpY2xlIG9mZmVyIGlzIHNob3duIG9uIFVJCgojIFN0ZXAgNDQKICAgIEdpdmVuIHVzZXJfMiBoYXMgRlggc3Vic2NyaXB0aW9uIHdpdGggcG9zdGluZyByaWdodHMKICAgIFdoZW4gUE9TVCB2ZWhpY2xlIHNlYXJjaCB3aXRoICJqc29uL3NlYXJjaGVzL3ZhbGlkX29mZmVyLmpzb24iCiAgICBXaGVuIEdFVCB2ZWhpY2xlIHNlYXJjaCByZXN1bHRzCiAgICBBbmQgcm91dGUgZGV0YWlscyBmcmVpZ2h0IG9mZmVyIC0gQkUsIEdlbnQgLSBGUiwgUGFyaXMKICAgIFRoZW4gcmVzcG9uc2UgY29kZSBzaG91bGQgYmUgIjIwMSIKICAgIFRoZW4gdmVoaWNsZSBvZmZlcnMgaXMgbWF0Y2hlZCBpbiBBUEkgcmVzcG9uc2UgYW5kIG9uIFVJCgo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>RestAssured.with().baseUri(basePath)</text>
+        <text>ehicleOffer</text>
       </register>
       <register name="/" type="4">
         <text>pickUp</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IyBTdGVwIDM1IE1BVENISU5HIE9GRkVSUyBGcmVpZ2h0CiMgU3RlcCAzNgogIFNjZW5hcmlvOiBTZWFyY2ggZnJlaWdodCBvZmZlcgogICAgR2l2ZW4gdXNlciBoYXMgRlggc3Vic2NyaXB0aW9uIHdpdGggcG9zdGluZyByaWdodHMKICAgIEFuZCBmcmVpZ2h0IG9mZmVyJ3MgcGlja3VwIGlzICJCRSIsICJHZW50IiwgIjkwMDAiCiAgICBBbmQgZnJlaWdodCBvZmZlcidzIGRlbGl2ZXJ5IGlzICJGUiIsICJQYXJpcyIsICI3NTAwMSIKICAgIEFuZCBQT1NUIGZyZWlnaHQgb2ZmZXIgd2l0aCAianNvbi9vZmZlcnMvdmFsaWRfb2ZmZXIuanNvbiIgd2l0aCByb3V0ZQogICAgQW5kIHJlc3BvbnNlIGNvZGUgc2hvdWxkIGJlICIyMDEiCiAgICBBbmQgdXNpbmcgc2Vjb25kIHVzZXIgd2l0aCBGWCBzdWJzY3JpcHRpb24gd2l0aCBwb3N0aW5nIHJpZ2h0cwogICAgQW5kIGZyZWlnaHQgc2VhcmNoJ3MgcGlja3VwIGlzICJCRSIsICJHZW50IiwgIjkwMDAiCiAgICBBbmQgZnJlaWdodCBzZWFyY2gncyBkZWxpdmVyeSBpcyAiRlIiLCAiUGFyaXMiLCAiNzUwMDEiCiAgICBBbmQgUE9TVCBmcmVpZ2h0IHNlYXJjaCB3aXRoICJqc29uL3NlYXJjaGVzL3ZhbGlkX3NlYXJjaC5qc29uIiB3aXRoIHJvdXRlCiAgICBBbmQgcmVzcG9uc2UgY29kZSBzaG91bGQgYmUgIjIwMSIKICAgIFdoZW4gR0VUIGZyZWlnaHQgc2VhcmNoIHJlc3VsdHMKICAgIFRoZW4gcmVzcG9uc2UgY29kZSBzaG91bGQgYmUgIjIwMCIKICAgIFRoZW4gZnJlaWdodCBvZmZlcnMgaXMgbWF0Y2hlZCBpbiBBUEkgcmVzcG9uc2UKCiMgU3RlcCAzOAogIFNjZW5hcmlvOiBzZWFyY2gtb2ZmZXIgUFVUCiAgICBHaXZlbiB1c2VyIGhhcyBGWCBzdWJzY3JpcHRpb24gd2l0aCBwb3N0aW5nIHJpZ2h0cwogICAgQW5kIGZyZWlnaHQgb2ZmZXIncyBwaWNrdXAgaXMgIkJFIiwgIkdlbnQiLCAiOTAwMCIKICAgIEFuZCBmcmVpZ2h0IG9mZmVyJ3MgZGVsaXZlcnkgaXMgIkZSIiwgIlBhcmlzIiwgIjc1MDAxIgogICAgQW5kIFBVVCBmcmVpZ2h0IG9mZmVyIHdpdGggImpzb24vb2ZmZXJzL3ZhbGlkX29mZmVyLmpzb24iIHdpdGggcm91dGUKICAgIEFuZCByZXNwb25zZSBjb2RlIHNob3VsZCBiZSAiMjAxIgogICAgQW5kIHVzaW5nIHNlY29uZCB1c2VyIHdpdGggRlggc3Vic2NyaXB0aW9uIHdpdGggcG9zdGluZyByaWdodHMKICAgIEFuZCBmcmVpZ2h0IHNlYXJjaCdzIHBpY2t1cCBpcyAiQkUiLCAiR2VudCIsICI5MDAwIgogICAgQW5kIGZyZWlnaHQgc2VhcmNoJ3MgZGVsaXZlcnkgaXMgIkZSIiwgIlBhcmlzIiwgIjc1MDAxIgogICAgQW5kIFBPU1QgZnJlaWdodCBzZWFyY2ggd2l0aCAianNvbi9zZWFyY2hlcy92YWxpZF9zZWFyY2guanNvbiIgd2l0aCByb3V0ZQogICAgQW5kIHJlc3BvbnNlIGNvZGUgc2hvdWxkIGJlICIyMDEiCiAgICBXaGVuIEdFVCBmcmVpZ2h0IHNlYXJjaCByZXN1bHRzCiAgICBUaGVuIHJlc3BvbnNlIGNvZGUgc2hvdWxkIGJlICIyMDAiCiAgICBUaGVuIGZyZWlnaHQgb2ZmZXJzIGlzIG1hdGNoZWQgaW4gQVBJIHJlc3BvbnNlCgojIFN0ZXAgNDAgVmVoaWNsZQojIFN0ZXAgNDEKICBTY2VuYXJpbzogU2VhcmNoIHZlaGljbGUgb2ZmZXIKICAgIEdpdmVuIHVzZXIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBBbmQgdmVoaWNsZSBvZmZlcidzIHBpY2t1cCBpcyAiQkUiLCAiR2VudCIsICI5MDAwIgogICAgQW5kIHZlaGljbGUgb2ZmZXIncyBkZWxpdmVyeSBpcyAiRlIiLCAiUGFyaXMiLCAiNzUwMDEiCiAgICBBbmQgUFVUIHZlaGljbGUgb2ZmZXIgd2l0aCAianNvbi92ZWhpY2xlcy92YWxpZF92ZWhpY2xlLmpzb24iIHdpdGggcm91dGUKICAgIEFuZCByZXNwb25zZSBjb2RlIHNob3VsZCBiZSAiMjAxIgogICAgQW5kIHVzaW5nIHNlY29uZCB1c2VyIHdpdGggRlggc3Vic2NyaXB0aW9uIHdpdGggcG9zdGluZyByaWdodHMKICAgIEFuZCB2ZWhpY2xlIHNlYXJjaCdzIHBpY2t1cCBpcyAiQkUiLCAiR2VudCIsICI5MDAwIgogICAgQW5kIHZlaGljbGUgc2VhcmNoJ3MgZGVsaXZlcnkgaXMgIkZSIiwgIlBhcmlzIiwgIjc1MDAxIgogICAgQW5kIFBPU1QgdmVoaWNsZSBzZWFyY2ggd2l0aCAianNvbi9zZWFyY2hlcy92YWxpZF9zZWFyY2guanNvbiIKICAgIFRoZW4gcmVzcG9uc2UgY29kZSBzaG91bGQgYmUgIjIwMCIKICAgIFRoZW4gdmVoaWNsZSBvZmZlcnMgaXMgbWF0Y2hlZCBpbiBBUEkgcmVzcG9uc2UK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcG9zdFZlaGljbGVXaXRoRXh0ZXJuYWxJZC5hY2NlcHQodmVoaWNsZU9mZmVyKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IyBTdGVwIDM1IE1BVENISU5HIE9GRkVSUyBGcmVpZ2h0CiMgU3RlcCAzNgogIFNjZW5hcmlvOiBTZWFyY2gtIG9mZmVyCiAgICBHaXZlbiB1c2VyIGhhcyBGWCBzdWJzY3JpcHRpb24gd2l0aCBwb3N0aW5nIHJpZ2h0cwogICAgV2hlbiBQT1NUIGZyZWlnaHQgb2ZmZXIgd2l0aCAianNvbi9vZmZlcnMvdmFsaWRfb2ZmZXIuanNvbiIKICAgIEFuZCByb3V0ZSBkZXRhaWxzIGZyZWlnaHQgb2ZmZXIgLSBCRSwgR2VudCAtIEZSLCBQYXJpcwogICAgVGhlbiByZXNwb25zZSBjb2RlIHNob3VsZCBiZSAiMjAxIgogICAgQW5kIGNvbnRhaW4gImNvbnRlbnQub2ZmZXJJZCIgdmFsdWUKICAgIEFuZCBjb250YWluICJjb250ZW50LmV4dGVybmFsSWQiIHZhbHVlCiAgICBBbmQgImNvbnRlbnQub2ZmZXJJZCIgd2l0aCAiY29udGVudC5leHRlcm5hbElkIiBpcyBlcXVhbAogICAgIyB0aGUgbmV3IEZyZWlnaHQgb2ZmZXIgaXMgc2hvd24gb24gVUkKCiMgU3RlcCAzNwogICAgR2l2ZW4gdXNlcl8yIGhhcyBGWCBzdWJzY3JpcHRpb24gd2l0aCBwb3N0aW5nIHJpZ2h0cwogICAgV2hlbiBQT1NUIGZyZWlnaHQgc2VhcmNoIHdpdGggImpzb24vc2VhcmNoZXMvdmFsaWRfb2ZmZXIuanNvbiIKICAgIFdoZW4gR0VUIGZyZWlnaHQgc2VhcmNoIHJlc3VsdHMKICAgIEFuZCByb3V0ZSBkZXRhaWxzIGZyZWlnaHQgb2ZmZXIgLSBCRSwgR2VudCAtIEZSLCBQYXJpcwogICAgVGhlbiByZXNwb25zZSBjb2RlIHNob3VsZCBiZSAiMjAxIgogICAgVGhlbiBmcmVpZ2h0IG9mZmVycyBpcyBtYXRjaGVkIGluIEFQSSByZXNwb25zZSBhbmQgb24gVUkKCiMgU3RlcCAzOAogIFNjZW5hcmlvOiBzZWFyY2gtb2ZmZXIgUFVUCiAgICBHaXZlbiB1c2VyIGhhcyBGWCBzdWJzY3JpcHRpb24gd2l0aCBwb3N0aW5nIHJpZ2h0cwogICAgV2hlbiBQVVQgbmV3IGZyZWlnaHQgb2ZmZXIgd2l0aCAianNvbi9vZmZlcnMvdmFsaWRfb2ZmZXIuanNvbiIgYW5kIGN1c3RvbSBleHRlcm5hbElkCiAgICBBbmQgcm91dGUgZGV0YWlscyBmcmVpZ2h0IG9mZmVyIC0gQkUsIEdlbnQgLSBGUiwgUGFyaXMKICAgIFRoZW4gcmVzcG9uc2UgY29kZSBzaG91bGQgYmUgIjIwMSIKICAgIEFuZCBjb250YWluICJjb250ZW50Lm9mZmVySWQiIHZhbHVlCiAgICBBbmQgY29udGFpbiAiY29udGVudC5leHRlcm5hbElkIiB2YWx1ZQogICAgQW5kICJjb250ZW50Lm9mZmVySWQiIHdpdGggImNvbnRlbnQuZXh0ZXJuYWxJZCIgaXMgbm90IGVxdWFsCiAgICAjIHRoZSBuZXcgRnJlaWdodCBvZmZlciBpcyBzaG93biBvbiBVSQoKIyBTdGVwIDM5CiAgICBHaXZlbiB1c2VyXzIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBPU1QgZnJlaWdodCBzZWFyY2ggd2l0aCAianNvbi9zZWFyY2hlcy92YWxpZF9vZmZlci5qc29uIgogICAgV2hlbiBHRVQgZnJlaWdodCBzZWFyY2ggcmVzdWx0cwogICAgQW5kIHJvdXRlIGRldGFpbHMgZnJlaWdodCBvZmZlciAtIEJFLCBHZW50IC0gRlIsIFBhcmlzCiAgICBUaGVuIHJlc3BvbnNlIGNvZGUgc2hvdWxkIGJlICIyMDEiCiAgICBUaGVuIGZyZWlnaHQgb2ZmZXJzIGlzIG1hdGNoZWQgaW4gQVBJIHJlc3BvbnNlIGFuZCBvbiBVSQoKIyBTdGVwIDQwIFZlaGljbGUKIyBTdGVwIDQxCiAgU2NlbmFyaW86IFNlYXJjaC0gb2ZmZXIKICAgIEdpdmVuIHVzZXIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBPU1QgdmVoaWNsZSBvZmZlciB3aXRoICJqc29uL29mZmVycy92YWxpZF9vZmZlci5qc29uIgogICAgQW5kIHJvdXRlIGRldGFpbHMgZnJlaWdodCBvZmZlciAtIEJFLCBHZW50IC0gRlIsIFBhcmlzCiAgICBUaGVuIHJlc3BvbnNlIGNvZGUgc2hvdWxkIGJlICIyMDEiCiAgICBBbmQgY29udGFpbiAiY29udGVudC5vZmZlcklkIiB2YWx1ZQogICAgQW5kIGNvbnRhaW4gImNvbnRlbnQuZXh0ZXJuYWxJZCIgdmFsdWUKICAgIEFuZCAiY29udGVudC5vZmZlcklkIiB3aXRoICJjb250ZW50LmV4dGVybmFsSWQiIGlzIGVxdWFsCiAgICAjIHRoZSBuZXcgdmVoaWNsZSBvZmZlciBpcyBzaG93biBvbiBVSQoKIyBTdGVwIDQyCiAgICBHaXZlbiB1c2VyXzIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBPU1QgdmVoaWNsZSBzZWFyY2ggd2l0aCAianNvbi9zZWFyY2hlcy92YWxpZF9vZmZlci5qc29uIgogICAgV2hlbiBHRVQgdmVoaWNsZSBzZWFyY2ggcmVzdWx0cwogICAgQW5kIHJvdXRlIGRldGFpbHMgZnJlaWdodCBvZmZlciAtIEJFLCBHZW50IC0gRlIsIFBhcmlzCiAgICBUaGVuIHJlc3BvbnNlIGNvZGUgc2hvdWxkIGJlICIyMDEiCiAgICBUaGVuIHZlaGljbGUgb2ZmZXJzIGlzIG1hdGNoZWQgaW4gQVBJIHJlc3BvbnNlIGFuZCBvbiBVSQoKIyBTdGVwIDQzCiAgU2NlbmFyaW86IHNlYXJjaC1vZmZlciBQVVQKICAgIEdpdmVuIHVzZXIgaGFzIEZYIHN1YnNjcmlwdGlvbiB3aXRoIHBvc3RpbmcgcmlnaHRzCiAgICBXaGVuIFBVVCBuZXcgdmVoaWNsZSBvZmZlciB3aXRoICJqc29uL29mZmVycy92YWxpZF9vZmZlci5qc29uIiBhbmQgY3VzdG9tIGV4dGVybmFsSWQKICAgIFRoZW4gcmVzcG9uc2UgY29kZSBzaG91bGQgYmUgIjIwMSIKICAgIEFuZCByb3V0ZSBkZXRhaWxzIGZyZWlnaHQgb2ZmZXIgLSBCRSwgR2VudCAtIEZSLCBQYXJpcwogICAgVGhlbiByZXNwb25zZSBjb2RlIHNob3VsZCBiZSAiMjAxIgogICAgQW5kIGNvbnRhaW4gImNvbnRlbnQub2ZmZXJJZCIgdmFsdWUKICAgIEFuZCBjb250YWluICJjb250ZW50LmV4dGVybmFsSWQiIHZhbHVlCiAgICBBbmQgImNvbnRlbnQub2ZmZXJJZCIgd2l0aCAiY29udGVudC5leHRlcm5hbElkIiBpcyBub3QgZXF1YWwKICAgICMgdGhlIG5ldyB2ZWhpY2xlIG9mZmVyIGlzIHNob3duIG9uIFVJCgojIFN0ZXAgNDQKICAgIEdpdmVuIHVzZXJfMiBoYXMgRlggc3Vic2NyaXB0aW9uIHdpdGggcG9zdGluZyByaWdodHMKICAgIFdoZW4gUE9TVCB2ZWhpY2xlIHNlYXJjaCB3aXRoICJqc29uL3NlYXJjaGVzL3ZhbGlkX29mZmVyLmpzb24iCiAgICBXaGVuIEdFVCB2ZWhpY2xlIHNlYXJjaCByZXN1bHRzCiAgICBBbmQgcm91dGUgZGV0YWlscyBmcmVpZ2h0IG9mZmVyIC0gQkUsIEdlbnQgLSBGUiwgUGFyaXMKICAgIFRoZW4gcmVzcG9uc2UgY29kZSBzaG91bGQgYmUgIjIwMSIKICAgIFRoZW4gdmVoaWNsZSBvZmZlcnMgaXMgbWF0Y2hlZCBpbiBBUEkgcmVzcG9uc2UgYW5kIG9uIFVJCgo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4od29ybGQuZ2V0QWNjZXNzVG9rZW4oKSk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgQ29uc3VtZXI8VmVoaWNsZU9mZmVyPiBwb3N0VmVoaWNsZVdpdGhFeHRlcm5hbElkID0gKHYpIC0+IHsKICAgICAgICAgICAgd29ybGQuc2V0RXh0ZXJuYWxJZChJZFV0aWxzLmdlbmVyYXRlUmFuZG9tRXh0ZXJuYWxJZCgpKTsKICAgICAgICAgICAgd29ybGQuc2V0UmVzcG9uc2UoZnhVdGlscy5nZXRCYXNlSnNvblJlcXVlc3QoKQogICAgICAgICAgICAgICAgICAgIC5ib2R5KHZlaGljbGVPZmZlci5idWlsZCgpKQogICAgICAgICAgICAgICAgICAgIC5wdXQoVkVISUNMRV9PRkZFUl9QQVRIICsgIi8iICsgd29ybGQuZ2V0RXh0ZXJuYWxJZCgpKSk7CiAgICAgICAgfTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4od29ybGQuZ2V0TG9naW4oKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGxvZ2luOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd29ybGQuc2V0TG9naW4odXNlcnMuZ2V0VXNlcm5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd29ybGQuc2V0TG9naW4odXNlcnMuZ2V0U2Vjb25kVXNlcm5hbWUoKSk7Cg==</text>
+      <register name="5" type="4">
+        <text>public void setLogin(String login) {
+        this.login = login;
+    }
+
+    public String getLogin() {
+        return login;
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd29ybGQuc2V0TG9naW4odXNlcnMuZ2V0T3RoZXJIaWVyYXJjaHlVc2VybmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zdFZlaGljbGVXaXRoRXh0ZXJuYWxJZChmeFV0aWxzLCB3b3JsZCwgdmVoaWNsZU9mZmVyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">QmVmb3JlKCgpIC0+IHsKICAgICAgICAgICAgcmVxdWVzdCA9IGZ4VXRpbHMuZ2V0QmFzZVJlcXVlc3QoKQogICAgICAgICAgICAgICAgICAgIC5hY2NlcHQoQ29udGVudFR5cGUuSlNPTikKICAgICAgICAgICAgICAgICAgICAuY29udGVudFR5cGUoQ29udGVudFR5cGUuVVJMRU5DKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBwb3N0VmVoaWNsZVdpdGhFeHRlcm5hbElkKEZ4VXRpbHMgZnhVdGlscywgV29ybGQgd29ybGQsIFZlaGljbGVPZmZlciB2ZWhpY2xlT2ZmZXIpIHsKICAgICAgICB3b3JsZC5zZXRFeHRlcm5hbElkKElkVXRpbHMuZ2VuZXJhdGVSYW5kb21FeHRlcm5hbElkKCkpOwogICAgICAgIHdvcmxkLnNldFJlc3BvbnNlKGZ4VXRpbHMuZ2V0QmFzZUpzb25SZXF1ZXN0KCkKICAgICAgICAgICAgICAgIC5ib2R5KHZlaGljbGVPZmZlci5idWlsZCgpKQogICAgICAgICAgICAgICAgLnB1dChWRUhJQ0xFX09GRkVSX1BBVEggKyAiLyIgKyB3b3JsZC5nZXRFeHRlcm5hbElkKCkpKTsKICAgIH0=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
