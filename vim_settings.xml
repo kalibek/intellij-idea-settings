@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightSearchEndpointSteps.java" timestamp="1534332465393">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="36" column="12" />
+        <mark key="]" line="36" column="13" />
+        <mark key="." line="36" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1534158945038">
         <mark key="[" line="578" column="94" />
         <mark key="]" line="579" column="36" />
@@ -40,6 +46,11 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ResponseValidationStepDefs.java" timestamp="1534332639873">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/enums/VehicleType.java" timestamp="1534323239315">
         <mark key="[" line="21" column="4" />
         <mark key="]" line="21" column="12" />
@@ -51,6 +62,12 @@
         <mark key="." line="7" column="22" />
       </file>
       <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightSearchService.java" timestamp="1534325873104" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightOfferEndpointSteps.java" timestamp="1534332340346">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="25" />
+        <mark key="^" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/AuthorizationStepDefs.java" timestamp="1534327344659">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -81,6 +98,12 @@
         <mark key="]" line="9" column="18" />
         <mark key="." line="9" column="18" />
         <mark key="^" line="8" column="62" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/FreightOffer.java" timestamp="1534332198888">
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="33" column="27" />
+        <mark key="." line="33" column="27" />
+        <mark key="^" line="33" column="27" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/vehicles/valid_vehicle.json" timestamp="1534329414434">
         <mark key="'" line="0" column="0" />
@@ -123,17 +146,20 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" timestamp="1534330011928">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="40" />
-        <mark key="." line="0" column="26" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" timestamp="1534333266419">
+        <mark key="'" line="62" column="50" />
+        <mark key="[" line="53" column="68" />
+        <mark key="]" line="53" column="68" />
+        <mark key="." line="53" column="68" />
+        <mark key="^" line="53" column="68" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/test/java/com/wktransportservices/connect/fx/mappers/FreightOfferDtoMapper_FreightOfferDto_To_FreightOfferDto_Test.java" timestamp="1534132793919">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
-      <jump line="81" column="20" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/FreemarkerQueryBuilder.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/AbstractSearchQueryBuilder.java" />
       <jump line="34" column="20" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/search-city-to-city_tsvector.ftl" />
       <jump line="5" column="12" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/search-city-to-city_tsvector.ftl" />
@@ -231,67 +257,64 @@
       <jump line="85" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" />
       <jump line="64" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/World.java" />
       <jump line="42" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/World.java" />
+      <jump line="61" column="38" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightSearchEndpointSteps.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightSearchEndpointSteps.java" />
+      <jump line="62" column="50" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>delivery</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYm9keShmaWVsZCwgY29udGFpbnNTdHJpbmcodmFsdWUpKTsK</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>ehicleOffer</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>pickUp</text>
+        <text>GET</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcG9zdFZlaGljbGVXaXRoRXh0ZXJuYWxJZC5hY2NlcHQodmVoaWNsZU9mZmVyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYm9keShmaWVsZCwgY29udGFpbnNTdHJpbmcodmFsdWUpKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgQ29uc3VtZXI8VmVoaWNsZU9mZmVyPiBwb3N0VmVoaWNsZVdpdGhFeHRlcm5hbElkID0gKHYpIC0+IHsKICAgICAgICAgICAgd29ybGQuc2V0RXh0ZXJuYWxJZChJZFV0aWxzLmdlbmVyYXRlUmFuZG9tRXh0ZXJuYWxJZCgpKTsKICAgICAgICAgICAgd29ybGQuc2V0UmVzcG9uc2UoZnhVdGlscy5nZXRCYXNlSnNvblJlcXVlc3QoKQogICAgICAgICAgICAgICAgICAgIC5ib2R5KHZlaGljbGVPZmZlci5idWlsZCgpKQogICAgICAgICAgICAgICAgICAgIC5wdXQoVkVISUNMRV9PRkZFUl9QQVRIICsgIi8iICsgd29ybGQuZ2V0RXh0ZXJuYWxJZCgpKSk7CiAgICAgICAgfTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd29ybGQuZ2V0UmVzcG9uc2UoKS50aGVuKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGxvZ2luOwo=</text>
+        <text encoding="base64">ICAgICAgICBUaGVuKCJecmVzcG9uc2UgZmllbGQgXCIoW15cIl0qKVwiIGNvbnRhaW5zIHN0cmluZyBcIihbXlwiXSopXCIkIiwgKFN0cmluZyBmaWVsZCwgU3RyaW5nIHZhbHVlKSAtPiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLndvcmxkID0gd29ybGQ7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>public void setLogin(String login) {
-        this.login = login;
-    }
-
-    public String getLogin() {
-        return login;
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zdFZlaGljbGVXaXRoRXh0ZXJuYWxJZChmeFV0aWxzLCB3b3JsZCwgdmVoaWNsZU9mZmVyKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgV29ybGQgd29ybGQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucG9zdChGUkVJR0hUX1NFQVJDSF9TQVZFX1BBVEgpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBwb3N0VmVoaWNsZVdpdGhFeHRlcm5hbElkKEZ4VXRpbHMgZnhVdGlscywgV29ybGQgd29ybGQsIFZlaGljbGVPZmZlciB2ZWhpY2xlT2ZmZXIpIHsKICAgICAgICB3b3JsZC5zZXRFeHRlcm5hbElkKElkVXRpbHMuZ2VuZXJhdGVSYW5kb21FeHRlcm5hbElkKCkpOwogICAgICAgIHdvcmxkLnNldFJlc3BvbnNlKGZ4VXRpbHMuZ2V0QmFzZUpzb25SZXF1ZXN0KCkKICAgICAgICAgICAgICAgIC5ib2R5KHZlaGljbGVPZmZlci5idWlsZCgpKQogICAgICAgICAgICAgICAgLnB1dChWRUhJQ0xFX09GRkVSX1BBVEggKyAiLyIgKyB3b3JsZC5nZXRFeHRlcm5hbElkKCkpKTsKICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYm9keShmcmVpZ2h0U2VhcmNoLmJ1aWxkKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVzcG9uc2UgcmVzcG9uc2UgPSBmeFV0aWxzLmdldEJhc2VKc29uUmVxdWVzdCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pickUp</last-search>
+      <last-search>GET</last-search>
       <last-offset />
-      <last-pattern>pickUp</last-pattern>
+      <last-pattern>GET</last-pattern>
       <last-replace>delivery</last-replace>
       <last-substitute>pickUp</last-substitute>
       <last-dir>1</last-dir>
@@ -299,7 +322,6 @@
     </search>
     <history>
       <history-search>
-        <entry>company</entry>
         <entry>Company</entry>
         <entry>scen</entry>
         <entry>postgres</entry>
@@ -319,6 +341,7 @@
         <entry>link</entry>
         <entry>PickUp</entry>
         <entry>pickUp</entry>
+        <entry>GET</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ZYL1NQT1QvZw==</entry>
