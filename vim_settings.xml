@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightSearchEndpointSteps.java" timestamp="1534322428057">
-        <mark key="[" line="56" column="12" />
-        <mark key="]" line="58" column="34" />
-        <mark key="^" line="34" column="21" />
-        <mark key="." line="49" column="41" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightSearchEndpointSteps.java" timestamp="1534325465403">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="25" column="44" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1534158945038">
         <mark key="[" line="578" column="94" />
@@ -22,36 +22,17 @@
         <mark key="^" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/VehicleOffer.java" timestamp="1534321066165">
-        <mark key="[" line="52" column="11" />
-        <mark key="]" line="52" column="22" />
-        <mark key="." line="52" column="22" />
-        <mark key="^" line="52" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/tmp.feature" timestamp="1534323705682">
-        <mark key="'" line="47" column="36" />
-        <mark key="[" line="48" column="50" />
-        <mark key="]" line="48" column="50" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/tmp.feature" timestamp="1534325099491">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="47" column="36" />
+        <mark key="]" line="47" column="37" />
         <mark key="^" line="46" column="59" />
-        <mark key="." line="48" column="50" />
-      </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/offers/valid_offer.json" timestamp="1534309693888">
-        <mark key="'" line="23" column="31" />
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="23" column="31" />
-        <mark key="." line="21" column="8" />
-        <mark key="^" line="7" column="28" />
+        <mark key="." line="47" column="37" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/README.md" timestamp="1534323466459">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-db-migration/src/main/resources/migration/version-18/patch-09/V201808131312_18_09__FX-11566_Added_hierarchy_id_to_company.sql" timestamp="1534145363284">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-        <mark key="^" line="8" column="62" />
       </file>
       <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferService.java" timestamp="1534159109580">
         <mark key="'" line="138" column="0" />
@@ -60,55 +41,25 @@
         <mark key="^" line="123" column="63" />
         <mark key="." line="123" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/FreightOffer.java" timestamp="1534321049966">
-        <mark key="'" line="39" column="4" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="59" column="4" />
-        <mark key="^" line="45" column="10" />
-        <mark key="." line="45" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/vehicles/valid_vehicle.json" timestamp="1534323244873">
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="17" column="27" />
-        <mark key="." line="17" column="18" />
-      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/Users.java" timestamp="1534131823751">
         <mark key="[" line="35" column="39" />
         <mark key="]" line="35" column="63" />
         <mark key="^" line="29" column="3" />
         <mark key="." line="35" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferResponseBuilder.java" timestamp="1534158992892">
-        <mark key="'" line="75" column="19" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" timestamp="1534324729671">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="54" column="51" />
+        <mark key="^" line="54" column="48" />
+        <mark key="." line="48" column="62" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1534148471350">
-        <mark key="[" line="103" column="13" />
-        <mark key="]" line="103" column="15" />
-        <mark key="^" line="103" column="15" />
-        <mark key="." line="103" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/rest/controller/FreightOfferController.java" timestamp="1534150102087">
-        <mark key="'" line="112" column="8" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" timestamp="1534323579794">
-        <mark key="'" line="14" column="12" />
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="53" column="10" />
-        <mark key="." line="55" column="16" />
-        <mark key="^" line="55" column="16" />
-      </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleSearchEndpointSteps.java" timestamp="1534323724834">
-        <mark key="'" line="62" column="8" />
-        <mark key="[" line="49" column="56" />
-        <mark key="]" line="49" column="56" />
-        <mark key="." line="49" column="56" />
-        <mark key="^" line="35" column="7" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleSearchEndpointSteps.java" timestamp="1534324757299">
+        <mark key="'" line="46" column="56" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="59" column="25" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/enums/VehicleType.java" timestamp="1534323239315">
         <mark key="[" line="21" column="4" />
@@ -120,17 +71,78 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/World.java" timestamp="1534325600292">
+        <mark key="'" line="34" column="4" />
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="64" column="39" />
+        <mark key="." line="64" column="39" />
+        <mark key="^" line="64" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightSearchService.java" timestamp="1534325873104" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightOfferEndpointSteps.java" timestamp="1534324669965">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="48" column="53" />
+        <mark key="]" line="48" column="73" />
+        <mark key="^" line="48" column="73" />
+        <mark key="." line="48" column="73" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/AuthorizationStepDefs.java" timestamp="1534325590763">
+        <mark key="[" line="66" column="61" />
+        <mark key="]" line="66" column="61" />
+        <mark key="^" line="66" column="61" />
+        <mark key="." line="66" column="61" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/searches/valid_search.json" timestamp="1534320943655">
+        <mark key="'" line="12" column="34" />
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="14" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/rest/controller/FreightSearchController.java" timestamp="1534325826827" />
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/VehicleOffer.java" timestamp="1534321066165">
+        <mark key="[" line="52" column="11" />
+        <mark key="]" line="52" column="22" />
+        <mark key="." line="52" column="22" />
+        <mark key="^" line="52" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/offers/valid_offer.json" timestamp="1534309693888">
+        <mark key="'" line="23" column="31" />
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="21" column="8" />
+        <mark key="^" line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-db-migration/src/main/resources/migration/version-18/patch-09/V201808131312_18_09__FX-11566_Added_hierarchy_id_to_company.sql" timestamp="1534145363284">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="8" column="62" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/FreightOffer.java" timestamp="1534321049966">
+        <mark key="'" line="39" column="4" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="59" column="4" />
+        <mark key="^" line="45" column="10" />
+        <mark key="." line="45" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/vehicles/valid_vehicle.json" timestamp="1534325031129">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="11" column="31" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1534324975500">
+        <mark key="[" line="156" column="9" />
+        <mark key="]" line="156" column="10" />
+        <mark key="^" line="156" column="10" />
+        <mark key="." line="156" column="10" />
+      </file>
       <file name="/Dummy.txt" timestamp="1534157102360">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/World.java" timestamp="1534313648955">
-        <mark key="[" line="35" column="5" />
-        <mark key="]" line="11" column="27" />
-        <mark key="." line="11" column="27" />
-        <mark key="^" line="11" column="27" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/FreightSearch.java" timestamp="1534321864011">
         <mark key="[" line="7" column="14" />
@@ -138,18 +150,17 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="42" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/utils/FxUtils.java" timestamp="1534325710996">
+        <mark key="[" line="33" column="36" />
+        <mark key="]" line="33" column="48" />
+        <mark key="^" line="33" column="48" />
+        <mark key="." line="33" column="48" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/CompanyHierarchyLevelResolver.java" timestamp="1534148772740">
         <mark key="[" line="24" column="15" />
         <mark key="]" line="24" column="15" />
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightOfferEndpointSteps.java" timestamp="1534323536025">
-        <mark key="'" line="127" column="0" />
-        <mark key="[" line="112" column="14" />
-        <mark key="]" line="112" column="22" />
-        <mark key="." line="112" column="14" />
-        <mark key="^" line="125" column="33" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/searches/IT_PL_search.json" timestamp="1534320249554">
         <mark key="[" line="0" column="0" />
@@ -168,26 +179,8 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/AuthorizationStepDefs.java" timestamp="1534132015980">
-        <mark key="[" line="52" column="14" />
-        <mark key="]" line="52" column="69" />
-        <mark key="^" line="52" column="48" />
-        <mark key="." line="52" column="58" />
-      </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/searches/valid_search.json" timestamp="1534320943655">
-        <mark key="'" line="12" column="34" />
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="4" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="14" column="4" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="5" filename="$USER_HOME$/projects/fx/vx-connect/src/test/java/com/wktransportservices/connect/fx/mappers/FreightOfferDtoMapper_FreightOfferDto_To_FreightOfferDto_Test.java" />
-      <jump line="230" column="32" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" />
-      <jump line="30" column="8" filename="$USER_HOME$/projects/leader/club/pom.xml" />
-      <jump line="12" column="0" filename="$USER_HOME$/projects/leader/club/pom.xml" />
-      <jump line="23" column="61" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/AbstractSearchQueryBuilder.java" />
       <jump line="243" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/AbstractSearchQueryBuilder.java" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/AbstractSearchQueryBuilder.java" />
       <jump line="240" column="0" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/util/query/AbstractSearchQueryBuilder.java" />
@@ -283,57 +276,57 @@
       <jump line="14" column="12" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" />
       <jump line="45" column="8" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleSearchEndpointSteps.java" />
       <jump line="47" column="36" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/tmp.feature" />
+      <jump line="33" column="4" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/World.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightOfferEndpointSteps.java" />
+      <jump line="49" column="56" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleSearchEndpointSteps.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/tmp.feature" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>delivery</text>
       </register>
       <register name="&quot;" type="4">
-        <text>UI</text>
+        <text>Login</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>UI</text>
+        <text>Login</text>
       </register>
       <register name="/" type="4">
         <text>pickUp</text>
       </register>
-      <register name="0" type="4">
-        <text>TAUTLINER</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4od29ybGQuZ2V0TG9naW4oKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>## Running features from IDEA IDE
-0001. Choose `.feature` file, right-click on `Feature` and choose Run (`Ctrl+Shift+F10`) 
-0010. IDE would create run configuration for feature that most probably fail. Next it is required to change run
-configuration manually with choosing newly created configuration and removing program arguments from it.
-0011. Thats it</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEZSRUlHSFRfU0VBUkNIX0RFTEVURV9QQVRIID0gIi9hcGkvZnJlaWdodHMvdjEvc2VhcmNoZXMiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFdoZW4gR0VUIHZlaGljbGUgc2VhcmNoIHJlc3VsdHMK</text>
+        <text encoding="base64">ICAgICAgICByZWZlcmVuY2UgPSA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFuZCByZXNwb25zZSBjb2RlIHNob3VsZCBiZSAiMjAxIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZGVsaXZlcnkoZGVsaXZlcnkpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>// Write code here that turns the phrase above into concrete actions
-            throw new PendingException();</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucGlja1VwKHBpY2tVcCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsaXZlcnkgPSBuZXcgTG9jYXRpb24oY291bnRyeSwgY2l0eSwgemlwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFBlbmRpbmdFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICBBbmQoIl52ZWhpY2xlIHNlYXJjaCdzIGRlbGl2ZXJ5IGlzIFwiKFteXCJdKilcIiwgXCIoW15cIl0qKVwiLCBcIihbXlwiXSopXCIkIiwgKFN0cmluZyBjb3VudHJ5LCBTdHJpbmcgY2l0eSwgU3RyaW5nIHppcCkgLT4gewogICAgICAgICAgICBkZWxpdmVyeSA9IG5ldyBMb2NhdGlvbihjb3VudHJ5LCBjaXR5LCB6aXApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGlja1VwID0gbmV3IExvY2F0aW9uKGNvdW50cnksIGNpdHksIHppcCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFuZCByb3V0ZSBkZXRhaWxzIGZyZWlnaHQgb2ZmZXIgLSBCRSwgR2VudCAtIEZSLCBQYXJpcwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHJlZmVyZW5jZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFBlbmRpbmdFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9jYXRpb24gZGVsaXZlcnk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
