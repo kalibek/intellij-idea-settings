@@ -110,12 +110,13 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/pom.xml" timestamp="1534394836141">
+      <file name="$USER_HOME$/projects/spotbidding/pom.xml" timestamp="1534396592525">
+        <mark key="'" line="358" column="33" />
         <mark key="[" line="1262" column="0" />
         <mark key="]" line="1262" column="0" />
         <mark key="." line="1262" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/pom.xml" timestamp="1534394511906">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/pom.xml" timestamp="1534396552939">
         <mark key="[" line="294" column="0" />
         <mark key="]" line="294" column="0" />
         <mark key="." line="294" column="0" />
@@ -147,8 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="12" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/search-city-to-city_tsvector.ftl" />
-      <jump line="162" column="6" filename="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/offer_tsvector.ftl" />
       <jump line="49" column="4" filename="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferResponseBuilder.java" />
       <jump line="140" column="42" filename="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferService.java" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/connect/fx/service/FreightOfferService.java" />
@@ -247,6 +246,8 @@
       <jump line="62" column="50" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
       <jump line="49" column="7" filename="$USER_HOME$/projects/spotbidding/spotbidding-utils/src/main/java/com/wktransportservices/spotbidding/utils/config/ConfigUtils.java" />
       <jump line="283" column="1" filename="$USER_HOME$/projects/spotbidding/spotbidding-utils/src/main/java/com/wktransportservices/spotbidding/utils/config/ConfigUtils.java" />
+      <jump line="1266" column="24" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
+      <jump line="358" column="33" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -262,7 +263,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>weblo</text>
+        <text>javaee-api</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcG9zdFZlaGljbGVXaXRoRXh0ZXJuYWxJZC5hY2NlcHQodmVoaWNsZU9mZmVyKTsK</text>
@@ -323,9 +324,9 @@
       </register>
     </registers>
     <search>
-      <last-search>weblo</last-search>
+      <last-search>javaee-api</last-search>
       <last-offset />
-      <last-pattern>weblo</last-pattern>
+      <last-pattern>javaee-api</last-pattern>
       <last-replace>delivery</last-replace>
       <last-substitute>pickUp</last-substitute>
       <last-dir>1</last-dir>
@@ -333,7 +334,6 @@
     </search>
     <history>
       <history-search>
-        <entry>postgres</entry>
         <entry>smart</entry>
         <entry>\cscenario</entry>
         <entry>Sc</entry>
@@ -353,6 +353,7 @@
         <entry>GET</entry>
         <entry>amq</entry>
         <entry>weblo</entry>
+        <entry>javaee-api</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ZYL1NQT1QvZw==</entry>
