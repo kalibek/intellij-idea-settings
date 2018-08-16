@@ -109,11 +109,11 @@
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/pom.xml" timestamp="1534408806358">
+      <file name="$USER_HOME$/projects/spotbidding/pom.xml" timestamp="1534409026728">
         <mark key="'" line="363" column="42" />
-        <mark key="[" line="1621" column="40" />
-        <mark key="]" line="1621" column="43" />
-        <mark key="." line="1621" column="43" />
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="0" />
+        <mark key="." line="253" column="0" />
         <mark key="^" line="1621" column="43" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/pom.xml" timestamp="1534399274910">
@@ -356,8 +356,8 @@
       <register name="a" type="4">
         <text>delivery</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>weblogic</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8amVua2lucy5idWlsZE51bWJlcj48L2plbmtpbnMuYnVpbGROdW1iZXI+Cg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
@@ -372,31 +372,31 @@
         <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5qYm9zcy5zcGVjPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qYm9zcy1qYXZhZWUtNi4wPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4zLjAuMy5GaW5hbDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgICAgICA8amVua2lucy5idWlsZE51bWJlcj48L2plbmtpbnMuYnVpbGROdW1iZXI+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHt3bGZ1bGxjbGllbnQudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+My4wLjMuRmluYWw8L3ZlcnNpb24+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHt3bGZ1bGxjbGllbnQudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHt3bGZ1bGxjbGllbnQudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+My4wLjMuRmluYWw8L3ZlcnNpb24+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHt3bGZ1bGxjbGllbnQudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9qZGJjPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5vamRiYzY8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9qZGJjPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5vamRiYzY8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
