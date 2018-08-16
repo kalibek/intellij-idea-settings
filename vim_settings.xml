@@ -67,10 +67,11 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/pom.xml" timestamp="1534394568199">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/pom.xml" timestamp="1534399758184">
+        <mark key="[" line="127" column="21" />
+        <mark key="]" line="127" column="34" />
+        <mark key="." line="127" column="34" />
+        <mark key="^" line="127" column="34" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/vehicles/valid_vehicle.json" timestamp="1534329414434">
         <mark key="'" line="0" column="0" />
@@ -324,14 +325,14 @@
       <register name="a" type="4">
         <text>delivery</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+My4wLjMuRmluYWw8L3ZlcnNpb24+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>weblogic</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>weblogic</text>
       </register>
       <register name="/" type="4">
         <text>jboss</text>
@@ -340,19 +341,19 @@
         <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5qYm9zcy5zcGVjPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qYm9zcy1qYXZhZWUtNi4wPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4zLjAuMy5GaW5hbDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+My4wLjMuRmluYWw8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHt3bGZ1bGxjbGllbnQudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+My4wLjMuRmluYWw8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHt3bGZ1bGxjbGllbnQudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9qZGJjPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5vamRiYzY8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
