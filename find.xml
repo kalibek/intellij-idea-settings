@@ -14,8 +14,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*</mask>
-    <mask>pom.xml</mask>
     <mask>*.less</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
