@@ -9,9 +9,9 @@
         <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-acceptance-testing/pom.xml" timestamp="1534398250179">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/pom.xml" timestamp="1534394537280">
         <mark key="[" line="123" column="0" />
@@ -55,10 +55,10 @@
         <mark key="." line="88" column="22" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-common-web/pom.xml" timestamp="1534399283320">
-        <mark key="[" line="112" column="36" />
-        <mark key="]" line="112" column="39" />
-        <mark key="." line="112" column="39" />
-        <mark key="^" line="112" column="39" />
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+        <mark key="^" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/VehicleOffer.java" timestamp="1534321066165">
         <mark key="[" line="52" column="11" />
@@ -73,12 +73,7 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/pom.xml" timestamp="1534399758184">
-        <mark key="[" line="127" column="21" />
-        <mark key="]" line="127" column="34" />
-        <mark key="." line="127" column="34" />
-        <mark key="^" line="127" column="34" />
-      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/pom.xml" timestamp="1534399758184" />
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/FreightOffer.java" timestamp="1534332198888">
         <mark key="[" line="32" column="26" />
         <mark key="]" line="33" column="27" />
@@ -123,10 +118,10 @@
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/pom.xml" timestamp="1534399274910">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="296" column="36" />
-        <mark key="]" line="296" column="39" />
-        <mark key="." line="296" column="39" />
-        <mark key="^" line="296" column="39" />
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+        <mark key="^" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/searches/FX-11398_Align_API_offerId_handling.feature" timestamp="1534330038832">
         <mark key="[" line="0" column="26" />
