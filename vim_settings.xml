@@ -13,10 +13,11 @@
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/pom.xml" timestamp="1534394537280">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-web/pom.xml" timestamp="1534505659595">
+        <mark key="[" line="583" column="8" />
+        <mark key="]" line="586" column="21" />
+        <mark key="." line="583" column="8" />
+        <mark key="^" line="583" column="7" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightSearchEndpointSteps.java" timestamp="1534332465393">
         <mark key="'" line="37" column="0" />
@@ -28,6 +29,119 @@
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/pom.xml" timestamp="1534394883086">
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="." line="227" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-common-web/pom.xml" timestamp="1534399283320">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+        <mark key="^" line="7" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/tmp.feature" timestamp="1534327461140">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="48" column="50" />
+        <mark key="^" line="37" column="25" />
+        <mark key="." line="14" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" timestamp="1534331399298">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="76" column="101" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="21" column="44" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-domain/pom.xml" timestamp="1534392052658">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/searches/FX-11398_Align_API_offerId_handling.feature" timestamp="1534330038832">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/pom.xml" timestamp="1534392066758">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/pom.xml" timestamp="1534505407628">
+        <mark key="[" line="1722" column="27" />
+        <mark key="]" line="1722" column="3" />
+        <mark key="." line="1722" column="3" />
+        <mark key="^" line="1722" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleSearchEndpointSteps.java" timestamp="1534324757299">
+        <mark key="'" line="46" column="56" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="59" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ResponseValidationStepDefs.java" timestamp="1534332639873">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-utils/src/main/java/com/wktransportservices/spotbidding/utils/config/ConfigUtils.java" timestamp="1534395123903">
+        <mark key="'" line="283" column="1" />
+        <mark key="[" line="285" column="0" />
+        <mark key="]" line="285" column="0" />
+        <mark key="." line="285" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/pom.xml" timestamp="1534392037172">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/search-scenario-fragment.ftl" timestamp="1534392256915">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-test-database-runner/pom.xml" timestamp="1534398209732">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/AuthorizationStepDefs.java" timestamp="1534327344659">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="43" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-ear/pom.xml" timestamp="1534394475323">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" timestamp="1534421707447">
+        <mark key="[" line="44" column="25" />
+        <mark key="]" line="45" column="28" />
+        <mark key="." line="45" column="28" />
+        <mark key="^" line="45" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/searches/valid_search.json" timestamp="1534413087304">
+        <mark key="'" line="12" column="34" />
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="14" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-jms/pom.xml" timestamp="1534392061789">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/pom.xml" timestamp="1534394537280">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-calloff-report/pom.xml" timestamp="1534398219202">
         <mark key="[" line="224" column="0" />
@@ -44,34 +158,16 @@
         <mark key="]" line="173" column="0" />
         <mark key="." line="173" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/pom.xml" timestamp="1534394883086">
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="0" />
-        <mark key="." line="227" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/helper/social/UserHelper.java" timestamp="1534392220616">
         <mark key="[" line="83" column="22" />
         <mark key="]" line="83" column="22" />
         <mark key="." line="83" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-common-web/pom.xml" timestamp="1534399283320">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
-        <mark key="^" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/VehicleOffer.java" timestamp="1534321066165">
         <mark key="[" line="52" column="11" />
         <mark key="]" line="52" column="22" />
         <mark key="." line="52" column="22" />
         <mark key="^" line="52" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/tmp.feature" timestamp="1534327461140">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="48" column="50" />
-        <mark key="^" line="37" column="25" />
-        <mark key="." line="14" column="36" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/FreightOffer.java" timestamp="1534332198888">
         <mark key="[" line="32" column="26" />
@@ -96,18 +192,6 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" timestamp="1534331399298">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="76" column="101" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="21" column="44" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/pom.xml" timestamp="1534392052658">
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/pom.xml" timestamp="1534409026728">
         <mark key="'" line="363" column="42" />
         <mark key="[" line="253" column="0" />
@@ -122,44 +206,11 @@
         <mark key="." line="7" column="39" />
         <mark key="^" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/searches/FX-11398_Align_API_offerId_handling.feature" timestamp="1534330038832">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="41" />
-        <mark key="." line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/pom.xml" timestamp="1534392066758">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/pom.xml" timestamp="1534391807128">
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleSearchEndpointSteps.java" timestamp="1534324757299">
-        <mark key="'" line="46" column="56" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="59" column="25" />
-      </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ResponseValidationStepDefs.java" timestamp="1534332639873">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1534406712057">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="33" />
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-utils/src/main/java/com/wktransportservices/spotbidding/utils/config/ConfigUtils.java" timestamp="1534395123903">
-        <mark key="'" line="283" column="1" />
-        <mark key="[" line="285" column="0" />
-        <mark key="]" line="285" column="0" />
-        <mark key="." line="285" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-impl/pom.xml" timestamp="1534392057538">
         <mark key="[" line="56" column="0" />
@@ -183,21 +234,6 @@
         <mark key="^" line="28" column="14" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/pom.xml" timestamp="1534392037172">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/search-scenario-fragment.ftl" timestamp="1534392256915">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-test-database-runner/pom.xml" timestamp="1534398209732">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/resources/queries/shared-offers.ftl" timestamp="1534392183609">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="11" />
@@ -215,69 +251,18 @@
         <mark key="." line="53" column="68" />
         <mark key="^" line="53" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/AuthorizationStepDefs.java" timestamp="1534327344659">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="43" column="55" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-ear/pom.xml" timestamp="1534394475323">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
+      <file name="/pom.xml" timestamp="1534505654498">
+        <mark key="'" line="26" column="8" />
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="21" column="20" />
       </file>
       <file name="$USER_HOME$/projects/fx/vx-connect/src/test/java/com/wktransportservices/connect/fx/mappers/FreightOfferDtoMapper_FreightOfferDto_To_FreightOfferDto_Test.java" timestamp="1534132793919">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" timestamp="1534421707447">
-        <mark key="[" line="44" column="25" />
-        <mark key="]" line="45" column="28" />
-        <mark key="." line="45" column="28" />
-        <mark key="^" line="45" column="28" />
-      </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/searches/valid_search.json" timestamp="1534413087304">
-        <mark key="'" line="12" column="34" />
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="4" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="14" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-jms/pom.xml" timestamp="1534392061789">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="25" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/UserManager.java" />
-      <jump line="90" column="0" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/actor/social/UserActorTest.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/UserManager.java" />
-      <jump line="37" column="10" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/manager/social/UserManagerTest.java" />
-      <jump line="293" column="98" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/UserManager.java" />
-      <jump line="28" column="4" filename="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/vx/connect/service/VehicleOfferService.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/UserManager.java" />
-      <jump line="195" column="29" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/entity/social/User.java" />
-      <jump line="291" column="8" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/UserManager.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="512" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="516" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/scenario" />
-      <jump line="517" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="33" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="505" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="130" column="9" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="136" column="9" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="214" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="337" column="3" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="53" column="53" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightOfferEnpointSteps.java" />
-      <jump line="6" column="9" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="40" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/tmp.feature" />
-      <jump line="39" column="59" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/tmp.feature" />
-      <jump line="0" column="2" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11426_align_api_offer_ID.feature" />
       <jump line="104" column="37" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
       <jump line="93" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightOfferEndpointSteps.java" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11426_align_api_offer_ID.feature" />
@@ -351,13 +336,40 @@
       <jump line="1804" column="27" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
       <jump line="359" column="43" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
       <jump line="363" column="42" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
+      <jump line="25" column="20" filename="/pom.xml" />
+      <jump line="31" column="25" filename="/pom.xml" />
+      <jump line="32" column="24" filename="/pom.xml" />
+      <jump line="35" column="25" filename="/pom.xml" />
+      <jump line="36" column="24" filename="/pom.xml" />
+      <jump line="39" column="25" filename="/pom.xml" />
+      <jump line="40" column="24" filename="/pom.xml" />
+      <jump line="43" column="25" filename="/pom.xml" />
+      <jump line="44" column="24" filename="/pom.xml" />
+      <jump line="47" column="25" filename="/pom.xml" />
+      <jump line="48" column="24" filename="/pom.xml" />
+      <jump line="27" column="25" filename="/pom.xml" />
+      <jump line="28" column="24" filename="/pom.xml" />
+      <jump line="0" column="0" filename="/pom.xml" />
+      <jump line="100" column="25" filename="/pom.xml" />
+      <jump line="101" column="24" filename="/pom.xml" />
+      <jump line="104" column="25" filename="/pom.xml" />
+      <jump line="105" column="24" filename="/pom.xml" />
+      <jump line="108" column="25" filename="/pom.xml" />
+      <jump line="109" column="24" filename="/pom.xml" />
+      <jump line="112" column="25" filename="/pom.xml" />
+      <jump line="113" column="24" filename="/pom.xml" />
+      <jump line="116" column="25" filename="/pom.xml" />
+      <jump line="117" column="24" filename="/pom.xml" />
+      <jump line="120" column="25" filename="/pom.xml" />
+      <jump line="121" column="24" filename="/pom.xml" />
+      <jump line="26" column="8" filename="/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>delivery</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5nb29nbGUuZ3d0Lmd3dG1vY2tpdG88L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmd3dG1vY2tpdG88L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
@@ -366,46 +378,46 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>jboss</text>
+        <text>log</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5qYm9zcy5zcGVjPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qYm9zcy1qYXZhZWUtNi4wPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4zLjAuMy5GaW5hbDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5nb29nbGUuZ3d0Lmd3dG1vY2tpdG88L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmd3dG1vY2tpdG88L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PHByb2ZpbGVzPgogICAgICAgIDwhLS0gRGVmYXVsdCBwbHVnaW4gYmVoYXZpb3IgLS0+CiAgICAgICAgPCEtLSBOb3RlOiB5b3UgbmVlZCB0byBzcGVjaWZ5IGFjdGl2ZUJ5RGVmYXVsdCBpbiBlYWNoIHN1Yi1tb2R1bGUsIGFzIHByb2ZpbGUgc2V0dGluZ3MgYXJlIG5vdCBpbmhlcml0ZWQgLS0+CiAgICAgICAgPHByb2ZpbGU+CiAgICAgICAgICAgIDxpZD5kZWZhdWx0PC9pZD4KICAgICAgICA8L3Byb2ZpbGU+CiAgICAgICAgPCEtLSBQcm9maWxlIHVzZWQgZm9yIGRldmVsb3BtZW50IC0tPgogICAgICAgIDwhLS0gU2tpcHMgdW5uZWNlc3NhcnkgY29tcGlsYXRpb24gc3RlcHMgLS0+CiAgICAgICAgPHByb2ZpbGU+CiAgICAgICAgICAgIDxpZD5kZXZlbG9wbWVudDwvaWQ+CiAgICAgICAgPC9wcm9maWxlPgogICAgICAgIDxwcm9maWxlPgogICAgICAgICAgICA8aWQ+Y2ktc29uYXI8L2lkPgogICAgICAgICAgICA8YnVpbGQ+CiAgICAgICAgICAgICAgICA8cGx1Z2lucz4KICAgICAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuamFjb2NvPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5qYWNvY28tbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke2phY29jby5tYXZlbi5wbHVnaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRlc3RGaWxlPiR7c29uYXIuamFjb2NvLnJlcG9ydFBhdGh9PC9kZXN0RmlsZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhcHBlbmQ+dHJ1ZTwvYXBwZW5kPgogICAgICAgICAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aWQ+YWdlbnQ8L2lkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+cHJlcGFyZS1hZ2VudDwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9leGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpZD5qYWNvY28tc2l0ZTwvaWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBoYXNlPnZlcmlmeTwvcGhhc2U+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5yZXBvcnQ8L2dvYWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbnM+CiAgICAgICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmNvZGVoYXVzLm1vam88L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNvbmFyLW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+JHtzb25hci5tYXZlbi5wbHVnaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICA8L3BsdWdpbnM+CiAgICAgICAgICAgIDwvYnVpbGQ+CiAgICAgICAgPC9wcm9maWxlPgogICAgICAgIDxwcm9maWxlPgogICAgICAgICAgICA8aWQ+Y2ktZGV2PC9pZD4KICAgICAgICAgICAgPGRpc3RyaWJ1dGlvbk1hbmFnZW1lbnQ+CiAgICAgICAgICAgICAgICA8c25hcHNob3RSZXBvc2l0b3J5PgogICAgICAgICAgICAgICAgICAgIDxpZD50dy1saWJzLXNuYXBzaG90LWxvY2FsPC9pZD4KICAgICAgICAgICAgICAgICAgICA8bmFtZT5XS1RTIEFydGlmYWN0b3J5LXNuYXBzaG90czwvbmFtZT4KICAgICAgICAgICAgICAgICAgICA8dXJsPmh0dHA6Ly9hcnRpZmFjdHMudHcuaW50cmEvdHctbGlicy1zbmFwc2hvdC1sb2NhbDwvdXJsPgogICAgICAgICAgICAgICAgPC9zbmFwc2hvdFJlcG9zaXRvcnk+CiAgICAgICAgICAgIDwvZGlzdHJpYnV0aW9uTWFuYWdlbWVudD4KICAgICAgICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgICAgICAgICA8amVua2lucy5idWlsZE51bWJlcj4tJHtlbnYuQlVJTERfTlVNQkVSfTwvamVua2lucy5idWlsZE51bWJlcj4KICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPgogICAgICAgIDwvcHJvZmlsZT4KICAgICAgICA8cHJvZmlsZT4KICAgICAgICAgICAgPGlkPmNpLXNwcmludDwvaWQ+CiAgICAgICAgICAgIDxkaXN0cmlidXRpb25NYW5hZ2VtZW50PgogICAgICAgICAgICAgICAgPHNuYXBzaG90UmVwb3NpdG9yeT4KICAgICAgICAgICAgICAgICAgICA8aWQ+dHctbGlicy1zbmFwc2hvdC1sb2NhbDwvaWQ+CiAgICAgICAgICAgICAgICAgICAgPG5hbWU+V0tUUyBBcnRpZmFjdG9yeS1zbmFwc2hvdHM8L25hbWU+CiAgICAgICAgICAgICAgICAgICAgPHVybD5odHRwOi8vYXJ0aWZhY3RzLnR3LmludHJhL3R3LWxpYnMtc25hcHNob3QtbG9jYWw8L3VybD4KICAgICAgICAgICAgICAgIDwvc25hcHNob3RSZXBvc2l0b3J5PgogICAgICAgICAgICA8L2Rpc3RyaWJ1dGlvbk1hbmFnZW1lbnQ+CiAgICAgICAgPC9wcm9maWxlPgogICAgICAgIDxwcm9maWxlPgogICAgICAgICAgICA8aWQ+Y2ktcWE8L2lkPgogICAgICAgICAgICA8ZGlzdHJpYnV0aW9uTWFuYWdlbWVudD4KICAgICAgICAgICAgICAgIDxyZXBvc2l0b3J5PgogICAgICAgICAgICAgICAgICAgIDxpZD50dy1saWJzLXJlbGVhc2UtbG9jYWw8L2lkPgogICAgICAgICAgICAgICAgICAgIDxuYW1lPldLVFMgQXJ0aWZhY3RvcnktUUE8L25hbWU+CiAgICAgICAgICAgICAgICAgICAgPHVybD5odHRwOi8vYXJ0aWZhY3RzLnR3LmludHJhL3R3LWxpYnMtcmVsZWFzZS1sb2NhbDwvdXJsPgogICAgICAgICAgICAgICAgPC9yZXBvc2l0b3J5PgogICAgICAgICAgICA8L2Rpc3RyaWJ1dGlvbk1hbmFnZW1lbnQ+CiAgICAgICAgICAgIDxyZXBvc2l0b3JpZXM+CiAgICAgICAgICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgICAgICAgICA8c25hcHNob3RzPgogICAgICAgICAgICAgICAgICAgICAgICA8ZW5hYmxlZD5mYWxzZTwvZW5hYmxlZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGNoZWNrc3VtUG9saWN5Pndhcm48L2NoZWNrc3VtUG9saWN5PgogICAgICAgICAgICAgICAgICAgIDwvc25hcHNob3RzPgogICAgICAgICAgICAgICAgICAgIDxpZD5jZW50cmFsPC9pZD4KICAgICAgICAgICAgICAgICAgICA8bmFtZT50dy1saWJzLXJlbGVhc2UtbG9jYWw8L25hbWU+CiAgICAgICAgICAgICAgICAgICAgPHVybD5odHRwOi8vYXJ0aWZhY3RzLnR3LmludHJhL3R3LWxpYnMtcmVsZWFzZS1sb2NhbDwvdXJsPgogICAgICAgICAgICAgICAgPC9yZXBvc2l0b3J5PgogICAgICAgICAgICA8L3JlcG9zaXRvcmllcz4KICAgICAgICAgICAgPGJ1aWxkPgogICAgICAgICAgICAgICAgPHBsdWdpbnM+CiAgICAgICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1zb3VyY2UtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke21hdmVuLnNvdXJjZXMucGx1Z2luLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tamF2YWRvYy1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7bWF2ZW4uamF2YWRvYy5wbHVnaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1kZXBsb3ktcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke21hdmVuLmRlcGxveS5wbHVnaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICA8L3BsdWdpbnM+CiAgICAgICAgICAgIDwvYnVpbGQ+CiAgICAgICAgPC9wcm9maWxlPgogICAgPC9wcm9maWxlcz4=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm90aWZpY2F0aW9uID0gbjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBOb3RpZmljYXRpb24gbm90aWZpY2F0aW9uOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">PHByb2ZpbGU+CiAgICAgICAgICAgIDxpZD5jb2Rlc2VydmVyPC9pZD4KICAgICAgICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgICAgICAgICA8c3JjLmRpcj4KICAgICAgICAgICAgICAgICAgICAke3Byb2plY3QuYmFzZWRpcn0vc3JjL21haW4vamF2YTske3Byb2plY3QuYmFzZWRpcn0vLi4vZngtd2ViLWJ1c2luZXNzL3NyYy9tYWluL2phdmE7JHtwcm9qZWN0LmJhc2VkaXJ9Ly4uL2Z4LXdlYi1saXRlL3NyYy9tYWluL2phdmEKICAgICAgICAgICAgICAgIDwvc3JjLmRpcj4KICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPgogICAgICAgIDwvcHJvZmlsZT4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmZ4LXdlYi1idXNpbmVzczwvbW9kdWxlPgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBVbmljYXN0UHJvY2Vzc29yPE5vdGlmaWNhdGlvbj4gdW5pY2FzdFByb2Nlc3NvciA9IFVuaWNhc3RQcm9jZXNzb3IuY3JlYXRlKCk7Ci8vICAgIHByaXZhdGUgQ29uc3VtZXI8Tm90aWZpY2F0aW9uPiBub3RpZmljYXRpb25Db25zdW1lciA9IG4gLT4gdW5pY2FzdFByb2Nlc3Nvci5vbk5leHQobik7Ci8vCi8vICAgIEZsdXg8Tm90aWZpY2F0aW9uPiBnZXROb3RpZmljYXRpb25zKCkgewovLyAgICAgICAgcmV0dXJuIHVuaWNhc3RQcm9jZXNzb3IucHVibGlzaCgpLmF1dG9Db25uZWN0KCk7Ci8vICAgIH0KLy8KLy8gICAgTW9ubzxOb3RpZmljYXRpb24+IHNhdmVOb3RpZmljYXRpb24oTW9ubzxOb3RpZmljYXRpb24+IG5vdGlmaWNhdGlvbikgewovLyAgICAgICAgbm90aWZpY2F0aW9uLnN1YnNjcmliZShub3RpZmljYXRpb25Db25zdW1lcik7Ci8vICAgICAgICByZXR1cm4gbm90aWZpY2F0aW9uOwovLyAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmZ4LXdlYi1saXRlPC9tb2R1bGU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHJpdmF0ZSBGbHV4PE5vdGlmaWNhdGlvbj4gbm90aWZpY2F0aW9uRmx1eCA9IEZsdXguY3JlYXRlKHNpbmsgLT4gewogICAgICAgIEFjdGlvbkxpCiAgICB9KTs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbm90aWZpY2F0aW9uID0gbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBOb3RpZmljYXRpb24gbm90aWZpY2F0aW9uOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25Db25zdW1lciA9IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>jboss</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>jboss</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>delivery</last-replace>
       <last-substitute>pickUp</last-substitute>
       <last-dir>1</last-dir>
@@ -413,10 +425,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\cbefore</entry>
-        <entry>repost</entry>
-        <entry>applyCont</entry>
-        <entry>owner</entry>
         <entry>Step 19</entry>
         <entry>^  the</entry>
         <entry>post freight offer</entry>
@@ -433,6 +441,10 @@
         <entry>groovy</entry>
         <entry>javaee</entry>
         <entry>jboss</entry>
+        <entry>power</entry>
+        <entry>gwtmo</entry>
+        <entry>log4j</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ZYL1NQT1QvZw==</entry>
