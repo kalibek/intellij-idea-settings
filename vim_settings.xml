@@ -41,12 +41,6 @@
         <mark key="." line="33" column="27" />
         <mark key="^" line="33" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/fx-copy/fx-web/pom.xml" timestamp="1534764294830">
-        <mark key="'" line="580" column="77" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/pom.xml" timestamp="1534399274910">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/resources/META-INF/web-fragment.xml" timestamp="1534768013495">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="8" />
@@ -59,17 +53,11 @@
         <mark key="^" line="162" column="31" />
         <mark key="." line="162" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/resource/image/CommonImages.java" timestamp="1534746519401">
-        <mark key="'" line="7" column="37" />
-      </file>
       <file name="/Dummy.txt" timestamp="1534767856157">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web-lite/src/test/java/com/wktransportservices/fx/web/lite/client/widget/offerlist/column/DateTimeRangeColumnTest.java" timestamp="1534747662757">
-        <mark key="'" line="6" column="56" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/FreightSearch.java" timestamp="1534321864011">
         <mark key="[" line="7" column="14" />
@@ -83,9 +71,6 @@
         <mark key="^" line="28" column="14" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/test/java/com/wktransportservices/fx/test/web/server/widgets/location/region/RegionParserTest.java" timestamp="1534747792771">
-        <mark key="'" line="3" column="72" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/i18n/SMSMessages.java" timestamp="1534741331735">
         <mark key="[" line="97" column="4" />
         <mark key="]" line="116" column="21" />
@@ -97,9 +82,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="43" column="55" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web-lite/src/test/java/com/wktransportservices/fx/web/lite/client/widget/offerlist/column/DateTimeRangeHeaderTest.java" timestamp="1534747652355">
-        <mark key="'" line="0" column="39" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-push/pom.xml" timestamp="1534750249007">
         <mark key="[" line="57" column="8" />
@@ -116,9 +98,6 @@
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="4" />
         <mark key="." line="13" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/regionmap/RegionMapTranslationServlet.java" timestamp="1534746532133">
-        <mark key="'" line="31" column="69" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/test/java/com/wktransportservices/fx/web/server/controller/CompanyDetailsURLServiceImplTest.java" timestamp="1534767911074">
         <mark key="[" line="53" column="0" />
