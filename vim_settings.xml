@@ -16,21 +16,23 @@
         <mark key="]" line="7" column="47" />
       </file>
       <file name="/ErrorPopup.java" timestamp="1534746836525" />
-      <file name="$USER_HOME$/projects/fx/fx-web/src/test/java/com/wktransportservices/fx/web/lite/client/util/FormatUtilsTest.java" timestamp="1534747335081">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="39" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/test/java/com/wktransportservices/fx/web/client/widget/offerlist/column/DateTimeRangeColumnTest.java" timestamp="1534747549834">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="6" column="38" />
-        <mark key="." line="6" column="38" />
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/widget/ErrorPopup.java" timestamp="1534746876233">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="10" column="43" />
+        <mark key="^" line="10" column="43" />
+        <mark key="." line="10" column="43" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/webapp/WEB-INF/web.xml" timestamp="1534758539307">
         <mark key="[" line="46" column="21" />
         <mark key="]" line="80" column="21" />
         <mark key="^" line="80" column="21" />
         <mark key="." line="80" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/print/PrintConstants.java" timestamp="1534759384557">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/VehicleOffer.java" timestamp="1534321066165">
         <mark key="[" line="52" column="11" />
@@ -45,11 +47,6 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/widget/Header.java" timestamp="1534741034092">
-        <mark key="[" line="32" column="31" />
-        <mark key="]" line="32" column="41" />
-        <mark key="." line="32" column="38" />
-      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/FreightOffer.java" timestamp="1534332198888">
         <mark key="[" line="32" column="26" />
         <mark key="]" line="33" column="27" />
@@ -63,6 +60,7 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="11" column="31" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/print/offer/tranportorder/TransportOrderServiceImpl.java" timestamp="1534759001442" />
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" timestamp="1534331399298">
         <mark key="'" line="75" column="0" />
         <mark key="[" line="76" column="101" />
@@ -79,11 +77,6 @@
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/pom.xml" timestamp="1534399274910">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/test/java/com/wktransportservices/fx/web/lite/client/widget/offerlist/column/DateTimeRangeColumnTest.java" timestamp="1534747329592">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="39" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/test/java/com/wktransportservices/fx/web/client/widget/offerlist/column/DateTimeRangeHeaderTest.java" timestamp="1534747631757">
         <mark key="'" line="8" column="31" />
@@ -129,6 +122,7 @@
         <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/webapp/META-INF/web-fragment.xml" timestamp="1534758529347" />
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/print/service/impl/PrintServiceImpl.java" timestamp="1534759748718" />
       <file name="$USER_HOME$/projects/fx/fx-web/src/test/java/com/wktransportservices/fx/test/web/server/widgets/location/region/RegionParserTest.java" timestamp="1534747792771">
         <mark key="'" line="3" column="72" />
       </file>
@@ -145,11 +139,6 @@
         <mark key="]" line="53" column="68" />
         <mark key="." line="53" column="68" />
         <mark key="^" line="53" column="68" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/test/java/com/wktransportservices/fx/web/lite/client/util/EmailUtilsTest.java" timestamp="1534747295861">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="39" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/AuthorizationStepDefs.java" timestamp="1534327344659">
         <mark key="[" line="26" column="0" />
@@ -171,11 +160,6 @@
         <mark key="." line="45" column="28" />
         <mark key="^" line="45" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/lite/client/i18n/SMSMessages.java" timestamp="1534741325614">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="4" />
-        <mark key="." line="13" column="4" />
-      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/searches/valid_search.json" timestamp="1534413087304">
         <mark key="'" line="12" column="34" />
         <mark key="[" line="14" column="4" />
@@ -192,8 +176,11 @@
         <mark key="^" line="25" column="47" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1534747478694">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1534759736384">
+        <mark key="[" line="0" column="59" />
+        <mark key="]" line="0" column="59" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="59" />
       </file>
     </filemarks>
     <jumps>
@@ -303,13 +290,13 @@
         <text>delivery</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hdG1vc3BoZXJlLmNsaWVudDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+amF2YXNjcmlwdDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHR5cGU+d2FyPC90eXBlPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
+        <text>AsStream</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>AsStream</text>
       </register>
       <register name="/" type="4">
         <text>social-inf</text>
