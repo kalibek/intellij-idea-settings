@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/fx/fx-web/pom.xml" timestamp="1534762294000">
-        <mark key="'" line="316" column="21" />
+      <file name="$USER_HOME$/projects/fx/fx-web/pom.xml" timestamp="1534762819096">
+        <mark key="'" line="605" column="54" />
         <mark key="[" line="607" column="0" />
         <mark key="]" line="607" column="0" />
         <mark key="^" line="33" column="7" />
@@ -178,7 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="8" filename="$USER_HOME$/projects/fx/fx-web-lite/pom.xml" />
       <jump line="598" column="7" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="636" column="28" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="531" column="19" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
@@ -278,6 +277,7 @@
       <jump line="308" column="21" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="312" column="21" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="316" column="21" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="605" column="54" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
