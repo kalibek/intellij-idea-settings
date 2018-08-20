@@ -3,33 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-test/pom.xml" timestamp="1534398240748">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-acceptance-testing/pom.xml" timestamp="1534398250179">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/pom.xml" timestamp="1534738705367">
-        <mark key="'" line="598" column="7" />
-        <mark key="[" line="599" column="8" />
-        <mark key="]" line="602" column="21" />
-        <mark key="." line="599" column="8" />
+      <file name="$USER_HOME$/projects/fx/fx-web/pom.xml" timestamp="1534742484525">
+        <mark key="'" line="636" column="28" />
+        <mark key="[" line="712" column="0" />
+        <mark key="]" line="712" column="0" />
         <mark key="^" line="599" column="7" />
+        <mark key="." line="712" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/pom.xml" timestamp="1534392047401">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/pom.xml" timestamp="1534394883086">
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="0" />
-        <mark key="." line="227" column="0" />
-      </file>
+      <file name="/ErrorPopup.java" timestamp="1534740812861" />
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/widget/ErrorPopup.java" timestamp="1534740822529" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-common-web/pom.xml" timestamp="1534399283320">
         <mark key="[" line="7" column="36" />
         <mark key="]" line="7" column="39" />
@@ -43,6 +25,11 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="14" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/widget/Header.java" timestamp="1534741034092">
+        <mark key="[" line="32" column="31" />
+        <mark key="]" line="32" column="41" />
+        <mark key="." line="32" column="38" />
+      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" timestamp="1534331399298">
         <mark key="'" line="75" column="0" />
         <mark key="[" line="76" column="101" />
@@ -50,26 +37,11 @@
         <mark key="^" line="21" column="44" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/pom.xml" timestamp="1534392052658">
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/searches/FX-11398_Align_API_offerId_handling.feature" timestamp="1534330038832">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="41" />
-        <mark key="." line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/pom.xml" timestamp="1534392066758">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/pom.xml" timestamp="1534738603353">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="1722" column="3" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/projects/fx/pom.xml" timestamp="1534742143465">
+        <mark key="[" line="159" column="30" />
+        <mark key="]" line="159" column="31" />
+        <mark key="^" line="159" column="31" />
+        <mark key="." line="159" column="31" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleSearchEndpointSteps.java" timestamp="1534324757299">
         <mark key="'" line="46" column="56" />
@@ -78,41 +50,11 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/ResponseValidationStepDefs.java" timestamp="1534332639873">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web-business/pom.xml" timestamp="1534511411132">
-        <mark key="'" line="10" column="8" />
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="239" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/pom.xml" timestamp="1534392037172">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-search/fx-search-indb-ejb/src/main/resources/queries/search-scenario-fragment.ftl" timestamp="1534392256915">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-test-database-runner/pom.xml" timestamp="1534398209732">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/AuthorizationStepDefs.java" timestamp="1534327344659">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="43" column="55" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-ear/pom.xml" timestamp="1534394475323">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-push/pom.xml" timestamp="1534738693753">
         <mark key="[" line="83" column="8" />
@@ -133,41 +75,6 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-jms/pom.xml" timestamp="1534392061789">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/pom.xml" timestamp="1534394537280">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-calloff-report/pom.xml" timestamp="1534398219202">
-        <mark key="[" line="224" column="0" />
-        <mark key="]" line="224" column="0" />
-        <mark key="." line="224" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-migration/pom.xml" timestamp="1534398260475">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/pom.xml" timestamp="1534392042451">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/helper/social/UserHelper.java" timestamp="1534392220616">
-        <mark key="[" line="83" column="22" />
-        <mark key="]" line="83" column="22" />
-        <mark key="." line="83" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web-lite/pom.xml" timestamp="1534511434475">
-        <mark key="'" line="10" column="8" />
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="192" column="20" />
-      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/VehicleOffer.java" timestamp="1534321066165">
         <mark key="[" line="52" column="11" />
         <mark key="]" line="52" column="22" />
@@ -186,16 +93,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="13" column="20" />
         <mark key="^" line="11" column="31" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/webapp/WEB-INF/web.xml" timestamp="1534395168324">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-utils/pom.xml" timestamp="1534394528627">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/pom.xml" timestamp="1534409026728">
         <mark key="'" line="363" column="42" />
@@ -217,16 +114,6 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-integration/fx-integration-impl/pom.xml" timestamp="1534392057538">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-scheduler/pom.xml" timestamp="1534394553154">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/FreightSearch.java" timestamp="1534321864011">
         <mark key="[" line="7" column="14" />
         <mark key="]" line="7" column="13" />
@@ -239,15 +126,11 @@
         <mark key="^" line="28" column="14" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/resources/queries/shared-offers.ftl" timestamp="1534392183609">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/pom.xml" timestamp="1534394543004">
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="0" />
-        <mark key="." line="227" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/i18n/SMSMessages.java" timestamp="1534741331735">
+        <mark key="[" line="97" column="4" />
+        <mark key="]" line="116" column="21" />
+        <mark key="^" line="97" column="3" />
+        <mark key="." line="97" column="4" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" timestamp="1534333266419">
         <mark key="'" line="62" column="50" />
@@ -256,15 +139,10 @@
         <mark key="." line="53" column="68" />
         <mark key="^" line="53" column="68" />
       </file>
-      <file name="/pom.xml" timestamp="1534505654498">
-        <mark key="'" line="26" column="8" />
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="21" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/vx-connect/src/test/java/com/wktransportservices/connect/fx/mappers/FreightOfferDtoMapper_FreightOfferDto_To_FreightOfferDto_Test.java" timestamp="1534132793919">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/lite/client/i18n/SMSMessages.java" timestamp="1534741325614">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/test/java/com/wktransportservices/fx/web/server/controller/CompanyDetailsURLServiceImplTest.java" timestamp="1534739649234">
         <mark key="[" line="24" column="0" />
@@ -274,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="28" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightOfferEndpointSteps.java" />
       <jump line="40" column="49" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightOfferEndpointSteps.java" />
       <jump line="50" column="33" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightOfferEndpointSteps.java" />
       <jump line="20" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightOfferEndpointSteps.java" />
@@ -374,61 +251,81 @@
       <jump line="576" column="9" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="10" column="8" filename="$USER_HOME$/projects/fx/fx-web-lite/pom.xml" />
       <jump line="598" column="7" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="636" column="28" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>delivery</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QFByZXBhcmVGb3JUZXN0KHtDb21wYW55RGV0YWlsc1VSTFNlcnZpY2VJbXBsLmNsYXNzfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>lite</text>
+        <text>24</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>\cunit</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5qYm9zcy5lamIzPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qYm9zcy1lamIzLWV4dC1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+        <text>fx.web.lite</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFByZXBhcmVGb3JUZXN0KHtDb21wYW55RGV0YWlsc1VSTFNlcnZpY2VJbXBsLmNsYXNzfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmZ4LXB1c2g8L21vZHVsZT4K</text>
+      <register name="2" type="4">
+        <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXdhci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke21hdmVuLndhci5wbHVnaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICA8cGFja2FnaW5nRXhjbHVkZXM+V0VCLUlORi9jbGFzc2VzLyoqPC9wYWNrYWdpbmdFeGNsdWRlcz4KICAgICAgICAgICAgICAgICAgICA8cGFja2FnaW5nRXhjbHVkZXM+V0VCLUlORi9saWIvZngtZG9tYWluKjwvcGFja2FnaW5nRXhjbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgPHBhY2thZ2luZ0V4Y2x1ZGVzPioqL2NvbS93a3RyYW5zcG9ydHNlcnZpY2VzL2Z4L3dlYi9leHQvKiouY2xhc3M8L3BhY2thZ2luZ0V4Y2x1ZGVzPgogICAgICAgICAgICAgICAgICAgIDx3ZWJSZXNvdXJjZXM+CiAgICAgICAgICAgICAgICAgICAgICAgIDxyZXNvdXJjZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vZngtd2ViLWxpdGUvc3JjL21haW4vcmVzb3VyY2VzPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvcmVzb3VyY2U+CiAgICAgICAgICAgICAgICAgICAgICAgIDxyZXNvdXJjZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmaWx0ZXJpbmc+dHJ1ZTwvZmlsdGVyaW5nPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpcmVjdG9yeT5zcmMvbWFpbi93ZWJhcHA8L2RpcmVjdG9yeT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlcz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5jbHVkZT5mcmVpZ2h0ZXhjaGFuZ2UuaHRtbDwvaW5jbHVkZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5jbHVkZT5nZXRmcm9tb2ZmZXIuaHRtbDwvaW5jbHVkZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5jbHVkZT5nZXRmcm9td2t0c2lkLmh0bWw8L2luY2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGluY2x1ZGU+c2FmZUJ1c2luZXNzSW5kaWNhdG9yLmh0bWw8L2luY2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGluY2x1ZGU+d2hvc21vLmh0bWw8L2luY2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGluY2x1ZGU+L2V4dGVybmFsbWFwcy9leHRlcm5hbG1hcHMuaHRtbDwvaW5jbHVkZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvaW5jbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvcmVzb3VyY2U+CiAgICAgICAgICAgICAgICAgICAgPC93ZWJSZXNvdXJjZXM+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgIDwvcGx1Z2luPg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+      <register name="3" type="4">
+        <text>// Sms body messages
+    @DefaultMessage(&quot;Loading From&quot;)
+    @MessageKey(&quot;fx.sms.body.from&quot;)
+    String bodyFrom();
+
+    @DefaultMessage(&quot;Delivery To&quot;)
+    @MessageKey(&quot;fx.sms.body.to&quot;)
+    String bodyTo();
+
+    @DefaultMessage(&quot;Time&quot;)
+    @MessageKey(&quot;fx.sms.body.time&quot;)
+    String bodyTime();
+
+    @DefaultMessage(&quot;Customer&quot;)
+    @MessageKey(&quot;fx.sms.body.company&quot;)
+    String bodyCompany();
+
+    @DefaultMessage(&quot;Tel&quot;)
+    @MessageKey(&quot;fx.sms.body.tel&quot;)
+    String bodyTel();</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">QFByZXBhcmVGb3JUZXN0KHtDb21wYW55RGV0YWlsc1VSTFNlcnZpY2VJbXBsLmNsYXNzfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+Zngtd2ViLWJ1c2luZXNzPC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmZ4LXB1c2g8L21vZHVsZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLndrdHJhbnNwb3J0c2VydmljZXMuZng8L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+Zngtd2ViLWJ1c2luZXNzPC9hcnRpZmFjdElkPgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5nb29nbGVjb2RlLmxpYnBob25lbnVtYmVyPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5saWJwaG9uZW51bWJlcjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5nb29nbGVjb2RlLmd3dHF1ZXJ5PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5nd3RxdWVyeTwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5hcmNiZWVzLmdxdWVyeTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+dG9vbHRpcDwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS50cmFuc3dpZGUudXRpbHM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnR3LXV0aWxzPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8c2NvcGU+cHJvdmlkZWQ8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLndrdHJhbnNwb3J0c2VydmljZXMuZng8L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>\cunit</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>\cunit</last-pattern>
       <last-replace>delivery</last-replace>
       <last-substitute>pickUp</last-substitute>
       <last-dir>1</last-dir>
@@ -436,7 +333,6 @@
     </search>
     <history>
       <history-search>
-        <entry>another</entry>
         <entry>vehicl</entry>
         <entry>vehic</entry>
         <entry>link</entry>
@@ -456,6 +352,7 @@
         <entry>fx-web-lite</entry>
         <entry>profile</entry>
         <entry>log</entry>
+        <entry>\cunit</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ZYL1NQT1QvZw==</entry>
