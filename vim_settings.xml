@@ -32,12 +32,6 @@
         <mark key="^" line="10" column="43" />
         <mark key="." line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-common-web/pom.xml" timestamp="1534399283320">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
-        <mark key="^" line="7" column="39" />
-      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/VehicleOffer.java" timestamp="1534321066165">
         <mark key="[" line="52" column="11" />
         <mark key="]" line="52" column="22" />
@@ -85,10 +79,6 @@
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/pom.xml" timestamp="1534399274910">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
-        <mark key="^" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/test/java/com/wktransportservices/fx/web/lite/client/widget/offerlist/column/DateTimeRangeColumnTest.java" timestamp="1534747329592">
         <mark key="[" line="0" column="39" />
