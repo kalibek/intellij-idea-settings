@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/fx/fx-web/pom.xml" timestamp="1534745207718">
-        <mark key="'" line="264" column="24" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="594" column="7" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-web/pom.xml" timestamp="1534746132217">
+        <mark key="'" line="581" column="32" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="14" column="7" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-common-web/pom.xml" timestamp="1534399283320">
         <mark key="[" line="7" column="36" />
@@ -149,38 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/tmp.feature" />
-      <jump line="7" column="56" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="216" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="228" column="36" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/json/vehicles/valid_vehicle.json" />
-      <jump line="108" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="263" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/searches/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/searches/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="21" column="11" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" />
-      <jump line="82" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" />
-      <jump line="22" column="30" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" />
-      <jump line="86" column="17" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" />
-      <jump line="30" column="58" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" />
-      <jump line="85" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/VehicleOfferEndpointSteps.java" />
-      <jump line="64" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/World.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/World.java" />
-      <jump line="61" column="38" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightSearchEndpointSteps.java" />
-      <jump line="41" column="0" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/FreightSearchEndpointSteps.java" />
-      <jump line="62" column="50" filename="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/resources/features/offers/FX-11398_Align_API_offerId_handling.feature" />
-      <jump line="49" column="7" filename="$USER_HOME$/projects/spotbidding/spotbidding-utils/src/main/java/com/wktransportservices/spotbidding/utils/config/ConfigUtils.java" />
-      <jump line="283" column="1" filename="$USER_HOME$/projects/spotbidding/spotbidding-utils/src/main/java/com/wktransportservices/spotbidding/utils/config/ConfigUtils.java" />
-      <jump line="1266" column="24" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
-      <jump line="358" column="33" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
-      <jump line="296" column="27" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/pom.xml" />
-      <jump line="1137" column="23" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
-      <jump line="454" column="32" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
-      <jump line="1680" column="0" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
-      <jump line="1802" column="29" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
-      <jump line="1803" column="28" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
       <jump line="1804" column="27" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
       <jump line="359" column="43" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
       <jump line="363" column="42" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
@@ -216,7 +184,6 @@
       <jump line="38" column="43" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="649" column="0" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="20" column="0" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="10" column="8" filename="$USER_HOME$/projects/fx/fx-web-business/pom.xml" />
       <jump line="98" column="7" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="64" column="0" filename="$USER_HOME$/projects/fx/fx-web-lite/pom.xml" />
@@ -230,7 +197,6 @@
       <jump line="598" column="7" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="636" column="28" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="531" column="19" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="4" column="41" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="5" column="20" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="11" column="16" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
@@ -249,6 +215,40 @@
       <jump line="97" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="263" column="45" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="264" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="623" column="0" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="330" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="323" column="28" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="324" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="541" column="28" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="542" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="325" column="23" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="43" column="20" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="15" column="32" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="16" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="20" column="32" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="21" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="45" column="36" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="46" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="53" column="32" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="171" column="30" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="176" column="30" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="185" column="41" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="186" column="29" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="269" column="37" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="270" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="273" column="37" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="274" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="277" column="42" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="278" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="295" column="35" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="299" column="35" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="303" column="35" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="545" column="36" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="546" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="577" column="32" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="578" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
+      <jump line="581" column="32" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -261,10 +261,10 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>24</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>fx-push</text>
+        <text>gwt</text>
       </register>
       <register name="0" type="4">
         <text>fx.web.lite</text>
@@ -273,15 +273,27 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5nb29nbGUuZ3d0PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5nd3Qtc2VydmxldDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5nb29nbGUuZ3d0PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5nd3QtdXNlcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5nb29nbGUuZ3d0PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5nd3Qtc2VydmxldDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5nb29nbGUuZ3d0PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5nd3QtdXNlcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnd3RTZGtGaXJzdEluQ2xhc3NwYXRoPnRydWU8L2d3dFNka0ZpcnN0SW5DbGFzc3BhdGg+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLmZ4PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5meC1wdXNoPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke3Byb2plY3QudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXdhci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke21hdmVuLndhci5wbHVnaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICA8cGFja2FnaW5nRXhjbHVkZXM+V0VCLUlORi9jbGFzc2VzLyoqPC9wYWNrYWdpbmdFeGNsdWRlcz4KICAgICAgICAgICAgICAgICAgICA8cGFja2FnaW5nRXhjbHVkZXM+V0VCLUlORi9saWIvZngtZG9tYWluKjwvcGFja2FnaW5nRXhjbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgPHBhY2thZ2luZ0V4Y2x1ZGVzPioqL2NvbS93a3RyYW5zcG9ydHNlcnZpY2VzL2Z4L3dlYi9leHQvKiouY2xhc3M8L3BhY2thZ2luZ0V4Y2x1ZGVzPgogICAgICAgICAgICAgICAgICAgIDx3ZWJSZXNvdXJjZXM+CiAgICAgICAgICAgICAgICAgICAgICAgIDxyZXNvdXJjZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vZngtd2ViLWxpdGUvc3JjL21haW4vcmVzb3VyY2VzPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvcmVzb3VyY2U+CiAgICAgICAgICAgICAgICAgICAgICAgIDxyZXNvdXJjZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmaWx0ZXJpbmc+dHJ1ZTwvZmlsdGVyaW5nPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpcmVjdG9yeT5zcmMvbWFpbi93ZWJhcHA8L2RpcmVjdG9yeT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlcz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5jbHVkZT5mcmVpZ2h0ZXhjaGFuZ2UuaHRtbDwvaW5jbHVkZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5jbHVkZT5nZXRmcm9tb2ZmZXIuaHRtbDwvaW5jbHVkZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5jbHVkZT5nZXRmcm9td2t0c2lkLmh0bWw8L2luY2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGluY2x1ZGU+c2FmZUJ1c2luZXNzSW5kaWNhdG9yLmh0bWw8L2luY2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGluY2x1ZGU+d2hvc21vLmh0bWw8L2luY2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGluY2x1ZGU+L2V4dGVybmFsbWFwcy9leHRlcm5hbG1hcHMuaHRtbDwvaW5jbHVkZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvaW5jbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvcmVzb3VyY2U+CiAgICAgICAgICAgICAgICAgICAgPC93ZWJSZXNvdXJjZXM+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgIDwvcGx1Z2luPg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>// Sms body messages
     @DefaultMessage(&quot;Loading From&quot;)
     @MessageKey(&quot;fx.sms.body.from&quot;)
@@ -303,26 +315,14 @@
     @MessageKey(&quot;fx.sms.body.tel&quot;)
     String bodyTel();</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">QFByZXBhcmVGb3JUZXN0KHtDb21wYW55RGV0YWlsc1VSTFNlcnZpY2VJbXBsLmNsYXNzfSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmZ4LXB1c2g8L21vZHVsZT4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgo=</text>
-      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fx-push</last-search>
+      <last-search>gwt</last-search>
       <last-offset />
-      <last-pattern>fx-push</last-pattern>
+      <last-pattern>gwt</last-pattern>
       <last-replace>delivery</last-replace>
       <last-substitute>pickUp</last-substitute>
       <last-dir>1</last-dir>
@@ -330,9 +330,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PickUp</entry>
-        <entry>pickUp</entry>
-        <entry>GET</entry>
         <entry>amq</entry>
         <entry>weblo</entry>
         <entry>javaee-api</entry>
@@ -350,6 +347,9 @@
         <entry>fx-web-lite</entry>
         <entry>fx-web-business</entry>
         <entry>fx-push</entry>
+        <entry>gwt-mave</entry>
+        <entry>jasper</entry>
+        <entry>gwt</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ZYL1NQT1QvZw==</entry>
