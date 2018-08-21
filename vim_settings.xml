@@ -22,11 +22,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87970376-e6b4-4a8c-be82-9ec70738da40/console.sql" timestamp="1534846395365">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87970376-e6b4-4a8c-be82-9ec70738da40/console.sql" timestamp="1534847567733">
         <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-        <mark key="^" line="6" column="9" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/projects/fx/pom.xml" timestamp="1534767895330">
         <mark key="'" line="622" column="12" />
@@ -291,13 +291,13 @@
         <text>mergePreferences</text>
       </register>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>SHIPPER</text>
@@ -306,28 +306,28 @@
         <text encoding="base64">c2VsZWN0ICogZnJvbSBjYWxsb2ZmIGMgd2hlcmUgYy5idXNpbmVzc19hY2NvdW50ID0gJ1Nwb3RCaWQtNGZ0cGY2JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBsZWZ0IGpvaW4gY2FsbG9mZl9ncm91cCBnIG9uIGMuaWQgPSBnLmNhbGxvZmZfaWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZWZ0IGpvaW4gY2FsbG9mZl9ncm91cF9jb21wYW55X2F1ZCBvbiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkdG8uc2V0SWQoVVNFUl9JRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyUHJlZmVyZW5jZXNEVE8gZHRvID0gbmV3IFVzZXJQcmVmZXJlbmNlc0RUTygpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkdG8uc2V0SWQoVVNFUl9JRCk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBVc2VyUHJlZmVyZW5jZXNEVE8gZHRvID0gbmV3IFVzZXJQcmVmZXJlbmNlc0RUTygpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
