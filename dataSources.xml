@@ -24,5 +24,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:35433/spot_sprint</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="spot_qa@localhost" uuid="87970376-e6b4-4a8c-be82-9ec70738da40">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:25433/spot_qa</jdbc-url>
+    </data-source>
   </component>
 </application>
