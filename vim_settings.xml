@@ -55,11 +55,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/CalloffEditView.java" timestamp="1534939505465">
-        <mark key="[" line="153" column="46" />
-        <mark key="]" line="155" column="29" />
-        <mark key="." line="155" column="29" />
-        <mark key="^" line="155" column="29" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/CalloffEditView.java" timestamp="1534940153240">
+        <mark key="'" line="153" column="0" />
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/AccountSettingsView.ui.xml" timestamp="1534911618683">
         <mark key="[" line="5" column="79" />
@@ -222,7 +222,7 @@
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="93" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534915924829">
+      <file name="/Dummy.txt" timestamp="1534940059301">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
@@ -299,10 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="303" column="35" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="545" column="36" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="546" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="577" column="32" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="578" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="581" column="32" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="576" column="7" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
@@ -399,64 +395,65 @@
       <jump line="104" column="0" filename="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" />
       <jump line="93" column="0" filename="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" />
+      <jump line="154" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/CalloffEditView.java" />
+      <jump line="216" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/CalloffEditView.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/CalloffEditView.java" />
+      <jump line="153" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/CalloffEditView.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ContractWizardView</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>AlertDialog</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>success</text>
+        <text>Dial</text>
       </register>
       <register name="0" type="4">
         <text>ContractWizardView</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRTdHlsZU5hbWUoImNvbmZpcm1hdGlvbi1kaWFsb2ciKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE8gcmV2ZXJ0IGJhY2sgb3JpZ2luYWwgZnVuY3Rpb25hbAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb250cmFjdFdpemFyZERpYWxvZyBkaWFsb2cgPSBuZXcgQ29udHJhY3RXaXphcmREaWFsb2coKTsKICAgICAgICBkaWFsb2cuc2hvd0luQ2VudGVyKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIENvbnRyYWN0V2l6YXJkUHJlc2VudGVyIHByZXNlbnRlcjsK</text>
-      </register>
-      <register name="6" type="4">
-        <text>public void showInCenter() {
-        center();
-        show();
-    }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVzZW50ZXIgPSBuZXcgQwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhZGRTdHlsZU5hbWUoImNvbmZpcm1hdGlvbi1kaWFsb2ciKTsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICBwcml2YXRlIENvbnRyYWN0V2l6YXJkUHJlc2VudGVyIHByZXNlbnRlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>success</last-search>
+      <last-search>Dial</last-search>
       <last-offset />
-      <last-pattern>success</last-pattern>
+      <last-pattern>Dial</last-pattern>
       <last-replace>error</last-replace>
       <last-substitute>success</last-substitute>
       <last-dir>1</last-dir>
@@ -464,8 +461,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fx\.web\.lite</entry>
-        <entry>gwt20</entry>
         <entry>sec</entry>
         <entry>business-ing</entry>
         <entry>business-inf</entry>
@@ -484,6 +479,8 @@
         <entry>dto</entry>
         <entry>\cpref</entry>
         <entry>success</entry>
+        <entry>TODO</entry>
+        <entry>Dial</entry>
       </history-search>
       <history-cmd>
         <entry>%s/CompanyDirectoryDTO/CompanyDirectory/g</entry>
