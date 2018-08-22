@@ -149,11 +149,12 @@
         <mark key="]" line="61" column="20" />
         <mark key="." line="32" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" timestamp="1534421707447">
-        <mark key="[" line="44" column="25" />
-        <mark key="]" line="45" column="28" />
-        <mark key="." line="45" column="28" />
-        <mark key="^" line="45" column="28" />
+      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" timestamp="1534923409905">
+        <mark key="'" line="45" column="11" />
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="52" column="40" />
+        <mark key="^" line="52" column="40" />
+        <mark key="." line="52" column="40" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/user/UserServiceBeanTest.java" timestamp="1534848797874">
         <mark key="'" line="79" column="4" />
@@ -342,7 +343,7 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="61" />
       </file>
-      <file name="/fragment.java" timestamp="1534917635762">
+      <file name="/fragment.java" timestamp="1534923216396">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="^" line="0" column="46" />
@@ -355,7 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="37" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="274" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="277" column="42" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="278" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
@@ -455,19 +455,20 @@
       <jump line="2184" column="26" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="2177" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="15" column="26" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/AccountSettingsView.java" />
+      <jump line="57" column="11" filename="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>mergePreferences</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PHVpOlVpQmluZGVyIHhtbG5zOnVpPSd1cm46dWk6Y29tLmdvb2dsZS5nd3QudWliaW5kZXInCiAgICAgICAgICAgICB4bWxuczpnPSd1cm46aW1wb3J0OmNvbS5nb29nbGUuZ3d0LnVzZXIuY2xpZW50LnVpJz4KICAgIDxnOkZsb3dQYW5lbC8+CjwvdWk6VWlCaW5kZXI+</text>
+        <text>Mono</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>Mono</text>
       </register>
       <register name="/" type="4">
         <text>success</text>
@@ -476,31 +477,31 @@
         <text encoding="base64">PHVpOlVpQmluZGVyIHhtbG5zOnVpPSd1cm46dWk6Y29tLmdvb2dsZS5nd3QudWliaW5kZXInCiAgICAgICAgICAgICB4bWxuczpnPSd1cm46aW1wb3J0OmNvbS5nb29nbGUuZ3d0LnVzZXIuY2xpZW50LnVpJz4KICAgIDxnOkZsb3dQYW5lbC8+CjwvdWk6VWlCaW5kZXI+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZvaWQgbmV4dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm90aWZpY2F0aW9uWzBdID0gbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLnNwb3RiaWRkaW5nLndlYi5jbGllbnQuY29tbW9uLnByZXNlbnRlci5SZXN1bHRIYW5kbGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25Nb25vLnN1YnNjcmliZShuIC0+IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBOb3RpZmljYXRpb25bXSBub3RpZmljYXRpb24gPSBuZXcgTm90aWZpY2F0aW9uWzFdOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBHRVQKICAgIEBQYXRoKCIvY3VycmVudC91c2VybmFtZSIpCg==</text>
+        <text encoding="base64">ICAgIEBQcm9kdQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0IGJ1c2luZXNzX2FjY291bnQsIGNvbXBhbnlfbmFtZSBmcm9tIGNvbXBhbnk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">QEJlYW4KICAgIHB1YmxpYyBSb3V0ZXJGdW5jdGlvbjxTZXJ2ZXJSZXNwb25zZT4gcm91dGVzKE5vdGlmaWNhdGlvbkhhbmRsZXIgaGFuZGxlcikgewogICAgICAgIHJldHVybiByb3V0ZSgKICAgICAgICAgICAgICAgIEdFVCgiL25vdGlmaWNhdGlvbiIpLCByZXF1ZXN0IC0+IG9rKCkKICAgICAgICAgICAgICAgICAgICAgICAgLmNvbnRlbnRUeXBlKE1lZGlhVHlwZS5URVhUX0VWRU5UX1NUUkVBTSkKICAgICAgICAgICAgICAgICAgICAgICAgLmJvZHkoaGFuZGxlci5saXN0KCksIE5vdGlmaWNhdGlvbi5jbGFzcykKICAgICAgICApLmFuZFJvdXRlKAogICAgICAgICAgICAgICAgUE9TVCgiL25vdGlmaWNhdGlvbiIpLCByZXF1ZXN0IC0+IG9rKCkKICAgICAgICAgICAgICAgICAgICAgICAgLmJvZHkoaGFuZGxlci5zYXZlKHJlcXVlc3QuYm9keShCb2R5RXh0cmFjdG9ycy50b01vbm8oTm90aWZpY2F0aW9uLmNsYXNzKSkpLCBOb3RpZmljYXRpb24uY2xhc3MpCiAgICAgICAgKTsKICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBQcm9kdWNlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
