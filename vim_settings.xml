@@ -149,12 +149,12 @@
         <mark key="]" line="61" column="20" />
         <mark key="." line="32" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" timestamp="1534923409905">
+      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" timestamp="1534924049673">
         <mark key="'" line="45" column="11" />
         <mark key="[" line="52" column="28" />
-        <mark key="]" line="52" column="40" />
-        <mark key="^" line="52" column="40" />
-        <mark key="." line="52" column="40" />
+        <mark key="]" line="52" column="39" />
+        <mark key="^" line="52" column="39" />
+        <mark key="." line="52" column="39" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/user/UserServiceBeanTest.java" timestamp="1534848797874">
         <mark key="'" line="79" column="4" />
