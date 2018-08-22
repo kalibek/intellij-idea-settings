@@ -270,12 +270,12 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-common-web/src/main/java/com/wktransportservices/spotbidding/common/web/server/user/CommonUserService.java" timestamp="1534855828607">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-common-web/src/main/java/com/wktransportservices/spotbidding/common/web/server/user/CommonUserService.java" timestamp="1534915227393">
         <mark key="'" line="21" column="43" />
-        <mark key="[" line="80" column="48" />
-        <mark key="]" line="80" column="59" />
-        <mark key="." line="80" column="59" />
-        <mark key="^" line="80" column="59" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="13" />
+        <mark key="^" line="82" column="59" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/dao/AbstractGenericDao.java" timestamp="1534843755579">
         <mark key="'" line="60" column="19" />
@@ -290,11 +290,11 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/dao/UserSettingsDao.java" timestamp="1534840969472" />
-      <file name="/Dummy.txt" timestamp="1534908479836">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1534915078888">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="28" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/utils/FxUtils.java" timestamp="1534327387350">
         <mark key="[" line="34" column="0" />
@@ -463,8 +463,8 @@
       <register name="a" type="4">
         <text>mergePreferences</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
@@ -480,34 +480,31 @@
     private PermissionChecker permissionChecker;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0IGJ1c2luZXNzX2FjY291bnQsIGNvbXBhbnlfbmFtZSBmcm9tIGNvbXBhbnk7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBHRVQKICAgIEBQYXRoKCIvY3VycmVudC91c2VybmFtZSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBiaWRBd2FyZFNlY3Rpb25WaXNpYmxlOwo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3LnNldEJpZEF3YXJkU2VjdGlvblZpc2libGUocGVybWlzc2lvbkNoZWNrZXIuKTsK</text>
+        <text encoding="base64">c2VsZWN0IGJ1c2luZXNzX2FjY291bnQsIGNvbXBhbnlfbmFtZSBmcm9tIGNvbXBhbnk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkIHNldEJpZEF3YXJkU2VjdGlvblZpc2libGUoYm9vbGVhbiBiaWRBd2FyZFNlY3Rpb25WaXNpYmxlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>@Override
-    public void setBidAwardSectionVisible(boolean bidAwardSectionVisible) {
-        this.bidAwardSectionVisible = bidAwardSectionVisible;
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBiaWRBd2FyZFNlY3Rpb25WaXNpYmxlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3LnNldEJpZEF3YXJkU2VjdGlvblZpc2libGUocGVybWlzc2lvbkNoZWNrZXIuKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
