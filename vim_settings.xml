@@ -312,11 +312,11 @@
         <mark key="." line="53" column="68" />
         <mark key="^" line="53" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/AccountSettingsPresenter.java" timestamp="1534854645206">
-        <mark key="[" line="71" column="63" />
-        <mark key="]" line="71" column="67" />
-        <mark key="." line="71" column="67" />
-        <mark key="^" line="71" column="67" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/AccountSettingsPresenter.java" timestamp="1534907072459">
+        <mark key="[" line="71" column="52" />
+        <mark key="]" line="71" column="52" />
+        <mark key="." line="71" column="52" />
+        <mark key="^" line="71" column="52" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-inf/src/main/java/com/wktransportservices/spotbidding/business/api/user/UserServiceRemote.java" timestamp="1534851755304">
         <mark key="[" line="23" column="49" />
@@ -465,14 +465,14 @@
       <register name="a" type="4">
         <text>mergePreferences</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoVVNFUl9JRCwgZHRvLmdldElkKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>ErrorInfo</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>indow.alert(bidContract.getValue().toString());</text>
+        <text>ErrorInfo</text>
       </register>
       <register name="/" type="4">
         <text>\cpref</text>
