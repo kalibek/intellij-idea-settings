@@ -149,12 +149,12 @@
         <mark key="]" line="61" column="20" />
         <mark key="." line="32" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" timestamp="1534931330398">
-        <mark key="'" line="74" column="11" />
-        <mark key="[" line="46" column="32" />
-        <mark key="]" line="46" column="42" />
-        <mark key="." line="46" column="42" />
-        <mark key="^" line="46" column="42" />
+      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" timestamp="1534935160532">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="58" column="17" />
+        <mark key="]" line="58" column="71" />
+        <mark key="." line="39" column="23" />
+        <mark key="^" line="39" column="23" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/user/UserServiceBeanTest.java" timestamp="1534848797874">
         <mark key="'" line="79" column="4" />
@@ -248,6 +248,13 @@
         <mark key="]" line="3" column="14" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/push/src/main/kotlin/com/epam/PushApp.kt" timestamp="1534935424130">
+        <mark key="'" line="41" column="7" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="61" column="36" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/pom.xml" timestamp="1534409026728">
         <mark key="'" line="363" column="42" />
@@ -367,10 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="277" column="42" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="278" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="295" column="35" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="303" column="35" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="545" column="36" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="546" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
@@ -467,52 +470,56 @@
       <jump line="2177" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="15" column="26" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/AccountSettingsView.java" />
       <jump line="57" column="11" filename="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" />
+      <jump line="33" column="7" filename="$USER_HOME$/projects/push/src/main/kotlin/com/epam/PushApp.kt" />
+      <jump line="104" column="0" filename="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>mergePreferences</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>SpringApplication.run(PushApp.)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>SpringApplication.run(PushApp.)</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>success</text>
       </register>
-      <register name="0" type="4">
-        <text>)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJzZW50IG1lc3NhZ2UgJHJlc3BvbnNlIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PGJ1aWxkPgogICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3QtbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICA8L3BsdWdpbnM+CiAgICA8L2J1aWxkPg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygic2VuZGluZyBtZXNzYWdlICIgKyApOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLnJ1bnRpbWUubG9nZ2luZy5Mb2dnZXI7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">QEJlYW4KICAgIFJvdXRlckZ1bmN0aW9uPFNlcnZlclJlc3BvbnNlPiBzdGF0aWNSZXNvdXJjZVJvdXRlcigpIHsKICAgICAgICByZXR1cm4gUm91dGVyRnVuY3Rpb25zLnJlc291cmNlcygiLyoqIiwgbmV3IENsYXNzUGF0aFJlc291cmNlKCJzdGF0aWMvIikpOwogICAgfQ==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PGJ1aWxkPgogICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3QtbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICA8L3BsdWdpbnM+CiAgICA8L2J1aWxkPg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygic2VuZGluZyBtZXNzYWdlICIgKyApOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLnJ1bnRpbWUubG9nZ2luZy5Mb2dnZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm90aWZpY2F0aW9uWzBdID0gbjsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">QEJlYW4KICAgIFJvdXRlckZ1bmN0aW9uPFNlcnZlclJlc3BvbnNlPiBzdGF0aWNSZXNvdXJjZVJvdXRlcigpIHsKICAgICAgICByZXR1cm4gUm91dGVyRnVuY3Rpb25zLnJlc291cmNlcygiLyoqIiwgbmV3IENsYXNzUGF0aFJlc291cmNlKCJzdGF0aWMvIikpOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
