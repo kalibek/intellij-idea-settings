@@ -139,12 +139,12 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="43" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" timestamp="1534927977527">
-        <mark key="'" line="68" column="11" />
-        <mark key="[" line="53" column="13" />
-        <mark key="]" line="46" column="4" />
-        <mark key="^" line="53" column="12" />
-        <mark key="." line="46" column="4" />
+      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" timestamp="1534931330398">
+        <mark key="'" line="74" column="11" />
+        <mark key="[" line="46" column="32" />
+        <mark key="]" line="46" column="42" />
+        <mark key="." line="46" column="42" />
+        <mark key="^" line="46" column="42" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/user/UserServiceBeanTest.java" timestamp="1534848797874">
         <mark key="'" line="79" column="4" />
@@ -252,10 +252,10 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/push/client.sh" timestamp="1534926600784">
-        <mark key="[" line="2" column="47" />
-        <mark key="]" line="2" column="47" />
-        <mark key="." line="2" column="47" />
+      <file name="$USER_HOME$/projects/push/client.sh" timestamp="1534931087849">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="47" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/IContractWizardView.java" timestamp="1534917594178">
@@ -288,6 +288,12 @@
         <mark key="]" line="39" column="40" />
         <mark key="." line="39" column="40" />
         <mark key="^" line="39" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/push/pom.xml" timestamp="1534931542312">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="78" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/i18n/SMSMessages.java" timestamp="1534741331735">
         <mark key="[" line="97" column="4" />
@@ -441,14 +447,14 @@
       <register name="a" type="4">
         <text>mergePreferences</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ger</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>ger</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>success</text>
@@ -457,31 +463,31 @@
         <text>)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLnJ1bnRpbWUubG9nZ2luZy5Mb2dnZXI7Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">QEJlYW4KICAgIFJvdXRlckZ1bmN0aW9uPFNlcnZlclJlc3BvbnNlPiBzdGF0aWNSZXNvdXJjZVJvdXRlcigpIHsKICAgICAgICByZXR1cm4gUm91dGVyRnVuY3Rpb25zLnJlc291cmNlcygiLyoqIiwgbmV3IENsYXNzUGF0aFJlc291cmNlKCJzdGF0aWMvIikpOwogICAgfQ==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PGJ1aWxkPgogICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3QtbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICA8L3BsdWdpbnM+CiAgICA8L2J1aWxkPg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygic2VuZGluZyBtZXNzYWdlICIgKyApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLnJ1bnRpbWUubG9nZ2luZy5Mb2dnZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm90aWZpY2F0aW9uWzBdID0gbjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25Nb25vLnN1YnNjcmliZShuIC0+IHsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">QEJlYW4KICAgIFJvdXRlckZ1bmN0aW9uPFNlcnZlclJlc3BvbnNlPiBzdGF0aWNSZXNvdXJjZVJvdXRlcigpIHsKICAgICAgICByZXR1cm4gUm91dGVyRnVuY3Rpb25zLnJlc291cmNlcygiLyoqIiwgbmV3IENsYXNzUGF0aFJlc291cmNlKCJzdGF0aWMvIikpOwogICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBOb3RpZmljYXRpb25bXSBub3RpZmljYXRpb24gPSBuZXcgTm90aWZpY2F0aW9uWzFdOwo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBQcm9kdQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm90aWZpY2F0aW9uWzBdID0gbjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25Nb25vLnN1YnNjcmliZShuIC0+IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
