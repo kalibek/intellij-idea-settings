@@ -21,9 +21,6 @@
         <mark key="[" line="11" column="47" />
         <mark key="]" line="11" column="68" />
       </file>
-      <file name="/a.dummy" timestamp="1534938322549">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/integration/UserIntegrationConverter.java" timestamp="1534915525794">
         <mark key="[" line="305" column="68" />
         <mark key="]" line="305" column="68" />
@@ -251,8 +248,11 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/dialog/ContractWizardDialog.ui.xml" timestamp="1534940272741">
-        <mark key="[" line="4" column="41" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/dialog/ContractWizardDialog.ui.xml" timestamp="1534996005855">
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="6" column="48" />
+        <mark key="^" line="6" column="48" />
+        <mark key="." line="6" column="48" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/FreightSearch.java" timestamp="1534321864011">
         <mark key="[" line="7" column="14" />
@@ -425,19 +425,19 @@
         <text>ContractWizardView</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text encoding="base64">Pjwvdjpjb250cmFjdC5kaWFsb2cuQ29udHJhY3RXaXphcmREaWFsb2c+</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text encoding="base64">Pjwvdjpjb250cmFjdC5kaWFsb2cuQ29udHJhY3RXaXphcmREaWFsb2c+</text>
       </register>
       <register name="/" type="4">
         <text>@Log</text>
       </register>
-      <register name="0" type="4">
-        <text>@Log</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIHhtbG5zOmM9InVybjppbXBvcnQ6Y29tLndrdHJhbnNwb3J0c2VydmljZXMuc3BvdGJpZGRpbmcud2ViLmNsaWVudC5jb21tb24ud2lkZ2V0Ij4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
