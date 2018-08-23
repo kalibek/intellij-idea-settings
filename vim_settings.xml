@@ -14,7 +14,7 @@
         <mark key="]" line="725" column="0" />
         <mark key="." line="725" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1535013920338">
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1535021697202">
         <mark key="[" line="69" column="110" />
         <mark key="]" line="69" column="125" />
         <mark key="^" line="69" column="125" />
@@ -127,6 +127,7 @@
         <mark key="." line="3" column="52" />
         <mark key="^" line="3" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/messages/client/EsbClientWrapper.java" timestamp="1535021661530" />
       <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1535004271531">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -155,6 +156,7 @@
         <mark key="^" line="55" column="25" />
         <mark key="." line="56" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/messages/client/EsbJMSClientBean.java" timestamp="1535021605325" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/resty/UserAccountResty.java" timestamp="1534849719750">
         <mark key="[" line="35" column="10" />
         <mark key="]" line="35" column="31" />
@@ -221,7 +223,7 @@
         <mark key="^" line="4" column="39" />
         <mark key="." line="4" column="39" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535020358435">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535021412170">
         <mark key="[" line="163" column="30" />
         <mark key="]" line="163" column="30" />
         <mark key="^" line="163" column="30" />
@@ -287,6 +289,7 @@
         <mark key="^" line="28" column="14" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/src/main/java/com/wktransportservices/fx/bi/service/SearchEventPublisherBean.java" timestamp="1535021517011" />
       <file name="$USER_HOME$/projects/push/push-java/src/main/java/com/epam/push/PushApplication.java" timestamp="1535011976944">
         <mark key="[" line="30" column="12" />
         <mark key="]" line="30" column="17" />
@@ -316,6 +319,7 @@
         <mark key="^" line="23" column="56" />
         <mark key="." line="23" column="56" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbClient.java" timestamp="1535021482280" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/contract/presenter/ContractWizardPresenter.java" timestamp="1535002636630">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -327,7 +331,7 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1534938433746">
+      <file name="/fragment.java" timestamp="1535021667395">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="^" line="0" column="46" />
