@@ -155,12 +155,11 @@
         <mark key="]" line="61" column="20" />
         <mark key="." line="32" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" timestamp="1534935160532">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="58" column="17" />
-        <mark key="]" line="58" column="71" />
-        <mark key="." line="39" column="23" />
-        <mark key="^" line="39" column="23" />
+      <file name="$USER_HOME$/projects/push/push-kotlin/src/main/kotlin/com/epam/PushApp.kt" timestamp="1534995370421">
+        <mark key="[" line="56" column="26" />
+        <mark key="]" line="56" column="26" />
+        <mark key="^" line="55" column="25" />
+        <mark key="." line="56" column="26" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/resty/UserAccountResty.java" timestamp="1534849719750">
         <mark key="[" line="35" column="10" />
@@ -224,13 +223,6 @@
         <mark key="^" line="4" column="39" />
         <mark key="." line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/push/src/main/kotlin/com/epam/PushApp.kt" timestamp="1534935424130">
-        <mark key="'" line="41" column="7" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="61" column="36" />
-      </file>
       <file name="$USER_HOME$/projects/push/src/main/kotlin/PushApp.kt" timestamp="1534933790974">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="19" />
@@ -274,12 +266,11 @@
         <mark key="^" line="28" column="14" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/push/push-java/src/main/java/com/epam/push/PushApplication.java" timestamp="1534994090351">
-        <mark key="'" line="51" column="1" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="^" line="65" column="30" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/projects/push/push-java/src/main/java/com/epam/push/PushApplication.java" timestamp="1534995415302">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="12" />
+        <mark key="^" line="26" column="17" />
+        <mark key="." line="26" column="12" />
       </file>
       <file name="$USER_HOME$/projects/push/pom.xml" timestamp="1534931570148">
         <mark key="[" line="45" column="0" />
@@ -433,14 +424,14 @@
       <register name="a" type="4">
         <text>ContractWizardView</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgoKCgoK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
         <text>@Log</text>
@@ -449,31 +440,31 @@
         <text>@Log</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoKCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAkMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAkcG9ydAo=</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKHBhdGggPSBbIntpZH0iXSwgcHJvZHVjZXMgPSBbTWVkaWFUeXBlLlRFWFRfRVZFTlRfU1RSRUFNX1ZBTFVFXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5lcGFtPC9ncm91cElkPgo=</text>
+        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5lcGFtPC9ncm91cElkPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8gcmV2ZXJ0IGJhY2sgb3JpZ2luYWwgZnVuY3Rpb25hbAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CmNsYXNzIFB1c2hDb250cm9sbGVyIHsKICAgIHByaXZhdGUgTm90aWZpY2F0aW9uSGFuZGxlciBoYW5kbGVyOwoKICAgIHB1YmxpYyBQdXNoQ29udHJvbGxlcihOb3RpZmljYXRpb25IYW5kbGVyIGhhbmRsZXIpIHsKICAgICAgICB0aGlzLmhhbmRsZXIgPSBoYW5kbGVyOwogICAgfQoKICAgIE1vbm88Tm90aWZpY2F0aW9uPiBzYXZlKEBSZXF1ZXN0Qm9keSBOb3RpZmljYXRpb24gbm90aWZpY2F0aW9uKSB7CiAgICAgICAgcmV0dXJuIGhhbmRsZXIuc2F2ZShub3RpZmljYXRpb24pOwogICAgfQoKICAgIEZsdXg8Tm90aWZpY2F0aW9uPiBsaXN0KEBQYXRoVmFyaWFibGUgaW50IGlkKSB7CiAgICAgICAgcmV0dXJuIGhhbmRsZXIubGlzdChpZCk7CiAgICB9Cgp9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKHBhdGggPSAie2lkfSIsIHByb2R1Y2VzID0gTWVkaWFUeXBlLlRFWFRfRVZFTlRfU1RSRUFNX1ZBTFVFKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb250cmFjdFdpemFyZERpYWxvZyBkaWFsb2cgPSBuZXcgQ29udHJhY3RXaXphcmREaWFsb2coKTsKICAgICAgICBkaWFsb2cuc2hvd0luQ2VudGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
