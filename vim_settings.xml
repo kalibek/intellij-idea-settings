@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" timestamp="1534993570007">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/ContractWizardDialog.java" timestamp="1534938250532">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="28" />
@@ -77,11 +80,11 @@
         <mark key="." line="5" column="93" />
         <mark key="^" line="5" column="93" />
       </file>
-      <file name="$USER_HOME$/projects/push/push.sh" timestamp="1534926550918">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="41" />
-        <mark key="." line="4" column="41" />
-        <mark key="^" line="4" column="41" />
+      <file name="$USER_HOME$/projects/push/push.sh" timestamp="1534993823390">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="2" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="3" column="6" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/profile/ProfileMenu.java" timestamp="1534851814808">
         <mark key="[" line="87" column="14" />
@@ -128,6 +131,12 @@
         <mark key="]" line="39" column="22" />
         <mark key="." line="39" column="22" />
         <mark key="^" line="39" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/push/push-kotlin/src/main/resources/application.yml" timestamp="1534993342758">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+        <mark key="^" line="1" column="10" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/ContractWizardView.java" timestamp="1534939237498">
         <mark key="[" line="32" column="8" />
@@ -238,11 +247,11 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/push/client.sh" timestamp="1534931087849">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-        <mark key="^" line="2" column="47" />
+      <file name="$USER_HOME$/projects/push/client.sh" timestamp="1534993838156">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+        <mark key="^" line="7" column="26" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/IContractWizardView.java" timestamp="1534938464132">
         <mark key="[" line="3" column="11" />
@@ -264,6 +273,13 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="28" column="14" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/push/push-java/src/main/java/com/epam/push/PushApplication.java" timestamp="1534994090351">
+        <mark key="'" line="51" column="1" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="65" column="30" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/projects/push/pom.xml" timestamp="1534931570148">
         <mark key="[" line="45" column="0" />
@@ -312,15 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="578" column="24" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="581" column="32" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="576" column="7" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="31" column="20" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="7" column="37" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/resource/css/Styles.java" />
-      <jump line="7" column="37" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/resource/image/CommonImages.java" />
-      <jump line="31" column="69" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/regionmap/RegionMapTranslationServlet.java" />
-      <jump line="8" column="31" filename="$USER_HOME$/projects/fx/fx-web/src/test/java/com/wktransportservices/fx/web/client/widget/offerlist/column/DateTimeRangeHeaderTest.java" />
-      <jump line="0" column="39" filename="$USER_HOME$/projects/fx/fx-web-lite/src/test/java/com/wktransportservices/fx/web/lite/client/widget/offerlist/column/DateTimeRangeHeaderTest.java" />
       <jump line="6" column="56" filename="$USER_HOME$/projects/fx/fx-web-lite/src/test/java/com/wktransportservices/fx/web/lite/client/widget/offerlist/column/DateTimeRangeColumnTest.java" />
       <jump line="162" column="50" filename="$USER_HOME$/projects/fx/pom.xml" />
       <jump line="3" column="72" filename="$USER_HOME$/projects/fx/fx-web/src/test/java/com/wktransportservices/fx/test/web/server/widgets/location/region/RegionParserTest.java" />
@@ -412,70 +419,77 @@
       <jump line="216" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/CalloffEditView.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/CalloffEditView.java" />
       <jump line="153" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/CalloffEditView.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
+      <jump line="94" column="13" filename="$USER_HOME$/projects/push/push-java/src/main/java/com/epam/push/PushApplication.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/push/push-java/src/main/java/com/epam/push/PushApplication.java" />
+      <jump line="106" column="0" filename="$USER_HOME$/projects/push/push-java/src/main/java/com/epam/push/PushApplication.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/push/push-java/src/main/java/com/epam/push/PushApplication.java" />
+      <jump line="98" column="4" filename="$USER_HOME$/projects/push/push-java/src/main/java/com/epam/push/PushApplication.java" />
+      <jump line="104" column="0" filename="$USER_HOME$/projects/push/push-java/src/main/java/com/epam/push/PushApplication.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/projects/push/push-java/src/main/java/com/epam/push/PushApplication.java" />
+      <jump line="52" column="1" filename="$USER_HOME$/projects/push/push-java/src/main/java/com/epam/push/PushApplication.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ContractWizardView</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>java</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgoKCgoK</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>java</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
-        <text>Dial</text>
+        <text>@Log</text>
       </register>
       <register name="0" type="4">
-        <text>ContractWizardView</text>
+        <text>@Log</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5lcGFtPC9ncm91cElkPgo=</text>
+        <text encoding="base64">CgoKCgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5lcGFtPC9ncm91cElkPgo=</text>
+        <text encoding="base64">ZWNobyAkMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAkcG9ydAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8gcmV2ZXJ0IGJhY2sgb3JpZ2luYWwgZnVuY3Rpb25hbAo=</text>
+        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5lcGFtPC9ncm91cElkPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5lcGFtPC9ncm91cElkPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDb250cmFjdFdpemFyZERpYWxvZyBkaWFsb2cgPSBuZXcgQ29udHJhY3RXaXphcmREaWFsb2coKTsKICAgICAgICBkaWFsb2cuc2hvd0luQ2VudGVyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE8gcmV2ZXJ0IGJhY2sgb3JpZ2luYWwgZnVuY3Rpb25hbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRTdHlsZU5hbWUoImNvbmZpcm1hdGlvbi1kaWFsb2ciKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb250cmFjdFdpemFyZERpYWxvZyBkaWFsb2cgPSBuZXcgQ29udHJhY3RXaXphcmREaWFsb2coKTsKICAgICAgICBkaWFsb2cuc2hvd0luQ2VudGVyKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Dial</last-search>
+      <last-search>@Log</last-search>
       <last-offset />
-      <last-pattern>Dial</last-pattern>
-      <last-replace>error</last-replace>
-      <last-substitute>success</last-substitute>
+      <last-pattern>@Log</last-pattern>
+      <last-replace>@Slf4j</last-replace>
+      <last-substitute>@Log</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sec</entry>
-        <entry>business-ing</entry>
         <entry>business-inf</entry>
         <entry>social-inf</entry>
         <entry>log</entry>
@@ -494,10 +508,10 @@
         <entry>success</entry>
         <entry>TODO</entry>
         <entry>Dial</entry>
+        <entry>\/\/</entry>
+        <entry>@Log</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/CompanyDirectoryDTO/CompanyDirectory/g</entry>
-        <entry encoding="base64">JzwsJz5zL2NvbXBhbnkvc21hcnQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0NvbXBhbnkvU21hcnQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3Bvc3RncmVzL2RhdGEvZw==</entry>
         <entry encoding="base64">JzwsJz5zL293bmVyL3Bvc3Rlci9n</entry>
@@ -515,6 +529,8 @@
         <entry>%s/Preferences/Settings/g</entry>
         <entry encoding="base64">JzwsJz5zL3N1Y2Nlc3MvZXJyb3IvZw==</entry>
         <entry>e</entry>
+        <entry>%s/\/\///g</entry>
+        <entry>%s/@Log/@Slf4j/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
