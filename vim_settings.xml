@@ -37,6 +37,11 @@
         <mark key="[" line="20" column="8" />
         <mark key="]" line="25" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/push/push-kotlin/pom.xml" timestamp="1534993198514">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/dialog/ContractWizardDialog.java" timestamp="1534939176257">
         <mark key="[" line="12" column="91" />
         <mark key="]" line="12" column="91" />
@@ -60,6 +65,11 @@
         <mark key="[" line="210" column="0" />
         <mark key="]" line="210" column="0" />
         <mark key="." line="210" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/push/push-java/pom.xml" timestamp="1534993209462">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/AccountSettingsView.ui.xml" timestamp="1534911618683">
         <mark key="[" line="5" column="79" />
@@ -407,14 +417,14 @@
       <register name="a" type="4">
         <text>ContractWizardView</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>java</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>java</text>
       </register>
       <register name="/" type="4">
         <text>Dial</text>
@@ -423,31 +433,31 @@
         <text>ContractWizardView</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5lcGFtPC9ncm91cElkPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8gcmV2ZXJ0IGJhY2sgb3JpZ2luYWwgZnVuY3Rpb25hbAo=</text>
+        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5lcGFtPC9ncm91cElkPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb250cmFjdFdpemFyZERpYWxvZyBkaWFsb2cgPSBuZXcgQ29udHJhY3RXaXphcmREaWFsb2coKTsKICAgICAgICBkaWFsb2cuc2hvd0luQ2VudGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE8gcmV2ZXJ0IGJhY2sgb3JpZ2luYWwgZnVuY3Rpb25hbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRTdHlsZU5hbWUoImNvbmZpcm1hdGlvbi1kaWFsb2ciKTsK</text>
+        <text encoding="base64">ICAgICAgICBDb250cmFjdFdpemFyZERpYWxvZyBkaWFsb2cgPSBuZXcgQ29udHJhY3RXaXphcmREaWFsb2coKTsKICAgICAgICBkaWFsb2cuc2hvd0luQ2VudGVyKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRTdHlsZU5hbWUoImNvbmZpcm1hdGlvbi1kaWFsb2ciKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIENvbnRyYWN0V2l6YXJkUHJlc2VudGVyIHByZXNlbnRlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
