@@ -14,11 +14,11 @@
         <mark key="]" line="725" column="0" />
         <mark key="." line="725" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1535021697202">
-        <mark key="[" line="69" column="110" />
-        <mark key="]" line="69" column="125" />
-        <mark key="^" line="69" column="125" />
-        <mark key="." line="69" column="125" />
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1535024926918">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="68" column="125" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/integration/UserIntegrationConverter.java" timestamp="1534915525794">
         <mark key="[" line="305" column="68" />
@@ -61,7 +61,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/impl/transportorder/TransportOrderDAO.java" timestamp="1535019103079">
+      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/impl/transportorder/TransportOrderDAO.java" timestamp="1535024849369">
         <mark key="[" line="28" column="14" />
         <mark key="]" line="28" column="17" />
         <mark key="^" line="28" column="17" />
@@ -331,7 +331,7 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1535021667395">
+      <file name="/fragment.java" timestamp="1535021709885">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="^" line="0" column="46" />
@@ -454,8 +454,8 @@
       <register name="a" type="4">
         <text>ContractWizardView</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>where external_business_id = 'SpotBid-v2qj5c';</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBFSkIK</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
@@ -470,31 +470,31 @@
         <text>where external_business_id = 'SpotBid-v2qj5c';</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlIHJlc3BvbnNlTWVzc2FnZTsK</text>
+        <text encoding="base64">ICAgIEBFSkIK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUmVzcG9uc2VCdWlsZGluZ1NlcnZpY2UgcmVzcG9uc2VCdWlsZGluZ1NlcnZpY2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kUmVzcG9uc2VNZXNzYWdlKHJlc3BvbnNlTWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlIHJlc3BvbnNlTWVzc2FnZTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VuZFJlc3BvbnNlTWVzc2FnZShyZXNwb25zZU1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VuZFJlc3BvbnNlTWVzc2FnZShyZXNwb25zZU1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZW5kUmVzcG9uc2VNZXNzYWdlKHJlc3BvbnNlTWVzc2FnZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VuZFJlc3BvbnNlTWVzc2FnZShyZXNwb25zZU1lc3NhZ2UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
