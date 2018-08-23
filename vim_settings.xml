@@ -18,6 +18,11 @@
         <mark key="^" line="20" column="17" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1535004357095">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/push/push-java/pom.xml" timestamp="1534993209462">
         <mark key="[" line="14" column="24" />
         <mark key="]" line="14" column="24" />
@@ -149,6 +154,11 @@
         <mark key="]" line="725" column="0" />
         <mark key="." line="725" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1535004250926">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="49" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/push/push-kotlin/pom.xml" timestamp="1534993198514">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -208,6 +218,11 @@
         <mark key="]" line="39" column="22" />
         <mark key="." line="39" column="22" />
         <mark key="^" line="39" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1535004271531">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/ContractWizardView.java" timestamp="1534939237498">
         <mark key="[" line="32" column="8" />
@@ -415,14 +430,14 @@
       <register name="a" type="4">
         <text>ContractWizardView</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>creat</text>
@@ -431,33 +446,33 @@
         <text encoding="base64">PGc6Rmxvd1BhbmVsPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZW5kUmVzcG9uc2VNZXNzYWdlKHJlc3BvbnNlTWVzc2FnZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlIHJlc3BvbnNlTWVzc2FnZSA9IG1lc3NhZ2VQcm9jZXNzb3IuaGFuZGxlTWVzc2FnZShpbmNvbWluZ01lc3NhZ2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBXaW5kb3cuYWxlcnQoImV2ZW50QnVzIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG9uU2hvd0NvbnRyYWN0V2l6YXJkKCkgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBXaW5kb3cuYWxlcnQoImV2ZW50QnVzIik7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG9uU2hvd0NvbnRyYWN0V2l6YXJkKCkgewo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>public void setPresenter(IContractWizardPresenter presenter) {
         this.presenter = presenter;
     }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8djpDb250cmFjdFdpemFyZFZpZXcvPgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBXaQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJQ29udHJhY3RXaXphcmRWaWV3IGdldFZpZXcoKTsK</text>
+        <text encoding="base64">ICAgICAgICA8djpDb250cmFjdFdpemFyZFZpZXcvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
