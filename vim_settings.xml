@@ -14,12 +14,6 @@
         <mark key="]" line="725" column="0" />
         <mark key="." line="725" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1535088268165">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="62" />
-        <mark key="^" line="63" column="81" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1535084550899">
         <mark key="[" line="0" column="0" />
       </file>
@@ -81,6 +75,12 @@
         <mark key="]" line="5" column="2" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/MessageProcessorFactoryBean.java" timestamp="1535089772923">
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="44" column="47" />
+        <mark key="." line="44" column="47" />
+        <mark key="^" line="44" column="47" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/profile/ProfileMenu.java" timestamp="1534851814808">
         <mark key="[" line="87" column="14" />
@@ -260,13 +260,13 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageProcessorFactoryService.java" timestamp="1535084407867">
-        <mark key="'" line="102" column="0" />
+        <mark key="'" line="100" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535088028867">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="14" />
+      <file name="/Dummy.txt" timestamp="1535089859350">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="78" />
+        <mark key="^" line="0" column="78" />
+        <mark key="." line="0" column="78" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/ErrorMessageProcessorService.java" timestamp="1535083912774">
         <mark key="[" line="29" column="17" />
@@ -366,7 +366,7 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1535021709885">
+      <file name="/fragment.java" timestamp="1535089700801">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="^" line="0" column="46" />
@@ -489,54 +489,47 @@
       <register name="a" type="4">
         <text>ContractWizardView</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlIGluY29taW5nTWVzc2FnZSA9IGV4dHJhY3RUZXh0TWVzc2FnZShtZXNzYWdlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>MessageHandler() {};</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluZCBtZXNzYWdlIHByb2Nlc3NvciBvciA=</text>
+        <text>MessageHandler() {};</text>
       </register>
       <register name="/" type="4">
         <text>IllegalArgumentException</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbkF0dHJpYnV0ZShUcmFuc2FjdGlvbkF0dHJpYnV0ZVR5cGUuUkVRVUlSRVNfTkVXKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmVycm9yKCJVbmFibGUgdG8gcHJvY2VzcyBtZXNzYWdlIHt9IiwgaW5jb21pbmdNZXNzYWdlLCBlKTsKICAgICAgICAgICAgcmVzcG9uc2VNZXNzYWdlID0gY3JlYXRlRXJyb3JNZXNzYWdlKGluY29taW5nTWVzc2FnZSwgRXJyb3JNZXNzYWdlUHJvY2Vzc29yU2VydmljZS5FUlJPUl9GTE9XKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlIGluY29taW5nTWVzc2FnZSA9IGV4dHJhY3RUZXh0TWVzc2FnZShtZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmVycm9yKCJVbmFibGUgdG8gcHJvY2VzcyBtZXNzYWdlIHt9IiwgaW5jb21pbmdNZXNzYWdlLCBlKTsKICAgICAgICAgICAgcmVzcG9uc2VNZXNzYWdlID0gY3JlYXRlRXJyb3JNZXNzYWdlKGluY29taW5nTWVzc2FnZSwgRXJyb3JNZXNzYWdlUHJvY2Vzc29yU2VydmljZS5FUlJPUl9GTE9XKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VNZXNzYWdlID0gY3JlYXRlRXJyb3JNZXNzYWdlKGluY29taW5nTWVzc2FnZSwgVW5zdXBwb3J0ZWRGbG93UHJvY2Vzc29yU2VydmljZS5VTlNVUFBPUlRFRF9GTE9XKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXJGYWN0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmVycm9yKCJVbmFibGUgdG8gZmluZCBtZXNzYWdlIHByb2Nlc3NvciBvciB2YWxpZGF0ZSBpbmNvbWluZyBtZXNzYWdlIHt9IiwgaW5jb21pbmdNZXNzYWdlLCBlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmVycm9yKCJVbmFibGUgdG8gZmluZCBtZXNzYWdlIHByb2Nlc3NvciIsIGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlIGluY29taW5nTWVzc2FnZSA9IGV4dHJhY3RUZXh0TWVzc2FnZShtZXNzYWdlKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>try {
-        } catch (Exception e) {
-            
-        }</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>LOGGER.error(&quot;Unable to process message {}&quot;, incomingMessage, e);
-            messageProcessor = messageProcessorFactory
-                    .resolveMessageProcessor(ErrorMessageProcessorService.ERROR_FLOW);
-            responseMessage = messageProcessor
-                    .handleMessage(incomingMessage);</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXJGYWN0b3J5Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlIHJlc3BvbnNlTWVzc2FnZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VNZXNzYWdlID0gbWVzc2FnZVByb2Nlc3Nvci5oYW5kbGVNZXNzYWdlKGluY29taW5nTWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -592,8 +585,8 @@
         <entry>e</entry>
         <entry>%s/\/\///g</entry>
         <entry>%s/@Log/@Slf4j/g</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL0lsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbi9JbmNvbWluZ01lc3NhZ2VWYWxpZGF0aW9uRXhjZXB0aW9uL2c=</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
