@@ -14,11 +14,11 @@
         <mark key="]" line="725" column="0" />
         <mark key="." line="725" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1535091240188">
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1535094560492">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="46" column="50" />
-        <mark key="]" line="42" column="62" />
-        <mark key="." line="42" column="62" />
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="33" />
+        <mark key="." line="28" column="33" />
         <mark key="^" line="42" column="62" />
       </file>
       <file name="/a.dummy" timestamp="1535090805936">
@@ -65,11 +65,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/impl/transportorder/TransportOrderDAO.java" timestamp="1535083380516">
-        <mark key="[" line="29" column="67" />
-        <mark key="]" line="29" column="67" />
-        <mark key="^" line="29" column="67" />
-        <mark key="." line="29" column="67" />
+      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/impl/transportorder/TransportOrderDAO.java" timestamp="1535094344288">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="21" />
+        <mark key="^" line="29" column="21" />
+        <mark key="." line="29" column="21" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/AccountSettingsView.ui.xml" timestamp="1534911618683">
         <mark key="[" line="5" column="79" />
@@ -203,10 +203,6 @@
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/BidIntegrationHandler.java" timestamp="1535086851905">
         <mark key="[" line="44" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/UnsupportedFlowProcessorService.java" timestamp="1535083766386">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="41" column="4" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/webapp/WEB-INF/web.xml" timestamp="1534768028464">
         <mark key="[" line="48" column="4" />
@@ -517,19 +513,19 @@
         <text>ContractWizardView</text>
       </register>
       <register name="&quot;" type="4">
-        <text>EJB</text>
+        <text>todo todo todo</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>EJB</text>
+        <text>todo todo todo</text>
       </register>
       <register name="/" type="4">
         <text>IllegalArgumentException</text>
       </register>
       <register name="0" type="4">
-        <text>Message handleMessage(javax.jms.Message message) {</text>
+        <text>TODO todo todo todo</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbkF0dHJpYnV0ZShUcmFuc2FjdGlvbkF0dHJpYnV0ZVR5cGUuUkVRVUlSRVNfTkVXKQo=</text>
