@@ -14,7 +14,14 @@
         <mark key="]" line="725" column="0" />
         <mark key="." line="725" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1535084550899">
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1535091240188">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="46" column="50" />
+        <mark key="]" line="42" column="62" />
+        <mark key="." line="42" column="62" />
+        <mark key="^" line="42" column="62" />
+      </file>
+      <file name="/a.dummy" timestamp="1535090805936">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/integration/UserIntegrationConverter.java" timestamp="1534915525794">
@@ -124,6 +131,13 @@
         <mark key="." line="39" column="22" />
         <mark key="^" line="39" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageHandlerWrapper.java" timestamp="1535091800389">
+        <mark key="'" line="18" column="13" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/push/push-kotlin/src/main/resources/application.yml" timestamp="1535009416969">
         <mark key="[" line="3" column="47" />
         <mark key="]" line="3" column="52" />
@@ -200,6 +214,12 @@
         <mark key="^" line="48" column="3" />
         <mark key="." line="48" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageHandlerWrapperService.java" timestamp="1535092093180">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="13" column="9" />
+        <mark key="^" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/VehicleOffer.java" timestamp="1534321066165">
         <mark key="[" line="52" column="11" />
         <mark key="]" line="52" column="22" />
@@ -242,6 +262,12 @@
         <mark key="^" line="163" column="30" />
         <mark key="." line="163" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageHandlerWrapperInt.java" timestamp="1535091746096">
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="5" column="53" />
+        <mark key="^" line="5" column="53" />
+        <mark key="." line="5" column="53" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/contract/dialog/ContractWizardDialog.java" timestamp="1535002666986">
         <mark key="[" line="31" column="46" />
         <mark key="]" line="31" column="74" />
@@ -259,8 +285,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageProcessorFactoryService.java" timestamp="1535084407867">
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageProcessorFactoryService.java" timestamp="1535091074038">
         <mark key="'" line="100" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="37" />
       </file>
       <file name="/Dummy.txt" timestamp="1535089859350">
         <mark key="[" line="0" column="0" />
@@ -280,12 +308,12 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/IncomingMessageValidationException.java" timestamp="1535084354432">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="46" />
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/IncomingMessageValidationException.java" timestamp="1535091274441">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="64" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/SpotCalloffProcessorService.java" timestamp="1535087401405">
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/SpotCalloffProcessorService.java" timestamp="1535091314894">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -326,11 +354,10 @@
         <mark key="^" line="30" column="17" />
         <mark key="." line="30" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/SpotBidConfirmationProcessorService.java" timestamp="1535086671764">
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/SpotBidConfirmationProcessorService.java" timestamp="1535091271362">
         <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="64" />
-        <mark key="^" line="98" column="62" />
-        <mark key="." line="98" column="62" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/projects/push/pom.xml" timestamp="1535009726702">
         <mark key="[" line="31" column="0" />
@@ -366,7 +393,7 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1535089700801">
+      <file name="/fragment.java" timestamp="1535091697296">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="^" line="0" column="46" />
@@ -384,9 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="36" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="630" column="0" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
-      <jump line="153" column="50" filename="$USER_HOME$/projects/fx/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/pom.xml" />
       <jump line="623" column="29" filename="$USER_HOME$/projects/fx/pom.xml" />
       <jump line="624" column="28" filename="$USER_HOME$/projects/fx/pom.xml" />
@@ -484,52 +508,55 @@
       <jump line="261" column="27" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/Widget.java" />
       <jump line="32" column="4" filename="$USER_HOME$/projects/push/pom.xml" />
       <jump line="101" column="0" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageProcessorFactoryService.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" />
+      <jump line="16" column="13" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageHandlerWrapper.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ContractWizardView</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MessageHandler() {};</text>
+        <text>EJB</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>MessageHandler() {};</text>
+        <text>EJB</text>
       </register>
       <register name="/" type="4">
         <text>IllegalArgumentException</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmVycm9yKCJVbmFibGUgdG8gcHJvY2VzcyBtZXNzYWdlIHt9IiwgaW5jb21pbmdNZXNzYWdlLCBlKTsKICAgICAgICAgICAgcmVzcG9uc2VNZXNzYWdlID0gY3JlYXRlRXJyb3JNZXNzYWdlKGluY29taW5nTWVzc2FnZSwgRXJyb3JNZXNzYWdlUHJvY2Vzc29yU2VydmljZS5FUlJPUl9GTE9XKTsK</text>
+      <register name="0" type="4">
+        <text>Message handleMessage(javax.jms.Message message) {</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmVycm9yKCJVbmFibGUgdG8gcHJvY2VzcyBtZXNzYWdlIHt9IiwgaW5jb21pbmdNZXNzYWdlLCBlKTsKICAgICAgICAgICAgcmVzcG9uc2VNZXNzYWdlID0gY3JlYXRlRXJyb3JNZXNzYWdlKGluY29taW5nTWVzc2FnZSwgRXJyb3JNZXNzYWdlUHJvY2Vzc29yU2VydmljZS5FUlJPUl9GTE9XKTsK</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbkF0dHJpYnV0ZShUcmFuc2FjdGlvbkF0dHJpYnV0ZVR5cGUuUkVRVUlSRVNfTkVXKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VNZXNzYWdlID0gY3JlYXRlRXJyb3JNZXNzYWdlKGluY29taW5nTWVzc2FnZSwgVW5zdXBwb3J0ZWRGbG93UHJvY2Vzc29yU2VydmljZS5VTlNVUFBPUlRFRF9GTE9XKTsK</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbkF0dHJpYnV0ZShUcmFuc2FjdGlvbkF0dHJpYnV0ZVR5cGUuUkVRVUlSRVNfTkVXKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmVycm9yKCJVbmFibGUgdG8gZmluZCBtZXNzYWdlIHByb2Nlc3NvciBvciB2YWxpZGF0ZSBpbmNvbWluZyBtZXNzYWdlIHt9IiwgaW5jb21pbmdNZXNzYWdlLCBlKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVJfRk9SX0lOQ09NRV9NRVNTQUdFID0gTG9nZ2VyRmFjdG9yeQogICAgICAgICAgICAuZ2V0TG9nZ2VyKCJjb20ud2t0cmFuc3BvcnRzZXJ2aWNlcy5meC5lc2Iuam1zLkluY29taW5nTWVzc2FnZUxpc3RlbmVyLkxvZ0luY29tZU1lc3NhZ2UiKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmVycm9yKCJVbmFibGUgdG8gZmluZCBtZXNzYWdlIHByb2Nlc3NvciIsIGUpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">QEVKQgogICAgcHJpdmF0ZSBNZXNzYWdlUHJvY2Vzc29yRmFjdG9yeSBtZXNzYWdlUHJvY2Vzc29yRmFjdG9yeTsKCiAgICBARUpCCiAgICBwcml2YXRlIFhtbENvbnZlcnNpb25CZWFuIHhtbENvbnZlcnNpb25CZWFuOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlIGluY29taW5nTWVzc2FnZSA9IGV4dHJhY3RUZXh0TWVzc2FnZShtZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgIEBFSkIKICAgIHByaXZhdGUgTWVzc2FnZVByb2Nlc3NvckZhY3RvcnkgbWVzc2FnZVByb2Nlc3NvckZhY3Rvcnk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXJGYWN0b3J5Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
