@@ -14,11 +14,14 @@
         <mark key="]" line="725" column="0" />
         <mark key="." line="725" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1535083485962">
-        <mark key="[" line="65" column="12" />
-        <mark key="]" line="66" column="76" />
-        <mark key="^" line="66" column="76" />
-        <mark key="." line="66" column="76" />
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1535084661953">
+        <mark key="[" line="73" column="31" />
+        <mark key="]" line="73" column="30" />
+        <mark key="^" line="73" column="30" />
+        <mark key="." line="73" column="30" />
+      </file>
+      <file name="/a.dummy" timestamp="1535084550899">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/integration/UserIntegrationConverter.java" timestamp="1534915525794">
         <mark key="[" line="305" column="68" />
@@ -179,6 +182,10 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/UnsupportedFlowProcessorService.java" timestamp="1535083766386">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="41" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/webapp/WEB-INF/web.xml" timestamp="1534768028464">
         <mark key="[" line="48" column="4" />
         <mark key="]" line="80" column="22" />
@@ -244,17 +251,31 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageProcessorFactoryService.java" timestamp="1535084407867">
+        <mark key="'" line="102" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1535003007815">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/ErrorMessageProcessorService.java" timestamp="1535083912774">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="55" />
+        <mark key="^" line="29" column="55" />
+        <mark key="." line="29" column="55" />
+      </file>
       <file name="$USER_HOME$/projects/push/client.sh" timestamp="1534993838156">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="26" />
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/IncomingMessageValidationException.java" timestamp="1535084354432">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="46" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/IContractWizardView.java" timestamp="1534938464132">
         <mark key="[" line="3" column="11" />
@@ -344,7 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="27" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="80" column="36" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="630" column="0" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="153" column="50" filename="$USER_HOME$/projects/fx/pom.xml" />
@@ -444,69 +464,76 @@
       <jump line="257" column="20" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/Widget.java" />
       <jump line="261" column="27" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/Widget.java" />
       <jump line="32" column="4" filename="$USER_HOME$/projects/push/pom.xml" />
+      <jump line="101" column="0" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageProcessorFactoryService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ContractWizardView</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlIHJlc3BvbnNlTWVzc2FnZTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">TWVzc2FnZSA=</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">TWVzc2FnZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>creat</text>
+        <text>IllegalArgumentException</text>
       </register>
-      <register name="0" type="4">
-        <text>where external_business_id = 'SpotBid-v2qj5c';</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VNZXNzYWdlID0gbWVzc2FnZVByb2Nlc3NvcgogICAgICAgICAgICAgICAgICAgIC5oYW5kbGVNZXNzYWdlKGluY29taW5nTWVzc2FnZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlIHJlc3BvbnNlTWVzc2FnZTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBFSkIK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text>try {
+        } catch (Exception e) {
+            
+        }</text>
+      </register>
+      <register name="3" type="4">
+        <text>LOGGER.error(&quot;Unable to process message {}&quot;, incomingMessage, e);
+            messageProcessor = messageProcessorFactory
+                    .resolveMessageProcessor(ErrorMessageProcessorService.ERROR_FLOW);
+            responseMessage = messageProcessor
+                    .handleMessage(incomingMessage);</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUmVzcG9uc2VCdWlsZGluZ1NlcnZpY2UgcmVzcG9uc2VCdWlsZGluZ1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlIHJlc3BvbnNlTWVzc2FnZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlIHJlc3BvbnNlTWVzc2FnZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VNZXNzYWdlID0gbWVzc2FnZVByb2Nlc3Nvci5oYW5kbGVNZXNzYWdlKGluY29taW5nTWVzc2FnZSk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kUmVzcG9uc2VNZXNzYWdlKHJlc3BvbnNlTWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBJbmNvbWluZ01lc3NhZ2VWYWxpZGF0aW9uRXhjZXB0aW9uKCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlIHJlc3BvbnNlTWVzc2FnZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL0lsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbi9JbmNvbWluZ01lc3NhZ2VWYWxpZGF0aW9uRXhjZXB0aW9uL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>creat</last-search>
+      <last-search>IllegalArgumentException</last-search>
       <last-offset />
-      <last-pattern>creat</last-pattern>
-      <last-replace>@Slf4j</last-replace>
-      <last-substitute>@Log</last-substitute>
+      <last-pattern>IllegalArgumentException</last-pattern>
+      <last-replace>IncomingMessageValidationException</last-replace>
+      <last-substitute>IllegalArgumentException</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fx-</entry>
         <entry>org.atmo</entry>
         <entry>\cexter</entry>
         <entry>true</entry>
@@ -526,9 +553,9 @@
         <entry>Sett</entry>
         <entry>init</entry>
         <entry>creat</entry>
+        <entry>IllegalArgumentException</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0NvbXBhbnkvU21hcnQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3Bvc3RncmVzL2RhdGEvZw==</entry>
         <entry encoding="base64">JzwsJz5zL293bmVyL3Bvc3Rlci9n</entry>
         <entry>%s/^  the/    # the/</entry>
@@ -548,6 +575,7 @@
         <entry>%s/@Log/@Slf4j/g</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL0lsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbi9JbmNvbWluZ01lc3NhZ2VWYWxpZGF0aW9uRXhjZXB0aW9uL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
