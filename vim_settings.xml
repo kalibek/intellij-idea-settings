@@ -9,12 +9,7 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/pom.xml" timestamp="1534764462882">
-        <mark key="[" line="725" column="0" />
-        <mark key="]" line="725" column="0" />
-        <mark key="." line="725" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1535084661953">
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1535087637808">
         <mark key="[" line="73" column="31" />
         <mark key="]" line="73" column="30" />
         <mark key="^" line="73" column="30" />
@@ -40,11 +35,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="20" column="17" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1535004357095">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1534845813857">
         <mark key="[" line="64" column="0" />
@@ -130,11 +120,6 @@
         <mark key="." line="3" column="52" />
         <mark key="^" line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1535004271531">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/ContractWizardView.java" timestamp="1534939237498">
         <mark key="[" line="32" column="8" />
         <mark key="]" line="32" column="42" />
@@ -146,11 +131,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="43" column="55" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-push/pom.xml" timestamp="1534750249007">
-        <mark key="[" line="57" column="8" />
-        <mark key="]" line="61" column="20" />
-        <mark key="." line="32" column="30" />
       </file>
       <file name="$USER_HOME$/projects/push/push-kotlin/src/main/kotlin/com/epam/PushApp.kt" timestamp="1534995370421">
         <mark key="[" line="56" column="26" />
@@ -181,6 +161,9 @@
         <mark key="]" line="6" column="17" />
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/BidIntegrationHandler.java" timestamp="1535086851905">
+        <mark key="[" line="44" column="13" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/UnsupportedFlowProcessorService.java" timestamp="1535083766386">
         <mark key="[" line="19" column="4" />
@@ -246,11 +229,6 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/contract/view/IContractWizardView.java" timestamp="1535001928601">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageProcessorFactoryService.java" timestamp="1535084407867">
         <mark key="'" line="102" column="0" />
       </file>
@@ -276,6 +254,11 @@
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="46" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/SpotCalloffProcessorService.java" timestamp="1535087401405">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/IContractWizardView.java" timestamp="1534938464132">
         <mark key="[" line="3" column="11" />
@@ -313,10 +296,11 @@
         <mark key="^" line="30" column="17" />
         <mark key="." line="30" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/push/pom.xml" timestamp="1535009726702">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/SpotBidConfirmationProcessorService.java" timestamp="1535086671764">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="64" />
+        <mark key="^" line="98" column="62" />
+        <mark key="." line="98" column="62" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/contract/ContractWizardPresenter.java" timestamp="1534939185378">
         <mark key="[" line="13" column="30" />
@@ -342,26 +326,11 @@
         <mark key="^" line="10" column="11" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/test/java/com/wktransportservices/fx/web/server/controller/CompanyDetailsURLServiceImplTest.java" timestamp="1534767911074">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1535021709885">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="^" line="0" column="46" />
         <mark key="." line="0" column="59" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/IAccountSettingsView.java" timestamp="1534910902711">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="67" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/push/push-java/src/main/resources/application.yml" timestamp="1535010543206">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -470,8 +439,8 @@
       <register name="a" type="4">
         <text>ContractWizardView</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">TWVzc2FnZSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
@@ -483,41 +452,41 @@
         <text>IllegalArgumentException</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VNZXNzYWdlID0gbWVzc2FnZVByb2Nlc3NvcgogICAgICAgICAgICAgICAgICAgIC5oYW5kbGVNZXNzYWdlKGluY29taW5nTWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbkF0dHJpYnV0ZShUcmFuc2FjdGlvbkF0dHJpYnV0ZVR5cGUuUkVRVUlSRVNfTkVXKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>try {
         } catch (Exception e) {
             
         }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>LOGGER.error(&quot;Unable to process message {}&quot;, incomingMessage, e);
             messageProcessor = messageProcessorFactory
                     .resolveMessageProcessor(ErrorMessageProcessorService.ERROR_FLOW);
             responseMessage = messageProcessor
                     .handleMessage(incomingMessage);</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlIHJlc3BvbnNlTWVzc2FnZTsK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VNZXNzYWdlID0gbWVzc2FnZVByb2Nlc3Nvci5oYW5kbGVNZXNzYWdlKGluY29taW5nTWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlIHJlc3BvbnNlTWVzc2FnZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VNZXNzYWdlID0gbWVzc2FnZVByb2Nlc3Nvci5oYW5kbGVNZXNzYWdlKGluY29taW5nTWVzc2FnZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJbmNvbWluZ01lc3NhZ2VWYWxpZGF0aW9uRXhjZXB0aW9uKCkgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlIHJlc3BvbnNlTWVzc2FnZTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBJbmNvbWluZ01lc3NhZ2VWYWxpZGF0aW9uRXhjZXB0aW9uKCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0lsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbi9JbmNvbWluZ01lc3NhZ2VWYWxpZGF0aW9uRXhjZXB0aW9uL2c=</text>
