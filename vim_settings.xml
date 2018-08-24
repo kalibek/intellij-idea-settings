@@ -89,11 +89,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/MessageProcessorFactoryBean.java" timestamp="1535101226874">
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="28" column="49" />
-        <mark key="." line="28" column="26" />
-        <mark key="^" line="21" column="49" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/MessageProcessorFactoryBean.java" timestamp="1535105979722">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+        <mark key="^" line="21" column="30" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/profile/ProfileMenu.java" timestamp="1534851814808">
         <mark key="[" line="87" column="14" />
@@ -554,13 +554,13 @@
         <text>ContractWizardView</text>
       </register>
       <register name="&quot;" type="4">
-        <text>bidIntegrationBean</text>
+        <text>(beanName = BidIntegrationHandler.BEAN_NAME)</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>bidIntegrationBean</text>
+        <text>(beanName = BidIntegrationHandler.BEAN_NAME)</text>
       </register>
       <register name="/" type="4">
         <text>IllegalArgumentException</text>
