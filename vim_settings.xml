@@ -65,6 +65,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/message/ErrorResponseBuilder.java" timestamp="1535095603464">
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="36" column="42" />
+        <mark key="^" line="36" column="42" />
+        <mark key="." line="36" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/impl/transportorder/TransportOrderDAO.java" timestamp="1535094344288">
         <mark key="[" line="29" column="16" />
         <mark key="]" line="29" column="21" />
@@ -112,6 +118,11 @@
         <mark key="]" line="6" column="7" />
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/IncomingMessageListener.java" timestamp="1535095206365">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="32" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/UserPreferncesConverter.java" timestamp="1534842708854">
         <mark key="[" line="8" column="23" />
@@ -201,8 +212,10 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/BidIntegrationHandler.java" timestamp="1535086851905">
-        <mark key="[" line="44" column="13" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/BidIntegrationHandler.java" timestamp="1535095406400">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/webapp/WEB-INF/web.xml" timestamp="1534768028464">
         <mark key="[" line="48" column="4" />
@@ -384,12 +397,18 @@
         <mark key="^" line="10" column="11" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/ErrorMessageHandler.java" timestamp="1535095467981">
+        <mark key="[" line="38" column="88" />
+        <mark key="]" line="38" column="88" />
+        <mark key="^" line="21" column="45" />
+        <mark key="." line="38" column="88" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/test/java/com/wktransportservices/fx/web/server/controller/CompanyDetailsURLServiceImplTest.java" timestamp="1534767911074">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1535091697296">
+      <file name="/fragment.java" timestamp="1535095258629">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="^" line="0" column="46" />
@@ -513,46 +532,65 @@
         <text>ContractWizardView</text>
       </register>
       <register name="&quot;" type="4">
-        <text>todo todo todo</text>
+        <text>Throwables.getStackTraceAsString(e)</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>todo todo todo</text>
+        <text>Throwables.getStackTraceAsString(e)</text>
       </register>
       <register name="/" type="4">
         <text>IllegalArgumentException</text>
       </register>
       <register name="0" type="4">
-        <text>TODO todo todo todo</text>
+        <text>exceptionMessage</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbkF0dHJpYnV0ZShUcmFuc2FjdGlvbkF0dHJpYnV0ZVR5cGUuUkVRVUlSRVNfTkVXKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbkF0dHJpYnV0ZShUcmFuc2FjdGlvbkF0dHJpYnV0ZVR5cGUuUkVRVUlSRVNfTkVXKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVJfRk9SX0lOQ09NRV9NRVNTQUdFID0gTG9nZ2VyRmFjdG9yeQogICAgICAgICAgICAuZ2V0TG9nZ2VyKCJjb20ud2t0cmFuc3BvcnRzZXJ2aWNlcy5meC5lc2Iuam1zLkluY29taW5nTWVzc2FnZUxpc3RlbmVyLkxvZ0luY29tZU1lc3NhZ2UiKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5jb21pbmdNZXNzYWdlLmdldEJvZHkoKSA9PSBudWxsIHx8IGluY29taW5nTWVzc2FnZS5nZXRCb2R5KCkuaXNFbXB0eSgpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">QEVKQgogICAgcHJpdmF0ZSBNZXNzYWdlUHJvY2Vzc29yRmFjdG9yeSBtZXNzYWdlUHJvY2Vzc29yRmFjdG9yeTsKCiAgICBARUpCCiAgICBwcml2YXRlIFhtbENvbnZlcnNpb25CZWFuIHhtbENvbnZlcnNpb25CZWFuOwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc01lc3NhZ2VEb2VzTm90Q29udGFpbkJ1c2luZXNzT2JqZWN0KE1lc3NhZ2UgaW5jb21pbmdNZXNzYWdlKSB7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBFSkIKICAgIHByaXZhdGUgTWVzc2FnZVByb2Nlc3NvckZhY3RvcnkgbWVzc2FnZVByb2Nlc3NvckZhY3Rvcnk7Cg==</text>
+      <register name="5" type="4">
+        <text>if (isMessageDoesNotContainBusinessObject(incomingMessage)) {
+            String response = xmlUtils.convert(ErrorResponseBuilder
+                            .error(incomingMessage.getCorrelationId(), &quot;error&quot;, &quot;Business object is absent&quot;).build(),
+                    Response.class);
+
+            return ResponseMessageBuilder.response(incomingMessage.getCorrelationId(), incomingMessage.getHeader(), response).build();
+        }
+
+        try {
+            TransportOrderQuote transportOrderQuote = xmlUtils.convert(incomingMessage.getBody(), TransportOrderQuote.class);
+            service.createBid(transportOrderQuote, incomingMessage.getCorrelationId());
+            String response = xmlUtils
+                    .convert(SuccessResponseBuilder.success(incomingMessage.getCorrelationId()).build(), Response.class);
+            return ResponseMessageBuilder.response(incomingMessage.getCorrelationId(), incomingMessage.getHeader(), response).build();
+        } catch (Exception e) {
+            LOGGER.error(&quot;Unable to process message&quot;, e);
+            
+        }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>String response = xmlUtils
+                    .convert(ErrorResponseBuilder.error(incomingMessage.getCorrelationId(), e).build(), Response.class);
+            return ResponseMessageBuilder.response(incomingMessage.getCorrelationId(), incomingMessage.getHeader(), response).build();</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbkF0dHJpYnV0ZShUcmFuc2FjdGlvbkF0dHJpYnV0ZVR5cGUuUkVRVUlSRVNfTkVXKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbkF0dHJpYnV0ZShUcmFuc2FjdGlvbkF0dHJpYnV0ZVR5cGUuUkVRVUlSRVNfTkVXKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZm9ybWF0ID0gIiVzLiVzLiVzIjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
