@@ -65,11 +65,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/impl/transportorder/TransportOrderDAO.java" timestamp="1535094344288">
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="29" column="21" />
-        <mark key="^" line="29" column="21" />
-        <mark key="." line="29" column="21" />
+      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/impl/transportorder/TransportOrderDAO.java" timestamp="1535108662013">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/MessageProcessorFactory.java" timestamp="1535098518793">
         <mark key="[" line="9" column="55" />
@@ -119,7 +118,7 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/IncomingMessageListener.java" timestamp="1535099335587">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/IncomingMessageListener.java" timestamp="1535109760336">
         <mark key="[" line="37" column="34" />
         <mark key="]" line="37" column="55" />
         <mark key="." line="37" column="55" />
@@ -288,11 +287,11 @@
         <mark key="^" line="4" column="39" />
         <mark key="." line="4" column="39" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535021412170">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535109969711">
         <mark key="[" line="163" column="30" />
-        <mark key="]" line="163" column="30" />
+        <mark key="]" line="163" column="31" />
         <mark key="^" line="163" column="30" />
-        <mark key="." line="163" column="30" />
+        <mark key="." line="163" column="31" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageHandlerWrapperInt.java" timestamp="1535091746096">
         <mark key="[" line="5" column="52" />
@@ -317,7 +316,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535089859350">
+      <file name="/Dummy.txt" timestamp="1535110091184">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="78" />
         <mark key="^" line="0" column="78" />
@@ -430,7 +429,7 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1535099227609">
+      <file name="/fragment.java" timestamp="1535108337994">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="^" line="0" column="46" />
@@ -554,13 +553,13 @@
         <text>ContractWizardView</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MessageHandler</text>
+        <text encoding="base64">IHdoZXJlIGV4dGVybmFsX2J1c2luZXNzX2lkID0gJ1Nwb3RCaWQtdjJxajVjJzs=</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>MessageHandler</text>
+        <text encoding="base64">IHdoZXJlIGV4dGVybmFsX2J1c2luZXNzX2lkID0gJ1Nwb3RCaWQtdjJxajVjJzs=</text>
       </register>
       <register name="/" type="4">
         <text>IllegalArgumentException</text>
@@ -569,35 +568,31 @@
         <text>errorMessageHandlerBean</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm9uVW5pcXVlUmVzdWx0RXhjZXB0aW9uKCJUT0RPIHRvZG8gdG9kbyB0b2RvIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHJlbW92ZQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFNpbmdsZXRvbgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">QFNpbmdsZXRvbgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihJbmNvbWluZ01lc3NhZ2VMaXN0ZW5lci5jbGFzcyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>@EJB
-    private MessageProcessorFactory messageProcessorFactory;
-
-
-    private XmlConversionUtils xmlUtils = new XmlConversionUtils();</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QFNpbmdsZXRvbgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">QFNpbmdsZXRvbgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihJbmNvbWluZ01lc3NhZ2VMaXN0ZW5lci5jbGFzcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
