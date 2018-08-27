@@ -17,9 +17,6 @@
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1535350351970">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="22" column="10" />
-        <mark key="]" line="46" column="63" />
-        <mark key="." line="46" column="63" />
-        <mark key="^" line="46" column="63" />
       </file>
       <file name="/a.dummy" timestamp="1535099080157">
         <mark key="[" line="0" column="0" />
@@ -298,7 +295,6 @@
         <mark key="^" line="31" column="74" />
         <mark key="." line="31" column="74" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/MessageServiceBean.java" timestamp="1535341516707" />
       <file name="$USER_HOME$/projects/push/src/main/kotlin/PushApp.kt" timestamp="1534933790974">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="19" />
