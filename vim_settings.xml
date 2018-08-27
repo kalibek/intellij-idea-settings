@@ -14,7 +14,7 @@
         <mark key="]" line="725" column="0" />
         <mark key="." line="725" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1535350351970">
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/IncomingMessageListener.java" timestamp="1535357789482">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="22" column="10" />
       </file>
@@ -62,10 +62,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/impl/transportorder/TransportOrderDAO.java" timestamp="1535108662013">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/impl/transportorder/TransportOrderDAO.java" timestamp="1535357644273">
+        <mark key="[" line="28" column="50" />
+        <mark key="]" line="28" column="50" />
+        <mark key="." line="28" column="50" />
+        <mark key="^" line="28" column="50" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/MessageProcessorFactory.java" timestamp="1535098518793">
         <mark key="[" line="9" column="55" />
@@ -214,6 +215,12 @@
       <file name="$USER_HOME$/projects/fx/fx-esb/fx-esb-inf/src/main/java/com/wktransportservices/fx/esb/jms/processor/ErrorMessageProcessor.java" timestamp="1535341220123">
         <mark key="[" line="2" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/BidIntegrationServiceBean.java" timestamp="1535357858582">
+        <mark key="[" line="53" column="42" />
+        <mark key="]" line="53" column="42" />
+        <mark key="^" line="53" column="42" />
+        <mark key="." line="53" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/BidIntegrationHandler.java" timestamp="1535095406400">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -313,11 +320,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535346561225">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="78" />
-        <mark key="^" line="0" column="78" />
-        <mark key="." line="0" column="78" />
+      <file name="/Dummy.txt" timestamp="1535358193374">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="87" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/ErrorMessageProcessorService.java" timestamp="1535342081796">
         <mark key="[" line="30" column="8" />
@@ -545,14 +552,14 @@
       <register name="a" type="4">
         <text>ContractWizardView</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLnNwb3RiaWRkaW5nLmJ1c2luZXNzLmptcy5oYW5kbGVyLkVycm9yTWVzc2FnZUhhbmRsZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>[ASB] - Send JMS messages in separate transaction in case of exception handling</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>incomingMessage</text>
+        <text>[ASB] - Send JMS messages in separate transaction in case of exception handling</text>
       </register>
       <register name="/" type="4">
         <text>IllegalArgumentException</text>
