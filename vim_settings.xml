@@ -39,7 +39,7 @@
         <mark key="^" line="20" column="17" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1535004357095">
+      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1535361422851">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
@@ -85,11 +85,6 @@
         <mark key="]" line="5" column="2" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="3" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/MessageProcessorFactoryBean.java" timestamp="1535356663162">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="/ErrorMessageHandler.java" timestamp="1535356599344">
         <mark key="[" line="2" column="0" />
@@ -215,12 +210,6 @@
       <file name="$USER_HOME$/projects/fx/fx-esb/fx-esb-inf/src/main/java/com/wktransportservices/fx/esb/jms/processor/ErrorMessageProcessor.java" timestamp="1535341220123">
         <mark key="[" line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/BidIntegrationServiceBean.java" timestamp="1535357858582">
-        <mark key="[" line="53" column="42" />
-        <mark key="]" line="53" column="42" />
-        <mark key="^" line="53" column="42" />
-        <mark key="." line="53" column="42" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/BidIntegrationHandler.java" timestamp="1535095406400">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -320,8 +309,8 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535359396758">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1535361342916">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="9" />
