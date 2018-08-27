@@ -212,6 +212,9 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb/fx-esb-inf/src/main/java/com/wktransportservices/fx/esb/jms/processor/ErrorMessageProcessor.java" timestamp="1535341220123">
+        <mark key="[" line="2" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/BidIntegrationHandler.java" timestamp="1535095406400">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -227,11 +230,11 @@
         <mark key="^" line="48" column="3" />
         <mark key="." line="48" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageHandlerWrapperService.java" timestamp="1535092093180">
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="13" column="9" />
-        <mark key="^" line="13" column="9" />
-        <mark key="." line="13" column="9" />
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageHandlerWrapperService.java" timestamp="1535343219488">
+        <mark key="[" line="66" column="52" />
+        <mark key="]" line="66" column="78" />
+        <mark key="." line="66" column="78" />
+        <mark key="^" line="66" column="78" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/VehicleOffer.java" timestamp="1534321066165">
         <mark key="[" line="52" column="11" />
@@ -293,6 +296,7 @@
         <mark key="^" line="31" column="74" />
         <mark key="." line="31" column="74" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/MessageServiceBean.java" timestamp="1535341516707" />
       <file name="$USER_HOME$/projects/push/src/main/kotlin/PushApp.kt" timestamp="1534933790974">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="19" />
@@ -304,17 +308,22 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageProcessorFactoryService.java" timestamp="1535341956726">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1535110613096">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="78" />
         <mark key="^" line="0" column="78" />
         <mark key="." line="0" column="78" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/ErrorMessageProcessorService.java" timestamp="1535083912774">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="55" />
-        <mark key="^" line="29" column="55" />
-        <mark key="." line="29" column="55" />
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/ErrorMessageProcessorService.java" timestamp="1535342081796">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="33" column="80" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/push/client.sh" timestamp="1534993838156">
         <mark key="[" line="7" column="22" />
@@ -372,9 +381,9 @@
         <mark key="^" line="30" column="17" />
         <mark key="." line="30" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/SpotBidConfirmationProcessorService.java" timestamp="1535091271362">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/SpotBidConfirmationProcessorService.java" timestamp="1535341162554">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="25" column="43" />
         <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/projects/push/pom.xml" timestamp="1535009726702">
@@ -541,46 +550,48 @@
         <text>ContractWizardView</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHdoZXJlIGV4dGVybmFsX2J1c2luZXNzX2lkID0gJ1Nwb3RCaWQtdjJxajVjJzs=</text>
+        <text>header</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHdoZXJlIGV4dGVybmFsX2J1c2luZXNzX2lkID0gJ1Nwb3RCaWQtdjJxajVjJzs=</text>
+        <text>header</text>
       </register>
       <register name="/" type="4">
         <text>IllegalArgumentException</text>
       </register>
       <register name="0" type="4">
-        <text>errorMessageHandlerBean</text>
+        <text>incomingMessage</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm9uVW5pcXVlUmVzdWx0RXhjZXB0aW9uKCJUT0RPIHRvZG8gdG9kbyB0b2RvIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29ycmVsYXRpb25JZCA9IGluY29taW5nTWVzc2FnZSA9PSBudWxsID8gIiIgOiBpbmNvbWluZ01lc3NhZ2UuZ2V0Q29ycmVsYXRpb25JZCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHJlbW92ZQo=</text>
+        <text encoding="base64">ICAgICAgICBIZWFkZXJUeXBlIGhlYWRlciA9IGluY29taW5nTWVzc2FnZSA9PSBudWxsID8gOmluY29taW5nTWVzc2FnZS5nZXRIZWFkZXIoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW5jb21pbmdNZXNzYWdlICE9IG51bGwpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>MessageHandler messageProcessor = messageProcessorFactory
+                .resolveMessageProcessor(flow);
+        return messageProcessor.handleMessage(incomingMessage);</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFNpbmdsZXRvbgo=</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3Rlck1lc3NhZ2VQcm9jZXNzb3IodW5zdXBwb3J0ZWRGbG93UHJvY2Vzc29yKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFNpbmdsZXRvbgo=</text>
+        <text encoding="base64">ICAgIEBFSkIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihJbmNvbWluZ01lc3NhZ2VMaXN0ZW5lci5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVW5zdXBwb3J0ZWRGbG93UHJvY2Vzc29yU2VydmljZSB1bnN1cHBvcnRlZEZsb3dQcm9jZXNzb3I7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
