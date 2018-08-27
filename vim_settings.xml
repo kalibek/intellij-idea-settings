@@ -230,11 +230,11 @@
         <mark key="^" line="48" column="3" />
         <mark key="." line="48" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageHandlerWrapperService.java" timestamp="1535343219488">
-        <mark key="[" line="66" column="52" />
-        <mark key="]" line="66" column="78" />
-        <mark key="." line="66" column="78" />
-        <mark key="^" line="66" column="78" />
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageHandlerWrapperService.java" timestamp="1535343536249">
+        <mark key="[" line="59" column="76" />
+        <mark key="]" line="59" column="83" />
+        <mark key="." line="59" column="83" />
+        <mark key="^" line="59" column="83" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/model/VehicleOffer.java" timestamp="1534321066165">
         <mark key="[" line="52" column="11" />
@@ -247,6 +247,11 @@
         <mark key="]" line="3" column="68" />
         <mark key="^" line="3" column="68" />
         <mark key="." line="3" column="68" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageExtractionException.java" timestamp="1535343545250">
+        <mark key="[" line="2" column="66" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/contract/dialog/ContractWizardDialog.ui.xml" timestamp="1535002511875">
         <mark key="[" line="5" column="11" />
@@ -313,7 +318,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535110613096">
+      <file name="/Dummy.txt" timestamp="1535343886041">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="78" />
         <mark key="^" line="0" column="78" />
@@ -426,7 +431,7 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1535108337994">
+      <file name="/fragment.java" timestamp="1535343430581">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="^" line="0" column="46" />
@@ -549,14 +554,14 @@
       <register name="a" type="4">
         <text>ContractWizardView</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>header</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>header</text>
+        <text>Throwable</text>
       </register>
       <register name="/" type="4">
         <text>IllegalArgumentException</text>
@@ -565,33 +570,31 @@
         <text>incomingMessage</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29ycmVsYXRpb25JZCA9IGluY29taW5nTWVzc2FnZSA9PSBudWxsID8gIiIgOiBpbmNvbWluZ01lc3NhZ2UuZ2V0Q29ycmVsYXRpb25JZCgpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBIZWFkZXJUeXBlIGhlYWRlciA9IGluY29taW5nTWVzc2FnZSA9PSBudWxsID8gOmluY29taW5nTWVzc2FnZS5nZXRIZWFkZXIoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAyZGRNZXNzYWdlRXh0cmFjdGlvbkV4Y2VwdGlvbihTdHJpbmcgbWVzc2FnZSkgewogICAgICAgIHN1cGVyKG1lc3NhZ2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTWVzc2FnZUV4dHJhY3Rpb25FeGNlcHRpb24oIkNhbm5vdCBleHRyYWN0IG1lc3NhZ2UiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5jb21pbmdNZXNzYWdlICE9IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29ycmVsYXRpb25JZCA9IGluY29taW5nTWVzc2FnZSA9PSBudWxsID8gIiIgOiBpbmNvbWluZ01lc3NhZ2UuZ2V0Q29ycmVsYXRpb25JZCgpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>MessageHandler messageProcessor = messageProcessorFactory
-                .resolveMessageProcessor(flow);
-        return messageProcessor.handleMessage(incomingMessage);</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBIZWFkZXJUeXBlIGhlYWRlciA9IGluY29taW5nTWVzc2FnZSA9PSBudWxsID8gOmluY29taW5nTWVzc2FnZS5nZXRIZWFkZXIoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3Rlck1lc3NhZ2VQcm9jZXNzb3IodW5zdXBwb3J0ZWRGbG93UHJvY2Vzc29yKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBFSkIK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW5jb21pbmdNZXNzYWdlICE9IG51bGwpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVW5zdXBwb3J0ZWRGbG93UHJvY2Vzc29yU2VydmljZSB1bnN1cHBvcnRlZEZsb3dQcm9jZXNzb3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
