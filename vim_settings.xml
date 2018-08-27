@@ -85,6 +85,15 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="3" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/MessageProcessorFactoryBean.java" timestamp="1535356663162">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/ErrorMessageHandler.java" timestamp="1535356599344">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="6" column="71" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/profile/ProfileMenu.java" timestamp="1534851814808">
         <mark key="[" line="87" column="14" />
         <mark key="]" line="87" column="14" />
@@ -115,12 +124,12 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/MessageHandlerWrapperBean.java" timestamp="1535106767978">
-        <mark key="'" line="42" column="4" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="26" column="62" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/MessageHandlerWrapperBean.java" timestamp="1535356629628">
+        <mark key="'" line="47" column="4" />
+        <mark key="[" line="44" column="44" />
+        <mark key="]" line="44" column="46" />
+        <mark key="." line="44" column="46" />
+        <mark key="^" line="44" column="46" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201808211702_18_12__FX_11327_add_bid_contract_column.sql" timestamp="1534849495273">
         <mark key="[" line="0" column="41" />
@@ -133,13 +142,6 @@
         <mark key="]" line="39" column="22" />
         <mark key="." line="39" column="22" />
         <mark key="^" line="39" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageHandlerWrapper.java" timestamp="1535091800389">
-        <mark key="'" line="18" column="13" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="5" />
-        <mark key="." line="6" column="5" />
-        <mark key="^" line="6" column="5" />
       </file>
       <file name="$USER_HOME$/projects/push/push-kotlin/src/main/resources/application.yml" timestamp="1535009416969">
         <mark key="[" line="3" column="47" />
@@ -543,47 +545,52 @@
       <register name="a" type="4">
         <text>ContractWizardView</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLnNwb3RiaWRkaW5nLmJ1c2luZXNzLmptcy5oYW5kbGVyLkVycm9yTWVzc2FnZUhhbmRsZXI7Cg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>incomingMessage</text>
       </register>
       <register name="/" type="4">
         <text>IllegalArgumentException</text>
       </register>
       <register name="0" type="4">
-        <text>incomingMessage</text>
+        <text>import com.wktransportservices.schema.communitymanager.mbs.v1_12.Message;
+import com.wktransportservices.schema.mbs.spotbidding.companyuseraddress.v1_6.Response;
+import com.wktransportservices.spotbidding.business.jms.message.ErrorResponseBuilder;
+import com.wktransportservices.spotbidding.business.jms.message.ResponseMessageBuilder;
+import com.wktransportservices.spotbidding.utils.xml.XmlConversionUtils;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLnNwb3RiaWRkaW5nLmJ1c2luZXNzLmptcy5oYW5kbGVyLkVycm9yTWVzc2FnZUhhbmRsZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RlclByb2Nlc3NvcihlcnJvck1lc3NhZ2VIYW5kbGVyQmVhbik7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTWVzc2FnZUV4dHJhY3Rpb25FeGNlcHRpb24oIkNhbm5vdCBleHRyYWN0IG1lc3NhZ2UiLCBleGNlcHRpb24pOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWVzc2FnZUhhbmRsZXIgZXJyb3JNZXNzYWdlSGFuZGxlckJlYW47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE1lc3NhZ2VFeHRyYWN0aW9uRXhjZXB0aW9uKCJDYW5ub3QgZXh0cmFjdCBtZXNzYWdlIiwgZXhjZXB0aW9uKTsK</text>
+        <text encoding="base64">ICAgIEBFSkIoYmVhbk5hbWUgPSBFcnJvck1lc3NhZ2VIYW5kbGVyLkJFQU5fTkFNRSkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAyZGRNZXNzYWdlRXh0cmFjdGlvbkV4Y2VwdGlvbihTdHJpbmcgbWVzc2FnZSkgewogICAgICAgIHN1cGVyKG1lc3NhZ2UpOwo=</text>
+      <register name="7" type="4">
+        <text>messageProcessor = messageProcessorFactory.resolveMessageProcessor(ErrorMessageHandler.ERROR_FLOW);
+            responseMessage = messageProcessor.handleMessage(msg);</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTWVzc2FnZUV4dHJhY3Rpb25FeGNlcHRpb24oIkNhbm5vdCBleHRyYWN0IG1lc3NhZ2UiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
