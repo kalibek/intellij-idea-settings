@@ -120,6 +120,12 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/SpotBiddingModule.java" timestamp="1535363099907">
+        <mark key="[" line="49" column="30" />
+        <mark key="]" line="51" column="29" />
+        <mark key="^" line="51" column="29" />
+        <mark key="." line="51" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/MessageHandlerWrapperBean.java" timestamp="1535356629628">
         <mark key="'" line="47" column="4" />
         <mark key="[" line="44" column="44" />
