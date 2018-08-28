@@ -317,13 +317,14 @@
         <mark key="^" line="22" column="88" />
         <mark key="." line="22" column="88" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ec897bdf-2e44-4bea-9b07-7f7d369ca76b/console.sql" timestamp="1535455572002">
-        <mark key="[" line="13" column="48" />
-        <mark key="]" line="13" column="64" />
-        <mark key="^" line="13" column="63" />
-        <mark key="." line="13" column="64" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ec897bdf-2e44-4bea-9b07-7f7d369ca76b/console.sql" timestamp="1535458158079">
+        <mark key="'" line="44" column="10" />
+        <mark key="[" line="31" column="36" />
+        <mark key="]" line="31" column="36" />
+        <mark key="." line="31" column="36" />
+        <mark key="^" line="31" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/helper/VehicleOfferHelper.java" timestamp="1535455702425" />
+      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/helper/VehicleOfferHelper.java" timestamp="1535457456997" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/UserPreferencesConverter.java" timestamp="1534845112830">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="28" />
@@ -445,7 +446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="20" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserEntity.java" />
       <jump line="188" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/AbstractUserEntity.java" />
       <jump line="40" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/AbstractUserEntity.java" />
       <jump line="25" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserServiceBean.java" />
@@ -545,69 +545,71 @@
       <jump line="924" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="2169" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="53" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
+      <jump line="41" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ec897bdf-2e44-4bea-9b07-7f7d369ca76b/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">PC9jOkN1c3RvbUJ1dHRvbj4=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>expire-offers</text>
+        <text>22</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>job_details</text>
+        <text>22</text>
       </register>
       <register name="/" type="4">
-        <text>port</text>
+        <text>availability\.</text>
       </register>
       <register name="0" type="4">
-        <text>expire-offers</text>
+        <text>o.dtype, o.route, o.state,
+       o.start_date, o.start_date_to, o.end_date, o.end_date_to, o.post_date,
+       o.updated_date</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGJvcmRlcjogMDsKICAgICAgICAgICAgYm9yZGVyLXJhZGl1czogMDsKICAgICAgICAgICAgcGFkZGluZzogMDs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Z3JvdXAgYnkgby5kdHlwZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGM6Q3VzdG9tQnV0dG9uIGFkZFN0eWxlTmFtZXM9IntzdHlsZS5zdGVwc30ge3N0eWxlLmZpcnN0LXN0ZXAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">TWVyZ2UgcHVsbCByZXF1ZXN0ICM5MTMgaW4gVEYvZnggZnJvbSBidWdmaXgvRlgtMTE2NzAtYXNiLXNlbmQtam1zLW1lc3NhZ2VzLWluLXNlcGFyYXRlLXRyYW5zYWN0aW9uIHRvIHJlbGVhc2UvMTguMDkKClNxdWFzaGVkIGNvbW1pdCBvZiB0aGUgZm9sbG93aW5nOgoKY29tbWl0IDc3ZTdhYzc0ZjFmYzYyNmQ3Yjk0MWFlMTk5NDI0MmE5NGVkODgyZDUKQXV0aG9yOiBLYWxpYmVrIFR1cmd1bWJheWV2IDxLYWxpYmVrX1R1cmd1bWJheWV2QGVwYW0uY29tPgpEYXRlOiAgIE1vbiBBdWcgMjcgMTQ6MjM6MzIgMjAxOCArMDYwMAoKICAgIEZYLTExNjcwIFJlbW92ZWQgcmVkdW5kYW50IHByb2Nlc3NvcnMKCmNvbW1pdCA5MGVjZWNjZjMyNmJiZWQzZTBmZGM0YTQwZmM4YWMwMDU2ODVjNGQxCkF1dGhvcjogS2FsaWJlayBUdXJndW1iYXlldiA8S2FsaWJla19UdXJndW1iYXlldkBlcGFtLmNvbT4KRGF0ZTogICBGcmkgQXVnIDI0IDExOjQ2OjQ1IDIwMTggKzA2MDAKCiAgICA=</text>
+        <text encoding="base64">IGJvcmRlcjogMDsKICAgICAgICAgICAgYm9yZGVyLXJhZGl1czogMDsKICAgICAgICAgICAgcGFkZGluZzogMDs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZS5zZXRUZXh0KCJTaG93aW5nIHN1bW1hcnkgc3RlcCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGM6Q3VzdG9tQnV0dG9uIGFkZFN0eWxlTmFtZXM9IntzdHlsZS5zdGVwc30ge3N0eWxlLmZpcnN0LXN0ZXAiCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBVaUZpZWxkCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">TWVyZ2UgcHVsbCByZXF1ZXN0ICM5MTMgaW4gVEYvZnggZnJvbSBidWdmaXgvRlgtMTE2NzAtYXNiLXNlbmQtam1zLW1lc3NhZ2VzLWluLXNlcGFyYXRlLXRyYW5zYWN0aW9uIHRvIHJlbGVhc2UvMTguMDkKClNxdWFzaGVkIGNvbW1pdCBvZiB0aGUgZm9sbG93aW5nOgoKY29tbWl0IDc3ZTdhYzc0ZjFmYzYyNmQ3Yjk0MWFlMTk5NDI0MmE5NGVkODgyZDUKQXV0aG9yOiBLYWxpYmVrIFR1cmd1bWJheWV2IDxLYWxpYmVrX1R1cmd1bWJheWV2QGVwYW0uY29tPgpEYXRlOiAgIE1vbiBBdWcgMjcgMTQ6MjM6MzIgMjAxOCArMDYwMAoKICAgIEZYLTExNjcwIFJlbW92ZWQgcmVkdW5kYW50IHByb2Nlc3NvcnMKCmNvbW1pdCA5MGVjZWNjZjMyNmJiZWQzZTBmZGM0YTQwZmM4YWMwMDU2ODVjNGQxCkF1dGhvcjogS2FsaWJlayBUdXJndW1iYXlldiA8S2FsaWJla19UdXJndW1iYXlldkBlcGFtLmNvbT4KRGF0ZTogICBGcmkgQXVnIDI0IDExOjQ2OjQ1IDIwMTggKzA2MDAKCiAgICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEN1c3RvbUxhYmVsIHRpdGxlOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZS5zZXRUZXh0KCJTaG93aW5nIHN1bW1hcnkgc3RlcCIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8YzpDdXN0b21MYWJlbCB1aTpmaWVsZD0idGl0bGUiLz4K</text>
+        <text encoding="base64">ICAgIEBVaUZpZWxkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudDogIlgiOwo=</text>
+        <text encoding="base64">ICAgIEN1c3RvbUxhYmVsIHRpdGxlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>port</last-search>
+      <last-search>availability\.</last-search>
       <last-offset />
-      <last-pattern>port</last-pattern>
-      <last-replace>IncomingMessageValidationException</last-replace>
-      <last-substitute>IllegalArgumentException</last-substitute>
+      <last-pattern>availability\.</last-pattern>
+      <last-replace />
+      <last-substitute>availability\.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>true</entry>
         <entry>True</entry>
         <entry>findBy</entry>
         <entry>Shipper</entry>
@@ -627,9 +629,9 @@
         <entry>IllegalArgumentException</entry>
         <entry>9876</entry>
         <entry>port</entry>
+        <entry>availability\.</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL293bmVyL3Bvc3Rlci9n</entry>
         <entry>%s/^  the/    # the/</entry>
         <entry>%s/post freight offer/POST freight offer/g</entry>
         <entry encoding="base64">JzwsJz5zL1BpY2tVcC9EZWxpdmVyeS9n</entry>
@@ -648,6 +650,7 @@
         <entry encoding="base64">JzwsJz5zL0lsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbi9JbmNvbWluZ01lc3NhZ2VWYWxpZGF0aW9uRXhjZXB0aW9uL2c=</entry>
         <entry>W</entry>
         <entry>w\</entry>
+        <entry encoding="base64">JzwsJz5zL2F2YWlsYWJpbGl0eVwuLy9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
