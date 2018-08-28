@@ -81,6 +81,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="3" column="6" />
       </file>
+      <file name="/ErrorMessageHandler.java" timestamp="1535356599344">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="6" column="71" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/profile/ProfileMenu.java" timestamp="1534851814808">
         <mark key="[" line="87" column="14" />
         <mark key="]" line="87" column="14" />
@@ -166,11 +170,11 @@
         <mark key="^" line="55" column="25" />
         <mark key="." line="56" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/ContractWizardDialog.ui.xml" timestamp="1535364654727">
-        <mark key="[" line="6" column="81" />
-        <mark key="]" line="6" column="81" />
-        <mark key="^" line="6" column="81" />
-        <mark key="." line="6" column="81" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/ContractWizardDialog.ui.xml" timestamp="1535430689833">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="50" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="17" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/resty/UserAccountResty.java" timestamp="1534849719750">
         <mark key="[" line="35" column="10" />
@@ -301,6 +305,10 @@
         <mark key="]" line="9" column="19" />
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/AlertDialog.ui.xml" timestamp="1535430665160">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="49" />
       </file>
       <file name="/Dummy.txt" timestamp="1535367574813">
         <mark key="[" line="0" column="0" />
@@ -512,26 +520,7 @@
         <text>dodgerblue</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.steps {
-            background-color: #4D81BF;
-            width: 150px;
-            height: 40px;
-            line-height: 40px;
-            border-top: 20px solid transparent;
-            border-bottom: 20px solid transparent;
-            border-right: 20px solid;
-        }
-
-        /*.steps:after {*/
-            /*color: #4D81BF;*/
-            /*border-left: 20px solid;*/
-            /*border-top: 20px solid transparent;*/
-            /*border-bottom: 20px solid transparent;*/
-            /*display: inline-block;*/
-            /*content: '';*/
-            /*position: absolute;*/
-            /*top:0*/
-        /*}*/</text>
+        <text>addStyleNames=&quot;alert-dialog-base&quot;</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
@@ -543,50 +532,7 @@
         <text>port</text>
       </register>
       <register name="0" type="4">
-        <text>.steps {
-            height: 40px;
-            width: 140px;
-            line-height: 40px;
-            float: left;
-            background: dodgerblue;
-            color: white;
-            display: block;
-            position: relative;
-            margin-right: 25px;
-        }
-
-        .steps:before {
-            width: 0;
-            height: 0;
-            content: &quot;&quot;;
-            position: absolute;
-            left: -20px;
-            top: 0;
-
-            border-top: 20px solid dodgerblue;
-            border-bottom: 20px solid dodgerblue;
-            border-left: 20px solid transparent;
-        }
-
-        .first-step:before {
-            width:0;
-            height: 0;
-            border:none;
-        }
-
-        .steps:after {
-            width: 0;
-            height: 0;
-            content: &quot;&quot;;
-            position: absolute;
-            right: -20px;
-            top: 0;
-
-            border-top: 20px solid transparent;
-            border-bottom: 20px solid transparent;
-            border-left: 20px solid dodgerblue;
-
-        }</text>
+        <text>addStyleNames=&quot;alert-dialog-base&quot;</text>
       </register>
       <register name="1" type="4">
         <text>.steps {
