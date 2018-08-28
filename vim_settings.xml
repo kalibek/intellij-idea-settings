@@ -196,10 +196,10 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/leader/index.html" timestamp="1535371962483">
+      <file name="$USER_HOME$/projects/leader/index.html" timestamp="1535430035268">
         <mark key="'" line="10" column="15" />
-        <mark key="[" line="56" column="24" />
-        <mark key="]" line="56" column="29" />
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="53" column="8" />
         <mark key="." line="56" column="29" />
         <mark key="^" line="56" column="29" />
       </file>
@@ -374,11 +374,11 @@
         <mark key="^" line="97" column="3" />
         <mark key="." line="97" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/ContractWizardView.ui.xml" timestamp="1535370116082">
-        <mark key="[" line="29" column="12" />
-        <mark key="]" line="32" column="49" />
-        <mark key="^" line="11" column="23" />
-        <mark key="." line="11" column="23" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/ContractWizardView.ui.xml" timestamp="1535430064484">
+        <mark key="[" line="53" column="37" />
+        <mark key="]" line="53" column="55" />
+        <mark key="." line="53" column="55" />
+        <mark key="^" line="53" column="55" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-inf/src/main/java/com/wktransportservices/spotbidding/business/api/user/UserServiceRemote.java" timestamp="1534851755304">
         <mark key="[" line="23" column="49" />
@@ -512,7 +512,26 @@
         <text>dodgerblue</text>
       </register>
       <register name="&quot;" type="4">
-        <text>20px</text>
+        <text>.steps {
+            background-color: #4D81BF;
+            width: 150px;
+            height: 40px;
+            line-height: 40px;
+            border-top: 20px solid transparent;
+            border-bottom: 20px solid transparent;
+            border-right: 20px solid;
+        }
+
+        /*.steps:after {*/
+            /*color: #4D81BF;*/
+            /*border-left: 20px solid;*/
+            /*border-top: 20px solid transparent;*/
+            /*border-bottom: 20px solid transparent;*/
+            /*display: inline-block;*/
+            /*content: '';*/
+            /*position: absolute;*/
+            /*top:0*/
+        /*}*/</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
@@ -524,34 +543,96 @@
         <text>port</text>
       </register>
       <register name="0" type="4">
-        <text>dodgerblue</text>
+        <text>.steps {
+            height: 40px;
+            width: 140px;
+            line-height: 40px;
+            float: left;
+            background: dodgerblue;
+            color: white;
+            display: block;
+            position: relative;
+            margin-right: 25px;
+        }
+
+        .steps:before {
+            width: 0;
+            height: 0;
+            content: &quot;&quot;;
+            position: absolute;
+            left: -20px;
+            top: 0;
+
+            border-top: 20px solid dodgerblue;
+            border-bottom: 20px solid dodgerblue;
+            border-left: 20px solid transparent;
+        }
+
+        .first-step:before {
+            width:0;
+            height: 0;
+            border:none;
+        }
+
+        .steps:after {
+            width: 0;
+            height: 0;
+            content: &quot;&quot;;
+            position: absolute;
+            right: -20px;
+            top: 0;
+
+            border-top: 20px solid transparent;
+            border-bottom: 20px solid transparent;
+            border-left: 20px solid dodgerblue;
+
+        }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyOiAxcHggc29saWQgZ3JleTsK</text>
+      <register name="1" type="4">
+        <text>.steps {
+            background-color: #4D81BF;
+            width: 150px;
+            height: 40px;
+            line-height: 40px;
+            border-top: 20px solid transparent;
+            border-bottom: 20px solid transparent;
+            border-right: 20px solid;
+        }
+
+        /*.steps:after {*/
+            /*color: #4D81BF;*/
+            /*border-left: 20px solid;*/
+            /*border-top: 20px solid transparent;*/
+            /*border-bottom: 20px solid transparent;*/
+            /*display: inline-block;*/
+            /*content: '';*/
+            /*position: absolute;*/
+            /*top:0*/
+        /*}*/</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1pbmRlbnQ6IDEwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyOiAxcHggc29saWQgZ3JleTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGV4dC1pbmRlbnQ6IDEwcHg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1pbmRlbnQ6IDEwcHg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRlbnQ6ICIiOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvcmRlci10b3A6IDIwcHggc29saWQgdHJhbnNwYXJlbnQ7CiAgICAgICAgICAgICAgICBib3JkZXItYm90dG9tOiAyMHB4IHNvbGlkIHRyYW5zcGFyZW50OwogICAgICAgICAgICAgICAgYm9yZGVyLXJpZ2h0OiAyMHB4IHNvbGlkIGdyZWVuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRlbnQ6ICIiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcmdpbjogNDBweDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvcmRlci10b3A6IDIwcHggc29saWQgdHJhbnNwYXJlbnQ7CiAgICAgICAgICAgICAgICBib3JkZXItYm90dG9tOiAyMHB4IHNvbGlkIHRyYW5zcGFyZW50OwogICAgICAgICAgICAgICAgYm9yZGVyLXJpZ2h0OiAyMHB4IHNvbGlkIGdyZWVuOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvcmRlci1sZWZ0OiAyMHB4IHNvbGlkIGdyZWVuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcmdpbjogNDBweDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvcmRlci10b3A6IDIwcHggc29saWQgdHJhbnNwYXJlbnQ7CiAgICAgICAgICAgICAgICBib3JkZXItYm90dG9tOiAyMHB4IHNvbGlkIHRyYW5zcGFyZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvcmRlci1sZWZ0OiAyMHB4IHNvbGlkIGdyZWVuOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
