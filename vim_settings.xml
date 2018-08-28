@@ -85,6 +85,10 @@
         <mark key="." line="3" column="52" />
         <mark key="^" line="3" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-scheduler/src/main/resources/tfx-scheduler-jobs.xml" timestamp="1535455398479">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="38" />
+      </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/AuthorizationStepDefs.java" timestamp="1534327344659">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -313,11 +317,11 @@
         <mark key="^" line="22" column="88" />
         <mark key="." line="22" column="88" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ec897bdf-2e44-4bea-9b07-7f7d369ca76b/console.sql" timestamp="1535454423910">
-        <mark key="[" line="1" column="76" />
-        <mark key="]" line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="20" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ec897bdf-2e44-4bea-9b07-7f7d369ca76b/console.sql" timestamp="1535455401549">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="57" />
+        <mark key="^" line="11" column="43" />
+        <mark key="." line="11" column="44" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/UserPreferencesConverter.java" timestamp="1534845112830">
         <mark key="[" line="8" column="28" />
@@ -546,19 +550,19 @@
         <text encoding="base64">PC9jOkN1c3RvbUJ1dHRvbj4=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>u.login, c2.*</text>
+        <text>expire-offers</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>u.login, c2.*</text>
+        <text>job_details</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
       </register>
       <register name="0" type="4">
-        <text>addStyleNames</text>
+        <text>expire-offers</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAK</text>
