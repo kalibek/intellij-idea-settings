@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/popup.less" timestamp="1535433006002">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="94" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/integration/UserIntegrationConverter.java" timestamp="1534915525794">
         <mark key="[" line="305" column="68" />
         <mark key="]" line="305" column="68" />
@@ -18,11 +22,6 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/pom.xml" timestamp="1535366055033">
         <mark key="'" line="248" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1535361422851">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/push/push-java/pom.xml" timestamp="1535009770288">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="18" />
@@ -34,6 +33,12 @@
         <mark key="]" line="9" column="55" />
         <mark key="^" line="9" column="55" />
         <mark key="." line="9" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/styles.less" timestamp="1535432966026">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="14" column="31" />
+        <mark key="^" line="14" column="31" />
+        <mark key="." line="14" column="31" />
       </file>
       <file name="/ErrorMessageHandler.java" timestamp="1535356599344">
         <mark key="[" line="2" column="0" />
@@ -153,10 +158,10 @@
         <mark key="." line="29" column="74" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/ContractWizardDialog.java" timestamp="1535367659232">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/projects/push/src/main/kotlin/PushApp.kt" timestamp="1534933790974">
         <mark key="[" line="9" column="19" />
@@ -194,11 +199,11 @@
         <mark key="^" line="13" column="30" />
         <mark key="." line="13" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/ContractWizardView.ui.xml" timestamp="1535430064484">
-        <mark key="[" line="53" column="37" />
-        <mark key="]" line="53" column="55" />
-        <mark key="." line="53" column="55" />
-        <mark key="^" line="53" column="55" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/ContractWizardView.ui.xml" timestamp="1535433325187">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="6" column="55" />
+        <mark key="." line="8" column="29" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/ContractWizardDialog.java" timestamp="1534938250532">
         <mark key="[" line="12" column="28" />
@@ -223,6 +228,13 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" timestamp="1535433287535">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="1" column="10" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/AccountSettingsView.ui.xml" timestamp="1534911618683">
         <mark key="[" line="5" column="79" />
@@ -278,11 +290,11 @@
         <mark key="." line="32" column="42" />
         <mark key="^" line="32" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/ContractWizardDialog.ui.xml" timestamp="1535430689833">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="50" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="3" column="17" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/ContractWizardDialog.ui.xml" timestamp="1535433143357">
+        <mark key="[" line="3" column="47" />
+        <mark key="]" line="3" column="47" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="47" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/UserPreferencesConverter.java" timestamp="1534845112830">
         <mark key="[" line="8" column="28" />
@@ -336,7 +348,7 @@
         <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535432103259">
+      <file name="/Dummy.txt" timestamp="1535432307408">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -403,7 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="316" column="21" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="605" column="54" filename="$USER_HOME$/projects/fx/fx-web/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx-copy/fx-web/pom.xml" />
       <jump line="696" column="55" filename="$USER_HOME$/projects/fx-copy/fx-web/pom.xml" />
@@ -503,30 +514,92 @@
       <jump line="248" column="32" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/pom.xml" />
       <jump line="10" column="15" filename="$USER_HOME$/projects/leader/index.html" />
       <jump line="0" column="49" filename="/Dummy.txt" />
+      <jump line="54" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dodgerblue</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">TWVyZ2UgcHVsbCByZXF1ZXN0ICM1NjIgaW4gU0FDRC9zcG90YmlkZGluZyBmcm9tIGJ1Z2ZpeC9GWC0xMTY3MC1hc2Itc2VuZC1qbXMtbWVzc2FnZXMtaW4tc2VwYXJhdGUtdHJhbnNhY3Rpb24gdG8gcmVsZWFzZS8xOC4wOQoKU3F1YXNoZWQgY29tbWl0IG9mIHRoZSBmb2xsb3dpbmc6Cgpjb21taXQgNWQ0YzFlM2Y3NTc0M2E2ZDBjYjQwMmY1MjQzNDQ1M2Y5MGQzOWNlOQpBdXRob3I6IEthbGliZWsgVHVyZ3VtYmF5ZXYgPEthbGliZWtfVHVyZ3VtYmF5ZXZAZXBhbS5jb20+CkRhdGU6ICAgTW9uIEF1ZyAyNyAxNDo0MzozNiAyMDE4ICswNjAwCgogICAgRlgtMTE2NzAgUmVtb3ZlZCByZWR1bmRhbnQgZXJyb3IgaGFuZGxlcgoKY29tbWl0IDExYjJmODAzOWNhMGE4OWE4MDZmZTcyN2JiNGY3ZmY2ZmI5N2FiMjMKQXV0aG9yOiBLYWxpYmVrIFR1cmd1bWJheWV2IDxLYWxpYmVrX1R1cmd1bWJheWV2QGVwYW0uY29tPgpEYXRlOiAgIEZyaSBBdWcgMjQgMTE6NTA6NDkgMjAxOCArMDYwMAoKICAgIA==</text>
+        <text>}</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>70 Removed redundant error handler</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
       </register>
       <register name="0" type="4">
-        <text>addStyleNames=&quot;alert-dialog-base&quot;</text>
+        <text>contract</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">TWVyZ2UgcHVsbCByZXF1ZXN0ICM1NjIgaW4gU0FDRC9zcG90YmlkZGluZyBmcm9tIGJ1Z2ZpeC9GWC0xMTY3MC1hc2Itc2VuZC1qbXMtbWVzc2FnZXMtaW4tc2VwYXJhdGUtdHJhbnNhY3Rpb24gdG8gcmVsZWFzZS8xOC4wOQoKU3F1YXNoZWQgY29tbWl0IG9mIHRoZSBmb2xsb3dpbmc6Cgpjb21taXQgNWQ0YzFlM2Y3NTc0M2E2ZDBjYjQwMmY1MjQzNDQ1M2Y5MGQzOWNlOQpBdXRob3I6IEthbGliZWsgVHVyZ3VtYmF5ZXYgPEthbGliZWtfVHVyZ3VtYmF5ZXZAZXBhbS5jb20+CkRhdGU6ICAgTW9uIEF1ZyAyNyAxNDo0MzozNiAyMDE4ICswNjAwCgogICAgRlgtMTE2NzAgUmVtb3ZlZCByZWR1bmRhbnQgZXJyb3IgaGFuZGxlcgoKY29tbWl0IDExYjJmODAzOWNhMGE4OWE4MDZmZTcyN2JiNGY3ZmY2ZmI5N2FiMjMKQXV0aG9yOiBLYWxpYmVrIFR1cmd1bWJheWV2IDxLYWxpYmVrX1R1cmd1bWJheWV2QGVwYW0uY29tPgpEYXRlOiAgIEZyaSBBdWcgMjQgMTE6NTA6NDkgMjAxOCArMDYwMAoKICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">PHVpOnN0eWxlPgoKCiAgICA8L3VpOnN0eWxlPg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>.steps {
+            height: 40px;
+            width: 140px;
+            line-height: 40px;
+            float: left;
+            background: dodgerblue;
+            color: white;
+            display: block;
+            position: relative;
+            margin-right: 25px;
+        }
+
+        .steps:before {
+            width: 0;
+            height: 0;
+            content: &quot;&quot;;
+            position: absolute;
+            left: -20px;
+            top: 0;
+
+            border-top: 20px solid dodgerblue;
+            border-bottom: 20px solid dodgerblue;
+            border-left: 20px solid transparent;
+        }
+
+        .first-step:before {
+            width:0;
+            height: 0;
+            border:none;
+        }
+
+        .steps:after {
+            width: 0;
+            height: 0;
+            content: &quot;&quot;;
+            position: absolute;
+            right: -20px;
+            top: 0;
+
+            border-top: 20px solid transparent;
+            border-bottom: 20px solid transparent;
+            border-left: 20px solid dodgerblue;
+
+        }</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">LmNvbnRyYWN0LWRpYWxvZyB7CiAgYm9yZGVyOiAwOwoKICBwYWRkaW5nOiAwOwogIHotaW5kZXg6IDEwMDA7Cn0K</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAtd2Via2l0LWJveC1zaGFkb3c6IDAgNXB4IDE1cHggcmdiYSgwLCAwLCAwLCAwLjUpOwogIC1tb3otYm94LXNoYWRvdzogMCA1cHggMTVweCByZ2JhKDAsIDAsIDAsIDAuNSk7CiAgYm94LXNoYWRvdzogMCA1cHggMTVweCByZ2JhKDAsIDAsIDAsIDAuNSk7CiAgY2xpcDogYXV0byAhaW1wb3J0YW50Ow==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">TWVyZ2UgcHVsbCByZXF1ZXN0ICM1NjIgaW4gU0FDRC9zcG90YmlkZGluZyBmcm9tIGJ1Z2ZpeC9GWC0xMTY3MC1hc2Itc2VuZC1qbXMtbWVzc2FnZXMtaW4tc2VwYXJhdGUtdHJhbnNhY3Rpb24gdG8gcmVsZWFzZS8xOC4wOQoKU3F1YXNoZWQgY29tbWl0IG9mIHRoZSBmb2xsb3dpbmc6Cgpjb21taXQgNWQ0YzFlM2Y3NTc0M2E2ZDBjYjQwMmY1MjQzNDQ1M2Y5MGQzOWNlOQpBdXRob3I6IEthbGliZWsgVHVyZ3VtYmF5ZXYgPEthbGliZWtfVHVyZ3VtYmF5ZXZAZXBhbS5jb20+CkRhdGU6ICAgTW9uIEF1ZyAyNyAxNDo0MzozNiAyMDE4ICswNjAwCgogICAgRlgtMTE2NzAgUmVtb3ZlZCByZWR1bmRhbnQgZXJyb3IgaGFuZGxlcgoKY29tbWl0IDExYjJmODAzOWNhMGE4OWE4MDZmZTcyN2JiNGY3ZmY2ZmI5N2FiMjMKQXV0aG9yOiBLYWxpYmVrIFR1cmd1bWJheWV2IDxLYWxpYmVrX1R1cmd1bWJheWV2QGVwYW0uY29tPgpEYXRlOiAgIEZyaSBBdWcgMjQgMTE6NTA6NDkgMjAxOCArMDYwMAoKICAgIA==</text>
+      </register>
+      <register name="8" type="4">
         <text>.steps {
             background-color: #4D81BF;
             width: 150px;
@@ -548,26 +621,8 @@
             /*top:0*/
         /*}*/</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyOiAxcHggc29saWQgZ3JleTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1pbmRlbnQ6IDEwcHg7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1pbmRlbnQ6IDEwcHg7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRlbnQ6ICIiOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvcmRlci10b3A6IDIwcHggc29saWQgdHJhbnNwYXJlbnQ7CiAgICAgICAgICAgICAgICBib3JkZXItYm90dG9tOiAyMHB4IHNvbGlkIHRyYW5zcGFyZW50OwogICAgICAgICAgICAgICAgYm9yZGVyLXJpZ2h0OiAyMHB4IHNvbGlkIGdyZWVuOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcmdpbjogNDBweDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyOiAxcHggc29saWQgZ3JleTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
