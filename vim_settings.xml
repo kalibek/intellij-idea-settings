@@ -26,6 +26,9 @@
         <mark key="^" line="20" column="17" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/pom.xml" timestamp="1535366055033">
+        <mark key="'" line="248" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/push/push-java/pom.xml" timestamp="1535009770288">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="18" />
@@ -126,6 +129,9 @@
         <mark key="." line="56" column="29" />
         <mark key="^" line="56" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/AlertDialog.java" timestamp="1535364703175">
+        <mark key="'" line="30" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/webapp/WEB-INF/web.xml" timestamp="1534768028464">
         <mark key="[" line="48" column="4" />
         <mark key="]" line="80" column="22" />
@@ -155,6 +161,9 @@
         <mark key="]" line="3" column="52" />
         <mark key="." line="3" column="52" />
         <mark key="^" line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1535516298038">
+        <mark key="'" line="66" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535109969711">
         <mark key="[" line="163" column="30" />
@@ -317,12 +326,12 @@
         <mark key="^" line="22" column="88" />
         <mark key="." line="22" column="88" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ec897bdf-2e44-4bea-9b07-7f7d369ca76b/console.sql" timestamp="1535458158079">
-        <mark key="'" line="44" column="10" />
-        <mark key="[" line="31" column="36" />
-        <mark key="]" line="31" column="36" />
-        <mark key="." line="31" column="36" />
-        <mark key="^" line="31" column="36" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ec897bdf-2e44-4bea-9b07-7f7d369ca76b/console.sql" timestamp="1535517255887">
+        <mark key="'" line="0" column="10" />
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="28" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/helper/VehicleOfferHelper.java" timestamp="1535457456997" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/UserPreferencesConverter.java" timestamp="1534845112830">
@@ -446,8 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/AbstractUserEntity.java" />
-      <jump line="40" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/AbstractUserEntity.java" />
       <jump line="25" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserServiceBean.java" />
       <jump line="30" column="14" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/converters/UserPreferencesConverterTest.java" />
       <jump line="35" column="57" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserServiceBean.java" />
@@ -546,22 +553,24 @@
       <jump line="2169" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="53" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
       <jump line="41" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ec897bdf-2e44-4bea-9b07-7f7d369ca76b/console.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" />
+      <jump line="66" column="23" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">PC9jOkN1c3RvbUJ1dHRvbj4=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>22</text>
+        <text>fmichotte</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>22</text>
+        <text>fmichotte</text>
       </register>
       <register name="/" type="4">
-        <text>availability\.</text>
+        <text>spot</text>
       </register>
       <register name="0" type="4">
         <text>o.dtype, o.route, o.state,
@@ -569,40 +578,40 @@
        o.updated_date</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0IG8ub2ZmZXJfaWQsIG8ucm91dGUsIG8uc3RhdGUsCiAgICAgICBvLnN0YXJ0X2RhdGUsIG8uc3RhcnRfZGF0ZV90bywgby5lbmRfZGF0ZSwgby5lbmRfZGF0ZV90bywgby5wb3N0X2RhdGUsCiAgICAgICBvLnVwZGF0ZWRfZGF0ZQpmcm9tIGNvbXBhbmllcyBjCiAgaW5uZXIgam9pbiB1c2VycyB1IG9uIGMuY29tcGFueV9pZCA9IHUuY29tcGFueV9pZAogIGlubmVyIGpvaW4gY29udGFjdHMgYzIgb24gdS5kZWZhdWx0X2NvbnRhY3RfaWQgPSBjMi5jb250YWN0X2lkCiAgaW5uZXIgam9pbiBvZmZlcnMgbyBvbiB1LnVzZXJfaWQgPSBvLnVzZXJfaWQKd2hlcmUgYy5uYW1lID0gJ09sZ2FURlgxJwogIGFuZCBjMi5mdWxsX25hbWUgbGlrZSAnSG90Zml4X3NtcycKICBhbmQgby5kdHlwZSA9ICdWJzsKCnNlbGVjdCAqIGZyb20gcXJ0el90cmlnZ2VycyB3aGVyZSBqb2JfbmFtZT0nZXhwaXJlLW9mZmVycyc7CgpzZWxlY3QgKiBmcm9tIHN0YXRpc3RpY3Nfam9icyB3aGVyZSBqb2JfbmFtZSA9ICdFWFBJUkVfT0ZGRVJfSk9CJzsKCgpzZWxlY3Qgby5kdHlwZSwgby5yb3V0ZSwgby5zdGF0ZSwKICAgICAgIG8uc3RhcnRfZGF0ZSwgby5zdGFydF9kYXRlX3RvLCBvLmVuZF9kYXRlLCBvLmVuZF9kYXRlX3RvLCBvLnBvc3RfZGF0ZSwKICAgICAgIG8udXBkYXRlZF9kYXRlCmZyb20gb2ZmZXJzIG8Kd2hlcmUgby5vX2hpZGRlbiA9IGZhbHNlCiAgYW5kIG8uc3RhcnRfZGF0ZSA8IGN1cnJlbnRfdGltZXN0YW1wCiAgYW5kIHBvc3RfZGF0ZSA8IGN1cnJlbnRfZGF0ZQogIGFuZCBvLnN0YXRlID0gJ0FDVElWRSc7CgpTRUxFQ1Qgby5kdHlwZSwgby5yb3V0ZSwgby5zdGF0ZSwKICAgICAgIG8uc3RhcnRfZGF0ZSwgby5zdGFydF9kYXRlX3RvLCBvLmVuZF9kYXRlLCBvLmVuZF9kYXRlX3RvLCBvLnBvc3RfZGF0ZSwKICAgICAgIG8udXBkYXRlZF9kYXRlIGZyb20gb2ZmZXJzIG8KV0hFUkUgby5vX2hpZGRlbiA9IGZhbHNlCi0tICAgQU5EIG8uc3RhdGUgIT0gOnN0YXRlRXhwaXJlZAotLSAgIEFORCBvLnN0YXRlICE9IDpzdGF0ZURlbGV0ZWQKICBhbmQgcG9zdF9kYXRlIDwgZGF0ZSAnMjAxOC0wOC0yOCAwOjAwJwogIGFuZCBvLnN0YXRlID0gJ0FDVElWRScKICBBTkQgKAogICAgICAgICAgKAogICAgICAgICAgICAgIChvLnN0YXJ0X2RhdGVfdG8gaXMgbm90IG51bGwgQU5EIG8uc3RhcnRfZGF0ZV90bzwgZGF0ZSAnMjAxOC0wOC0zMCAyMjowMCcpCiAgICAgICAgICAgICAgICBPUgogICAgICAgICAgICAgIChvLnN0YXJ0X2RhdGVfdG8gaXMgbnVsbCAgQU5EIG8uc3RhcnRfZGF0ZSA8IGRhdGUgJzIwMTgtMDgtMzAgMjI6MDAnKQogICAgICAgICAgICAgICkKICAgICAgICAgICAgT1IgKAogICAgICAgICAgICAgIChvLmVuZF9kYXRlX3RvIGlzIG5vdCBudWxsIEFORCBvLmVuZF9kYXRlX3RvIDwgZGF0ZSAnMjAxOC0wOC0yNyAyMjowMCcpCiAgICAgICAgICAgICAgICBPUgogICAgICAgICAgICAgIChvLmVuZF9kYXRlX3RvIGlzIG51bGwgIEFORCBvLmVuZF9kYXRlIDwgZGF0ZSAnMjAxOC0wOC0yNyAyMjowMCcpCiAgICAgICAgICAgICAgKQogICAgICAgICAgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z3JvdXAgYnkgby5kdHlwZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Z3JvdXAgYnkgby5kdHlwZTsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IGJvcmRlcjogMDsKICAgICAgICAgICAgYm9yZGVyLXJhZGl1czogMDsKICAgICAgICAgICAgcGFkZGluZzogMDs=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGM6Q3VzdG9tQnV0dG9uIGFkZFN0eWxlTmFtZXM9IntzdHlsZS5zdGVwc30ge3N0eWxlLmZpcnN0LXN0ZXAiCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">TWVyZ2UgcHVsbCByZXF1ZXN0ICM5MTMgaW4gVEYvZnggZnJvbSBidWdmaXgvRlgtMTE2NzAtYXNiLXNlbmQtam1zLW1lc3NhZ2VzLWluLXNlcGFyYXRlLXRyYW5zYWN0aW9uIHRvIHJlbGVhc2UvMTguMDkKClNxdWFzaGVkIGNvbW1pdCBvZiB0aGUgZm9sbG93aW5nOgoKY29tbWl0IDc3ZTdhYzc0ZjFmYzYyNmQ3Yjk0MWFlMTk5NDI0MmE5NGVkODgyZDUKQXV0aG9yOiBLYWxpYmVrIFR1cmd1bWJheWV2IDxLYWxpYmVrX1R1cmd1bWJheWV2QGVwYW0uY29tPgpEYXRlOiAgIE1vbiBBdWcgMjcgMTQ6MjM6MzIgMjAxOCArMDYwMAoKICAgIEZYLTExNjcwIFJlbW92ZWQgcmVkdW5kYW50IHByb2Nlc3NvcnMKCmNvbW1pdCA5MGVjZWNjZjMyNmJiZWQzZTBmZGM0YTQwZmM4YWMwMDU2ODVjNGQxCkF1dGhvcjogS2FsaWJlayBUdXJndW1iYXlldiA8S2FsaWJla19UdXJndW1iYXlldkBlcGFtLmNvbT4KRGF0ZTogICBGcmkgQXVnIDI0IDExOjQ2OjQ1IDIwMTggKzA2MDAKCiAgICA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0aXRsZS5zZXRUZXh0KCJTaG93aW5nIHN1bW1hcnkgc3RlcCIpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBVaUZpZWxkCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEN1c3RvbUxhYmVsIHRpdGxlOwo=</text>
+        <text encoding="base64">ICAgIEBVaUZpZWxkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>availability\.</last-search>
+      <last-search>spot</last-search>
       <last-offset />
-      <last-pattern>availability\.</last-pattern>
+      <last-pattern>spot</last-pattern>
       <last-replace />
       <last-substitute>availability\.</last-substitute>
       <last-dir>1</last-dir>
@@ -610,7 +619,6 @@
     </search>
     <history>
       <history-search>
-        <entry>True</entry>
         <entry>findBy</entry>
         <entry>Shipper</entry>
         <entry>SHIPPER</entry>
@@ -630,6 +638,7 @@
         <entry>9876</entry>
         <entry>port</entry>
         <entry>availability\.</entry>
+        <entry>spot</entry>
       </history-search>
       <history-cmd>
         <entry>%s/^  the/    # the/</entry>
