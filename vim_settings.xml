@@ -26,6 +26,12 @@
         <mark key="^" line="305" column="68" />
         <mark key="." line="305" column="68" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/ContractWizardModule.java" timestamp="1535977754872">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="4" column="56" />
+        <mark key="." line="4" column="56" />
+        <mark key="^" line="4" column="56" />
+      </file>
       <file name="$USER_HOME$/projects/push/push-kotlin/pom.xml" timestamp="1535009759588">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="20" />
@@ -65,6 +71,12 @@
         <mark key="]" line="97" column="20" />
         <mark key="^" line="94" column="0" />
         <mark key="." line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/ContractWizardEventBus.java" timestamp="1535977810423">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="4" column="55" />
+        <mark key="^" line="4" column="55" />
+        <mark key="." line="4" column="55" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/impl/transportorder/TransportOrderDAO.java" timestamp="1535357644273">
         <mark key="[" line="27" column="50" />
@@ -569,13 +581,13 @@
         <text>4893e2</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Id</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>Id</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
