@@ -159,11 +159,12 @@
         <mark key="." line="3" column="52" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/ContractWizardView.java" timestamp="1536061540107">
-        <mark key="[" line="46" column="79" />
-        <mark key="]" line="46" column="79" />
-        <mark key="." line="46" column="79" />
-        <mark key="^" line="46" column="18" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/ContractWizardView.java" timestamp="1536062478897">
+        <mark key="'" line="86" column="26" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="75" column="33" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535520599389">
         <mark key="[" line="165" column="40" />
@@ -182,6 +183,12 @@
         <mark key="]" line="60" column="0" />
         <mark key="^" line="46" column="11" />
         <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/IContractWizardView.java" timestamp="1536062305782">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+        <mark key="^" line="9" column="49" />
       </file>
       <file name="$USER_HOME$/projects/push/src/main/kotlin/PushApp.kt" timestamp="1534933790974">
         <mark key="[" line="9" column="19" />
@@ -316,6 +323,12 @@
         <mark key="]" line="6" column="7" />
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/presenter/ContractWizardPresenter.java" timestamp="1536062442402">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="29" column="43" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/presenter/ContractStepPresenter.java" timestamp="1536058944454">
         <mark key="'" line="10" column="13" />
@@ -522,8 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="13" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageHandlerWrapper.java" />
-      <jump line="52" column="4" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/IncomingMessageListener.java" />
       <jump line="19" column="4" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/MessageHandlerWrapperBean.java" />
       <jump line="30" column="20" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/AlertDialog.java" />
       <jump line="37" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/ContractWizardDialog.java" />
@@ -622,54 +633,78 @@
       <jump line="2186" column="19" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="1815" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="48" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/ContractWizardView.java" />
+      <jump line="86" column="26" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/ContractWizardView.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>summary</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmVzZW50ZXIuc2hvd0NvbnRyYWN0U3RlcCgpOwo=</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>showSummaryStep</text>
       </register>
       <register name="/" type="4">
         <text>documents</text>
       </register>
-      <register name="0" type="4">
-        <text>@DefaultMessage(&quot;summary&quot;)
-    @MessageKey(&quot;summary&quot;)
-    String summary();</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmVzZW50ZXIuc2hvd1N0ZXAoU1VNTUFSWSk7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmVzZW50ZXIuc2hvd0NvbnRyYWN0U3RlcCgpOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIEBEZWZhdWx0TWVzc2FnZSgiZG9jdW1lbnRzIikKICAgIEBNZXNzYWdlS2V5KCJkb2N1bWVudCIpCiAgICBTdHJpbmcgZG9jdW1lbnQoKTsK</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">U3VtbWFyeQogICAgICAgICAgICAgICAgPC9jOkN1c3RvbUxhYmVsPg==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>@Override
+    public void showAwardStep() {
+        eventBus.showAwardStep();
+    }
+
+    @Override
+    public void showDocumentStep() {
+        eventBus.showDocumentStep();
+    }
+
+    @Override
+    public void showContractStep() {
+        eventBus.showContractStep();
+    }
+
+    @Override
+    public void showSummaryStep() {
+        eventBus.showSummaryStep();
+    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBTVEVQX0lOREVYID0gMzsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG9uU2hvd0F3YXJkU3RlcCgpIHsKICAgICAgICBldmVudEJ1cy5zZXRTdGVwKHZpZXcpOwo=</text>
+      <register name="6" type="4">
+        <text>void showDocumentStep();
+
+        void showContractStep();
+
+        void showSummaryStep();</text>
+      </register>
+      <register name="7" type="4">
+        <text>if(this.currentStep != AWARD) {
+            
+        }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZhdGVTdGVwKHN1bW1hcnlTdGVwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
