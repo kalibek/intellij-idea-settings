@@ -160,6 +160,12 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
+      <file name="$USER_HOME$/projects/progress/main.go" timestamp="1536045661497">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/header/IHeaderView.java" timestamp="1534852460558">
         <mark key="[" line="39" column="15" />
         <mark key="]" line="39" column="22" />
@@ -462,7 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/CalloffEditView.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/CalloffEditView.java" />
       <jump line="153" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/CalloffEditView.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/bin/standalone.conf" />
@@ -562,19 +567,20 @@
       <jump line="32" column="7" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/ContractWizardView.java" />
       <jump line="9" column="102" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/presenter/ContractWizardPresenter.java" />
       <jump line="98" column="2" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
+      <jump line="82" column="0" filename="$USER_HOME$/projects/progress/main.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>4893e2</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJmaW5pc2hlZCIpCg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>8080</text>
       </register>
       <register name="/" type="4">
         <text>ContractWizard</text>
@@ -583,31 +589,31 @@
         <text>ContractWizard</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJmaW5pc2hlZCIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IEBVaUhhbmRsZXIoIm5leHRTdGVwIikKICAgIHB1YmxpYyB2b2lkIG5leHRTdGVwKENsaWNrRXZlbnQgZXZlbnQpIHsKCiAgICB9</text>
+        <text encoding="base64">cGFja2FnZSBtYWluCgppbXBvcnQgKAoJImlvIgoJImZtdCIKCSJuZXQvaHR0cCIKCSJ0aW1lIgoJIm9zIgopCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0U3RlcE1lc3NhZ2Uuc2V0VGV4dChQcm9wZXJ0aWVzU2luZ2xldG9uLklOU1RBTkNFLm5leHRfc3RlcF9tZXNzYWdlKCkpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IEBVaUZpZWxkCiAgICBDdXN0b21CdXR0b24gbmV4dFN0ZXA7CgogICAgQFVpRmllbGQKICAgIEN1c3RvbUxhYmVsIG5leHRTdGVwTWVzc2FnZTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IEBVaUhhbmRsZXIoIm5leHRTdGVwIikKICAgIHB1YmxpYyB2b2lkIG5leHRTdGVwKENsaWNrRXZlbnQgZXZlbnQpIHsKCiAgICB9</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBuZXh0U3RlcE1lc3NhZ2Uuc2V0VGV4dChQcm9wZXJ0aWVzU2luZ2xldG9uLklOU1RBTkNFLm5leHRfc3RlcF9tZXNzYWdlKCkpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNpbXBsZVBhbmVsIGJvZHk7Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
