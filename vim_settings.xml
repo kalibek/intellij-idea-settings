@@ -490,6 +490,12 @@
         <mark key="^" line="10" column="11" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/resources/com/wktransportservices/spotbidding/web/SpotBiddingModule.gwt.xml" timestamp="1536059463490">
+        <mark key="[" line="57" column="25" />
+        <mark key="]" line="57" column="32" />
+        <mark key="." line="57" column="32" />
+        <mark key="^" line="57" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/ErrorMessageHandler.java" timestamp="1535098469018">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -610,19 +616,19 @@
         <text>4893e2</text>
       </register>
       <register name="&quot;" type="4">
-        <text>view.getClass()</text>
+        <text>oauth</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>view.getClass()</text>
+        <text>oauth</text>
       </register>
       <register name="/" type="4">
         <text>Contract</text>
       </register>
-      <register name="0" type="4">
-        <text>ContractWizardPresenter.class</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxzb3VyY2UgcGF0aD0iY2xpZW50L29hdXRoIi8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
