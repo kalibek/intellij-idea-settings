@@ -65,18 +65,18 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" timestamp="1535967425067">
-        <mark key="'" line="110" column="0" />
-        <mark key="[" line="97" column="15" />
-        <mark key="]" line="97" column="20" />
-        <mark key="^" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" timestamp="1536041829159">
+        <mark key="'" line="116" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="9" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/ContractWizardEventBus.java" timestamp="1535978235876">
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="7" column="47" />
-        <mark key="^" line="7" column="47" />
-        <mark key="." line="7" column="47" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/ContractWizardEventBus.java" timestamp="1536041714589">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="44" />
+        <mark key="^" line="6" column="44" />
+        <mark key="." line="6" column="44" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/impl/transportorder/TransportOrderDAO.java" timestamp="1535357644273">
         <mark key="[" line="27" column="50" />
@@ -136,12 +136,12 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/ContractWizardView.java" timestamp="1535978157646">
-        <mark key="'" line="54" column="38" />
-        <mark key="[" line="54" column="8" />
-        <mark key="]" line="54" column="9" />
-        <mark key="^" line="54" column="9" />
-        <mark key="." line="54" column="9" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/ContractWizardView.java" timestamp="1536041604344">
+        <mark key="'" line="19" column="7" />
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="8" />
+        <mark key="^" line="18" column="9" />
+        <mark key="." line="19" column="8" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/UserPreferncesConverter.java" timestamp="1534842708854">
         <mark key="[" line="8" column="23" />
@@ -154,13 +154,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/MessageHandlerWrapperBean.java" timestamp="1535356629628">
-        <mark key="'" line="47" column="4" />
-        <mark key="[" line="44" column="44" />
-        <mark key="]" line="44" column="46" />
-        <mark key="." line="44" column="46" />
-        <mark key="^" line="44" column="46" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201808211702_18_12__FX_11327_add_bid_contract_column.sql" timestamp="1534849495273">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="45" />
@@ -172,13 +165,6 @@
         <mark key="]" line="39" column="22" />
         <mark key="." line="39" column="22" />
         <mark key="^" line="39" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageHandlerWrapper.java" timestamp="1535091800389">
-        <mark key="'" line="18" column="13" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="5" />
-        <mark key="." line="6" column="5" />
-        <mark key="^" line="6" column="5" />
       </file>
       <file name="$USER_HOME$/projects/push/push-kotlin/src/main/resources/application.yml" timestamp="1535009416969">
         <mark key="[" line="3" column="47" />
@@ -214,18 +200,11 @@
         <mark key="^" line="55" column="25" />
         <mark key="." line="56" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/ContractWizardDialog.ui.xml" timestamp="1535539123462">
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="51" />
-        <mark key="^" line="20" column="51" />
-        <mark key="." line="20" column="51" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ec897bdf-2e44-4bea-9b07-7f7d369ca76b/console.sql" timestamp="1535522720088">
-        <mark key="'" line="0" column="10" />
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="10" column="30" />
-        <mark key="^" line="10" column="30" />
-        <mark key="." line="10" column="30" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/ContractWizardDialog.ui.xml" timestamp="1536042852131">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/resty/UserAccountResty.java" timestamp="1534849719750">
         <mark key="[" line="35" column="10" />
@@ -250,13 +229,6 @@
         <mark key="]" line="6" column="17" />
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/leader/index.html" timestamp="1535430035268">
-        <mark key="'" line="10" column="15" />
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="53" column="8" />
-        <mark key="." line="56" column="29" />
-        <mark key="^" line="56" column="29" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/AlertDialog.java" timestamp="1535364703175">
         <mark key="'" line="30" column="20" />
@@ -287,9 +259,10 @@
         <mark key="." line="52" column="22" />
         <mark key="^" line="52" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/IContractWizardView.java" timestamp="1535978019096">
-        <mark key="[" line="2" column="36" />
-        <mark key="]" line="4" column="52" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/IContractWizardView.java" timestamp="1536041587760">
+        <mark key="'" line="4" column="18" />
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="31" />
         <mark key="^" line="4" column="52" />
         <mark key="." line="4" column="52" />
       </file>
@@ -363,12 +336,11 @@
         <mark key="^" line="29" column="74" />
         <mark key="." line="29" column="74" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/ContractWizardDialog.java" timestamp="1536041193511">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="47" column="13" />
-        <mark key="]" line="47" column="16" />
-        <mark key="^" line="47" column="16" />
-        <mark key="." line="47" column="16" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/ContractWizardDialog.java" timestamp="1536042911081">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="61" column="18" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/projects/push/src/main/kotlin/PushApp.kt" timestamp="1534933790974">
         <mark key="[" line="9" column="19" />
@@ -410,11 +382,12 @@
         <mark key="." line="20" column="89" />
         <mark key="^" line="20" column="82" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/presenter/ContractWizardPresenter.java" timestamp="1535978471930">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="8" column="41" />
-        <mark key="^" line="8" column="41" />
-        <mark key="." line="8" column="41" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/presenter/ContractWizardPresenter.java" timestamp="1536041695615">
+        <mark key="'" line="9" column="102" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="9" column="96" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/dialog/ContractWizardDialog.ui.xml" timestamp="1534996005855">
         <mark key="[" line="6" column="47" />
@@ -452,18 +425,22 @@
         <mark key="^" line="97" column="3" />
         <mark key="." line="97" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/ContractWizardView.ui.xml" timestamp="1535978093458">
-        <mark key="'" line="8" column="97" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="5" column="36" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/ContractWizardView.ui.xml" timestamp="1536041368814">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-inf/src/main/java/com/wktransportservices/spotbidding/business/api/user/UserServiceRemote.java" timestamp="1534851755304">
         <mark key="[" line="23" column="49" />
         <mark key="]" line="23" column="56" />
         <mark key="^" line="23" column="56" />
         <mark key="." line="23" column="56" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/SummaryStepView.ui.xml" timestamp="1536041667116">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="34" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/contract/presenter/ContractWizardPresenter.java" timestamp="1535002636630">
         <mark key="[" line="8" column="0" />
@@ -485,13 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="26" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/AccountSettingsView.java" />
-      <jump line="57" column="11" filename="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" />
-      <jump line="33" column="7" filename="$USER_HOME$/projects/push/src/main/kotlin/com/epam/PushApp.kt" />
-      <jump line="104" column="0" filename="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" />
-      <jump line="93" column="0" filename="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/projects/push/src/main/java/com/epam/push/PushApplication.java" />
-      <jump line="154" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/CalloffEditView.java" />
       <jump line="216" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/CalloffEditView.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/CalloffEditView.java" />
       <jump line="153" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/CalloffEditView.java" />
@@ -585,6 +555,13 @@
       <jump line="9" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/ICallOffEditView.java" />
       <jump line="55" column="38" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/ContractWizardView.java" />
       <jump line="392" column="16" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/calloff/edit/CallOffEditPresenter.java" />
+      <jump line="43" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/ContractWizardDialog.java" />
+      <jump line="108" column="4" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/ContractWizardDialog.java" />
+      <jump line="57" column="58" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/ContractWizardDialog.java" />
+      <jump line="4" column="18" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/IContractWizardView.java" />
+      <jump line="32" column="7" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/ContractWizardView.java" />
+      <jump line="9" column="102" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/presenter/ContractWizardPresenter.java" />
+      <jump line="98" column="2" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -597,57 +574,56 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>view</text>
+        <text>body</text>
       </register>
       <register name="/" type="4">
-        <text>id</text>
+        <text>ContractWizard</text>
       </register>
       <register name="0" type="4">
-        <text>4893e2</text>
+        <text>ContractWizard</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLnNwb3RiaWRkaW5nLndlYi5jbGllbnQuY29tbW9uLndpZGdldC5jb250cmFjdC5kaWFsb2cuQ29udHJhY3RXaXphcmREaWFsb2c7Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDb250cmFjdFdpemFyZERpYWxvZyBkaWFsb2cgPSBuZXcgQ29udHJhY3RXaXphcmREaWFsb2coKTsKICAgICAgICBkaWFsb2cuc2hvd0luQ2VudGVyKCk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IEBVaUhhbmRsZXIoIm5leHRTdGVwIikKICAgIHB1YmxpYyB2b2lkIG5leHRTdGVwKENsaWNrRXZlbnQgZXZlbnQpIHsKCiAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFNpbmdsZXRvbgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBuZXh0U3RlcE1lc3NhZ2Uuc2V0VGV4dChQcm9wZXJ0aWVzU2luZ2xldG9uLklOU1RBTkNFLm5leHRfc3RlcF9tZXNzYWdlKCkpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnZpZXcgPSB2aWV3Owo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IEBVaUZpZWxkCiAgICBDdXN0b21CdXR0b24gbmV4dFN0ZXA7CgogICAgQFVpRmllbGQKICAgIEN1c3RvbUxhYmVsIG5leHRTdGVwTWVzc2FnZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDb250cmFjdFdpemFyZFByZXNlbnRlcigpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSUNvbnRyYWN0V2l6YXJkVmlldyB2aWV3Owo=</text>
+        <text encoding="base64">ICAgIFNpbXBsZVBhbmVsIGJvZHk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>id</last-search>
+      <last-search>ContractWizard</last-search>
       <last-offset />
-      <last-pattern>id</last-pattern>
-      <last-replace>customId</last-replace>
-      <last-substitute>id</last-substitute>
+      <last-pattern>ContractWizard</last-pattern>
+      <last-replace>SummaryStep</last-replace>
+      <last-substitute>ContractWizard</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Dial</entry>
         <entry>\/\/</entry>
         <entry>@Log</entry>
         <entry>Pref</entry>
@@ -667,9 +643,9 @@
         <entry>active</entry>
         <entry>4893e2</entry>
         <entry>id</entry>
+        <entry>ContractWizard</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RydWUvZmFsc2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1RydWUvRmFsc2UvZw==</entry>
         <entry>%s/Preferences//g</entry>
         <entry>%s/Preferences/Settings/g</entry>
@@ -688,6 +664,7 @@
         <entry encoding="base64">JzwsJz5zL2FjdGl2ZS9wYXNzZWQvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzQ4OTNlMi8xMTM0NjUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2lkL2N1c3RvbUlkL2c=</entry>
+        <entry>%s/ContractWizard/SummaryStep/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
