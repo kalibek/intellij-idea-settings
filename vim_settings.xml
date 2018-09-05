@@ -337,12 +337,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" timestamp="1536136197981">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" timestamp="1536137126012">
         <mark key="'" line="118" column="2" />
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="17" column="23" />
-        <mark key="." line="17" column="23" />
-        <mark key="^" line="16" column="27" />
+        <mark key="[" line="155" column="18" />
+        <mark key="]" line="157" column="16" />
+        <mark key="^" line="157" column="16" />
+        <mark key="." line="157" column="16" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/calloff/launched/LaunchedCalloffDashboardPresenter.java" timestamp="1536123666234">
         <mark key="'" line="178" column="0" />
@@ -725,7 +725,7 @@
         <text>summary</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLXBvc2l0aW9uLXg6IDRweDsK</text>
+        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7Cg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
@@ -740,31 +740,31 @@
         <text encoding="base64">ICBiYWNrZ3JvdW5kLXBvc2l0aW9uLXg6IDRweDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiA0Owo=</text>
+        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBib3JkZXI6IDA7Cg==</text>
+        <text encoding="base64">ICBib3R0b206IDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmb250LXdlaWdodDogYm9sZDsK</text>
+        <text encoding="base64">ICBhbGlnbi1jb250ZW50OiBjZW50ZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmbG9hdDogcmlnaHQ7Cg==</text>
+        <text encoding="base64">ICBwYWRkaW5nOiA0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsaW5lLWhlaWdodDogNDBweDsK</text>
+        <text encoding="base64">ICBib3JkZXI6IDA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9jOkN1c3RvbUJ1dHRvbj4K</text>
+        <text encoding="base64">ICBmb250LXdlaWdodDogYm9sZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxnOkltYWdlIHVybD0iaW1hZ2VzL2NvbW1vbi9pY29uX2Nyb3NzLnBuZyIvPgo=</text>
+        <text encoding="base64">ICBmbG9hdDogcmlnaHQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxnOkltYWdlCg==</text>
+        <text encoding="base64">ICBsaW5lLWhlaWdodDogNDBweDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBib3JkZXI6IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9jOkN1c3RvbUJ1dHRvbj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
