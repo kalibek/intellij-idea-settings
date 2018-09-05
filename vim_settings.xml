@@ -117,12 +117,12 @@
         <mark key="." line="4" column="56" />
         <mark key="^" line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" timestamp="1536041829159">
-        <mark key="'" line="116" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="16" column="9" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" timestamp="1536133852767">
+        <mark key="'" line="117" column="2" />
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="14" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/calloff/launched/LaunchedCalloffDashboardPresenter.java" timestamp="1536123666234">
         <mark key="'" line="178" column="0" />
@@ -190,11 +190,11 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/ContractWizardView.ui.xml" timestamp="1536061904489">
-        <mark key="[" line="8" column="93" />
-        <mark key="]" line="8" column="93" />
-        <mark key="^" line="8" column="93" />
-        <mark key="." line="8" column="93" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/ContractWizardView.ui.xml" timestamp="1536134238701">
+        <mark key="[" line="5" column="70" />
+        <mark key="]" line="5" column="74" />
+        <mark key="^" line="5" column="74" />
+        <mark key="." line="5" column="74" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/summary/SummaryStepView.ui.xml" timestamp="1536127387765">
         <mark key="[" line="10" column="0" />
@@ -340,13 +340,13 @@
         <text>summary</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CompanyName</text>
+        <text>panel</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>CompanyName</text>
+        <text>panel</text>
       </register>
       <register name="/" type="4">
         <text>valid_till</text>
