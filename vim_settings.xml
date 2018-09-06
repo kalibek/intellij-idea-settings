@@ -280,6 +280,12 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="12" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/bidrequest/contract/QuoteCompanyMismatchException.java" timestamp="1536237771913">
+        <mark key="[" line="2" column="69" />
+        <mark key="]" line="4" column="57" />
+        <mark key="^" line="4" column="57" />
+        <mark key="." line="4" column="57" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/ContractWizardModule.java" timestamp="1535977754872">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="4" column="56" />
@@ -529,11 +535,11 @@
         <mark key="^" line="97" column="3" />
         <mark key="." line="97" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBean.java" timestamp="1536235702272">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="23" column="28" />
-        <mark key="." line="32" column="44" />
-        <mark key="^" line="32" column="44" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBean.java" timestamp="1536237806259">
+        <mark key="[" line="49" column="67" />
+        <mark key="]" line="49" column="68" />
+        <mark key="." line="49" column="68" />
+        <mark key="^" line="49" column="84" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-inf/src/main/java/com/wktransportservices/spotbidding/business/api/user/UserServiceRemote.java" timestamp="1534851755304">
         <mark key="[" line="23" column="49" />
@@ -559,14 +565,14 @@
         <mark key="^" line="20" column="9" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTest.java" timestamp="1536235926774">
-        <mark key="'" line="21" column="28" />
-        <mark key="[" line="27" column="46" />
-        <mark key="]" line="28" column="7" />
-        <mark key="." line="28" column="7" />
-        <mark key="^" line="28" column="7" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTest.java" timestamp="1536237932976">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="59" column="52" />
+        <mark key="]" line="60" column="52" />
+        <mark key="." line="60" column="52" />
+        <mark key="^" line="60" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1536235677520">
+      <file name="/fragment.java" timestamp="1536237699632">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="^" line="0" column="46" />
@@ -574,10 +580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
-      <jump line="65" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
-      <jump line="69" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
       <jump line="91" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
       <jump line="103" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
       <jump line="32" column="16" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
@@ -674,54 +676,56 @@
       <jump line="375" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/launched/quotes/LaunchedCalloffDashboardView.java" />
       <jump line="589" column="16" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/launched/quotes/LaunchedCalloffDashboardView.java" />
       <jump line="12" column="28" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTest.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTest.java" />
+      <jump line="22" column="59" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTest.java" />
+      <jump line="71" column="7" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTest.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>summary</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Con</text>
+        <text>t</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>Con</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>EJB</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">QEVKQgogICAgcHJpdmF0ZSBDYWxsb2ZmR3JvdXBDb21wYW55RGFvIGdyb3VwQ29tcGFueURhbzsKCiAgICBARUpCCiAgICBwcml2YXRlIFVzZXJEYW8gdXNlckRhbzsK</text>
+        <text>notOwner</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRCdXMuaGlkZVdhaXRNZXNzYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGdyb3VwQ29tcGFueURhby5nZXQoUVVPVEVfSUQpKS50aGVuUmV0dXJuKHdpdGhEZWZhdWx0UXVvdGUoKSk7CiAgICAgICAgd2hlbih1c2VyRGFvLmdldChVU0VSX0lEKSkudGhlblJldHVybih3aXRoRGVmYXVsdFVzZXIoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50QnVzLmhpZGVXYWl0TWVzc2FnZSgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVXNlckVudGl0eSB3aXRoRGVmYXVsdFVzZXIoKSB7CiAgICAgICAgVXNlckVudGl0eSB1c2VyID0gbmV3IFVzZXJFbnRpdHkoKTsKICAgICAgICB1c2VyLnNldENvbXBhbnkod2l0aERlZmF1bHRDb21wYW55KCkpOwogICAgICAgIHJldHVybiB1c2VyOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVXNlckVudGl0eQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBldmVudEJ1cy5oaWRlV2FpdE1lc3NhZ2UoKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVXNlckVudGl0eSB3aXRoRGVmYXVsdFVzZXIoKSB7CiAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>else {
-                    eventBus.hideWaitMessage();
-                }</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50QnVzLmhpZGVXYWl0TWVzc2FnZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGdyb3VwQ29tcGFueURhby5nZXQoUVVPVEVfSUQpKS50aGVuUmV0dXJuKHdpdGhEZWZhdWx0UXVvdGUoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBldmVudEJ1cy5oaWRlV2FpdE1lc3NhZ2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRCdXMuaGlkZVdhaXRNZXNzYWdlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChyZXNwb25zZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50QnVzLmhpZGVXYWl0TWVzc2FnZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXNlbnRlci5hd2FyZFF1b3RlKHF1b3RlSWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Bean.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,5 +18,6 @@
     <mask>pom.xml</mask>
     <mask>*.ui.xml</mask>
     <mask>*.java</mask>
+    <mask>*Bean.java</mask>
   </component>
 </application>
