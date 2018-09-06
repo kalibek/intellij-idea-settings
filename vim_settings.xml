@@ -529,11 +529,11 @@
         <mark key="^" line="97" column="3" />
         <mark key="." line="97" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBean.java" timestamp="1536141248043">
-        <mark key="[" line="33" column="45" />
-        <mark key="]" line="34" column="23" />
-        <mark key="." line="34" column="23" />
-        <mark key="^" line="34" column="23" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBean.java" timestamp="1536235702272">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="23" column="28" />
+        <mark key="." line="32" column="44" />
+        <mark key="^" line="32" column="44" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-inf/src/main/java/com/wktransportservices/spotbidding/business/api/user/UserServiceRemote.java" timestamp="1534851755304">
         <mark key="[" line="23" column="49" />
@@ -559,7 +559,14 @@
         <mark key="^" line="20" column="9" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1536059211129">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTest.java" timestamp="1536235926774">
+        <mark key="'" line="21" column="28" />
+        <mark key="[" line="27" column="46" />
+        <mark key="]" line="28" column="7" />
+        <mark key="." line="28" column="7" />
+        <mark key="^" line="28" column="7" />
+      </file>
+      <file name="/fragment.java" timestamp="1536235677520">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="^" line="0" column="46" />
@@ -567,7 +574,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
       <jump line="61" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
       <jump line="65" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
       <jump line="69" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
@@ -667,25 +673,26 @@
       <jump line="352" column="40" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/launched/quotes/LaunchedCalloffDashboardView.java" />
       <jump line="375" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/launched/quotes/LaunchedCalloffDashboardView.java" />
       <jump line="589" column="16" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/launched/quotes/LaunchedCalloffDashboardView.java" />
+      <jump line="12" column="28" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>summary</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRCdXMuaGlkZVdhaXRNZXNzYWdlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Con</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>quote.getGroupCompanyId()</text>
+        <text>Con</text>
       </register>
       <register name="/" type="4">
-        <text>awar</text>
+        <text>EJB</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50QnVzLmhpZGVXYWl0TWVzc2FnZSgpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">QEVKQgogICAgcHJpdmF0ZSBDYWxsb2ZmR3JvdXBDb21wYW55RGFvIGdyb3VwQ29tcGFueURhbzsKCiAgICBARUpCCiAgICBwcml2YXRlIFVzZXJEYW8gdXNlckRhbzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXZlbnRCdXMuaGlkZVdhaXRNZXNzYWdlKCk7Cg==</text>
@@ -721,17 +728,16 @@
       </register>
     </registers>
     <search>
-      <last-search>awar</last-search>
+      <last-search>EJB</last-search>
       <last-offset />
-      <last-pattern>awar</last-pattern>
-      <last-replace>valid-till</last-replace>
-      <last-substitute>quote-date</last-substitute>
+      <last-pattern>EJB</last-pattern>
+      <last-replace>Mock</last-replace>
+      <last-substitute>EJB</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Contract</entry>
         <entry>summary</entry>
         <entry>documents</entry>
         <entry>Quote</entry>
@@ -751,9 +757,9 @@
         <entry>quote-name</entry>
         <entry>quote-date</entry>
         <entry>awar</entry>
+        <entry>EJB</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2FjdGl2ZS9wYXNzZWQvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzQ4OTNlMi8xMTM0NjUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2lkL2N1c3RvbUlkL2c=</entry>
         <entry>%s/ContractWizard/SummaryStep/g</entry>
@@ -772,6 +778,7 @@
         <entry encoding="base64">JzwsJz5zL2NvbXBhbnkvcXVvdGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3F1b3RlLW5hbWUvcXVvdGUtZGF0ZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3F1b3RlLWRhdGUvdmFsaWQtdGlsbC9n</entry>
+        <entry encoding="base64">JzwsJz5zL0VKQi9Nb2NrL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
