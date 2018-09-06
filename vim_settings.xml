@@ -217,12 +217,11 @@
         <mark key="]" line="13" column="47" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/ContractWizardView.java" timestamp="1536207062939">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/ContractWizardView.java" timestamp="1536208001183">
         <mark key="'" line="93" column="93" />
-        <mark key="[" line="137" column="76" />
-        <mark key="]" line="137" column="91" />
-        <mark key="." line="137" column="91" />
-        <mark key="^" line="137" column="91" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535520599389">
         <mark key="[" line="165" column="40" />
@@ -782,13 +781,13 @@
         <text>summary</text>
       </register>
       <register name="&quot;" type="4">
-        <text>AWARD</text>
+        <text>/</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>AWARD</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>{style.</text>
@@ -797,66 +796,31 @@
         <text>{style.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0LmhpZ2hlcih0aGlzLmNvbnRyYWN0U3RlcCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvdWk6c3R5bGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTmF2aWdhYmxlU2V0IHNldCA9IG5ldyBUcmVlU2V0KHRoaXMuc3RlcEJ1dHRvbnMuZW50cnlTZXQoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zdGVwQnV0dG9ucy4odGhpcy5jdXJyZW50U3RlcCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDx1aTpzdHlsZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvdWk6c3R5bGU+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>.summary {
-            font-weight: bold;
-            color: #949494;
-            padding: 20px 0;
-        }
-
-        .summary-placeholder {
-            border-top: 1px solid #949494;
-            border-bottom: 1px solid #949494;
-            padding: 10px 0;
-            height: 40px;
-        }
-
-        .summary-column {
-            float: left;
-            color: #949494;
-            padding: 0 10px;
-            height: 40px;
-        }
-
-        .left-bordered {
-            border-left: 1px solid #949494;
-        }
-
-        .summary-column .label {
-            font-weight: bold;
-            width: 100%;
-            display: block;
-            line-height: 20px;
-        }
-
-        .summary-column .value {
-            width: 100%;
-            display: block;
-            line-height: 20px;
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDx1aTpzdHlsZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
