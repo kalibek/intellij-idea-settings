@@ -95,12 +95,6 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/progress/main.go" timestamp="1536220597401">
-        <mark key="[" line="27" column="34" />
-        <mark key="]" line="27" column="37" />
-        <mark key="^" line="27" column="63" />
-        <mark key="." line="27" column="34" />
-      </file>
       <file name="$USER_HOME$/projects/progress/src/app/upload.service.ts" timestamp="1536220863293">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -588,7 +582,7 @@
         <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536219399177">
+      <file name="/Dummy.txt" timestamp="1536220958428">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
