@@ -217,12 +217,12 @@
         <mark key="]" line="13" column="47" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/ContractWizardView.java" timestamp="1536141862072">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/ContractWizardView.java" timestamp="1536207062939">
         <mark key="'" line="93" column="93" />
-        <mark key="[" line="81" column="32" />
-        <mark key="]" line="81" column="40" />
-        <mark key="." line="80" column="32" />
-        <mark key="^" line="80" column="32" />
+        <mark key="[" line="137" column="76" />
+        <mark key="]" line="137" column="91" />
+        <mark key="." line="137" column="91" />
+        <mark key="^" line="137" column="91" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535520599389">
         <mark key="[" line="165" column="40" />
@@ -781,14 +781,14 @@
       <register name="a" type="4">
         <text>summary</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>AWARD</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>AWARD</text>
       </register>
       <register name="/" type="4">
         <text>{style.</text>
@@ -859,7 +859,7 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/{style.//g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -913,8 +913,8 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL3NldEkxOG5JZC9zZXRUZXh0L2c=</entry>
         <entry>%s/table_/summary-/g</entry>
-        <entry>w</entry>
         <entry>%s/{style.//g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
