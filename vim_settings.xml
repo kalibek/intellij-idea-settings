@@ -319,11 +319,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" timestamp="1536311295497">
-        <mark key="[" line="246" column="15" />
-        <mark key="]" line="246" column="15" />
-        <mark key="." line="246" column="15" />
-        <mark key="^" line="246" column="15" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" timestamp="1536312445056">
+        <mark key="'" line="12" column="14" />
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="." line="244" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/calloff/launched/LaunchedCalloffDashboardPresenter.java" timestamp="1536297298261" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/StepWidget.java" timestamp="1536058760102">
@@ -440,11 +440,11 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.ui.xml" timestamp="1536311485866">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="42" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="17" column="89" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.ui.xml" timestamp="1536312678006">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="48" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/IContractWizardDialog.java" timestamp="1536054094062">
         <mark key="[" line="6" column="15" />
@@ -599,7 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/document/SummaryStepView.ui.xml" />
       <jump line="9" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/presenter/AwardStepPresenter.java" />
       <jump line="9" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/presenter/ContractStepPresenter.java" />
       <jump line="9" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/presenter/DocumentStepPresenter.java" />
@@ -699,53 +698,61 @@
       <jump line="21" column="28" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.ui.xml" />
       <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" />
       <jump line="2050" column="39" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="12" column="14" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>summary</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>doc1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9jOkN1c3RvbUJ1dHRvbj4K</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>doc1</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>142</text>
       </register>
-      <register name="0" type="4">
-        <text>upload_document</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLXBvc2l0aW9uLXg6IDRweDsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9jOkN1c3RvbUJ1dHRvbj4K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxnOkN1cwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IGJhY2tncm91bmQtaW1hZ2U6IHVybCgiLi4vaW1hZ2VzL2NvbW1vbi9pY29uX3BsdXMucG5nIik7CiAgYmFja2dyb3VuZC1yZXBlYXQ6IG5vLXJlcGVhdDsKICBiYWNrZ3JvdW5kLXBvc2l0aW9uLXg6IDRweDsKICBiYWNrZ3JvdW5kLXBvc2l0aW9uLXk6IDRweDs=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="4">
+        <text>.document-wrapper {
+            height: 100%;
+        }
+
+        .document-body {
+            height: 100%;
+            margin-bottom: -60px;
+        }</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>ContractDocumentDTO doc1 = new ContractDocumentDTO();
         doc1.set</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGM6Q3VzdG9tTGFiZWw+RG9jdW1lbnQgc3RlcDwvYzpDdXN0b21MYWJlbD4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluLWhlaWdodDogNTAwcHg7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZzpGbG93UGFuZWwgYWRkU3R5bGVOYW1lcz0iZG9jdW1tZW50LSI+CiAgICAgICAgICAgIDxjOkN1c3RvbUxhYmVsPkRvY3VtZW50IHN0ZXA8L2M6Q3VzdG9tTGFiZWw+Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
