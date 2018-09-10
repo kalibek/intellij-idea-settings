@@ -175,11 +175,12 @@
         <mark key="." line="15" column="45" />
         <mark key="^" line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536567801255">
-        <mark key="[" line="83" column="57" />
-        <mark key="]" line="83" column="58" />
-        <mark key="." line="83" column="58" />
-        <mark key="^" line="75" column="57" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536573233334">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="60" column="73" />
+        <mark key="]" line="60" column="73" />
+        <mark key="." line="60" column="73" />
+        <mark key="^" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/base.less" timestamp="1536316770164">
         <mark key="'" line="0" column="0" />
@@ -320,12 +321,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" timestamp="1536571476730">
-        <mark key="'" line="12" column="14" />
-        <mark key="[" line="261" column="0" />
-        <mark key="]" line="261" column="0" />
-        <mark key="." line="261" column="0" />
-        <mark key="^" line="269" column="22" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" timestamp="1536572216901">
+        <mark key="'" line="249" column="0" />
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="276" column="9" />
+        <mark key="." line="272" column="0" />
+        <mark key="^" line="272" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/StepWidget.java" timestamp="1536058760102">
         <mark key="[" line="6" column="9" />
@@ -381,9 +382,9 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/summary/SummaryStepView.java" timestamp="1536218893691">
-        <mark key="[" line="40" column="27" />
-        <mark key="]" line="40" column="28" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/summary/SummaryStepView.java" timestamp="1536573219036">
+        <mark key="[" line="47" column="36" />
+        <mark key="]" line="47" column="68" />
         <mark key="^" line="41" column="76" />
         <mark key="." line="40" column="28" />
       </file>
@@ -446,10 +447,11 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.ui.xml" timestamp="1536567612157">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.ui.xml" timestamp="1536573186376">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/IContractWizardDialog.java" timestamp="1536054094062">
         <mark key="[" line="6" column="15" />
@@ -610,8 +612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="28" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/ContractWizardEventBus.java" />
-      <jump line="20" column="52" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/ContractWizardDialog.java" />
       <jump line="16" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="2188" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="2192" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
@@ -710,68 +710,62 @@
       <jump line="107" column="22" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/widget/dash/widget/BasicDashboardWidget.java" />
       <jump line="15" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" />
       <jump line="523" column="9" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/cellview/client/DataGrid.java" />
+      <jump line="249" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
+      <jump line="85" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>documentGrid</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiAtNjBweDsK</text>
+      <register name="&quot;" type="4">
+        <text>.toString(</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>.toString(</text>
       </register>
       <register name="/" type="4">
         <text>setRow</text>
       </register>
       <register name="0" type="4">
-        <text>contractDTO.getDocuments().add(withDocument(&quot;some1.pdf&quot;));
-        contractDTO.getDocuments().add(withDocument(&quot;some2.pdf&quot;));
-        contractDTO.getDocuments().add(withDocument(&quot;some3.pdf&quot;));
-        contractDTO.getDocuments().add(withDocument(&quot;some4.pdf&quot;));
-        contractDTO.getDocuments().add(withDocument(&quot;some6.pdf&quot;));
-        contractDTO.getDocuments().add(withDocument(&quot;some7.pdf&quot;));
-        contractDTO.getDocuments().add(withDocument(&quot;some8.pdf&quot;));
-        contractDTO.getDocuments().add(withDocument(&quot;some9.pdf&quot;));
-        contractDTO.getDocuments().add(withDocument(&quot;some10.pdf&quot;))</text>
+        <text>DateUtils.getLocaleDependentDate(</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">b25Ccm93c2VyRXZlbnQoZSAtPiB7CgogICAgICAgIH0pOw==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDwvdWk6c3R5bGU+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDx1aTpzdHlsZT4K</text>
+      </register>
+      <register name="5" type="4">
+        <text>.document-tip {
+            position: absolute;
+            top: 0;
+            margin-top: 100px;
+        }</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiAtNjBweDsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>contractDTO.getDocuments().add(withDocument(&quot;some2.pdf&quot;));
         contractDTO.getDocuments().add(withDocument(&quot;some2.pdf&quot;));
         contractDTO.getDocuments().add(withDocument(&quot;some2.pdf&quot;));
         contractDTO.getDocuments().add(withDocument(&quot;some2.pdf&quot;));
         contractDTO.getDocuments().add(withDocument(&quot;some2.pdf&quot;));</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9nOkZsb3dQYW5lbD4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGc6Rmxvd1BhbmVsIGFkZFN0eWxlTmFtZXM9IntzdHlsZS5kb2N1bWVudC10YWJsZX0iPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="4">
-        <text>.document-table {
-            height: 100%;
-            width: 100%;
-            margin: 60px 0;
-        }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQub25SZXNpemUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9nOkZsb3dQYW5lbD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
