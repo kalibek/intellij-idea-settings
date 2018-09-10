@@ -175,11 +175,11 @@
         <mark key="." line="15" column="45" />
         <mark key="^" line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536564291056">
-        <mark key="[" line="57" column="32" />
-        <mark key="]" line="57" column="35" />
-        <mark key="." line="57" column="35" />
-        <mark key="^" line="57" column="35" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536567801255">
+        <mark key="[" line="83" column="57" />
+        <mark key="]" line="83" column="58" />
+        <mark key="." line="83" column="58" />
+        <mark key="^" line="75" column="57" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/base.less" timestamp="1536316770164">
         <mark key="'" line="0" column="0" />
@@ -187,12 +187,6 @@
         <mark key="]" line="210" column="12" />
         <mark key="^" line="212" column="18" />
         <mark key="." line="212" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/ContractWizardView.java" timestamp="1536208001183">
-        <mark key="'" line="93" column="93" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535520599389">
         <mark key="[" line="165" column="40" />
@@ -326,11 +320,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" timestamp="1536316567278">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" timestamp="1536568122114">
         <mark key="'" line="12" column="14" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="0" />
-        <mark key="." line="244" column="0" />
+        <mark key="[" line="256" column="0" />
+        <mark key="]" line="256" column="0" />
+        <mark key="." line="256" column="0" />
+        <mark key="^" line="264" column="22" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/StepWidget.java" timestamp="1536058760102">
         <mark key="[" line="6" column="9" />
@@ -416,12 +411,6 @@
         <mark key="^" line="7" column="34" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/launched/quotes/LaunchedCalloffDashboardView.java" timestamp="1536234206911">
-        <mark key="'" line="590" column="16" />
-        <mark key="[" line="598" column="0" />
-        <mark key="]" line="598" column="0" />
-        <mark key="." line="598" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/UserPreferencesConverter.java" timestamp="1534845112830">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="28" />
@@ -457,11 +446,10 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.ui.xml" timestamp="1536564991072">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="60" />
-        <mark key="." line="16" column="60" />
-        <mark key="^" line="16" column="60" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.ui.xml" timestamp="1536567612157">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/IContractWizardDialog.java" timestamp="1536054094062">
         <mark key="[" line="6" column="15" />
@@ -727,47 +715,63 @@
       <register name="a" type="4">
         <text>documentGrid</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiAtNjBweDsK</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>setRow</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQuc2V0V2lkdGgoIjY1MHB4Iik7Cg==</text>
+      <register name="0" type="4">
+        <text>contractDTO.getDocuments().add(withDocument(&quot;some1.pdf&quot;));
+        contractDTO.getDocuments().add(withDocument(&quot;some2.pdf&quot;));
+        contractDTO.getDocuments().add(withDocument(&quot;some3.pdf&quot;));
+        contractDTO.getDocuments().add(withDocument(&quot;some4.pdf&quot;));
+        contractDTO.getDocuments().add(withDocument(&quot;some6.pdf&quot;));
+        contractDTO.getDocuments().add(withDocument(&quot;some7.pdf&quot;));
+        contractDTO.getDocuments().add(withDocument(&quot;some8.pdf&quot;));
+        contractDTO.getDocuments().add(withDocument(&quot;some9.pdf&quot;));
+        contractDTO.getDocuments().add(withDocument(&quot;some10.pdf&quot;))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiAtNjBweDsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQub25SZXNpemUoKTsK</text>
+      <register name="2" type="4">
+        <text>contractDTO.getDocuments().add(withDocument(&quot;some2.pdf&quot;));
+        contractDTO.getDocuments().add(withDocument(&quot;some2.pdf&quot;));
+        contractDTO.getDocuments().add(withDocument(&quot;some2.pdf&quot;));
+        contractDTO.getDocuments().add(withDocument(&quot;some2.pdf&quot;));
+        contractDTO.getDocuments().add(withDocument(&quot;some2.pdf&quot;));</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9nOlNjcm9sbFBhbmVsPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9nOkZsb3dQYW5lbD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGc6U2Nyb2xsUGFuZWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGc6Rmxvd1BhbmVsIGFkZFN0eWxlTmFtZXM9IntzdHlsZS5kb2N1bWVudC10YWJsZX0iPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGM6Q3VzdG9tTGFiZWwgaTE4bklkPSJkb2N1bWVudF90aXAiIGFkZFN0eWxlTmFtZXM9InN1bW1hcnkiIGRlYnVnSWQ9ImRvY3VtZW50LWhlYWRlciIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQgPSBuZXcgRGF0YUdyaWQ8PigpOwo=</text>
+      <register name="6" type="4">
+        <text>.document-table {
+            height: 100%;
+            width: 100%;
+            margin: 60px 0;
+        }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0RGF0YUdyaWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0RGF0YUdyaWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQub25SZXNpemUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -806,7 +810,6 @@
         <entry>setRow</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3N1bW1hcnkvYXdhcmQvZw==</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL3NldEkxOG5JZC9zZXRUZXh0L2c=</entry>
         <entry>%s/table_/summary-/g</entry>
@@ -825,6 +828,7 @@
         <entry encoding="base64">JzwsJz5zLyM5NDk0OTQvQHN0ZXAtYm9yZGVyL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2NvbnRyYWN0L2RvY3VtZW50L2c=</entry>
         <entry>%s/142/60/g</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
