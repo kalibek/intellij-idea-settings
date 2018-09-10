@@ -175,12 +175,12 @@
         <mark key="." line="15" column="45" />
         <mark key="^" line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536583432363">
-        <mark key="'" line="76" column="17" />
-        <mark key="[" line="85" column="47" />
-        <mark key="]" line="85" column="47" />
-        <mark key="." line="85" column="47" />
-        <mark key="^" line="85" column="47" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536584434240">
+        <mark key="'" line="77" column="17" />
+        <mark key="[" line="84" column="59" />
+        <mark key="]" line="84" column="60" />
+        <mark key="." line="84" column="59" />
+        <mark key="^" line="84" column="34" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CalloffEditInfoView.ui.xml" timestamp="1536576064796">
         <mark key="'" line="0" column="0" />
@@ -433,11 +433,11 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/ContractDocumentJSON.java" timestamp="1536583282279">
-        <mark key="[" line="30" column="9" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/ContractDocumentJSON.java" timestamp="1536584480300">
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="26" />
+        <mark key="^" line="22" column="26" />
+        <mark key="." line="22" column="26" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/CalloffLeftMenu.java" timestamp="1536122206077">
         <mark key="[" line="10" column="7" />
@@ -498,7 +498,7 @@
         <mark key="." line="27" column="15" />
         <mark key="^" line="27" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1536559019468">
+      <file name="/JavaScript Console" timestamp="1536584196476">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/ContractWizardView.ui.xml" timestamp="1534937982619">
@@ -507,9 +507,9 @@
         <mark key="^" line="4" column="39" />
         <mark key="." line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/upload/FileUpload.java" timestamp="1536582590103">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="98" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/upload/FileUpload.java" timestamp="1536583956746">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="75" />
         <mark key="^" line="108" column="36" />
         <mark key="." line="108" column="0" />
       </file>
@@ -717,19 +717,19 @@
         <text>documentGrid</text>
       </register>
       <register name="&quot;" type="4">
-        <text>DocumentHref</text>
+        <text>long</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>DocumentHref</text>
+        <text>long</text>
       </register>
       <register name="/" type="4">
         <text>submit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHRvLnNldERvY3VtZW50SHJlZihyZXNwb25zZS5nZXREb2N1bWVudEhyZWYoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJlc3VsdCA9IGV2ZW50LmdldFJlc3VsdHMoKS5yZXBsYWNlQWxsKCJcXDwuKj9cXD4iLCAiIik7Cg==</text>
       </register>
       <register name="1" type="4">
         <text>{
