@@ -346,7 +346,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" timestamp="1536643868920">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" timestamp="1536644094981">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="239" column="29" />
         <mark key="]" line="239" column="26" />
@@ -403,11 +403,11 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/summary/SummaryStepView.java" timestamp="1536573219036">
-        <mark key="[" line="47" column="36" />
-        <mark key="]" line="47" column="68" />
-        <mark key="^" line="41" column="76" />
-        <mark key="." line="40" column="28" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/summary/SummaryStepView.java" timestamp="1536644124740">
+        <mark key="[" line="45" column="33" />
+        <mark key="]" line="45" column="38" />
+        <mark key="^" line="45" column="38" />
+        <mark key="." line="45" column="38" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/header/IHeaderView.java" timestamp="1534852460558">
         <mark key="[" line="39" column="15" />
@@ -729,20 +729,20 @@
       <register name="a" type="4">
         <text>documentGrid</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LnN1bW1hcnktY29sdW1uIC52YWx1ZSB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Text</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>andlers = SpotBiddingMainPresenter.class)</text>
+        <text>Text</text>
       </register>
       <register name="/" type="4">
         <text>Window</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LnN1bW1hcnktY29sdW1uIC52YWx1ZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbXBhbnlOYW1lTGFiZWwuc2V0VGV4dChkdG8uZ2V0Q29tcGFueU5hbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBvdmVyZmxvdzogaGlkZGVuOwo=</text>
