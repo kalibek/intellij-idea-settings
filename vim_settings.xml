@@ -9,12 +9,12 @@
         <mark key="." line="16" column="3" />
         <mark key="^" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1536652569000">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1536654514132">
         <mark key="'" line="45" column="27" />
-        <mark key="[" line="2272" column="31" />
-        <mark key="]" line="2272" column="32" />
-        <mark key="." line="2272" column="32" />
-        <mark key="^" line="2272" column="36" />
+        <mark key="[" line="2274" column="60" />
+        <mark key="]" line="2274" column="63" />
+        <mark key="." line="2274" column="63" />
+        <mark key="^" line="2274" column="63" />
       </file>
       <file name="/a.dummy" timestamp="1536638389237">
         <mark key="[" line="0" column="0" />
@@ -189,12 +189,12 @@
         <mark key="^" line="21" column="49" />
         <mark key="." line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536653175532">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536654480302">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="156" column="51" />
-        <mark key="]" line="156" column="51" />
-        <mark key="^" line="143" column="54" />
-        <mark key="." line="156" column="51" />
+        <mark key="[" line="93" column="69" />
+        <mark key="]" line="93" column="76" />
+        <mark key="." line="93" column="76" />
+        <mark key="^" line="93" column="76" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535520599389">
         <mark key="[" line="165" column="40" />
@@ -740,46 +740,46 @@
         <text>documentGrid</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>}</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>Window</text>
       </register>
       <register name="0" type="4">
-        <text>document_size_error</text>
+        <text>document_size_perfile_error</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL2RvY3VtZW50SGVhZGVyLnNldFRpdGxlKGh1bWFuUmVhZGFibGVCeXRlQ291bnQodG90YWxTaXplLCB0cnVlKSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvL2RvY3VtZW50SGVhZGVyLnNldFRpdGxlKGh1bWFuUmVhZGFibGVCeXRlQ291bnQodG90YWxTaXplLCB0cnVlKSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBVaUZpZWxkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEN1c3RvbUxhYmVsIGRvY3VtZW50SGVhZGVyOwo=</text>
+        <text encoding="base64">ICAgIEBVaUZpZWxkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZy5mb3JtYXQoIiUuMWYgJXNCIiwgLCBwcmUpOwo=</text>
+        <text encoding="base64">ICAgIEN1c3RvbUxhYmVsIGRvY3VtZW50SGVhZGVyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTnVtYmVyRm9ybWF0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZy5mb3JtYXQoIiUuMWYgJXNCIiwgLCBwcmUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlQ29sdW1uLnNldEhvcml6b250YWxBbGlnbm1lbnQoQUxJR05fQ0VOVEVSKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTnVtYmVyRm9ybWF0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlQ29sdW1uLgo=</text>
+        <text encoding="base64">ICAgICAgICBpbmNsdWRlQ29sdW1uLnNldEhvcml6b250YWxBbGlnbm1lbnQoQUxJR05fQ0VOVEVSKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
