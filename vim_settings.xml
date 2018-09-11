@@ -190,11 +190,12 @@
         <mark key="^" line="21" column="49" />
         <mark key="." line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536646876831">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536647766362">
         <mark key="'" line="90" column="8" />
-        <mark key="[" line="126" column="51" />
-        <mark key="]" line="126" column="52" />
-        <mark key="." line="126" column="52" />
+        <mark key="[" line="148" column="21" />
+        <mark key="]" line="148" column="21" />
+        <mark key="." line="148" column="21" />
+        <mark key="^" line="148" column="21" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535520599389">
         <mark key="[" line="165" column="40" />
@@ -734,13 +735,13 @@
         <text>documentGrid</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>reduce</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>reduce</text>
       </register>
       <register name="/" type="4">
         <text>Window</text>
