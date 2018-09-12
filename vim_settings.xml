@@ -534,7 +534,7 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536667454650">
+      <file name="/Dummy.txt" timestamp="1536737831911">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -582,11 +582,11 @@
         <mark key="^" line="97" column="3" />
         <mark key="." line="97" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBean.java" timestamp="1536733281852">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBean.java" timestamp="1536737440380">
         <mark key="'" line="33" column="87" />
-        <mark key="[" line="105" column="12" />
-        <mark key="]" line="105" column="29" />
-        <mark key="." line="103" column="58" />
+        <mark key="[" line="98" column="43" />
+        <mark key="]" line="98" column="43" />
+        <mark key="." line="98" column="43" />
         <mark key="^" line="103" column="19" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-inf/src/main/java/com/wktransportservices/spotbidding/business/api/user/UserServiceRemote.java" timestamp="1534851755304">
@@ -620,11 +620,11 @@
         <mark key="^" line="20" column="9" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTest.java" timestamp="1536733429915">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTest.java" timestamp="1536737474497">
         <mark key="'" line="51" column="42" />
-        <mark key="[" line="100" column="39" />
-        <mark key="]" line="101" column="34" />
-        <mark key="." line="101" column="34" />
+        <mark key="[" line="85" column="28" />
+        <mark key="]" line="85" column="28" />
+        <mark key="." line="85" column="28" />
         <mark key="^" line="101" column="34" />
       </file>
       <file name="/fragment.java" timestamp="1536652288920">
@@ -741,13 +741,13 @@
         <text>documentGrid</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>Temporarily</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Temporarily</text>
       </register>
       <register name="/" type="4">
         <text>120</text>
