@@ -185,16 +185,15 @@
         <mark key="." line="3" column="52" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/presenter/DocumentStepPresenter.java" timestamp="1536749288669">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/presenter/DocumentStepPresenter.java" timestamp="1536753471559">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536751478082">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="111" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="119" column="84" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536753557779">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535520599389">
         <mark key="[" line="165" column="40" />
@@ -781,8 +780,8 @@
       <register name="a" type="4">
         <text>documentGrid</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>test2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQuc2V0Um93RGF0YShuZXcgQSk7Cg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
@@ -797,27 +796,30 @@
         <text encoding="base64">ICAgIEBEZWZhdWx0TWVzc2FnZSgiVXBsb2FkIGRhdGUiKQogICAgQE1lc3NhZ2VLZXkoImRvY3VtZW50X3VwbG9hZGVkIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQuc2V0Um93RGF0YShuZXcgQSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnMuY29udHJhY3QuZG9jdW1lbnQucGF0aD1hc2hhZ2ktdGVzdDIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFsZXJ0LnNob3coUHJvcGVydGllc1NpbmdsZXRvbi5JTlNUQU5DRS5kb2N1bWVudF9zaXplX2Vycm9yKGh1bWFuUmVhZGFibGVCeXRlQ291bnQoTUFYX1NJWkUpKSk7Cg==</text>
+        <text encoding="base64">ZnMuY29udHJhY3QuZG9jdW1lbnQucGF0aD1hc2hhZ2ktdGVzdDIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFsZXJ0LnNob3coUHJvcGVydGllc1NpbmdsZXRvbi5JTlNUQU5DRS5kb2N1bWVudF9zaXplX2Vycm9yKGh1bWFuUmVhZGFibGVCeXRlQ291bnQoTUFYX1NJWkUpKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2V0Q29udHJhY3QoKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZvaWQgc2V0Q29udHJhY3QoKTsK</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>@Override
     public void setContract() {
         consigneeText.setText(&quot;&quot;);
@@ -825,9 +827,6 @@
         instructionText.setText(&quot;&quot;);
         commentText.setText(&quot;&quot;);
     }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBkb2N1bWVudF9zaXplKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
