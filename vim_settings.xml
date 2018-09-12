@@ -193,11 +193,11 @@
         <mark key="." line="40" column="38" />
         <mark key="^" line="43" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536756942072">
-        <mark key="[" line="85" column="13" />
-        <mark key="]" line="119" column="11" />
-        <mark key="." line="119" column="11" />
-        <mark key="^" line="119" column="11" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536757572682">
+        <mark key="[" line="102" column="20" />
+        <mark key="]" line="102" column="19" />
+        <mark key="." line="102" column="19" />
+        <mark key="^" line="102" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535520599389">
         <mark key="[" line="165" column="40" />
@@ -791,13 +791,13 @@
         <text>documentGrid</text>
       </register>
       <register name="&quot;" type="4">
-        <text>contractDocumentDTOBooleanFieldUpdater</text>
+        <text>setValue(!checked, true);</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>contractDocumentDTOBooleanFieldUpdater</text>
+        <text>setValue(!checked, true);</text>
       </register>
       <register name="/" type="4">
         <text>dto</text>
@@ -808,31 +808,31 @@
     }-*/;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQucmVkcmF3KCk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50LnNldEluY2x1ZGVkKGZhbHNlKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50LnNldEluY2x1ZGVkKHZhbHVlKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">bG9uZyBuZXdTaXplID0gcHJlc2VudGVyLmNhbGN1bGF0ZVRvdGFsU2l6ZSgpICsgKHZhbHVlID8gMSA6IC0xKSAqIGRvY3VtZW50LmdldFNpemUoKTsKICAgICAgICAgICAgaWYgKG5ld1NpemUgPCBNQVhfU0laRSkgewogICAgICAgICAgICAgICAgcHJlc2VudGVyLnJlZnJlc2hEb2N1bWVudChkb2N1bWVudC5nZXRJZCgpLCB2YWx1ZSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBBbGVydC5zaG93KFByb3BlcnRpZXNTaW5nbGV0b24uSU5TVEFOQ0UuZG9jdW1lbnRfc2l6ZV9lcnJvcihodW1hblJlYWRhYmxlQnl0ZUNvdW50KE1BWF9TSVpFKSkpOwogICAgICAgICAgICAgICAgcHJlc2VudGVyLnJlZnJlc2hEb2N1bWVudChkb2N1bWVudC5nZXRJZCgpLCBmYWxzZSk7CiAgICAgICAgICAgIH0=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQucmVkcmF3KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYodmFsdWUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50LnNldEluY2x1ZGVkKGZhbHNlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50LnNldEluY2x1ZGVkKHZhbHVlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihkb2N1bWVudC5pc0luY2x1ZGVkKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
