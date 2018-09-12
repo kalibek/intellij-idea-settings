@@ -313,12 +313,12 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" timestamp="1536732950445">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" timestamp="1536752170828">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="132" column="26" />
-        <mark key="]" line="132" column="38" />
-        <mark key="^" line="132" column="25" />
-        <mark key="." line="132" column="26" />
+        <mark key="[" line="131" column="35" />
+        <mark key="]" line="131" column="35" />
+        <mark key="." line="131" column="35" />
+        <mark key="^" line="131" column="33" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/ContractWizardDialog.java" timestamp="1534938250532">
         <mark key="[" line="12" column="28" />
@@ -781,14 +781,14 @@
       <register name="a" type="4">
         <text>documentGrid</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFsZXJ0LnNob3coUHJvcGVydGllc1NpbmdsZXRvbi5JTlNUQU5DRS5kb2N1bWVudF9zaXplX2Vycm9yKGh1bWFuUmVhZGFibGVCeXRlQ291bnQoTUFYX1NJWkUpKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>test2</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>date</text>
+        <text>test2</text>
       </register>
       <register name="/" type="4">
         <text>dto</text>
@@ -797,21 +797,27 @@
         <text encoding="base64">ICAgIEBEZWZhdWx0TWVzc2FnZSgiVXBsb2FkIGRhdGUiKQogICAgQE1lc3NhZ2VLZXkoImRvY3VtZW50X3VwbG9hZGVkIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFsZXJ0LnNob3coUHJvcGVydGllc1NpbmdsZXRvbi5JTlNUQU5DRS5kb2N1bWVudF9zaXplX2Vycm9yKGh1bWFuUmVhZGFibGVCeXRlQ291bnQoTUFYX1NJWkUpKSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnMuY29udHJhY3QuZG9jdW1lbnQucGF0aD1hc2hhZ2ktdGVzdDIK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2V0Q29udHJhY3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFsZXJ0LnNob3coUHJvcGVydGllc1NpbmdsZXRvbi5JTlNUQU5DRS5kb2N1bWVudF9zaXplX2Vycm9yKGh1bWFuUmVhZGFibGVCeXRlQ291bnQoTUFYX1NJWkUpKSk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHZvaWQgc2V0Q29udHJhY3QoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>@Override
     public void setContract() {
         consigneeText.setText(&quot;&quot;);
@@ -820,14 +826,8 @@
         commentText.setText(&quot;&quot;);
     }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBkb2N1bWVudF9zaXplKCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBkb2N1bWVudF9zaXplKCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBkb2N1bWVudF9zaXplKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
