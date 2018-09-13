@@ -86,6 +86,12 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/style/DocumentGridResource.css" timestamp="1536831965187">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/IsWidgetWithControlButton.java" timestamp="1536058376150">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="17" />
@@ -374,12 +380,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" timestamp="1536814935887">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="299" column="0" />
-        <mark key="]" line="299" column="17" />
-        <mark key="^" line="300" column="14" />
-        <mark key="." line="300" column="14" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" timestamp="1536831978828">
+        <mark key="'" line="38" column="14" />
+        <mark key="[" line="293" column="0" />
+        <mark key="]" line="293" column="0" />
+        <mark key="." line="293" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/calloff/launched/LaunchedCalloffDashboardPresenter.java" timestamp="1536726848829">
         <mark key="[" line="188" column="9" />
@@ -408,7 +413,6 @@
       <file name="spotbiddingmodule-0.js" timestamp="1536756258341">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/widget/dash/widget/BasicDashboardWidget.java" timestamp="1536831287002" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/profile/ProfileMenu.java" timestamp="1534851814808">
         <mark key="[" line="87" column="14" />
         <mark key="]" line="87" column="14" />
@@ -686,9 +690,9 @@
         <mark key="^" line="0" column="46" />
         <mark key="." line="0" column="59" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/widget/dash/widget/grid/DashboardDataGrid.css" timestamp="1536831777555" />
     </filemarks>
     <jumps>
-      <jump line="230" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
       <jump line="143" column="14" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
       <jump line="4" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
       <jump line="231" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
@@ -788,6 +792,7 @@
       <jump line="232" column="67" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/CustomCellTableWithCheckBoxAndPager.java" />
       <jump line="5" column="33" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/CustomCellTableWithCheckBoxAndPager.java" />
       <jump line="6" column="33" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/CustomCellTableWithCheckBoxAndPager.java" />
+      <jump line="38" column="14" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -800,45 +805,40 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>DataGrid.Style</text>
+        <text>Even</text>
       </register>
       <register name="/" type="4">
         <text>Style</text>
       </register>
-      <register name="0" type="4">
-        <text>DocumentGridResource</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IG5vbmU7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICBkYXRhR3JpZFN0eWxlOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ci5kb2N1bWVudC1saXN0LXJvdyB7CiAgYmFja2dyb3VuZDogbm9uZTsKICBib3JkZXItYm90dG9tOiAxcHggc29saWQgQHN0ZXAtYm9yZGVyOwp9Cgpkb2N1bWVudC1saXN0LWNlbGwgewogIGJvcmRlcjogbm9uZTsKfQ==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgoKIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBET0NVTUVOVF9MSVNUX0NFTEwgPSAiZG9jdW1lbnQtbGlzdC1jZWxsIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBET0NVTUVOVF9MSVNUX1JPVyA9ICJkb2N1bWVudC1saXN0LXJvdyI7Cgo=</text>
+        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCBHUklEX0JPUkRFUjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gc2hpdAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ly8vIHNoaXQKICAgICAgICBkb2N1bWVudEdyaWQuc2V0Um93U3R5bGVzKG5ldyBSb3dTdHlsZXM8Q29udHJhY3REb2N1bWVudERUTz4oKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgU3RyaW5nIGdldFN0eWxlTmFtZXMoQ29udHJhY3REb2N1bWVudERUTyByb3csIGludCByb3dJbmRleCkgewogICAgICAgICAgICAgICAgcmV0dXJuICJkb2N1bWVudC1saXN0LXJvdyI7CiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICBkYXRhR3JpZFN0eWxlOwo=</text>
       </register>
       <register name="8" type="4">
-        <text>.document-list {
-            background: none;
-            border: none;
-        }</text>
+        <text encoding="base64">CgoKIA==</text>
       </register>
-      <register name="9" type="4">
-        <text>.document-list tr {
-            background: none;
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBET0NVTUVOVF9MSVNUX0NFTEwgPSAiZG9jdW1lbnQtbGlzdC1jZWxsIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBET0NVTUVOVF9MSVNUX1JPVyA9ICJkb2N1bWVudC1saXN0LXJvdyI7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
