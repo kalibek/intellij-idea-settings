@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.*ss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -12,11 +13,12 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*</mask>
-    <mask>*.less</mask>
     <mask>*Resty.java</mask>
     <mask>pom.xml</mask>
     <mask>*.ui.xml</mask>
     <mask>*.java</mask>
     <mask>*Bean.java</mask>
+    <mask>*.less</mask>
+    <mask>*.*ss</mask>
   </component>
 </application>
