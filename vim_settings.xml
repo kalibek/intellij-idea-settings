@@ -98,10 +98,11 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/style/DocumentGridResource.java" timestamp="1536840654301">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/style/DocumentGridResource.java" timestamp="1536841671355">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="4" />
+        <mark key="^" line="10" column="48" />
       </file>
       <file name="$USER_HOME$/projects/progress/src/app/upload.service.ts" timestamp="1536220863293">
         <mark key="[" line="32" column="0" />
@@ -798,19 +799,19 @@
         <text>documentGrid</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>Style</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Style</text>
       </register>
       <register name="/" type="4">
         <text>Style</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IG5vbmU7Cg==</text>
+      <register name="0" type="4">
+        <text>DocumentGridStyle</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
