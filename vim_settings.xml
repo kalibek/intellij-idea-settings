@@ -98,11 +98,10 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/style/DocumentGridResource.java" timestamp="1536831119994">
-        <mark key="[" line="7" column="74" />
-        <mark key="]" line="7" column="74" />
-        <mark key="." line="7" column="74" />
-        <mark key="^" line="7" column="74" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/style/DocumentGridResource.java" timestamp="1536840654301">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/progress/src/app/upload.service.ts" timestamp="1536220863293">
         <mark key="[" line="32" column="0" />
@@ -207,11 +206,11 @@
         <mark key="." line="40" column="38" />
         <mark key="^" line="43" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536830355072">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="144" column="11" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536840713030">
+        <mark key="[" line="134" column="87" />
+        <mark key="]" line="134" column="89" />
+        <mark key="." line="134" column="89" />
+        <mark key="^" line="134" column="89" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535520599389">
         <mark key="[" line="165" column="40" />
@@ -690,7 +689,7 @@
         <mark key="^" line="0" column="46" />
         <mark key="." line="0" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/widget/dash/widget/grid/DashboardDataGrid.css" timestamp="1536831777555" />
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/widget/dash/widget/grid/DashboardDataGrid.css" timestamp="1536832552254" />
     </filemarks>
     <jumps>
       <jump line="143" column="14" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
@@ -798,14 +797,14 @@
       <register name="a" type="4">
         <text>documentGrid</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>Even</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Style</text>
@@ -816,29 +815,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ci5kb2N1bWVudC1saXN0LXJvdyB7CiAgYmFja2dyb3VuZDogbm9uZTsKICBib3JkZXItYm90dG9tOiAxcHggc29saWQgQHN0ZXAtYm9yZGVyOwp9Cgpkb2N1bWVudC1saXN0LWNlbGwgewogIGJvcmRlcjogbm9uZTsKfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIERvY3VtZW50R3JpZFJlc291cmNlIElOU1RBTkNFID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERvY3VtZW50R3JpZFJlc291cmNlIElOU1RBTkNFID0gR1dULmNyZWF0ZShEb2N1bWVudEdyaWRSZXNvdXJjZS5jbGFzcyk7CgogICAgQFNvdXJjZSgiRG9jdW1lbnRHcmlkUmVzb3VyY2UuY3NzIikKICAgIEBPdmVycmlkZQogICAgRGF0YUdyaWQuU3R5bGUgZGF0YUdyaWRTdHlsZSgpOwp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCBHUklEX0JPUkRFUjsK</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQuc2V0Um93U3R5bGVzKChyb3csIHJvd0luZGV4KSAtPiBET0NVTUVOVF9MSVNUX1JPVyk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgU3RyaW5nIGdldENlbGxTdHlsZU5hbWVzKENlbGwuQ29udGV4dCBjb250ZXh0LCBDb250cmFjdERvY3VtZW50RFRPIG9iamVjdCkgewogICAgICAgICAgICAgICAgcmV0dXJuIERPQ1VNRU5UX0xJU1RfQ0VMTDsKICAgICAgICAgICAgfQog</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICBkYXRhR3JpZFN0eWxlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgoKIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBET0NVTUVOVF9MSVNUX0NFTEwgPSAiZG9jdW1lbnQtbGlzdC1jZWxsIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBET0NVTUVOVF9MSVNUX1JPVyA9ICJkb2N1bWVudC1saXN0LXJvdyI7Cgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgU3RyaW5nIGdldENlbGxTdHlsZU5hbWVzKENlbGwuQ29udGV4dCBjb250ZXh0LCBDb250cmFjdERvY3VtZW50RFRPIG9iamVjdCkgewogICAgICAgICAgICAgICAgcmV0dXJuIERPQ1VNRU5UX0xJU1RfQ0VMTDsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
