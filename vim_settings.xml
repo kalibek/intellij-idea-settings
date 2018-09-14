@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1536923884024">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2327" column="27" />
-        <mark key="]" line="2327" column="29" />
-        <mark key="." line="2327" column="29" />
-        <mark key="^" line="2327" column="29" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1536927666082">
+        <mark key="'" line="1808" column="11" />
+        <mark key="[" line="2339" column="26" />
+        <mark key="]" line="2339" column="26" />
+        <mark key="." line="2339" column="26" />
+        <mark key="^" line="2339" column="26" />
       </file>
       <file name="/a.dummy" timestamp="1536814982061">
         <mark key="[" line="0" column="0" />
@@ -188,18 +188,18 @@
         <mark key="." line="3" column="52" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/presenter/DocumentStepPresenter.java" timestamp="1536756419170">
-        <mark key="[" line="40" column="31" />
-        <mark key="]" line="40" column="64" />
-        <mark key="." line="40" column="38" />
-        <mark key="^" line="43" column="66" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/presenter/DocumentStepPresenter.java" timestamp="1536927248332">
+        <mark key="[" line="51" column="15" />
+        <mark key="]" line="51" column="47" />
+        <mark key="." line="51" column="47" />
+        <mark key="^" line="51" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536925715916">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536927476239">
         <mark key="'" line="183" column="0" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-        <mark key="^" line="104" column="19" />
+        <mark key="[" line="175" column="36" />
+        <mark key="]" line="175" column="36" />
+        <mark key="." line="175" column="36" />
+        <mark key="^" line="175" column="36" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535520599389">
         <mark key="[" line="165" column="40" />
@@ -343,11 +343,11 @@
         <mark key="." line="9" column="20" />
         <mark key="^" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/IDocumentStepView.java" timestamp="1536755459044">
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="62" />
-        <mark key="." line="16" column="28" />
-        <mark key="^" line="17" column="7" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/IDocumentStepView.java" timestamp="1536927220334">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+        <mark key="^" line="18" column="10" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1534845813857">
         <mark key="[" line="64" column="0" />
@@ -651,7 +651,6 @@
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/widget/dash/widget/grid/DashboardDataGrid.css" timestamp="1536832552254" />
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
       <jump line="232" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
       <jump line="174" column="2" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
       <jump line="204" column="24" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
@@ -751,67 +750,62 @@
       <jump line="200" column="27" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" />
       <jump line="186" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" />
       <jump line="183" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" />
+      <jump line="1808" column="11" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>documentGrid</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>20</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>PropertiesSingleton.INSTANCE</text>
+        <text>include</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgTUFYX1NJWkUgPSAyMCA8PCAyMDsgLy8gMjBNQgo=</text>
+      <register name="0" type="4">
+        <text>MAX_FILES_COUNT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGRvdHM7CiAgICBwcml2YXRlIFNwb3RCaWRkaW5nUHJvcGVydGllcyBwcm9wZXJ0aWVzID0gUHJvcGVydGllc1NpbmdsZXRvbi5JTlNUQU5DRTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3BlcnRpZXMgPSBwcm9wZXJ0aWVzOwo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgcmVuZGVyRWxlbXMoU3RyaW5nIHRleHQpIHsKICAgICAgICBpZiAodGhpcy50ZXh0ICE9IG51bGwpIHsKICAgICAgICAgICAgRWxlbWVudCBzcGFuID0gRE9NLmNyZWF0ZUVsZW1lbnQoInNwYW4iKTsKICAgICAgICAgICAgc3Bhbi5zZXRJbm5lclRleHQodGV4dCk7CiAgICAgICAgICAgIERPTS5pbnNlcnRDaGlsZChnZXRFbGVtZW50KCksIHNwYW4sIDApOwogICAgICAgIH0KICAgICAgICBpZiAodGhpcy5pbWcgIT0gbnVsbCkgewogICAgICAgICAgICBET00uYXBwZW5kQ2hpbGQoZ2V0RWxlbWVudCgpLCBpbWcuZ2V0RWxlbWVudCgpKTsKICAgICAgICB9CiAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKGZpbGVVcGxvYWQuZ2V0RmlsZXMoKS5nZXRJdGVtKDApLmdldFNpemUoKSA+PSBNQVhfU0laRV9QRVJfRklMRSkgewogICAgICAgICAgICAgICAgQWxlcnQuc2hvdyhwcm9wZXJ0aWVzLmRvY3VtZW50X3NpemVfcGVyZmlsZV9lcnJvcigpKTsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBET00uYXBwZW5kQ2hpbGQoZ2V0RWxlbWVudCgpLCBpbWcuZ2V0RWxlbWVudCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBbGVydC5zaG93KHByb3BlcnRpZXMuY2Fubm90X3N1Ym1pdF91cGxvYWQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1cGxvYWRCdXR0b24uc2V0RW5hYmxlZChmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>uploadForm.addSubmitHandler(new FormPanel.SubmitHandler() {
-            @Override
-            public void onSubmit(FormPanel.SubmitEvent event) {
-                
-            }
-            
-        });</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQuc2V0Q29sdW1uV2lkdGgoaW5jbHVkZUNvbHVtbiwgNzAsIFN0eWxlLlVuaXQuUFgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>PropertiesSingleton.INSTANCE</last-search>
+      <last-search>include</last-search>
       <last-offset />
-      <last-pattern>PropertiesSingleton.INSTANCE</last-pattern>
+      <last-pattern>include</last-pattern>
       <last-replace>properties</last-replace>
       <last-substitute>PropertiesSingleton.INSTANCE</last-substitute>
       <last-dir>1</last-dir>
@@ -819,7 +813,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rgba(0, 0, 0, 0.5)</entry>
         <entry>#f7f7f7</entry>
         <entry>#4893e2</entry>
         <entry>#113465</entry>
@@ -839,6 +832,7 @@
         <entry>Style</entry>
         <entry>Uploading</entry>
         <entry>PropertiesSingleton.INSTANCE</entry>
+        <entry>include</entry>
       </history-search>
       <history-cmd>
         <entry>%s/{style.//g</entry>
