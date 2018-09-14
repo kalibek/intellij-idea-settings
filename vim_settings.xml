@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1536751247253">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1536920541723">
+        <mark key="'" line="2338" column="0" />
         <mark key="[" line="2347" column="21" />
         <mark key="]" line="2347" column="24" />
         <mark key="." line="2347" column="24" />
@@ -207,11 +208,11 @@
         <mark key="." line="40" column="38" />
         <mark key="^" line="43" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536918495960">
-        <mark key="[" line="165" column="54" />
-        <mark key="]" line="166" column="39" />
-        <mark key="." line="166" column="39" />
-        <mark key="^" line="166" column="39" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536920236232">
+        <mark key="[" line="157" column="51" />
+        <mark key="]" line="157" column="50" />
+        <mark key="." line="157" column="50" />
+        <mark key="^" line="157" column="50" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535520599389">
         <mark key="[" line="165" column="40" />
@@ -698,7 +699,6 @@
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/widget/dash/widget/grid/DashboardDataGrid.css" timestamp="1536832552254" />
     </filemarks>
     <jumps>
-      <jump line="143" column="14" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
       <jump line="4" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
       <jump line="231" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
       <jump line="158" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
@@ -798,19 +798,20 @@
       <jump line="5" column="33" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/CustomCellTableWithCheckBoxAndPager.java" />
       <jump line="6" column="33" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/CustomCellTableWithCheckBoxAndPager.java" />
       <jump line="38" column="14" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
+      <jump line="2338" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>documentGrid</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB1cGxvYWRCdXR0b24uc2V0RW5hYmxlZChmYWxzZSk7Cg==</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>dd</text>
       </register>
       <register name="/" type="4">
         <text>Style</text>
@@ -819,31 +820,37 @@
         <text>documentColumn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQuc2V0Q29sdW1uV2lkdGgoaW5jbHVkZUNvbHVtbiwgNzAsIFN0eWxlLlVuaXQuUFgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB1cGxvYWRCdXR0b24uc2V0RW5hYmxlZChmYWxzZSk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="2" type="4">
+        <text>uploadForm.addSubmitHandler(new FormPanel.SubmitHandler() {
+            @Override
+            public void onSubmit(FormPanel.SubmitEvent event) {
+                
+            }
+            
+        });</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmRhdGFHcmlkQ2VsbCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQuc2V0Q29sdW1uV2lkdGgoaW5jbHVkZUNvbHVtbiwgNzAsIFN0eWxlLlVuaXQuUFgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCBHUklEX0JPUkRFUjsKICAgIHBhZGRpbmc6NXB4IDA7IAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCBHUklEX0JPUkRFUjsK</text>
+        <text encoding="base64">LmRhdGFHcmlkQ2VsbCB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCBHUklEX0JPUkRFUjsK</text>
+        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCBHUklEX0JPUkRFUjsKICAgIHBhZGRpbmc6NXB4IDA7IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQgPSBuZXcgRGF0YUdyaWQ8Q29udHJhY3REb2N1bWVudERUTz4oNTAsIERvY3VtZW50R3JpZFJlc291cmNlLklOU1RBTkNFKTsK</text>
+        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCBHUklEX0JPUkRFUjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCBHUklEX0JPUkRFUjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIERvY3VtZW50R3JpZFJlc291cmNlIElOU1RBTkNFID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQgPSBuZXcgRGF0YUdyaWQ8Q29udHJhY3REb2N1bWVudERUTz4oNTAsIERvY3VtZW50R3JpZFJlc291cmNlLklOU1RBTkNFKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
