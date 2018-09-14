@@ -194,12 +194,12 @@
         <mark key="." line="40" column="38" />
         <mark key="^" line="43" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536924122087">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536925715916">
         <mark key="'" line="183" column="0" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
-        <mark key="^" line="62" column="3" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="104" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535520599389">
         <mark key="[" line="165" column="40" />
@@ -756,40 +756,43 @@
       <register name="a" type="4">
         <text>documentGrid</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>20</text>
       </register>
       <register name="/" type="4">
         <text>PropertiesSingleton.INSTANCE</text>
       </register>
-      <register name="0" type="4">
-        <text>PropertiesSingleton.INSTANCE</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgTUFYX1NJWkUgPSAyMCA8PCAyMDsgLy8gMjBNQgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGRvdHM7CiAgICBwcml2YXRlIFNwb3RCaWRkaW5nUHJvcGVydGllcyBwcm9wZXJ0aWVzID0gUHJvcGVydGllc1NpbmdsZXRvbi5JTlNUQU5DRTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGRvdHM7CiAgICBwcml2YXRlIFNwb3RCaWRkaW5nUHJvcGVydGllcyBwcm9wZXJ0aWVzID0gUHJvcGVydGllc1NpbmdsZXRvbi5JTlNUQU5DRTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3BlcnRpZXMgPSBwcm9wZXJ0aWVzOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgcmVuZGVyRWxlbXMoU3RyaW5nIHRleHQpIHsKICAgICAgICBpZiAodGhpcy50ZXh0ICE9IG51bGwpIHsKICAgICAgICAgICAgRWxlbWVudCBzcGFuID0gRE9NLmNyZWF0ZUVsZW1lbnQoInNwYW4iKTsKICAgICAgICAgICAgc3Bhbi5zZXRJbm5lclRleHQodGV4dCk7CiAgICAgICAgICAgIERPTS5pbnNlcnRDaGlsZChnZXRFbGVtZW50KCksIHNwYW4sIDApOwogICAgICAgIH0KICAgICAgICBpZiAodGhpcy5pbWcgIT0gbnVsbCkgewogICAgICAgICAgICBET00uYXBwZW5kQ2hpbGQoZ2V0RWxlbWVudCgpLCBpbWcuZ2V0RWxlbWVudCgpKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBET00uYXBwZW5kQ2hpbGQoZ2V0RWxlbWVudCgpLCBpbWcuZ2V0RWxlbWVudCgpKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB1cGxvYWRCdXR0b24uc2V0RW5hYmxlZChmYWxzZSk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>uploadForm.addSubmitHandler(new FormPanel.SubmitHandler() {
             @Override
             public void onSubmit(FormPanel.SubmitEvent event) {
@@ -798,11 +801,8 @@
             
         });</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQuc2V0Q29sdW1uV2lkdGgoaW5jbHVkZUNvbHVtbiwgNzAsIFN0eWxlLlVuaXQuUFgpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQuc2V0Q29sdW1uV2lkdGgoaW5jbHVkZUNvbHVtbiwgNzAsIFN0eWxlLlVuaXQuUFgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
