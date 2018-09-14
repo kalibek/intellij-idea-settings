@@ -208,11 +208,11 @@
         <mark key="." line="40" column="38" />
         <mark key="^" line="43" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536920236232">
-        <mark key="[" line="157" column="51" />
-        <mark key="]" line="157" column="50" />
-        <mark key="." line="157" column="50" />
-        <mark key="^" line="157" column="50" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536922251955">
+        <mark key="[" line="180" column="40" />
+        <mark key="]" line="180" column="41" />
+        <mark key="." line="180" column="41" />
+        <mark key="^" line="180" column="55" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535520599389">
         <mark key="[" line="165" column="40" />
@@ -804,14 +804,14 @@
       <register name="a" type="4">
         <text>documentGrid</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1cGxvYWRCdXR0b24uc2V0RW5hYmxlZChmYWxzZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>dd</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>Style</text>
