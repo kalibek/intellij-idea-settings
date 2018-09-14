@@ -86,11 +86,11 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/style/DocumentGridResource.css" timestamp="1536842678598">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-        <mark key="^" line="4" column="18" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/style/DocumentGridResource.css" timestamp="1536917297145">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/IsWidgetWithControlButton.java" timestamp="1536058376150">
         <mark key="[" line="5" column="17" />
@@ -207,11 +207,11 @@
         <mark key="." line="40" column="38" />
         <mark key="^" line="43" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536842398735">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="92" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="134" column="89" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1536918495960">
+        <mark key="[" line="165" column="54" />
+        <mark key="]" line="166" column="39" />
+        <mark key="." line="166" column="39" />
+        <mark key="^" line="166" column="39" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535520599389">
         <mark key="[" line="165" column="40" />
@@ -510,6 +510,10 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="7" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/cellview/client/DataGrid.java" timestamp="1536917286528">
+        <mark key="[" line="242" column="11" />
+        <mark key="]" line="242" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageHandlerWrapperService.java" timestamp="1535350282552">
         <mark key="[" line="63" column="9" />
         <mark key="]" line="64" column="19" />
@@ -800,46 +804,46 @@
         <text>documentGrid</text>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>7</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>Style</text>
       </register>
       <register name="0" type="4">
-        <text>GRID_BORDER</text>
+        <text>documentColumn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQgPSBuZXcgRGF0YUdyaWQ8Q29udHJhY3REb2N1bWVudERUTz4oNTAsIERvY3VtZW50R3JpZFJlc291cmNlLklOU1RBTkNFKTsK</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQuc2V0Q29sdW1uV2lkdGgoaW5jbHVkZUNvbHVtbiwgNzAsIFN0eWxlLlVuaXQuUFgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERvY3VtZW50R3JpZFJlc291cmNlIElOU1RBTkNFID0gCg==</text>
+        <text encoding="base64">LmRhdGFHcmlkQ2VsbCB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIERvY3VtZW50R3JpZFJlc291cmNlIElOU1RBTkNFID0gR1dULmNyZWF0ZShEb2N1bWVudEdyaWRSZXNvdXJjZS5jbGFzcyk7CgogICAgQFNvdXJjZSgiRG9jdW1lbnRHcmlkUmVzb3VyY2UuY3NzIikKICAgIEBPdmVycmlkZQogICAgRGF0YUdyaWQuU3R5bGUgZGF0YUdyaWRTdHlsZSgpOwp9Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCBHUklEX0JPUkRFUjsKICAgIHBhZGRpbmc6NXB4IDA7IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQuc2V0Um93U3R5bGVzKChyb3csIHJvd0luZGV4KSAtPiBET0NVTUVOVF9MSVNUX1JPVyk7Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCBHUklEX0JPUkRFUjsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgU3RyaW5nIGdldENlbGxTdHlsZU5hbWVzKENlbGwuQ29udGV4dCBjb250ZXh0LCBDb250cmFjdERvY3VtZW50RFRPIG9iamVjdCkgewogICAgICAgICAgICAgICAgcmV0dXJuIERPQ1VNRU5UX0xJU1RfQ0VMTDsKICAgICAgICAgICAgfQog</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCBHUklEX0JPUkRFUjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudEdyaWQgPSBuZXcgRGF0YUdyaWQ8Q29udHJhY3REb2N1bWVudERUTz4oNTAsIERvY3VtZW50R3JpZFJlc291cmNlLklOU1RBTkNFKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERvY3VtZW50R3JpZFJlc291cmNlIElOU1RBTkNFID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
