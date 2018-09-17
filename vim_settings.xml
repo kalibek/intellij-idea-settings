@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1537181744511">
+        <mark key="'" line="2226" column="57" />
+        <mark key="[" line="2263" column="0" />
+        <mark key="]" line="2263" column="0" />
+        <mark key="^" line="2366" column="3" />
+        <mark key="." line="2263" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/integration/UserIntegrationConverter.java" timestamp="1534915525794">
         <mark key="[" line="305" column="68" />
         <mark key="]" line="305" column="68" />
@@ -423,11 +430,11 @@
         <mark key="." line="64" column="19" />
         <mark key="^" line="64" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/presenter/ContractStepPresenter.java" timestamp="1537181165873">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="60" column="30" />
-        <mark key="^" line="60" column="30" />
-        <mark key="." line="60" column="30" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/presenter/ContractStepPresenter.java" timestamp="1537181968542">
+        <mark key="[" line="44" column="22" />
+        <mark key="]" line="44" column="25" />
+        <mark key="^" line="44" column="25" />
+        <mark key="." line="44" column="25" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/ContractWizardEventBus.java" timestamp="1537181100080">
         <mark key="'" line="12" column="17" />
@@ -566,11 +573,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/base.less" />
-      <jump line="107" column="22" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/widget/dash/widget/BasicDashboardWidget.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" />
-      <jump line="523" column="9" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/cellview/client/DataGrid.java" />
-      <jump line="249" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
       <jump line="85" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" />
       <jump line="106" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
       <jump line="27" column="7" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBean.java" />
@@ -666,61 +668,82 @@
       <jump line="471" column="36" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" />
       <jump line="43" column="22" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/BaseOfferActor.java" />
       <jump line="12" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/ContractWizardEventBus.java" />
+      <jump line="2264" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="2265" column="11" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="2219" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="2220" column="11" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="2226" column="57" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>documentGrid</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>alert</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>dto</text>
+        <text>alert</text>
       </register>
       <register name="/" type="4">
-        <text>Limit</text>
+        <text>contract_step_tip_message</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICogMTAyNCAqIDEwMjQ7</text>
+        <text>contract_step_tip_message</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGdlbmVyYXRlQ29udHJhY3RQREYoKSB7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkdG8uc2V0Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="4">
+        <text>@DefaultMessage(&quot;You can add following information to you contract&quot;)
+    @MessageKey(&quot;contract_step_tip_message&quot;)
+    String contract_step_tip_message();
+
+    @DefaultMessage(&quot;Consignee (name, address, country)&quot;)
+    @MessageKey(&quot;consignee&quot;)
+    String consignee();
+
+    @DefaultMessage(&quot;This is the content for the contract template \\n\\n&quot; +
+            &quot;You can edit the text here before sending it. &quot; +
+            &quot;Here we will have information of the contract and show what can be edited.&quot;)
+    @MessageKey(&quot;consignee_placeholder&quot;)
+    String consignee_placeholder();
+
+    @DefaultMessage(&quot;Instruction to the sender&quot;)
+    @MessageKey(&quot;instruction_to_the_sender&quot;)
+    String instruction_to_the_sender();</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IEBEZWZhdWx0TWVzc2FnZSgiUmVxdWlyZWQgdHJ1Y2siKQogICAgQE1lc3NhZ2VLZXkoInJlcXVpcmVkX3RydWNrIikKICAgIFN0cmluZyByZXF1aXJlZF90cnVjaygpOwoKICAgIEBEZWZhdWx0TWVzc2FnZSgiSW5zdHJ1Y3Rpb24iKQogICAgQE1lc3NhZ2VLZXkoImluc3RydWN0aW9uIikKICAgIFN0cmluZyBpbnN0cnVjdGlvbigpOwoKICAgIEBEZWZhdWx0TWVzc2FnZSgiQ29tbWVudCIpCiAgICBATWVzc2FnZUtleSgiY29tbWVudCIpCiAgICBTdHJpbmcgY29tbWVudCgpOwoKICAgIEBEZWZhdWx0TWVzc2FnZSgiUHJldmlldyBjb250cmFjdCIpCiAgICBATWVzc2FnZUtleSgicHJldmlld19jb250cmFjdCIpCiAgICBTdHJpbmcgcHJldmlld19jb250cmFjdCgpOwoKICAgIEBEZWZhdWx0TWVzc2FnZSgiVHJhbnNwb3J0IE9yZGVyIikKICAgIEBNZXNzYWdlS2V5KCJ0cmFuc3BvcnRfb3JkZXIiKQogICAgU3RyaW5nIHRyYW5zcG9ydF9vcmRlcigpOwoKICAgIEBEZWZhdWx0TWVzc2FnZSgiU2VuZGVyIG9yIGNvbW1pc3Npb25haXJlIChuYW1lLCBhZGRyZXNzLCBjb3VudHJ5KSIpCiAgICBATWVzc2FnZUtleSgic2VuZGVyX2luZm8iKQogICAgU3RyaW5nIHNlbmRlcl9pbmZvKCk7CgogICAgQERlZmF1bHRNZXNzYWdlKCJNYWluIGNvbnZleW9yIChuYW1lLCBhZGRyZXNzKSIpCiAgICBATWVzc2FnZUtleSgiY29udmV5b3JfaW5mbyIpCiAgICBTdHJpbmcgY29udmV5b3JfaW5mbygpOwoKICAgIEBEZWZhdWx0TWVzc2FnZSgiQ29uc2lnbmVlIChuYW1lLCBhZGRyZXNzLCBjb3VudHJ5KSIpCiAgICBATWVzc2FnZUtleSgiY29uc2lnbmVlX2luZm8iKQogICAgU3RyaW5nIGNvbnNpZ25lZV9pbmZvKCk7CgogICAgQERlZmF1bHRNZXNzYWdlKCJTdXBwb3J0IGZvciB0aGUgZ29vZHMgKGxvY2FsaXR5LCBkYXRlLCB0aW1lKSIpCiAgICBATWVzc2FnZUtleSgiZ29vZHNfc3VwcG9ydCIpCiAgICBTdHJpbmcgZ29vZHNfc3VwcG9ydCgpOwoKICAgIEBEZWZhdWx0TWVzc2FnZSgiRGVsaXZlcnkgKGxvY2FsaXR5LCBkYXRlLCB0aW1lKSIpCiAgICBATWVzc2FnZUtleSgiZGVsaXZlcnlfaW5mbyIpCiAgICBTdHJpbmcgZGVsaXZlcnlfaW5mbygpOwoKICAgIEBEZWZhdWx0TWVzc2FnZSgiR29vZHMgdHJhbnNwb3J0ZWQgKG5hdHVyZSwgbnVtYmVyLCBncm9zcyBvciBuZXQgd2VpZ2h0LC4uLikiKQogICAgQE1lc3NhZ2VLZXkoImdvb2RzX3RyYW5zcG9ydGVkIikKICAgIFN0cmluZyBnb29kc190cmFuc3BvcnRlZCgpOwoKICAgIEBEZWZhdWx0TWVzc2FnZSgiR29vZHMgdHJhbnNwb3J0ZWQgKG5hdHVyZSwgbnVtYmVyLCBncm9zcyBvciBuZXQgd2VpZ2h0LC4uLikiKQogICAgQE1lc3NhZ2VLZXkoImNvbnRyYWN0X2luc3RydWN0aW9ucyIpCiAgICBTdHJpbmcgY29udHJhY3RfaW5zdHJ1Y3Rpb25zKCk7CgogICAgQERlZmF1bHRNZXNzYWdlKCJUaGlzIGRvY3VtZW50IGhhcyBiZWVuIGdlbmVyYXRlZCB2aWEgVHJhbnN3aWRlIFNwb3QgQmlkZGluZyAoYSBzb2x1dGlvbiBvZiBUcmFuc3dpZGUgfCBUZWxlcm91dGUgcGFydCBvZiBBbHBlZ2EgR3JvdXApIG9uIGJlaGFsZiBvZiAiKQogICAgQE1lc3NhZ2VLZXkoImZvb3Rlcl90ZXh0IikKICAgIFN0cmluZyBmb290ZXJfdGV4dCgpOwoKICAgIEBEZWZhdWx0TWVzc2FnZSgiPGJpZF9yZXF1ZXN0ZXJfY29tcGFueW5hbWU+IGxlIDxnZW5lcmF0aW9uX2RhdGU+IMOgIDxnZW5lcmF0aW9uX3RpbWU+IikKICAgIEBNZXNzYWdlS2V5KCJmb290ZXJfdGV4dF9yZXBvcnRfaW5mbyIpCiAgICBTdHJpbmcgZm9vdGVyX3RleHRfcmVwb3J0X2luZm8oKTsKCiAgICBATWVzc2FnZUtleSgibXlfc2V0dGluZ3MiKQogICAgU3RyaW5nIG15X3NldHRpbmdzKCk7CgogICAgQERlZmF1bHRNZXNzYWdlKCJCaWQgY29udHJhY3QiKQogICAgQE1lc3NhZ2VLZXkoImJpZF9jb250cmFjdCIpCiAgICBTdHJpbmcgYmlkX2NvbnRyYWN0KCk7CgogICAgQERlZmF1bHRNZXNzYWdlKCJTYXZlIHNldHRpbmdzIikKICAgIEBNZXNzYWdlS2V5KCJzYXZlX3NldHRpbmdzIikKICAgIFN0cmluZyBzYXZlX3NldHRpbmdzKCk7CgogICAgQERlZmF1bHRNZXNzYWdlKCJTdWNjZXNzIikKICAgIEBNZXNzYWdlS2V5KCJzYXZlX3N1Y2Nlc3NfdGl0bGUiKQogICAgU3RyaW5nIHNhdmVfc3VjY2Vzc190aXRsZSgpOwoKICAgIEBEZWZhdWx0TWVzc2FnZSgiU2V0dGluZ3Mgc2F2ZWQgc3VjY2Vzc2Z1bGx5IikKICAgIEBNZXNzYWdlS2V5KCJzYXZlX3N1Y2Nlc3MiKQogICAgU3RyaW5nIHNhdmVfc3VjY2VzcygpOwoKICAgIEBEZWZhdWx0TWVzc2FnZSgiRXJyb3IgaGFwcGVuZWQgd2hpbGUgc2F2aW5nIHNldHRpbmdzIikKICAgIEBNZXNzYWdlS2V5KCJzYXZlX2Vycm9yIikKICAgIFN0cmluZyBzYXZlX2Vycm9yKCk7CgogICAgQERlZmF1bHRNZXNzYWdlKCJCaWQgQXdhcmQiKQogICAgQE1lc3NhZ2VLZXkoImJpZF9hd2FyZCIpCiAgICBTdHJpbmcgYmlkX2F3YXJkKCk7</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGdlbmVyYXRlQ29udHJhY3RQREYoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Limit</last-search>
+      <last-search>contract_step_tip_message</last-search>
       <last-offset />
-      <last-pattern>Limit</last-pattern>
+      <last-pattern>contract_step_tip_message</last-pattern>
       <last-replace>properties</last-replace>
       <last-substitute>PropertiesSingleton.INSTANCE</last-substitute>
       <last-dir>1</last-dir>
@@ -728,7 +751,6 @@
     </search>
     <history>
       <history-search>
-        <entry>#4893e2</entry>
         <entry>#113465</entry>
         <entry>#949494</entry>
         <entry>contract</entry>
@@ -748,6 +770,7 @@
         <entry>PropertiesSingleton.INSTANCE</entry>
         <entry>include</entry>
         <entry>Limit</entry>
+        <entry>contract_step_tip_message</entry>
       </history-search>
       <history-cmd>
         <entry>%s/{style.//g</entry>
