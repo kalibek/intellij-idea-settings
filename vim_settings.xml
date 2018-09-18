@@ -67,6 +67,12 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="10" column="43" />
       </file>
+      <file name="$USER_HOME$/projects/tmp/web/src/app/model/campaign.ts" timestamp="1537299392685">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/UserPreferncesConverter.java" timestamp="1534842708854">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="23" />
@@ -285,6 +291,9 @@
         <mark key="." line="6" column="9" />
         <mark key="^" line="6" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" timestamp="1537299946692">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/contract/ContractWizardPresenter.java" timestamp="1534939185378">
         <mark key="[" line="13" column="30" />
         <mark key="]" line="13" column="30" />
@@ -356,6 +365,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/tmp/web/src/app/app.module.ts" timestamp="1537299256671">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="16" column="18" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/StepWidget.java" timestamp="1536058760102">
         <mark key="[" line="6" column="9" />
@@ -431,6 +446,12 @@
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_stage.properties" timestamp="1537159851812">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/tmp/web/src/app/app.component.ts" timestamp="1537299791976">
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="32" column="18" />
+        <mark key="^" line="32" column="18" />
+        <mark key="." line="32" column="18" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/ContractWizardView.java" timestamp="1534939237498">
         <mark key="[" line="32" column="8" />
@@ -519,7 +540,7 @@
         <mark key="." line="27" column="15" />
         <mark key="^" line="27" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1537292708915">
+      <file name="/JavaScript Console" timestamp="1537298605877">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/ContractWizardView.ui.xml" timestamp="1534937982619">
@@ -573,12 +594,12 @@
         <mark key="^" line="28" column="14" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/tmp/web/src/app/app.component.html" timestamp="1537295321539">
-        <mark key="'" line="10" column="8" />
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-        <mark key="^" line="0" column="32" />
+      <file name="$USER_HOME$/projects/tmp/web/src/app/app.component.html" timestamp="1537300069485">
+        <mark key="'" line="9" column="127" />
+        <mark key="[" line="8" column="83" />
+        <mark key="]" line="8" column="83" />
+        <mark key="^" line="8" column="83" />
+        <mark key="." line="8" column="83" />
       </file>
       <file name="$USER_HOME$/projects/push/push-java/src/main/java/com/epam/push/PushApplication.java" timestamp="1535011976944">
         <mark key="[" line="30" column="12" />
@@ -651,8 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="23" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/FormPanel.java" />
-      <jump line="170" column="30" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/FormPanel.java" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/FormPanel.java" />
       <jump line="40" column="58" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/FormPanel.java" />
       <jump line="67" column="32" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/FormPanel.java" />
@@ -751,69 +770,70 @@
       <jump line="10" column="8" filename="$USER_HOME$/projects/tmp/web/src/app/app.component.html" />
       <jump line="24" column="38" filename="$USER_HOME$/projects/tmp/web/src/styles.css" />
       <jump line="26" column="0" filename="$USER_HOME$/projects/tmp/web/src/styles.css" />
+      <jump line="8" column="127" filename="$USER_HOME$/projects/tmp/web/src/app/app.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>documentGrid</text>
       </register>
       <register name="&quot;" type="4">
-        <text>shadow</text>
+        <text>e</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>shadow</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>color:</text>
+        <text>Name</text>
       </register>
-      <register name="0" type="4">
-        <text>color-secondary-2-0</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY2FtcGFpZ24ubmFtZSA9Ii0tTmFtZSBQbGFjZWhvbGRlci0tIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY2FtcGFpZ24uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY2FtcGFpZ24uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyogWW91IGNhbiBhZGQgZ2xvYmFsIHN0eWxlcyB0byB0aGlzIGZpbGUsIGFuZCBhbHNvIGltcG9ydCBvdGhlciBzdHlsZSBmaWxlcyAqLwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBkZXNjcmlwdGlvbiAke3RoaXMuY2FtcGFpZ25EZXNjcmlwdGlvbn1gKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBuYW1lICR7dGhpcy5jYW1wYWlnbk5hbWV9YCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyogRmVlbCBmcmVlIHRvIGNvcHkmcGFzdGUgY29sb3IgY29kZXMgdG8geW91ciBhcHBsaWNhdGlvbiAqLwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyogUGFsZXR0ZSBVUkw6IGh0dHA6Ly9wYWxldHRvbi5jb20vI3VpZD01MkgwVDBrc0dTODAwKysySlpDKytBTSsreUIgKi8K</text>
+        <text encoding="base64">ICBjYW1wYWlnbkRlc2NyaXB0aW9uID0gIlNhbXBsZSBEZXNjcmlwdGlvbiI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyogUGFsZXR0ZSBjb2xvciBjb2RlcyAqLwo=</text>
+        <text encoding="base64">ICBjYW1wYWlnbk5hbWUgPSAiU2FtcGxlIE5hbWUiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyogQ1NTIC0gQ2FzY2FkaW5nIFN0eWxlIFNoZWV0ICovCg==</text>
+        <text encoding="base64">ICBAVmlld0NoaWxkKCIiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>color:</last-search>
+      <last-search>Name</last-search>
       <last-offset />
-      <last-pattern>color:</last-pattern>
-      <last-replace>background-color:</last-replace>
-      <last-substitute>color:</last-substitute>
+      <last-pattern>Name</last-pattern>
+      <last-replace>Description</last-replace>
+      <last-substitute>Name</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>docu</entry>
         <entry>submiot</entry>
         <entry>submit</entry>
         <entry>Err</entry>
@@ -833,9 +853,9 @@
         <entry>getNode</entry>
         <entry encoding="base64">IHNoYWRvdw==</entry>
         <entry>color:</entry>
+        <entry>Name</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3F1b3RlLWRhdGUvdmFsaWQtdGlsbC9n</entry>
         <entry encoding="base64">JzwsJz5zL0VKQi9Nb2NrL2c=</entry>
         <entry>%s/rgba(0, 0, 0, 0.5);/@shadow-color/g</entry>
         <entry encoding="base64">JzwsJz5zL3JnYmEoMCwgMCwgMCwgMC41KS9Ac2hhZG93LWNvbG9yL2c=</entry>
@@ -854,6 +874,7 @@
         <entry encoding="base64">JzwsJz5zL2NvbG9yOi9iYWNrZ3JvdW5kLWNvbG9yOg==</entry>
         <entry encoding="base64">JzwsJz5zLyBzaGFkb3cvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2NvbG9yOi9iYWNrZ3JvdW5kLWNvbG9yOi9n</entry>
+        <entry encoding="base64">JzwsJz5zL05hbWUvRGVzY3JpcHRpb24=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
