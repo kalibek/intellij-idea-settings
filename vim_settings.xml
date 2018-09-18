@@ -340,11 +340,11 @@
         <mark key="." line="6" column="22" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/contract/ContractReportDTOMapper.java" timestamp="1537250231679" />
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201809181628_18_12__FX_10321_user_settings_table.sql" timestamp="1537266620515">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="27" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="15" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201809181628_18_12__FX_10321_user_settings_table.sql" timestamp="1537272492833">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="9" column="1" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/AccountSettingsView.ui.xml" timestamp="1534911618683">
         <mark key="[" line="5" column="79" />
@@ -538,6 +538,12 @@
         <mark key="^" line="97" column="3" />
         <mark key="." line="97" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201809181629_18_12__FX_10321_user_settings_table.sql" timestamp="1537272861923">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="10" column="37" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="10" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBean.java" timestamp="1537250032197" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-inf/src/main/java/com/wktransportservices/spotbidding/business/api/user/UserServiceRemote.java" timestamp="1534851755304">
         <mark key="[" line="23" column="49" />
@@ -683,19 +689,19 @@
         <text>documentGrid</text>
       </register>
       <register name="&quot;" type="4">
-        <text>dbSchemaName</text>
+        <text>${dbSchemaName}.user_info</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>user_settings_table</text>
+        <text>col int not null</text>
       </register>
       <register name="/" type="4">
         <text>award</text>
       </register>
       <register name="0" type="4">
-        <text>dbSchemaName</text>
+        <text>${dbSchemaName}.user_info</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
