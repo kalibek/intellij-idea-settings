@@ -36,5 +36,17 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:25432/tfx_qa</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="tfx_prod@localhost" uuid="bfccfcca-7fba-467a-b7e8-1d052bf9fef0">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:55432/tfx_prod</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="spot_prod@localhost" uuid="4c284dd0-0014-4d3d-860d-9479621604af">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:55433/spot_prod</jdbc-url>
+    </data-source>
   </component>
 </application>

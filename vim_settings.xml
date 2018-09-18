@@ -533,10 +533,10 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_prod.properties" timestamp="1537159834050">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537265913046">
+      <file name="/Dummy.txt" timestamp="1537291371611">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="39" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/processor/ErrorMessageProcessorService.java" timestamp="1535342081796">
@@ -734,14 +734,14 @@
       <register name="a" type="4">
         <text>documentGrid</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>postgres</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>ID</text>
+        <text>postgres</text>
       </register>
       <register name="/" type="4">
         <text>getNode</text>
