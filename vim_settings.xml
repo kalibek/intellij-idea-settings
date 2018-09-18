@@ -177,6 +177,7 @@
         <mark key="." line="52" column="22" />
         <mark key="^" line="52" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding-copy/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/contract/ContractStepView.java" timestamp="1537249564101" />
       <file name="$USER_HOME$/projects/push/src/main/resources/application.yml" timestamp="1534926001041">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="3" column="68" />
@@ -231,6 +232,7 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/contract/ContractFileGenerationServiceBean.java" timestamp="1537250183471" />
       <file name="$USER_HOME$/projects/push/client.sh" timestamp="1534993838156">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="26" />
@@ -324,6 +326,12 @@
         <mark key="." line="4" column="56" />
         <mark key="^" line="4" column="56" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/contract/IContractStepView.java" timestamp="1537249539812">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/push/push-kotlin/pom.xml" timestamp="1535009759588">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="20" />
@@ -354,6 +362,7 @@
         <mark key="^" line="6" column="22" />
         <mark key="." line="6" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/contract/ContractReportDTOMapper.java" timestamp="1537250215323" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/AccountSettingsView.ui.xml" timestamp="1534911618683">
         <mark key="[" line="5" column="79" />
         <mark key="]" line="5" column="93" />
@@ -383,6 +392,12 @@
       </file>
       <file name="$USER_HOME$/projects/spotbidding-copy/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/superadmin/presenter/calloff/launched/LaunchedCalloffDashboardPresenter.java" timestamp="1537247471085">
         <mark key="'" line="29" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/contract/ContractStepView.java" timestamp="1537249524090">
+        <mark key="[" line="61" column="28" />
+        <mark key="]" line="61" column="42" />
+        <mark key="^" line="61" column="42" />
+        <mark key="." line="61" column="42" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201808211702_18_12__FX_11327_add_bid_contract_column.sql" timestamp="1534849495273">
         <mark key="[" line="0" column="41" />
@@ -447,11 +462,11 @@
         <mark key="." line="64" column="19" />
         <mark key="^" line="64" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/presenter/ContractStepPresenter.java" timestamp="1537181968542">
-        <mark key="[" line="44" column="22" />
-        <mark key="]" line="44" column="25" />
-        <mark key="^" line="44" column="25" />
-        <mark key="." line="44" column="25" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/presenter/ContractStepPresenter.java" timestamp="1537249547061">
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="27" />
+        <mark key="^" line="26" column="27" />
+        <mark key="." line="26" column="27" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/ContractWizardEventBus.java" timestamp="1537181100080">
         <mark key="'" line="12" column="17" />
@@ -513,7 +528,7 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_prod.properties" timestamp="1537159834050">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537171802559">
+      <file name="/Dummy.txt" timestamp="1537249846214">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -558,11 +573,18 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/CustomCellTableWithCheckBoxAndPager.java" timestamp="1536814673310">
         <mark key="'" line="6" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBean.java" timestamp="1537250032197" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-inf/src/main/java/com/wktransportservices/spotbidding/business/api/user/UserServiceRemote.java" timestamp="1534851755304">
         <mark key="[" line="23" column="49" />
         <mark key="]" line="23" column="56" />
         <mark key="^" line="23" column="56" />
         <mark key="." line="23" column="56" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1537249967294">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="52" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/contract/presenter/ContractWizardPresenter.java" timestamp="1535002636630">
         <mark key="[" line="8" column="0" />
@@ -582,7 +604,7 @@
         <mark key="^" line="20" column="9" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1536814982102">
+      <file name="/fragment.java" timestamp="1537250149314">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="^" line="0" column="46" />
@@ -706,7 +728,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="/" type="4">
         <text>award</text>
@@ -718,28 +740,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSB1c2VyX2luZm8Kd2hlcmUgdXNlcm5hbWUgPSAnY2hldnJvbic7CgpzZWxlY3QgKgpmcm9tIHBheW1lbnRfbW9kZWw7CgpzZWxlY3QgKgpmcm9tIGN1cnJlbmN5Cm9yZGVyIGJ5IGlkOwoKdXBkYXRlIHBheW1lbnRfbW9kZWwKc2V0IGN1cnJlbmN5X2lkID0gMTE2CndoZXJlIGN1cnJlbmN5X2lkID0gMzsKCnNlbGVjdAogIG0ucGVyY2VudGFnZV9xdW90ZV9wcl9hdWQsCiAgbS5taW5fcXVvdGVfcHJfYXVkLAogIG0ubWF4X3F1b3RlX3ByX2F1ZApmcm9tCiAgY29tcGFueSBjCiAgaW5uZXIgam9pbiBwYXltZW50X21vZGVsIG0gb24gYy5pZCA9IG0uY29tcGFueV9pZAogIGlubmVyIGpvaW4gY3VycmVuY3kgYzIgb24gbS5jdXJyZW5jeV9pZCA9IGMyLmlkCndoZXJlIGMuY29tcGFueV9uYW1lID0gJ0NoZXZyb24nOwoKCnNlbGVjdAogIG0ucHJpdmF0ZV9hdWRfcGF5bWVudF90eXBlLAogIG0ucGVyY2VudGFnZV9xdW90ZV9wcl9hdWQsCiAgbS5taW5fcXVvdGVfcHJfYXVkLAogIG0ubWF4X3F1b3RlX3ByX2F1ZApmcm9tIHBheW1lbnRfbW9kZWwgbTsKCklOU0VSVCBJTlRPIHNwb3RfZGF0YS5wYXltZW50X21vZGVsCihjcmVhdGlvbl9kYXRlLCBpZCwgcHJpdmF0ZV9hdWRfcGF5bWVudF90eXBlLAogbWF4X3F1b3RlX3ByX2F1ZCwgbWF4X3RlbmRlcl9wcl9hdWQsIHRlbmRlcl9sYXVjbmhlZF9mZWUsCiBjdXJyZW5jeV9pZCwgcXVvdGVfbGF1Y25oZWRfZmVlLCBxdW90ZV9ub3RfYXdhcmRlZF9mZWUsCiB0ZW5kZXJfbm90X2F3YXJkZWRfZmVlLCBwZXJjZW50YWdlX3F1b3RlX3B1Yl9hdWQsIHBlcmNlbnRhZ2VfcXVvdGVfcHJfYXVkLAogbWluX3RlbmRlcl9wcl9hdWQsIHBlcmNlbnRhZ2VfdGVuZGVyX3ByX2F1ZCwgbWF4X3RlbmRlcl9wdWJfYXVkLAogbWluX3F1b3RlX3B1Yl9hdWQsIG1pbl90ZW5kZXJfcHViX2F1ZCwgbWF4X3F1b3RlX3B1Yl9hdWQsCiBjb21wYW55X2lkLCBtaW5fcXVvdGVfcHJfYXVkLCBwZXJjZW50YWdlX3RlbmRlcl9wdWJfYXVkLCBwdWJsaWNfYXVkX3BheW1lbnRfdHlwZSkKVkFMVUVTCiAgKCcyMDE2LTExLTA5IDE1OjM1OjA5LjAwMDAwMCcsIDEzOTYyLCAnQ0FSUklFUicsCiAgbnVsbCwgbnVsbCwgNy4wMDAwLAogIDEsIDUuMDAwMCwgNi4wMDAwLAogIG51bGwsIDAuMDMwMCwgbnVsbCwKICBudWxsLCBudWxsLCBudWxsLAogIDIuMDAwMCwgbnVsbCwgNS4wMDAwLAogIDEwLCBudWxsLCBudWxsLCAnQ0FSUklFUicpOwoKc2VsZWN0IGNvbXBhbnlfbmFtZSwgaWQKICBmcm9tIGNvbXBhbnk7Cgp1cGRhdGUgcGF5bWVudF9tb2RlbCBzZXQgY29tcGFueV9pZCA9IDMgd2hlcmUgaWQgPSAxMzk2MjsKCnNlbGVjdCAqIGZyb20gcGF5bWVudF9tb2RlbCB3aGVyZSBjb21wYW55X2lkID0gMzsKCnVwZGF0ZSBwYXltZW50X21vZGVsIHNldCBjb21wYW55X2lkID0gMyB3aGVyZSBpZCBpbiAoMSwzKTsKdXBkYXRlIHBheW1lbnRfbW9kZWwgc2V0IGNvbXBhbnlfaWQgPSAxMyB3aGVyZSBpZCA9IDEzOTYyOwoKc2VsZWN0ICogZnJvbSB1c2VyX2luZm87CgoKc2VsZWN0ICogZnJvbSBwZXJtaXNzaW9uX3VzZXI7CnNlbGVjdCBydS4qLCByLnJvbGVfbmFtZSwgdS51c2VybmFtZQpmcm9tIHJvbGVfdXNlciBydQogIGlubmVyIGpvaW4gcm9sZSByIG9uIHJ1LnJvbGVfaWQgPSByLmlkCiAgaW5uZXIgam9pbiB1c2VyX2luZm8gdSBvbiBydS51c2VyX2lkID0gdS5pZDsKCnNlbGVjdCAqIGZyb20gcGF5bWVudF9tb2RlbCB3aGVyZSBjb21wYW55X2lkID0gMzsKdXBkYXRlIHBheW1lbnRfbW9kZWwgc2V0IGN1cnJlbmN5X2lkID0gMTE2IHdoZXJlIGlkID0gMTsKCgpzZWxlY3QgKiBmcm9tIGN1cnJlbmN5OwoKc2VsZWN0IHUudXNlcm5hbWUsIHUuaWQsIGMyLioKZnJvbQogIHVzZXJfaW5mbyB1CiAgaW5uZXIgam9pbiBjb21wYW55X3VzZXIgY3Ugb24gdS5pZCA9IGN1LnVzZXJfaWQKICBpbm5lciBqb2luIGNvbXBhbnkgYyBvbiBjdS5jb21wYW55X2lkID0gYy5pZAogIGlubmVyIGpvaW4gcGF5bWVudF9tb2RlbCBtIG9uIGMuaWQgPSBtLmNvbXBhbnlfaWQKICBpbm5lciBqb2luIGN1cnJlbmN5IGMyIG9uIG0uY3VycmVuY3lfaWQgPSBjMi5pZAp3aGVyZSBwcml2YXRlX2F1ZF9wYXltZW50X3R5cGUgPSAnQ0FSUklFUicgYW5kIGN1cnJlbmN5X2lkICE9IDI7CgoKc2VsZWN0ICogZnJvbSBjYWxsb2ZmIG9yZGVyIGJ5IGNyZWF0aW9uX2RhdGUgZGVzYzsKCgpzZWxlY3QgKiBmcm9tIGNhbGxvZmZfZ3JvdXBfY29tcGFueTsKCnNlbGVjdCAqIGZyb20gdXNlcl9pbmZvOwpzZWxlY3QgYnVzaW5lc3NfYWNjb3VudCwqIGZyb20gY29tcGFueSB3aGVyZSBpZCA9IDM7CgpzZWxlY3QgZGlzdGluY3QgYmlkX2NvbnRyYWN0IGZyb20gdXNlcl9pbmZvOwoKc2VsZWN0IGJ1c2luZXNzX2FjY291bnQsIGNvbXBhbnlfbmFtZSBmcm9tIGNvbXBhbnk7CgpzZWxlY3QgKiBmcm9tIHVzZXJfaW5mbwp3aGVyZSB1c2VybmFtZSA9ICd1c3InIG9yIHVzZXJuYW1lID0gJ2FwcGxlJzsKCnNlbGVjdCB1c2VybmFtZSwqIGZyb20gdXNlcl9pbmZvOwoKc2VsZWN0ICogZnJvbSBjb21wYW55OwoKdXBkYXRlIGNvbXBhbnkgc2V0IGNvbXBhbnlfbmFtZSA9ICdDaGV2cm9uIHZlcnkgbG9uZyBuYW1lIGZqYXNvbGRrZiBsZGthc2pmbGFza2RqZiBsYXNrZGogZmxrYXNkamxma2FzZCBmbGFzZCBmbGFzZGonCndoZXJlIGNvbXBhbnlfbmFtZSA9ICdDaGV2cm9uJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50QnVzLmhpZGVXYWl0TWVzc2FnZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBldmVudEJ1cy5oaWRlV2FpdE1lc3NhZ2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Q2FsbG9mZlF1b3RlUmVzdHkgc2VydmljZSA9IEdXVC5jcmVhdGUoQ2FsbG9mZlF1b3RlUmVzdHkuY2xhc3MpOwogICAgICAgIGV2ZW50QnVzLnNob3dXYWl0TWVzc2FnZShudWxsKTsKCiAgICAgICAgY29udHJhY3RXaXphcmQuc2hvd1dpemFyZChxdW90ZUlkLCBhd2FyZENvbmZpcm1lZCAtPiB7CiAgICAgICAgICAgIGlmIChhd2FyZENvbmZpcm1lZCkgewogICAgICAgICAgICAgICAgc2VydmljZS5hd2FyZFF1b3RlKHF1b3RlSWQsIG5ldyBNZXRob2RDYWxsYmFja0FkYXB0ZXI8Qm9vbGVhbj4oKSB7CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU3VjY2VzcyhNZXRob2QgbWV0aG9kLCBCb29sZWFuIHJlc3BvbnNlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZXNwb25zZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZXZlbnRCdXMuaGlkZVdhaXRNZXNzYWdlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBXaW5kb3cuYWxlcnQoUFJPUEVSVElFUy5xdW90ZV9hd2FyZGVkKCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlldy5zZXRDYWxsb2ZmRGF0YShudWxsLCBDYWxsb2ZmU3RhdGUuQVdBUkRFRCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaW5kUXVvdGVzKGdldFRhYmxlUGFyYW1zKCkpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uRmFpbHVyZShNZXRob2QgbWV0aG9kLCBUaHJvd2FibGUgZXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICBldmVudEJ1cy5oaWRlV2FpdE1lc3NhZ2UoKTsKICAgICAgICAgICAgICAgIGludCBwcmVjb25kaXRpb25GYWlsZWRTdGF0dXMgPSA0MTI7CiAgICAgICAgICAgICAgICBpZiAocHJlY29uZGl0aW9uRmFpbGVkU3RhdHVzID09IG1ldGhvZC5nZXRSZXNwb25zZSgpLmdldFN0YXR1c0NvZGUoKSkgewogICAgICAgICAgICAgICAgICAgIFdpbmRvdy5hbGVydChQcm9wZXJ0aWVzU2luZ2xldG9uLklOU1RBTkNFLnF1b3RlX2Nhbm5vdF9iZV9hd2FyZGVkKCkpOwogICAgICAgICAgICAgICAgICAgIGV2ZW50QnVzLnNob3dMYXVuY2hlZENhbGxvZmZEYXNoYm9hcmQoY2FsbG9mZklkKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH07CgogICAgICAgIGlmIChzaG93Q29udHJhY3QpIHsKICAgICAgICAgICAgY29udHJhY3RXaXphcmQuc2hvd1dpemFyZChxdW90ZUlkLCBhd2FyZENvbmZpcm1lZCAtPiB7CiAgICAgICAgICAgICAgICBpZiAoYXdhcmRDb25maXJtZWQpIHsKICAgICAgICAgICAgICAgICAgICBzZXJ2aWNlLmF3YXJkUXVvdGUocXVvdGVJZCwgbWV0aG9kQ2FsbGJhY2tBZGFwdGVyKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgZXZlbnRCdXMuaGlkZVdhaXRNZXNzYWdlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGlmIChXaW5kb3cuY29uZmlybShQcm9wZXJ0aWVzU2luZ2xldG9uLklOU1RBTkNFLmF3YXJkX3F1b3RlX2NvbmZpcm0oKSkpIHsKICAgICAgICAgICAgICAgIHNlcnZpY2UuYXdhcmRRdW90ZShxdW90ZUlkLCBtZXRob2RDYWxsYmFja0FkYXB0ZXIpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50QnVzLmhpZGVXYWl0TWVzc2FnZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLnNwb3RiaWRkaW5nLmphc3BlcnJlcG9ydC5wYXJhbXMuY29udHJhY3QuQ29udHJhY3RQYXJhbXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBldmVudEJ1cy5oaWRlV2FpdE1lc3NhZ2UoKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLnNwb3RiaWRkaW5nLmphc3BlcnJlcG9ydC5KYXNwZXJSZXBvcnRQcm9jZXNzb3I7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Q2FsbG9mZlF1b3RlUmVzdHkgc2VydmljZSA9IEdXVC5jcmVhdGUoQ2FsbG9mZlF1b3RlUmVzdHkuY2xhc3MpOwogICAgICAgIGV2ZW50QnVzLnNob3dXYWl0TWVzc2FnZShudWxsKTsKCiAgICAgICAgY29udHJhY3RXaXphcmQuc2hvd1dpemFyZChxdW90ZUlkLCBhd2FyZENvbmZpcm1lZCAtPiB7CiAgICAgICAgICAgIGlmIChhd2FyZENvbmZpcm1lZCkgewogICAgICAgICAgICAgICAgc2VydmljZS5hd2FyZFF1b3RlKHF1b3RlSWQsIG5ldyBNZXRob2RDYWxsYmFja0FkYXB0ZXI8Qm9vbGVhbj4oKSB7CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU3VjY2VzcyhNZXRob2QgbWV0aG9kLCBCb29sZWFuIHJlc3BvbnNlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZXNwb25zZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZXZlbnRCdXMuaGlkZVdhaXRNZXNzYWdlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBXaW5kb3cuYWxlcnQoUFJPUEVSVElFUy5xdW90ZV9hd2FyZGVkKCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlldy5zZXRDYWxsb2ZmRGF0YShudWxsLCBDYWxsb2ZmU3RhdGUuQVdBUkRFRCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaW5kUXVvdGVzKGdldFRhYmxlUGFyYW1zKCkpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uRmFpbHVyZShNZXRob2QgbWV0aG9kLCBUaHJvd2FibGUgZXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICBldmVudEJ1cy5oaWRlV2FpdE1lc3NhZ2UoKTsKICAgICAgICAgICAgICAgIGludCBwcmVjb25kaXRpb25GYWlsZWRTdGF0dXMgPSA0MTI7CiAgICAgICAgICAgICAgICBpZiAocHJlY29uZGl0aW9uRmFpbGVkU3RhdHVzID09IG1ldGhvZC5nZXRSZXNwb25zZSgpLmdldFN0YXR1c0NvZGUoKSkgewogICAgICAgICAgICAgICAgICAgIFdpbmRvdy5hbGVydChQcm9wZXJ0aWVzU2luZ2xldG9uLklOU1RBTkNFLnF1b3RlX2Nhbm5vdF9iZV9hd2FyZGVkKCkpOwogICAgICAgICAgICAgICAgICAgIGV2ZW50QnVzLnNob3dMYXVuY2hlZENhbGxvZmZEYXNoYm9hcmQoY2FsbG9mZklkKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH07CgogICAgICAgIGlmIChzaG93Q29udHJhY3QpIHsKICAgICAgICAgICAgY29udHJhY3RXaXphcmQuc2hvd1dpemFyZChxdW90ZUlkLCBhd2FyZENvbmZpcm1lZCAtPiB7CiAgICAgICAgICAgICAgICBpZiAoYXdhcmRDb25maXJtZWQpIHsKICAgICAgICAgICAgICAgICAgICBzZXJ2aWNlLmF3YXJkUXVvdGUocXVvdGVJZCwgbWV0aG9kQ2FsbGJhY2tBZGFwdGVyKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgZXZlbnRCdXMuaGlkZVdhaXRNZXNzYWdlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGlmIChXaW5kb3cuY29uZmlybShQcm9wZXJ0aWVzU2luZ2xldG9uLklOU1RBTkNFLmF3YXJkX3F1b3RlX2NvbmZpcm0oKSkpIHsKICAgICAgICAgICAgICAgIHNlcnZpY2UuYXdhcmRRdW90ZShxdW90ZUlkLCBtZXRob2RDYWxsYmFja0FkYXB0ZXIpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLnNwb3RiaWRkaW5nLmphc3BlcnJlcG9ydC5KYXNwZXJSZXBvcnREYXRhU291cmNlOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLnNwb3RiaWRkaW5nLmphc3BlcnJlcG9ydC5wYXJhbXMuY29udHJhY3QuQ29udHJhY3RQYXJhbXM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ud2t0cmFuc3BvcnRzZXJ2aWNlcy5zcG90YmlkZGluZy5qYXNwZXJyZXBvcnQucGFyYW1zLmNvbnRyYWN0LkNvbnRyYWN0UGFyYW1zLkZPT1RFUl9URVhUX1JFUE9SVF9JTkZPOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLnNwb3RiaWRkaW5nLmphc3BlcnJlcG9ydC5KYXNwZXJSZXBvcnRQcm9jZXNzb3I7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
