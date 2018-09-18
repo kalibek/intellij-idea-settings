@@ -57,6 +57,10 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/tmp/web/src/styles.css" timestamp="1537294916066">
+        <mark key="'" line="26" column="0" />
+        <mark key="^" line="40" column="1" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/presenter/AwardStepPresenter.java" timestamp="1536128063070">
         <mark key="[" line="10" column="32" />
         <mark key="]" line="10" column="43" />
@@ -395,6 +399,12 @@
       <file name="$USER_HOME$/projects/spotbidding-copy/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/superadmin/presenter/calloff/launched/LaunchedCalloffDashboardPresenter.java" timestamp="1537247471085">
         <mark key="'" line="29" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/tmp/web/src/app/app.component.css" timestamp="1537294704408">
+        <mark key="[" line="6" column="63" />
+        <mark key="]" line="6" column="63" />
+        <mark key="." line="6" column="63" />
+        <mark key="^" line="2" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/contract/ContractStepView.java" timestamp="1537249524090">
         <mark key="[" line="61" column="28" />
         <mark key="]" line="61" column="42" />
@@ -473,6 +483,12 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/ContractWizardEventBus.java" timestamp="1537181100080">
         <mark key="'" line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/tmp/web/src/index.html" timestamp="1537294201011">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="5" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="12" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/contract/dialog/ContractWizardDialog.ui.xml" timestamp="1535002511875">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="21" />
@@ -502,6 +518,9 @@
         <mark key="]" line="27" column="15" />
         <mark key="." line="27" column="15" />
         <mark key="^" line="27" column="15" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1537292708915">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/ContractWizardView.ui.xml" timestamp="1534937982619">
         <mark key="[" line="4" column="39" />
@@ -553,6 +572,13 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="28" column="14" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/tmp/web/src/app/app.component.html" timestamp="1537295321539">
+        <mark key="'" line="10" column="8" />
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="0" column="32" />
       </file>
       <file name="$USER_HOME$/projects/push/push-java/src/main/java/com/epam/push/PushApplication.java" timestamp="1535011976944">
         <mark key="[" line="30" column="12" />
@@ -625,11 +651,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="16" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/FormPanel.java" />
-      <jump line="92" column="43" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/FormPanel.java" />
-      <jump line="108" column="68" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/FormPanel.java" />
-      <jump line="126" column="34" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/FormPanel.java" />
-      <jump line="134" column="28" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/FormPanel.java" />
       <jump line="157" column="23" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/FormPanel.java" />
       <jump line="170" column="30" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/FormPanel.java" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/FormPanel.java" />
@@ -725,70 +746,73 @@
       <jump line="51" column="44" filename="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/util/HashMap.java" />
       <jump line="64" column="36" filename="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/util/HashMap.java" />
       <jump line="278" column="17" filename="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/util/HashMap.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/tmp/web/src/app/app.component.html" />
+      <jump line="27" column="39" filename="$USER_HOME$/projects/tmp/web/src/styles.css" />
+      <jump line="10" column="8" filename="$USER_HOME$/projects/tmp/web/src/app/app.component.html" />
+      <jump line="24" column="38" filename="$USER_HOME$/projects/tmp/web/src/styles.css" />
+      <jump line="26" column="0" filename="$USER_HOME$/projects/tmp/web/src/styles.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>documentGrid</text>
       </register>
       <register name="&quot;" type="4">
-        <text>postgres</text>
+        <text>shadow</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>postgres</text>
+        <text>shadow</text>
       </register>
       <register name="/" type="4">
-        <text>getNode</text>
+        <text>color:</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJJRCIpCg==</text>
+      <register name="0" type="4">
+        <text>color-secondary-2-0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgCg==</text>
+        <text encoding="base64">LyogWW91IGNhbiBhZGQgZ2xvYmFsIHN0eWxlcyB0byB0aGlzIGZpbGUsIGFuZCBhbHNvIGltcG9ydCBvdGhlciBzdHlsZSBmaWxlcyAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgCg==</text>
+        <text encoding="base64">LyogRmVlbCBmcmVlIHRvIGNvcHkmcGFzdGUgY29sb3IgY29kZXMgdG8geW91ciBhcHBsaWNhdGlvbiAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgaWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyogUGFsZXR0ZSBVUkw6IGh0dHA6Ly9wYWxldHRvbi5jb20vI3VpZD01MkgwVDBrc0dTODAwKysySlpDKytBTSsreUIgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSB1c2VyX2luZm8Kd2hlcmUgdXNlcm5hbWUgPSAnY2hldnJvbic7CgpzZWxlY3QgKgpmcm9tIHBheW1lbnRfbW9kZWw7CgpzZWxlY3QgKgpmcm9tIGN1cnJlbmN5Cm9yZGVyIGJ5IGlkOwoKdXBkYXRlIHBheW1lbnRfbW9kZWwKc2V0IGN1cnJlbmN5X2lkID0gMTE2CndoZXJlIGN1cnJlbmN5X2lkID0gMzsKCnNlbGVjdAogIG0ucGVyY2VudGFnZV9xdW90ZV9wcl9hdWQsCiAgbS5taW5fcXVvdGVfcHJfYXVkLAogIG0ubWF4X3F1b3RlX3ByX2F1ZApmcm9tCiAgY29tcGFueSBjCiAgaW5uZXIgam9pbiBwYXltZW50X21vZGVsIG0gb24gYy5pZCA9IG0uY29tcGFueV9pZAogIGlubmVyIGpvaW4gY3VycmVuY3kgYzIgb24gbS5jdXJyZW5jeV9pZCA9IGMyLmlkCndoZXJlIGMuY29tcGFueV9uYW1lID0gJ0NoZXZyb24nOwoKCnNlbGVjdAogIG0ucHJpdmF0ZV9hdWRfcGF5bWVudF90eXBlLAogIG0ucGVyY2VudGFnZV9xdW90ZV9wcl9hdWQsCiAgbS5taW5fcXVvdGVfcHJfYXVkLAogIG0ubWF4X3F1b3RlX3ByX2F1ZApmcm9tIHBheW1lbnRfbW9kZWwgbTsKCklOU0VSVCBJTlRPIHNwb3RfZGF0YS5wYXltZW50X21vZGVsCihjcmVhdGlvbl9kYXRlLCBpZCwgcHJpdmF0ZV9hdWRfcGF5bWVudF90eXBlLAogbWF4X3F1b3RlX3ByX2F1ZCwgbWF4X3RlbmRlcl9wcl9hdWQsIHRlbmRlcl9sYXVjbmhlZF9mZWUsCiBjdXJyZW5jeV9pZCwgcXVvdGVfbGF1Y25oZWRfZmVlLCBxdW90ZV9ub3RfYXdhcmRlZF9mZWUsCiB0ZW5kZXJfbm90X2F3YXJkZWRfZmVlLCBwZXJjZW50YWdlX3F1b3RlX3B1Yl9hdWQsIHBlcmNlbnRhZ2VfcXVvdGVfcHJfYXVkLAogbWluX3RlbmRlcl9wcl9hdWQsIHBlcmNlbnRhZ2VfdGVuZGVyX3ByX2F1ZCwgbWF4X3RlbmRlcl9wdWJfYXVkLAogbWluX3F1b3RlX3B1Yl9hdWQsIG1pbl90ZW5kZXJfcHViX2F1ZCwgbWF4X3F1b3RlX3B1Yl9hdWQsCiBjb21wYW55X2lkLCBtaW5fcXVvdGVfcHJfYXVkLCBwZXJjZW50YWdlX3RlbmRlcl9wdWJfYXVkLCBwdWJsaWNfYXVkX3BheW1lbnRfdHlwZSkKVkFMVUVTCiAgKCcyMDE2LTExLTA5IDE1OjM1OjA5LjAwMDAwMCcsIDEzOTYyLCAnQ0FSUklFUicsCiAgbnVsbCwgbnVsbCwgNy4wMDAwLAogIDEsIDUuMDAwMCwgNi4wMDAwLAogIG51bGwsIDAuMDMwMCwgbnVsbCwKICBudWxsLCBudWxsLCBudWxsLAogIDIuMDAwMCwgbnVsbCwgNS4wMDAwLAogIDEwLCBudWxsLCBudWxsLCAnQ0FSUklFUicpOwoKc2VsZWN0IGNvbXBhbnlfbmFtZSwgaWQKICBmcm9tIGNvbXBhbnk7Cgp1cGRhdGUgcGF5bWVudF9tb2RlbCBzZXQgY29tcGFueV9pZCA9IDMgd2hlcmUgaWQgPSAxMzk2MjsKCnNlbGVjdCAqIGZyb20gcGF5bWVudF9tb2RlbCB3aGVyZSBjb21wYW55X2lkID0gMzsKCnVwZGF0ZSBwYXltZW50X21vZGVsIHNldCBjb21wYW55X2lkID0gMyB3aGVyZSBpZCBpbiAoMSwzKTsKdXBkYXRlIHBheW1lbnRfbW9kZWwgc2V0IGNvbXBhbnlfaWQgPSAxMyB3aGVyZSBpZCA9IDEzOTYyOwoKc2VsZWN0ICogZnJvbSB1c2VyX2luZm87CgoKc2VsZWN0ICogZnJvbSBwZXJtaXNzaW9uX3VzZXI7CnNlbGVjdCBydS4qLCByLnJvbGVfbmFtZSwgdS51c2VybmFtZQpmcm9tIHJvbGVfdXNlciBydQogIGlubmVyIGpvaW4gcm9sZSByIG9uIHJ1LnJvbGVfaWQgPSByLmlkCiAgaW5uZXIgam9pbiB1c2VyX2luZm8gdSBvbiBydS51c2VyX2lkID0gdS5pZDsKCnNlbGVjdCAqIGZyb20gcGF5bWVudF9tb2RlbCB3aGVyZSBjb21wYW55X2lkID0gMzsKdXBkYXRlIHBheW1lbnRfbW9kZWwgc2V0IGN1cnJlbmN5X2lkID0gMTE2IHdoZXJlIGlkID0gMTsKCgpzZWxlY3QgKiBmcm9tIGN1cnJlbmN5OwoKc2VsZWN0IHUudXNlcm5hbWUsIHUuaWQsIGMyLioKZnJvbQogIHVzZXJfaW5mbyB1CiAgaW5uZXIgam9pbiBjb21wYW55X3VzZXIgY3Ugb24gdS5pZCA9IGN1LnVzZXJfaWQKICBpbm5lciBqb2luIGNvbXBhbnkgYyBvbiBjdS5jb21wYW55X2lkID0gYy5pZAogIGlubmVyIGpvaW4gcGF5bWVudF9tb2RlbCBtIG9uIGMuaWQgPSBtLmNvbXBhbnlfaWQKICBpbm5lciBqb2luIGN1cnJlbmN5IGMyIG9uIG0uY3VycmVuY3lfaWQgPSBjMi5pZAp3aGVyZSBwcml2YXRlX2F1ZF9wYXltZW50X3R5cGUgPSAnQ0FSUklFUicgYW5kIGN1cnJlbmN5X2lkICE9IDI7CgoKc2VsZWN0ICogZnJvbSBjYWxsb2ZmIG9yZGVyIGJ5IGNyZWF0aW9uX2RhdGUgZGVzYzsKCgpzZWxlY3QgKiBmcm9tIGNhbGxvZmZfZ3JvdXBfY29tcGFueTsKCnNlbGVjdCAqIGZyb20gdXNlcl9pbmZvOwpzZWxlY3QgYnVzaW5lc3NfYWNjb3VudCwqIGZyb20gY29tcGFueSB3aGVyZSBpZCA9IDM7CgpzZWxlY3QgZGlzdGluY3QgYmlkX2NvbnRyYWN0IGZyb20gdXNlcl9pbmZvOwoKc2VsZWN0IGJ1c2luZXNzX2FjY291bnQsIGNvbXBhbnlfbmFtZSBmcm9tIGNvbXBhbnk7CgpzZWxlY3QgKiBmcm9tIHVzZXJfaW5mbwp3aGVyZSB1c2VybmFtZSA9ICd1c3InIG9yIHVzZXJuYW1lID0gJ2FwcGxlJzsKCnNlbGVjdCB1c2VybmFtZSwqIGZyb20gdXNlcl9pbmZvOwoKc2VsZWN0ICogZnJvbSBjb21wYW55OwoKdXBkYXRlIGNvbXBhbnkgc2V0IGNvbXBhbnlfbmFtZSA9ICdDaGV2cm9uIHZlcnkgbG9uZyBuYW1lIGZqYXNvbGRrZiBsZGthc2pmbGFza2RqZiBsYXNrZGogZmxrYXNkamxma2FzZCBmbGFzZCBmbGFzZGonCndoZXJlIGNvbXBhbnlfbmFtZSA9ICdDaGV2cm9uJzsK</text>
+        <text encoding="base64">LyogUGFsZXR0ZSBjb2xvciBjb2RlcyAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyogQ1NTIC0gQ2FzY2FkaW5nIFN0eWxlIFNoZWV0ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getNode</last-search>
+      <last-search>color:</last-search>
       <last-offset />
-      <last-pattern>getNode</last-pattern>
-      <last-replace>properties</last-replace>
-      <last-substitute>PropertiesSingleton.INSTANCE</last-substitute>
+      <last-pattern>color:</last-pattern>
+      <last-replace>background-color:</last-replace>
+      <last-substitute>color:</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setRow</entry>
-        <entry>summ</entry>
         <entry>docu</entry>
         <entry>submiot</entry>
         <entry>submit</entry>
@@ -807,11 +831,10 @@
         <entry>TreeNode</entry>
         <entry>buck</entry>
         <entry>getNode</entry>
+        <entry encoding="base64">IHNoYWRvdw==</entry>
+        <entry>color:</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/{style.//g</entry>
-        <entry encoding="base64">JzwsJz5zL2NvbXBhbnkvcXVvdGUvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL3F1b3RlLW5hbWUvcXVvdGUtZGF0ZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3F1b3RlLWRhdGUvdmFsaWQtdGlsbC9n</entry>
         <entry encoding="base64">JzwsJz5zL0VKQi9Nb2NrL2c=</entry>
         <entry>%s/rgba(0, 0, 0, 0.5);/@shadow-color/g</entry>
@@ -828,6 +851,9 @@
         <entry encoding="base64">JzwsJz5zL2R0by9wcmVzZW50ZXIvZw==</entry>
         <entry>W</entry>
         <entry>%s/PropertiesSingleton.INSTANCE/properties/g</entry>
+        <entry encoding="base64">JzwsJz5zL2NvbG9yOi9iYWNrZ3JvdW5kLWNvbG9yOg==</entry>
+        <entry encoding="base64">JzwsJz5zLyBzaGFkb3cvL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2NvbG9yOi9iYWNrZ3JvdW5kLWNvbG9yOi9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
