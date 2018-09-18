@@ -175,7 +175,6 @@
         <mark key="." line="52" column="22" />
         <mark key="^" line="52" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding-copy/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/contract/ContractStepView.java" timestamp="1537249564101" />
       <file name="$USER_HOME$/projects/push/src/main/resources/application.yml" timestamp="1534926001041">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="3" column="68" />
@@ -234,7 +233,6 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/contract/ContractFileGenerationServiceBean.java" timestamp="1537250183471" />
       <file name="$USER_HOME$/projects/push/client.sh" timestamp="1534993838156">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="26" />
@@ -361,7 +359,6 @@
         <mark key="^" line="6" column="22" />
         <mark key="." line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/contract/ContractReportDTOMapper.java" timestamp="1537250231679" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201809181628_18_12__FX_10321_user_settings_table.sql" timestamp="1537272492833">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="6" column="32" />
@@ -533,7 +530,7 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_prod.properties" timestamp="1537159834050">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537291371611">
+      <file name="/Dummy.txt" timestamp="1537291803342">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -590,7 +587,6 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBean.java" timestamp="1537250032197" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-inf/src/main/java/com/wktransportservices/spotbidding/business/api/user/UserServiceRemote.java" timestamp="1534851755304">
         <mark key="[" line="23" column="49" />
         <mark key="]" line="23" column="56" />
