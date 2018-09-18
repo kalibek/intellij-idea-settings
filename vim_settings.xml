@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1537181744511">
@@ -15,6 +15,12 @@
         <mark key="]" line="305" column="68" />
         <mark key="^" line="305" column="68" />
         <mark key="." line="305" column="68" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1537260240971">
+        <mark key="[" line="69" column="10" />
+        <mark key="]" line="69" column="10" />
+        <mark key="^" line="69" column="10" />
+        <mark key="." line="69" column="10" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/dialog/ContractWizardDialog.java" timestamp="1535000784335">
         <mark key="[" line="19" column="0" />
@@ -528,7 +534,7 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_prod.properties" timestamp="1537159834050">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537249846214">
+      <file name="/Dummy.txt" timestamp="1537260730890">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -721,20 +727,20 @@
       <register name="a" type="4">
         <text>documentGrid</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>desc</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnJvbSA=</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>award</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudEJ1cy5zaG93V2FpdE1lc3NhZ2UobnVsbCk7Cg==</text>
+      <register name="0" type="4">
+        <text>desc</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
