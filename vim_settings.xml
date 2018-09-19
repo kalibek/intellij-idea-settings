@@ -206,7 +206,8 @@
         <mark key="^" line="165" column="40" />
         <mark key="." line="165" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201809181629_18_12__FX_10321_move_user_settings.sql" timestamp="1537338593363">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201809181629_18_12__FX_10321_move_user_settings.sql" timestamp="1537351701980">
+        <mark key="'" line="7" column="51" />
         <mark key="[" line="1" column="2" />
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="2" />
@@ -475,11 +476,12 @@
         <mark key="^" line="7" column="34" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserServiceBean.java" timestamp="1537349593150">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserServiceBean.java" timestamp="1537351763707">
         <mark key="'" line="94" column="47" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
+        <mark key="[" line="107" column="32" />
+        <mark key="]" line="106" column="28" />
+        <mark key="." line="106" column="28" />
+        <mark key="^" line="106" column="28" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/UserPreferencesConverter.java" timestamp="1534845112830">
         <mark key="[" line="8" column="28" />
@@ -694,7 +696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="1702" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="1714" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="2186" column="21" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
@@ -794,6 +795,7 @@
       <jump line="22" column="52" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/UserSettingsExtractor.java" />
       <jump line="17" column="86" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/UserSettingsExtractor.java" />
       <jump line="95" column="47" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserServiceBean.java" />
+      <jump line="7" column="51" filename="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201809181629_18_12__FX_10321_move_user_settings.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -809,7 +811,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>DTO</text>
+        <text>false</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICBVc2VyU2V0dGluZ3NFbnRpdHkgdXNlclNldHRpbmdzRW50aXR5ID0gdXNlclNldHRpbmdzRGFvLmdldFNpbGVudGx5KHVzZXJJZCk7CiAgICAgICAgaWYodXNlclNldHRpbmdzRW50aXR5ID09IG51bGwpIHsKICAgICAgICAgICAgdXNlclNldHRpbmdzRW50aXR5ID0gbmV3IFVzZXJTZXR0aW5nc0VudGl0eSgpOwogICAgICAgICAgICB1c2VyU2V0dGluZ3NFbnRpdHkuc2V0SWQodXNlcklkKTsKICAgICAgICB9</text>
@@ -846,17 +848,16 @@
       </register>
     </registers>
     <search>
-      <last-search>DTO</last-search>
+      <last-search>false</last-search>
       <last-offset />
-      <last-pattern>DTO</last-pattern>
-      <last-replace>Entity</last-replace>
-      <last-substitute>DTO</last-substitute>
+      <last-pattern>false</last-pattern>
+      <last-replace>true</last-replace>
+      <last-substitute>false</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Window</entry>
         <entry>120</entry>
         <entry>dto</entry>
         <entry>Style</entry>
@@ -876,9 +877,9 @@
         <entry>.email</entry>
         <entry>userSettingsEntity</entry>
         <entry>DTO</entry>
+        <entry>false</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyNmN2Y3ZjcvQHN0ZXAtYmFja2dyb3VuZC9n</entry>
         <entry encoding="base64">JzwsJz5zLyM0ODkzZTIvQGFjdGl2ZS1zdGVwLWJhY2tncm91bmQvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyMxMTM0NjUvcGFzc2VkLXN0ZXAvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyMxMTM0NjUvQHBhc3NlZC1zdGVwL2c=</entry>
@@ -897,6 +898,7 @@
         <entry encoding="base64">JzwsJz5zLy5lbWFpbC8uc2V0RW1haWw=</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJTZXR0aW5nc0VudGl0eS9kdG8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL0RUTy9FbnRpdHkvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2ZhbHNlL3RydWUvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
