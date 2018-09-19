@@ -10,6 +10,9 @@
       <action id="VimPluginToggle">
         <abbreviation name="vim" />
       </action>
+      <action id="TogglePresentationMode">
+        <abbreviation name="pp" />
+      </action>
     </abbreviations>
   </component>
 </application>
