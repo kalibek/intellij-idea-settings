@@ -209,9 +209,10 @@
         <mark key="^" line="165" column="40" />
         <mark key="." line="165" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201809181629_18_12__FX_10321_move_user_settings.sql" timestamp="1537273184757">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201809181629_18_12__FX_10321_move_user_settings.sql" timestamp="1537338593363">
         <mark key="[" line="1" column="2" />
-        <mark key="]" line="6" column="23" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="2" />
       </file>
       <file name="$USER_HOME$/projects/progress/src/app/app.component.html" timestamp="1536219917675">
         <mark key="[" line="0" column="19" />
@@ -378,11 +379,11 @@
         <mark key="^" line="6" column="22" />
         <mark key="." line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201809181628_18_12__FX_10321_user_settings_table.sql" timestamp="1537336994561">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="8" column="1" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201809181628_18_12__FX_10321_user_settings_table.sql" timestamp="1537338585853">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="22" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="7" column="15" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/AccountSettingsView.ui.xml" timestamp="1534911618683">
         <mark key="[" line="5" column="79" />
@@ -561,6 +562,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/dao/UserSettingsDao.java" timestamp="1537339045789">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/progress/src/app/app.module.ts" timestamp="1536217648369">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="13" column="19" />
@@ -613,6 +620,12 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="6" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/user/UserSettingsDTO.java" timestamp="1537339358516">
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="13" column="45" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/i18n/SMSMessages.java" timestamp="1534741331735">
         <mark key="[" line="97" column="4" />
         <mark key="]" line="116" column="21" />
@@ -628,9 +641,9 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" timestamp="1537273497337">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" timestamp="1537339345685">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="15" column="44" />
         <mark key="^" line="18" column="21" />
         <mark key="." line="15" column="0" />
       </file>
@@ -658,6 +671,12 @@
         <mark key="." line="57" column="32" />
         <mark key="^" line="57" column="32" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/AbstractUserEntity.java" timestamp="1537338824417">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="." line="184" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/jms/ErrorMessageHandler.java" timestamp="1535098469018">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -672,7 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/FormPanel.java" />
       <jump line="40" column="58" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/FormPanel.java" />
       <jump line="67" column="32" filename="$MAVEN_REPOSITORY$/com/google/gwt/gwt-servlet/2.8.2/gwt-servlet-2.8.2-sources.jar!/com/google/gwt/user/client/ui/FormPanel.java" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" />
@@ -772,52 +790,59 @@
       <jump line="26" column="0" filename="$USER_HOME$/projects/tmp/web/src/styles.css" />
       <jump line="8" column="127" filename="$USER_HOME$/projects/tmp/web/src/app/app.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/bin/standalone.conf" />
+      <jump line="39" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/AbstractUserEntity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>documentGrid</text>
+        <text>user_id</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB1bmlxdWUgKGlkKSwK</text>
+      <register name="&quot;" type="4">
+        <text>private boolean emailResponderGroupStarted;
+    private boolean emailResponderBidCancelled;
+    private boolean emailResponderAwarded;
+    private boolean emailResponderNotAwarded;</text>
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>Name</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2FtcGFpZ24ubmFtZSA9Ii0tTmFtZSBQbGFjZWhvbGRlci0tIgo=</text>
+      <register name="0" type="4">
+        <text>private boolean emailResponderGroupStarted;
+    private boolean emailResponderBidCancelled;
+    private boolean emailResponderAwarded;
+    private boolean emailResponderNotAwarded;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB1bmlxdWUgKGlkKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2FtcGFpZ24uCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2FtcGFpZ24uCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">QENvbHVtbihuYW1lID0gIkJJRF9DT05UUkFDVCIpCiAgICBwdWJsaWMgYm9vbGVhbiBpc0JpZENvbnRyYWN0KCkgewogICAgICAgIHJldHVybiBiaWRDb250cmFjdDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRCaWRDb250cmFjdChib29sZWFuIGJpZENvbnRyYWN0KSB7CiAgICAgICAgdGhpcy5iaWRDb250cmFjdCA9IGJpZENvbnRyYWN0OwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBkZXNjcmlwdGlvbiAke3RoaXMuY2FtcGFpZ25EZXNjcmlwdGlvbn1gKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBuYW1lICR7dGhpcy5jYW1wYWlnbk5hbWV9YCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJCSURfQ09OVFJBQ1QiKQogICAgcHVibGljIGJvb2xlYW4gaXNCaWRDb250cmFjdCgpIHsKICAgICAgICByZXR1cm4gYmlkQ29udHJhY3Q7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0QmlkQ29udHJhY3QoYm9vbGVhbiBiaWRDb250cmFjdCkgewogICAgICAgIHRoaXMuYmlkQ29udHJhY3QgPSBiaWRDb250cmFjdDsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjYW1wYWlnbkRlc2NyaXB0aW9uID0gIlNhbXBsZSBEZXNjcmlwdGlvbiI7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFVzZXIgU2V0dGluaW5ncwogICAgcHJpdmF0ZSBib29sZWFuIGJpZENvbnRyYWN0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjYW1wYWlnbk5hbWUgPSAiU2FtcGxlIE5hbWUiOwo=</text>
+        <text encoding="base64">ICB1bmlxdWUgKGlkKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
