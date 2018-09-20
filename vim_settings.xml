@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1537414801785">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2292" column="21" />
-        <mark key="]" line="2292" column="22" />
-        <mark key="." line="2292" column="22" />
-        <mark key="^" line="2292" column="22" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1537420322244">
+        <mark key="'" line="2364" column="4" />
+        <mark key="[" line="2394" column="11" />
+        <mark key="]" line="2394" column="34" />
+        <mark key="." line="2394" column="11" />
+        <mark key="^" line="2393" column="39" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/integration/UserIntegrationConverter.java" timestamp="1537416038260">
         <mark key="[" line="124" column="83" />
@@ -22,11 +22,11 @@
         <mark key="^" line="69" column="10" />
         <mark key="." line="69" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/converters/UserSettingsExtractorTest.java" timestamp="1537415399940">
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="30" column="50" />
-        <mark key="^" line="30" column="50" />
-        <mark key="." line="30" column="50" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/converters/UserSettingsExtractorTest.java" timestamp="1537420794139">
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="34" column="47" />
+        <mark key="^" line="34" column="47" />
+        <mark key="." line="34" column="47" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/dialog/ContractWizardDialog.java" timestamp="1535000784335">
         <mark key="[" line="19" column="0" />
@@ -64,12 +64,12 @@
         <mark key="^" line="14" column="31" />
         <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/UserSettingsExtractor.java" timestamp="1537358669654">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/UserSettingsExtractor.java" timestamp="1537420756604">
         <mark key="'" line="17" column="86" />
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="17" column="101" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="14" column="8" />
+        <mark key="[" line="32" column="64" />
+        <mark key="]" line="32" column="66" />
+        <mark key="^" line="32" column="66" />
+        <mark key="." line="32" column="66" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/presenter/AwardStepPresenter.java" timestamp="1536128063070">
         <mark key="[" line="10" column="32" />
@@ -432,6 +432,12 @@
         <mark key="." line="39" column="22" />
         <mark key="^" line="39" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201809201113_18_12__FX_10330_requester_email_settings.sql" timestamp="1537420659284">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="1" />
+      </file>
       <file name="$USER_HOME$/projects/tmp/web/src/app/app.component.ts" timestamp="1537299791976">
         <mark key="[" line="32" column="18" />
         <mark key="]" line="32" column="18" />
@@ -616,12 +622,12 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/user/UserSettingsDTO.java" timestamp="1537355437193">
-        <mark key="'" line="32" column="51" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="13" column="44" />
-        <mark key="^" line="32" column="52" />
-        <mark key="." line="32" column="52" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/user/UserSettingsDTO.java" timestamp="1537420695452">
+        <mark key="'" line="17" column="3" />
+        <mark key="[" line="64" column="5" />
+        <mark key="]" line="66" column="48" />
+        <mark key="^" line="66" column="48" />
+        <mark key="." line="66" column="48" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/i18n/SMSMessages.java" timestamp="1534741331735">
         <mark key="[" line="97" column="4" />
@@ -635,11 +641,12 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" timestamp="1537357589273">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="24" />
-        <mark key="^" line="18" column="24" />
-        <mark key="." line="18" column="24" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" timestamp="1537420683260">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="42" />
+        <mark key="^" line="74" column="48" />
+        <mark key="." line="83" column="37" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-inf/src/main/java/com/wktransportservices/spotbidding/business/api/user/UserServiceRemote.java" timestamp="1534851755304">
         <mark key="[" line="23" column="49" />
@@ -689,14 +696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTest.java" />
-      <jump line="39" column="35" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTest.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTest.java" />
-      <jump line="13" column="55" filename="$USER_HOME$/projects/spotbidding/spotbidding-utils/src/main/java/com/wktransportservices/spotbidding/utils/config/PropertiesSingleton.java" />
-      <jump line="14" column="57" filename="$USER_HOME$/projects/spotbidding/spotbidding-utils/src/main/java/com/wktransportservices/spotbidding/utils/config/PropertiesSingleton.java" />
-      <jump line="57" column="4" filename="$USER_HOME$/projects/spotbidding/spotbidding-utils/src/main/java/com/wktransportservices/spotbidding/utils/config/PropertiesSingleton.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
-      <jump line="84" column="20" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTest.java" />
       <jump line="47" column="42" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTest.java" />
       <jump line="57" column="45" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/contract/ContractStepView.java" />
       <jump line="262" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
@@ -737,7 +736,6 @@
       <jump line="27" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/calloff/launched/LaunchedCalloffDashboardPresenter.java" />
       <jump line="47" column="4" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/calloff/launched/LaunchedCalloffDashboardPresenter.java" />
       <jump line="59" column="20" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" />
-      <jump line="19" column="5" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" />
       <jump line="583" column="19" filename="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/util/HashMap.java" />
       <jump line="86" column="1" filename="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/util/HashMap.java" />
       <jump line="145" column="42" filename="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/util/HashMap.java" />
@@ -789,37 +787,49 @@
       <jump line="108" column="4" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/AccountSettingsPresenter.java" />
       <jump line="2367" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="2364" column="4" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="20" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" />
+      <jump line="70" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" />
+      <jump line="19" column="6" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" />
+      <jump line="84" column="20" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" />
+      <jump line="17" column="3" filename="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/user/UserSettingsDTO.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>user_id</text>
+        <text>userSettingsEntity</text>
       </register>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>sponderNotAwarded</text>
+      </register>
+      <register name="i" type="4">
+        <text />
       </register>
       <register name="l" type="4">
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>sponderNotAwarded</text>
       </register>
       <register name="/" type="4">
         <text>my_settings</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKGR0by5pc0JpZENvbnRyYWN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKGR0by5pc0VtYWlsUmVzcG9uZGVyQXdhcmRlZCgpKTsKICAgICAgICBhc3NlcnRUcnVlKGR0by5pc0VtYWlsUmVzcG9uZGVyTm90QXdhcmRlZCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLndhcm4oIlVzZXIgbG9naW4gbm90IHNwZWNpZmllZCwgc2V0dGluZyBkZWZhdWx0IHZhbHVlIChidXNpbmVzc0lkKSAiICsgdXNlckJ1c2luZXNzSWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPRy53YXJuKCJQcmVmZXJyZWQgdXNlciBsYW5ndWFnZSB7fSBub3QgZm91bmQiLCBwcmVmZXJyZWRMYW5ndWFnZSk7Cg==</text>
+        <text encoding="base64">CiAgdXNlcl9pZCwKICBiaWRfY29udHJhY3QsCiAgZW1haWxfcmVzcF9zdGFydGVkLAogIGVtYWlsX3Jlc3BfY2FuY2VsbGVkLAogIGVtYWlsX3Jlc3BfYXdhcmRlZCwKICBlbWFpbF9yZXNwX25vdF9hd2FyZGVkKQpzZWxlY3QgaWQsIGJpZF9jb250cmFjdCwgdHJ1ZSwgdHJ1ZSwgdHJ1ZSwgdHJ1ZQpmcm9tICR7ZGJTY2hlbWFOYW1lfS51c2VyX2luZm87CgphbHRlciB0YWJsZSAke2RiU2NoZW1hTmFtZX0udXNlcl9pbmZvCmRyb3AgY29sdW1uIGJpZF9jb250cmFjdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLndhcm4oIlVzZXIgbG9naW4gbm90IHNwZWNpZmllZCwgc2V0dGluZyBkZWZhdWx0IHZhbHVlIChidXNpbmVzc0lkKSAiICsgdXNlckJ1c2luZXNzSWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPRy53YXJuKCJQcmVmZXJyZWQgdXNlciBsYW5ndWFnZSB7fSBub3QgZm91bmQiLCBwcmVmZXJyZWRMYW5ndWFnZSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -830,20 +840,11 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2F2ZUJpZENvbnRyYWN0KGJvb2xlYW4gYmlkQ29udHJhY3QpIHsKICAgICAgICB1c2VyU2V0dGluZ3NIb2xkZXIuc2V0QmlkQ29udHJhY3QoYmlkQ29udHJhY3QpOwogICAgfQoKIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>create table spot_data.user_settings (
-  user_id                bigint primary key,
-  bid_contract           boolean,
-  email_resp_started     boolean,
-  email_resp_cancelled   boolean,
-  email_resp_awarded     boolean,
-  email_resp_not_awarded boolean,
-  foreign key (user_id) references (spot_data.user_info.id
-)
-  )</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
