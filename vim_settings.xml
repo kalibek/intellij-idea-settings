@@ -22,11 +22,12 @@
         <mark key="^" line="69" column="10" />
         <mark key="." line="69" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/converters/UserSettingsExtractorTest.java" timestamp="1537420794139">
-        <mark key="[" line="34" column="32" />
-        <mark key="]" line="34" column="47" />
-        <mark key="^" line="34" column="47" />
-        <mark key="." line="34" column="47" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/converters/UserSettingsExtractorTest.java" timestamp="1537421611379">
+        <mark key="'" line="51" column="50" />
+        <mark key="[" line="46" column="8" />
+        <mark key="]" line="51" column="50" />
+        <mark key="^" line="46" column="7" />
+        <mark key="." line="46" column="8" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/dialog/ContractWizardDialog.java" timestamp="1535000784335">
         <mark key="[" line="19" column="0" />
@@ -696,7 +697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="42" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTest.java" />
       <jump line="57" column="45" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/contract/ContractStepView.java" />
       <jump line="262" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/less/modules/contract-dialog.less" />
@@ -796,13 +796,19 @@
       <jump line="1" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" />
       <jump line="17" column="3" filename="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/user/UserSettingsDTO.java" />
+      <jump line="51" column="50" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/converters/UserSettingsExtractorTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>userSettingsEntity</text>
       </register>
       <register name="&quot;" type="4">
-        <text>sponderNotAwarded</text>
+        <text>assertTrue(dto.isEmailResponderGroupStarted());
+        assertTrue(dto.isEmailResponderBidCancelled());
+        assertTrue(dto.isEmailResponderAwarded());
+        assertTrue(dto.isEmailResponderNotAwarded());
+        assertTrue(dto.isEmailRequesterFirstQuote());
+        assertTrue(dto.isEmailRequesterPending());</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -814,10 +820,15 @@
         <text>sponderNotAwarded</text>
       </register>
       <register name="/" type="4">
-        <text>my_settings</text>
+        <text>True</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKGR0by5pc0VtYWlsUmVzcG9uZGVyQXdhcmRlZCgpKTsKICAgICAgICBhc3NlcnRUcnVlKGR0by5pc0VtYWlsUmVzcG9uZGVyTm90QXdhcmRlZCgpKTsK</text>
+      <register name="0" type="4">
+        <text>assertTrue(dto.isEmailResponderGroupStarted());
+        assertTrue(dto.isEmailResponderBidCancelled());
+        assertTrue(dto.isEmailResponderAwarded());
+        assertTrue(dto.isEmailResponderNotAwarded());
+        assertTrue(dto.isEmailRequesterFirstQuote());
+        assertTrue(dto.isEmailRequesterPending());</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -847,21 +858,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL1RydWUvRmFsc2UvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>my_settings</last-search>
+      <last-search>True</last-search>
       <last-offset />
-      <last-pattern>my_settings</last-pattern>
-      <last-replace>boo</last-replace>
-      <last-substitute>Boo</last-substitute>
+      <last-pattern>True</last-pattern>
+      <last-replace>False</last-replace>
+      <last-substitute>True</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>include</entry>
         <entry>Limit</entry>
         <entry>contract_step_tip_message</entry>
         <entry>award</entry>
@@ -881,9 +891,9 @@
         <entry>[ERROR]</entry>
         <entry>Boo</entry>
         <entry>my_settings</entry>
+        <entry>True</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2NvbnRyYWN0L2RvY3VtZW50L2c=</entry>
         <entry>%s/142/60/g</entry>
         <entry encoding="base64">JzwsJz5zL2R0by9wcmVzZW50ZXIvZw==</entry>
         <entry>W</entry>
@@ -903,6 +913,7 @@
         <entry encoding="base64">JzwsJz5zL1tFUlJPUl0vL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0Jvby9ib28vZw==</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL1RydWUvRmFsc2UvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
