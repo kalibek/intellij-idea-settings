@@ -549,11 +549,10 @@
         <mark key="." line="30" column="46" />
         <mark key="^" line="12" column="77" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/Alert.java" timestamp="1537517483678">
-        <mark key="[" line="20" column="45" />
-        <mark key="]" line="20" column="46" />
-        <mark key="." line="20" column="46" />
-        <mark key="^" line="20" column="46" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/Alert.java" timestamp="1537521695513">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/ContractWizardDialog.ui.xml" timestamp="1536054886651">
         <mark key="[" line="8" column="0" />
@@ -907,8 +906,8 @@
       <register name="a" type="4">
         <text encoding="base64">QFVpRmllbGQKICAgIEN1c3RvbUNoZWNrQm94IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>[Bid responder user settings]: Create bid responder settings page, email notifications</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -925,32 +924,32 @@
       <register name="0" type="4">
         <text>addStyleNames=&quot;{style.section}&quot;</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhbGVydERpYWxvZy5zZXRDb25maXJtYXRpb25Db21tYW5kKCgpIC0+IHsK</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">PGc6Rmxvd1BhbmVsPgogICAgICAgIDxjOkN1c3RvbUJ1dHRvbiB1aTpmaWVsZD0ic2F2ZVNldHRpbmdzIiBpMThuSWQ9InNhdmVfc2V0dGluZ3MiCiAgICAgICAgICAgICAgICAgICAgICAgIGFkZFN0eWxlTmFtZXM9InByaW1hcnktYnV0dG9uIgogICAgICAgICAgICAgICAgICAgICAgICBkZWJ1Z0lkPSJzYXZlX3NldHRpbmdzX2J1dHRvbiIvPgogICAgPC9nOkZsb3dQYW5lbD4=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">PGc6Rmxvd1BhbmVsPgogICAgICAgIDxjOkN1c3RvbUJ1dHRvbiB1aTpmaWVsZD0ic2F2ZVNldHRpbmdzIiBpMThuSWQ9InNhdmVfc2V0dGluZ3MiCiAgICAgICAgICAgICAgICAgICAgICAgIGFkZFN0eWxlTmFtZXM9InByaW1hcnktYnV0dG9uIgogICAgICAgICAgICAgICAgICAgICAgICBkZWJ1Z0lkPSJzYXZlX3NldHRpbmdzX2J1dHRvbiIvPgogICAgPC9nOkZsb3dQYW5lbD4=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PC9nOkZsb3dQYW5lbD4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L2c6Rmxvd1BhbmVsPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxnOkZsb3dQYW5lbCBhZGRTdHlsZU5hbWVzPSJhY2NvdW50LWNvbnRhaW5lciI+Cg==</text>
+        <text encoding="base64">PC9nOkZsb3dQYW5lbD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2c6Rmxvd1BhbmVsPgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PGc6Rmxvd1BhbmVsPgogICAgICAgICAgICAgICAgPGM6Q3VzdG9tQnV0dG9uIHVpOmZpZWxkPSJzYXZlU2V0dGluZ3MiIGkxOG5JZD0ic2F2ZV9zZXR0aW5ncyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhZGRTdHlsZU5hbWVzPSJwcmltYXJ5LWJ1dHRvbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWJ1Z0lkPSJzYXZlX3NldHRpbmdzX2J1dHRvbiIvPgogICAgICAgICAgICA8L2c6Rmxvd1BhbmVsPg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxnOkZsb3dQYW5lbCBhZGRTdHlsZU5hbWVzPSJhY2NvdW50LWNvbnRhaW5lciI+Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PGc6Rmxvd1BhbmVsPgoKICAgICAgICAgICAgPC9nOkZsb3dQYW5lbD4=</text>
+        <text encoding="base64">PGc6Rmxvd1BhbmVsPgogICAgICAgICAgICAgICAgPGM6Q3VzdG9tQnV0dG9uIHVpOmZpZWxkPSJzYXZlU2V0dGluZ3MiIGkxOG5JZD0ic2F2ZV9zZXR0aW5ncyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhZGRTdHlsZU5hbWVzPSJwcmltYXJ5LWJ1dHRvbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWJ1Z0lkPSJzYXZlX3NldHRpbmdzX2J1dHRvbiIvPgogICAgICAgICAgICA8L2c6Rmxvd1BhbmVsPg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ZhbHNlL3RydWUvZw==</text>
