@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1537422249120">
-        <mark key="'" line="2372" column="21" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/integration/UserIntegrationConverter.java" timestamp="1537416038260">
         <mark key="[" line="124" column="83" />
         <mark key="]" line="124" column="84" />
@@ -192,9 +189,9 @@
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/AlertDialog.java" timestamp="1537524932629">
         <mark key="[" line="24" column="27" />
-        <mark key="]" line="26" column="25" />
-        <mark key="^" line="26" column="25" />
-        <mark key="." line="26" column="25" />
+        <mark key="]" line="24" column="25" />
+        <mark key="^" line="24" column="25" />
+        <mark key="." line="24" column="25" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/webapp/WEB-INF/web.xml" timestamp="1534768028464">
         <mark key="[" line="48" column="4" />
@@ -374,6 +371,12 @@
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/AccountSettingsPresenter.java" timestamp="1537526456448">
+        <mark key="[" line="79" column="30" />
+        <mark key="]" line="79" column="30" />
+        <mark key="." line="79" column="30" />
+        <mark key="^" line="79" column="24" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/view/SummaryStepView.ui.xml" timestamp="1536041667116">
         <mark key="[" line="5" column="8" />
@@ -692,8 +695,8 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_prod.properties" timestamp="1537159834050">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537520608938">
-        <mark key="[" line="0" column="24" />
+      <file name="/Dummy.txt" timestamp="1537527016337">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="17" />
@@ -913,8 +916,8 @@
       <register name="a" type="4">
         <text encoding="base64">QFVpRmllbGQKICAgIEN1c3RvbUNoZWNrQm94IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+      <register name="&quot;" type="4">
+        <text>MessageDialog</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -923,7 +926,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>[Bid responder user settings]: Create bid responder settings page, email notifications</text>
+        <text>MessageDialog</text>
       </register>
       <register name="/" type="4">
         <text>false</text>
@@ -959,7 +962,7 @@
         <text encoding="base64">PGc6Rmxvd1BhbmVsPgogICAgICAgICAgICAgICAgPGM6Q3VzdG9tQnV0dG9uIHVpOmZpZWxkPSJzYXZlU2V0dGluZ3MiIGkxOG5JZD0ic2F2ZV9zZXR0aW5ncyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhZGRTdHlsZU5hbWVzPSJwcmltYXJ5LWJ1dHRvbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWJ1Z0lkPSJzYXZlX3NldHRpbmdzX2J1dHRvbiIvPgogICAgICAgICAgICA8L2c6Rmxvd1BhbmVsPg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2ZhbHNlL3RydWUvZw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1013,8 +1016,8 @@
         <entry encoding="base64">JzwsJz5zL0Jvby9ib28vZw==</entry>
         <entry encoding="base64">JzwsJz5zL1RydWUvRmFsc2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0VOVi8tZS9n</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2ZhbHNlL3RydWUvZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
