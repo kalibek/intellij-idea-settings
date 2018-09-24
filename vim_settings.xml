@@ -208,11 +208,11 @@
         <mark key="." line="3" column="52" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/test/java/com/wktransportservices/spotbidding/web/client/common/presenter/TokenPermissionExtractorTest.java" timestamp="1537766028035">
-        <mark key="[" line="10" column="41" />
-        <mark key="]" line="11" column="14" />
-        <mark key="^" line="11" column="14" />
-        <mark key="." line="11" column="14" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/test/java/com/wktransportservices/spotbidding/web/client/common/presenter/TokenPermissionExtractorTest.java" timestamp="1537767666958">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="21" />
+        <mark key="." line="19" column="21" />
+        <mark key="^" line="19" column="21" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/DocumentStepView.java" timestamp="1537160468789">
         <mark key="[" line="143" column="0" />
@@ -220,11 +220,11 @@
         <mark key="^" line="74" column="61" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/presenter/TokenPermissionExtractor.java" timestamp="1537766020803">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="22" column="4" />
-        <mark key="^" line="13" column="16" />
-        <mark key="." line="13" column="16" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/presenter/TokenPermissionExtractor.java" timestamp="1537767494784">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="18" />
+        <mark key="^" line="22" column="18" />
+        <mark key="." line="22" column="18" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1535520599389">
         <mark key="[" line="165" column="40" />
@@ -640,6 +640,12 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/token/AuthToken.java" timestamp="1537768137118">
+        <mark key="[" line="8" column="51" />
+        <mark key="]" line="9" column="39" />
+        <mark key="^" line="9" column="39" />
+        <mark key="." line="9" column="39" />
+      </file>
       <file name="/dummy.sql" timestamp="1537430081382">
         <mark key="[" line="0" column="0" />
       </file>
@@ -852,13 +858,7 @@
         <text encoding="base64">QFVpRmllbGQKICAgIEN1c3RvbUNoZWNrQm94IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>private String parseJWT(String jwt) {
-        String base64Url = jwt.split(&quot;.&quot;)[1];
-        String base64 = base64Url
-                .replaceAll(&quot;/-/g&quot;, &quot;+&quot;)
-                .replaceAll(&quot;/_/g&quot;, &quot;/&quot;);
-
-    }</text>
+        <text>long</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -867,7 +867,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>long</text>
       </register>
       <register name="/" type="4">
         <text>false</text>
@@ -882,33 +882,33 @@
     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gcGVybWlzc2lvbl91c2VyIHdoZXJlIGlkID0gMTAwMDA7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5CYXNlNjQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYmFzZTY0VXJsKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgdGVzdCgpIHsKICAgICAgICBpbnQgb25lICA9IDUxMTI7CiAgICAgICAgaW50IHR3byA9IDE1OwogICAgICAgIHByaW50QmluYXJ5Zm9ybShvbmUpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgICAgIHByaW50QmluYXJ5Zm9ybSh0d28pOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgICAgIHByaW50QmluYXJ5Zm9ybShvbmUrdHdvKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICBwcmludEJpbmFyeWZvcm0ob25lfHR3byk7CgogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIHZvaWQgcHJpbnRCaW5hcnlmb3JtKGludCBudW1iZXIpIHsKICAgICAgICBpbnQgcmVtYWluZGVyOwoKICAgICAgICBpZiAobnVtYmVyIDw9IDEpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChudW1iZXIpOwogICAgICAgICAgICByZXR1cm47IC8vIEtJQ0sgT1VUIE9GIFRIRSBSRUNVUlNJT04KICAgICAgICB9CgogICAgICAgIHJlbWFpbmRlciA9IG51bWJlciAlIDI7CiAgICAgICAgcHJpbnRCaW5hcnlmb3JtKG51bWJlciA+PiAxKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50KHJlbWFpbmRlcik7CiAgICB9Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVsZXRlIGZyb20gcGVybWlzc2lvbl91c2VyIHdoZXJlIGlkID0gMTAwMDA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgdGVzdCgpIHsKICAgICAgICBpbnQgb25lICA9IDUxMTI7CiAgICAgICAgaW50IHR3byA9IDE1OwogICAgICAgIHByaW50QmluYXJ5Zm9ybShvbmUpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgICAgIHByaW50QmluYXJ5Zm9ybSh0d28pOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgICAgIHByaW50QmluYXJ5Zm9ybShvbmUrdHdvKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICBwcmludEJpbmFyeWZvcm0ob25lfHR3byk7CgogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIHZvaWQgcHJpbnRCaW5hcnlmb3JtKGludCBudW1iZXIpIHsKICAgICAgICBpbnQgcmVtYWluZGVyOwoKICAgICAgICBpZiAobnVtYmVyIDw9IDEpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChudW1iZXIpOwogICAgICAgICAgICByZXR1cm47IC8vIEtJQ0sgT1VUIE9GIFRIRSBSRUNVUlNJT04KICAgICAgICB9CgogICAgICAgIHJlbWFpbmRlciA9IG51bWJlciAlIDI7CiAgICAgICAgcHJpbnRCaW5hcnlmb3JtKG51bWJlciA+PiAxKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50KHJlbWFpbmRlcik7CiAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+      </register>
+      <register name="7" type="4">
         <text>printBinaryform(one);
         System.out.println();
         printBinaryform(two);</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwcmludEJpbmFyeWZvcm0oMTUpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgQFVpRmllbGQKICAgIEZsb3dQYW5lbCBiaWRSZXNwb25kZXJFbWFpbFRlbXBsYXRlczsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
