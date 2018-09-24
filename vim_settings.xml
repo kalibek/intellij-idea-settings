@@ -124,6 +124,17 @@
         <mark key="." line="50" column="39" />
         <mark key="^" line="50" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/token/TokenDecoder.java" timestamp="1537768701226">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="49" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/token/TokenPermissionChecker.java" timestamp="1537769078440">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="13" />
+        <mark key="^" line="21" column="13" />
+        <mark key="." line="21" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/bidrequest/contract/ContractDTO.java" timestamp="1536141354444">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="10" column="47" />
@@ -191,11 +202,6 @@
         <mark key="." line="52" column="22" />
         <mark key="^" line="52" column="22" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/kalibek/api/cmd/srv/main.go" timestamp="1537431309449">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/push/src/main/resources/application.yml" timestamp="1534926001041">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="3" column="68" />
@@ -220,7 +226,7 @@
         <mark key="^" line="74" column="61" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/presenter/TokenPermissionExtractor.java" timestamp="1537767494784">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/presenter/TokenPermissionExtractor.java" timestamp="1537768609316">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="18" />
         <mark key="^" line="22" column="18" />
@@ -350,11 +356,6 @@
         <mark key="]" line="11" column="24" />
         <mark key="^" line="10" column="4" />
         <mark key="." line="11" column="24" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.com/kalibek/api/migrations/001_init.down.sql" timestamp="1537429919113">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/AccountSettingsPresenter.java" timestamp="1537533265067">
         <mark key="[" line="56" column="0" />
@@ -525,11 +526,6 @@
         <mark key="." line="30" column="46" />
         <mark key="^" line="12" column="77" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/Alert.java" timestamp="1537521695513">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/ContractWizardDialog.ui.xml" timestamp="1536054886651">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -542,6 +538,7 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="8" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/contract/view/document/ContractDocumentJSON.java" timestamp="1537768182974" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/security/PermissionService.java" timestamp="1537763172863" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/CalloffLeftMenu.java" timestamp="1536122206077">
         <mark key="[" line="10" column="7" />
@@ -581,6 +578,10 @@
         <mark key="]" line="5" column="21" />
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/token/TokenManager.java" timestamp="1537768512651">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="55" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/widget/contract/dialog/IContractWizardDialog.java" timestamp="1536054094062">
         <mark key="[" line="6" column="15" />
@@ -640,11 +641,11 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/token/AuthToken.java" timestamp="1537768137118">
-        <mark key="[" line="8" column="51" />
-        <mark key="]" line="9" column="39" />
-        <mark key="^" line="9" column="39" />
-        <mark key="." line="9" column="39" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/token/AuthToken.java" timestamp="1537768578602">
+        <mark key="[" line="4" column="49" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
       </file>
       <file name="/dummy.sql" timestamp="1537430081382">
         <mark key="[" line="0" column="0" />
@@ -858,7 +859,7 @@
         <text encoding="base64">QFVpRmllbGQKICAgIEN1c3RvbUNoZWNrQm94IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>long</text>
+        <text>String base64 =</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -867,48 +868,40 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>long</text>
+        <text>String base64 =</text>
       </register>
       <register name="/" type="4">
         <text>false</text>
       </register>
       <register name="0" type="4">
-        <text>private String parseJWT(String jwt) {
-        String base64Url = jwt.split(&quot;.&quot;)[1];
-        String base64 = base64Url
-                .replaceAll(&quot;/-/g&quot;, &quot;+&quot;)
-                .replaceAll(&quot;/_/g&quot;, &quot;/&quot;);
-
-    }</text>
+        <text>parseJWT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5CYXNlNjQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gand0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYmFzZTY0VXJsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gcGVybWlzc2lvbl91c2VyIHdoZXJlIGlkID0gMTAwMDA7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0VG9rZW4oKSB7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgdGVzdCgpIHsKICAgICAgICBpbnQgb25lICA9IDUxMTI7CiAgICAgICAgaW50IHR3byA9IDE1OwogICAgICAgIHByaW50QmluYXJ5Zm9ybShvbmUpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgICAgIHByaW50QmluYXJ5Zm9ybSh0d28pOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgICAgIHByaW50QmluYXJ5Zm9ybShvbmUrdHdvKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICBwcmludEJpbmFyeWZvcm0ob25lfHR3byk7CgogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIHZvaWQgcHJpbnRCaW5hcnlmb3JtKGludCBudW1iZXIpIHsKICAgICAgICBpbnQgcmVtYWluZGVyOwoKICAgICAgICBpZiAobnVtYmVyIDw9IDEpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChudW1iZXIpOwogICAgICAgICAgICByZXR1cm47IC8vIEtJQ0sgT1VUIE9GIFRIRSBSRUNVUlNJT04KICAgICAgICB9CgogICAgICAgIHJlbWFpbmRlciA9IG51bWJlciAlIDI7CiAgICAgICAgcHJpbnRCaW5hcnlmb3JtKG51bWJlciA+PiAxKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50KHJlbWFpbmRlcik7CiAgICB9Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RvcmFnZS5nZXRUb2tlbihBdXRob3JpemF0aW9uQ29uc3RhbnRzLkFVVEhfVE9LRU5fS0VZKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>printBinaryform(one);
-        System.out.println();
-        printBinaryform(two);</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludEJpbmFyeWZvcm0oMTUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBdXRoVG9rZW4gYXV0aFRva2VuID0gZGVjb2RlVG9rZW4oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBsb25nIGdldFBlcm1pc3Npb25TZXQoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
