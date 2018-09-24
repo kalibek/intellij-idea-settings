@@ -240,6 +240,7 @@
         <mark key="^" line="165" column="40" />
         <mark key="." line="165" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/resty/PermissionResty.java" timestamp="1537773346348" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201809181629_18_12__FX_10321_move_user_settings.sql" timestamp="1537351701980">
         <mark key="'" line="7" column="51" />
         <mark key="[" line="1" column="2" />
