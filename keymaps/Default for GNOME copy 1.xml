@@ -2,6 +2,10 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt minus" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="shift alt 2" />
+  </action>
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt back_quote" />
     <keyboard-shortcut first-keystroke="shift back_quote" />
