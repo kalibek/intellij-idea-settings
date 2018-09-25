@@ -8,6 +8,9 @@
         <mark key="]" line="12" column="90" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/VersionedCalloffSearchServiceBean.java" timestamp="1537788660363" />
+      <file name="/a.dummy" timestamp="1537776515941">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1537871904771">
         <mark key="'" line="2328" column="21" />
         <mark key="[" line="2408" column="49" />
@@ -301,10 +304,16 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="24" />
       </file>
+      <file name="/data.public.schema_migrations [data@localhost]" timestamp="1537430081193">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/SpotBiddingTopBarPresenter.java" timestamp="1537776917711">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="/sb_data.spot_data.email_template [sb_data@localhost]" timestamp="1537876669439">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/contract/dialog/ContractWizardDialog.java" timestamp="1535002666986">
         <mark key="[" line="29" column="46" />
@@ -662,6 +671,9 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/mail/EmailTemplateType.java" timestamp="1537872432848">
         <mark key="'" line="10" column="13" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/kalibek/api/.gitignore" timestamp="1537424286956">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/jms/MessageHandlerWrapperService.java" timestamp="1535350282552">
         <mark key="[" line="63" column="9" />
         <mark key="]" line="64" column="19" />
@@ -720,6 +732,9 @@
         <mark key="." line="27" column="15" />
         <mark key="^" line="27" column="15" />
       </file>
+      <file name="/JavaScript Console" timestamp="1537783673029">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/ContractWizardView.ui.xml" timestamp="1534937982619">
         <mark key="[" line="4" column="39" />
         <mark key="]" line="4" column="39" />
@@ -755,6 +770,9 @@
         <mark key="]" line="5" column="3" />
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
+      </file>
+      <file name="/dummy.sql" timestamp="1537876669758">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1537849268782">
         <mark key="[" line="0" column="0" />
@@ -839,6 +857,9 @@
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
+      </file>
+      <file name="/fragment.java" timestamp="1537765878984">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
