@@ -688,8 +688,8 @@
       <file name="/dummy.sql" timestamp="1537430081382">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537788952338">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1537849268782">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="18" />
@@ -742,12 +742,11 @@
         <mark key="^" line="23" column="56" />
         <mark key="." line="23" column="56" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1537784037485">
-        <mark key="'" line="14" column="11" />
-        <mark key="[" line="23" column="47" />
-        <mark key="]" line="23" column="60" />
-        <mark key="." line="23" column="47" />
-        <mark key="^" line="23" column="46" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1537850488475">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="16" column="21" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/contract/presenter/ContractWizardPresenter.java" timestamp="1535002636630">
         <mark key="[" line="8" column="0" />
@@ -883,8 +882,8 @@
       <register name="a" type="4">
         <text encoding="base64">QFVpRmllbGQKICAgIEN1c3RvbUNoZWNrQm94IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Implemented</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -893,47 +892,52 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>Implemented</text>
+        <text>, bit_or(permission_value::bigint)::bit(16)</text>
       </register>
       <register name="/" type="4">
         <text>findByUserId</text>
       </register>
       <register name="0" type="4">
-        <text>findByUserId</text>
+        <text encoding="base64">dXBkYXRlIHBlcm1pc3Npb25fY29tcGFueSBzZXQgcGVybWlzc2lvbl9zZXQgPSA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">dXBkYXRlIGNhbGxvZmYKc2V0IGluc3RydWN0aW9ucyA9ICdoZWxsbycsCiAgICBjb21tZW50cyAgICAgPSAnbm8gY29tbWVudHMnCndoZXJlIHJlZmVyZW5jZSA9ICdNdWx0aScKICBhbmQgc3RhdHVzID0gJ0xBVU5DSEVEJzsKCgpzZWxlY3QgKgpmcm9tIHVzZXJfc2V0dGluZ3M7Cgpkcm9wIHRhYmxlIHVzZXJfc2V0dGluZ3M7CgpkZWxldGUKZnJvbSBzY2hlbWFfdmVyc2lvbgp3aGVyZSBpbnN0YWxsZWRfcmFuayA+IDQyOwpzZWxlY3QgKgpmcm9tIHNjaGVtYV92ZXJzaW9uOwoKc2VsZWN0ICoKZnJvbSBwZXJtaXNzaW9uX3VzZXI7CnNlbGVjdCAqCmZyb20gcGVybWlzc2lvbgpvcmRlciBieSBpZDsKCnNlbGVjdCBpZCwgdXNlcm5hbWUKZnJvbSB1c2VyX2luZm8Kd2hlcmUgaWQgPSA0Owo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>//    //@TODO STUB! Remove after https://issues.wkts.eu/browse/FX-10330 impl
-//    public UserSettings findByUserId(Long userId) {
-//        UserSettings settings = new UserSettings();
-//        settings.setSendNotificatinonAtBiddingProcessPending(true);
-//        return settings;
-//    }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>insert into permission_user (id, permission_set, user_id, application_id)
+values (nextval('permission_user_seq'), 15, 3, 6);
+
+update permission_company
+set permission_set = (8 | 16 | 32 | 64 | 128 | 256 | 512 | 1024 | 2048 | 4096)
+where company_id = 4;
+select *
+from permission_company
+where company_id = 3;
+
+select (8 | 16 | 32 | 64 | 128 | 256 | 512 | 1024 | 2048 | 4096) :: bit(16);
+select 5112 :: bit(16);
+select (8 | 16 | 32 | 64 | 128 | 256 | 512 | 1024 | 2048 | 4096);</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXBkYXRlIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLnNwb3RiaWRkaW5nLndlYi5jbGllbnQuY29tbW9uLkNvbW1vbkV2ZW50QnVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>public void init(CommonEventBus eventBus) {
-        this.eventBus = eventBus;
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
