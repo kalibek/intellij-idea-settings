@@ -469,10 +469,7 @@
         <mark key="^" line="10" column="21" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/FirstQuoteMailSender.java" timestamp="1537934342369">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="28" column="44" />
-        <mark key="^" line="47" column="8" />
-        <mark key="." line="31" column="0" />
+        <mark key="^" line="54" column="8" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/contract/ContractWizardDialog.java" timestamp="1534938250532">
         <mark key="[" line="12" column="28" />
@@ -780,8 +777,8 @@
       <file name="/dummy.sql" timestamp="1537934129942">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537937611280">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1537938507543">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="56" />
