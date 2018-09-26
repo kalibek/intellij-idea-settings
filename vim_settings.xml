@@ -7,6 +7,12 @@
         <mark key="[" line="12" column="36" />
         <mark key="]" line="12" column="90" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/NotAwardedQuoteMailSender.java" timestamp="1537934507027">
+        <mark key="[" line="39" column="29" />
+        <mark key="]" line="39" column="28" />
+        <mark key="." line="39" column="28" />
+        <mark key="^" line="39" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/VersionedCalloffSearchServiceBean.java" timestamp="1537788660363" />
       <file name="/a.dummy" timestamp="1537776515941">
         <mark key="[" line="0" column="0" />
@@ -462,9 +468,9 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/FirstQuoteMailSender.java" timestamp="1537863536274">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/FirstQuoteMailSender.java" timestamp="1537934342369">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="44" />
         <mark key="^" line="47" column="8" />
         <mark key="." line="31" column="0" />
       </file>
@@ -771,7 +777,7 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="/dummy.sql" timestamp="1537876669758">
+      <file name="/dummy.sql" timestamp="1537934129942">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1537849268782">
@@ -968,8 +974,8 @@
       <register name="a" type="4">
         <text>UserEmailTemplateEntity</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>CALLOFF_EMAIL_TEMPLATE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -978,21 +984,33 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>CALLOFF_EMAIL_TEMPLATE</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>mailTemplates</text>
       </register>
-      <register name="0" type="4">
-        <text>user_email_template</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVc2VyRW50aXR5IGJpZGRlciA9IHF1b3RlLmdldEJpZGRlcigpOwogICAgICAgICAgICAgICAgICAgIFVzZXJTZXR0aW5nc0VudGl0eSB1c2VyU2V0dGluZ3MgPSB1c2VyU2V0dGluZ3NEYW8uZ2V0T3JDcmVhdGUoYmlkZGVyLmdldElkKCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVc2VyU2V0dGluZ3NFbnRpdHkgdXNlclNldHRpbmdzID0gdXNlclNldHRpbmdzRGFvLmdldE9yQ3JlYXRlKGJpZGRlci5nZXRJZCgpKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXNlclNldHRpbmdzRGFvLmdldE9yQ3JlYXRlKCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIEBNYW55VG9PbmUoZmV0Y2ggPSBGZXRjaFR5cGUuTEFaWSkKICAgIEBKb2luQ29sdW1uKG5hbWUgPSAiVVNFUl9JRCIpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>public U getCalloff() {
         return calloff;
     }
@@ -1001,23 +1019,11 @@
         this.calloff = calloff;
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJcmVmZXJlbmNlcyB1c2VyX2luZm8K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCW9uIGRlbGV0ZSBjYXNjYWRlLAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQljb25zdHJhaW50IHVzZXJfaWRfZW1haWxfZmsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQljb25zdHJhaW50IGNhbGxvZmZfaWRfZW1haWxfZmsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkJcmVmZXJlbmNlcyB1c2VyX2luZm8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
