@@ -48,5 +48,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:55433/spot_prod</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="tfx_stage@localhost" uuid="b2001f6d-034a-4396-accf-1ddfdd0b45f6">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:15432/tfx_stage</jdbc-url>
+    </data-source>
   </component>
 </application>

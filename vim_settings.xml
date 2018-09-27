@@ -691,6 +691,12 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="1" column="50" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b2001f6d-034a-4396-accf-1ddfdd0b45f6/console.sql" timestamp="1538038735653">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/tmp/web/src/app/app.component.ts" timestamp="1537299791976">
         <mark key="[" line="32" column="18" />
         <mark key="]" line="32" column="18" />
@@ -848,7 +854,7 @@
       <file name="/dummy.sql" timestamp="1537943607959">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537938507543">
+      <file name="/Dummy.txt" timestamp="1538038634966">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -1056,7 +1062,7 @@
         <text>UserEmailTemplateEntity</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIExpc3Q8VXNlckVtYWlsVGVtcGxhdGVFbnRpdHk+IGdldE1haWxUZW1wbGF0ZXMobG9uZyBvd25lcklkKSB7CiAgICAgICAgVXNlckVudGl0eSB1c2VyID0gdXNlclNlcnZpY2UuZmluZFVzZXJCeUlkKG93bmVySWQpOwogICAgICAgIExpc3Q8VXNlckVtYWlsVGVtcGxhdGVFbnRpdHk+IHVzZXJFbWFpbFRlbXBsYXRlRW50aXRpZXMgPSB1c2VyRW1haWxUZW1wbGF0ZXNEYW8uZ2V0QWxsQnlVc2VySWQob3duZXJJZCk7CiAgICAgICAgaWYgKHVzZXJFbWFpbFRlbXBsYXRlRW50aXRpZXMgPT0gbnVsbCB8fCB1c2VyRW1haWxUZW1wbGF0ZUVudGl0aWVzLmlzRW1wdHkoKSkgewogICAgICAgICAgICByZXR1cm4gbWFpbFRlbXBsYXRlRGFvLmZpbmQoKS5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgIC5tYXAodCAtPiBjb252ZXJ0RGVmYXVsdFRlbXBsYXRlKHQuZ2V0UHVycG9zZSgpLCB1c2VyLCB0KSkKICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICB9CiAgICAgICAgdGhyb3cgbmV3IEVtYWlsVGVtcGxhdGVOb3RGb3VuZEV4Y2VwdGlvbigiRW1haWwgdGVtcGxhdGVzIG5vdCBmb3VuZCIpOwogICAgfQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1065,7 +1071,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>CalloffMailTemplateEntity</text>
