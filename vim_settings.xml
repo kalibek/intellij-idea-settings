@@ -23,6 +23,7 @@
         <mark key="." line="35" column="105" />
         <mark key="^" line="35" column="105" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/VersionedCalloffSearchServiceBean.java" timestamp="1537788660363" />
       <file name="/a.dummy" timestamp="1537953848661">
         <mark key="[" line="0" column="0" />
       </file>
@@ -164,6 +165,7 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/CalloffMailTemplateServiceBean.java" timestamp="1538041687610" />
       <file name="$USER_HOME$/go/src/github.com/kalibek/api/migrate.sh" timestamp="1537431397619">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="7" column="1" />
@@ -535,6 +537,7 @@
         <mark key="^" line="9" column="51" />
         <mark key="." line="9" column="51" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1538042120183" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/mail/template/CalloffMailNotificationDTO.java" timestamp="1537959941572">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -638,12 +641,14 @@
         <mark key="." line="87" column="14" />
         <mark key="^" line="87" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/test/java/com/wktransportservices/spotbidding/domain/entity/calloff/CalloffEntityTestSuite.java" timestamp="1538041657394" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87970376-e6b4-4a8c-be82-9ec70738da40/console.sql" timestamp="1534847567733">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="7" />
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="31" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201809061420_18_12__FX_11786_Support_scenario_from_CD.sql" timestamp="1537872331916" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/validation/validators/EmailContentValidator.java" timestamp="1538024824009">
         <mark key="[" line="22" column="46" />
         <mark key="]" line="22" column="46" />
@@ -878,7 +883,7 @@
         <mark key="^" line="28" column="14" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/AccountSettingsView.java" timestamp="1537533436293">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/AccountSettingsView.java" timestamp="1538041426300">
         <mark key="'" line="119" column="16" />
         <mark key="[" line="131" column="46" />
         <mark key="]" line="131" column="51" />
