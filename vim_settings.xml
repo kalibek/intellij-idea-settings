@@ -121,7 +121,9 @@
         <mark key="^" line="9" column="51" />
         <mark key="." line="9" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1538042120183" />
+      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1538109975668">
+        <mark key="'" line="504" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/CalloffNotificationServiceBean.java" timestamp="1537954330684">
         <mark key="'" line="38" column="7" />
         <mark key="[" line="50" column="0" />
@@ -228,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="16" filename="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/util/HashMap.java" />
       <jump line="150" column="36" filename="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/util/HashMap.java" />
       <jump line="156" column="52" filename="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/util/HashMap.java" />
       <jump line="174" column="15" filename="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/util/HashMap.java" />
@@ -328,6 +329,7 @@
       <jump line="86" column="4" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/resty/CalloffResty.java" />
       <jump line="22" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/resty/CalloffResty.java" />
       <jump line="9" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/resty/EmailTemplateResty.java" />
+      <jump line="504" column="30" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -346,7 +348,7 @@
         <text>CalloffMailTemplateStatusDTO</text>
       </register>
       <register name="/" type="4">
-        <text>calloffId</text>
+        <text>repost</text>
       </register>
       <register name="0" type="4">
         <text>UserEmailTemplateDTO</text>
@@ -384,9 +386,9 @@
       </register>
     </registers>
     <search>
-      <last-search>calloffId</last-search>
+      <last-search>repost</last-search>
       <last-offset />
-      <last-pattern>calloffId</last-pattern>
+      <last-pattern>repost</last-pattern>
       <last-replace>userId</last-replace>
       <last-substitute>calloffId</last-substitute>
       <last-dir>1</last-dir>
@@ -394,7 +396,6 @@
     </search>
     <history>
       <history-search>
-        <entry>[ERROR]</entry>
         <entry>Boo</entry>
         <entry>my_settings</entry>
         <entry>True</entry>
@@ -414,6 +415,7 @@
         <entry>CalloffMailTemplateDTO</entry>
         <entry>templ</entry>
         <entry>calloffId</entry>
+        <entry>repost</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvbG9yOi9iYWNrZ3JvdW5kLWNvbG9yOi9n</entry>
