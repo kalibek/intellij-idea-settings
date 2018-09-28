@@ -422,7 +422,7 @@
       <file name="/dummy.sql" timestamp="1537943607959">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538038634966">
+      <file name="/Dummy.txt" timestamp="1538126183410">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -591,6 +591,7 @@
         <mark key="." line="33" column="7" />
         <mark key="^" line="33" column="7" />
       </file>
+      <file name="/CalloffNotificationServiceBean.java" timestamp="1538125730366" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/resty/UserAccountResty.java" timestamp="1534849719750">
         <mark key="[" line="35" column="10" />
         <mark key="]" line="35" column="31" />
