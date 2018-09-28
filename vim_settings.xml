@@ -38,11 +38,11 @@
         <mark key="." line="52" column="40" />
         <mark key="^" line="52" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/GroupStartedMailNotificationServiceTestSuite.java" timestamp="1538131776282">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="^" line="137" column="62" />
-        <mark key="." line="141" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/GroupStartedMailNotificationServiceTestSuite.java" timestamp="1538133887086">
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="^" line="179" column="36" />
+        <mark key="." line="183" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/calloff/requested/RequestedCalloffPresenter.java" timestamp="1537776904095">
         <mark key="[" line="37" column="0" />
@@ -464,8 +464,8 @@
       <register name="a" type="4">
         <text>UserEmailTemplateEntity</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>EncryptedElementTypeEncryptedKeyResolver</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjYWxsb2ZmLnNldE1haWxUZW1wbGF0ZXMobWFpbFRlbXBsYXRlcyk7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -474,30 +474,33 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>CalloffMailTemplateEntity</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>CalloffMailTemplateEntity</text>
       </register>
       <register name="0" type="4">
-        <text>EncryptedElementTypeEncryptedKeyResolver</text>
+        <text>UserEmailTemplateEntity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsb2ZmLmdldEVtYWlsU2V0dGluZ3MoKS5zZXRFbWFpbEF0R3JvdXBTdGFydGVkKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjYWxsb2ZmLnNldE1haWxUZW1wbGF0ZXMobWFpbFRlbXBsYXRlcyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsb2ZmLnNldE1haWxUZW1wbGF0ZXMobWFpbFRlbXBsYXRlcyk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBjYWxsb2ZmLmdldEVtYWlsU2V0dGluZ3MoKS5zZXRFbWFpbEF0R3JvdXBTdGFydGVkKHRydWUpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBjYWxsb2ZmLnNldE1haWxUZW1wbGF0ZXMobWFpbFRlbXBsYXRlcyk7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjYWxsb2ZmLmdldEVtYWlsU2V0dGluZ3MoKS5zZXRFbWFpbEF0R3JvdXBTdGFydGVkKHRydWUpOwo=</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjYWxsb2ZmLnNldE1haWxUZW1wbGF0ZXMobWFpbFRlbXBsYXRlcyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFueUxpc3RPZihDYWxsb2ZmTWFpbFRlbXBsYXRlRW50aXR5LmNsYXNzKSwK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>private UserEmailTemplateEntity withTemplate(Locale defaultLocale, String title) {
         UserEmailTemplateEntity templateEntity = new UserEmailTemplateEntity();
         templateEntity.setTitle(title);
@@ -505,14 +508,11 @@
         return templateEntity;
     }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzb3VyY2UuZ2V0RW1haWxTZXR0aW5ncygpLnNldEVtYWlsQXRMYXVuY2hlZChlbWFpbEF0TGF1bmNoZWQpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGVtYWlsQXRMYXVuY2hlZCA9IHRydWU7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVxKGVtYWlsQXRMYXVuY2hlZCksCg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGVtYWlsQXRMYXVuY2hlZCA9IHRydWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0NhbGxvZmZNYWlsVGVtcGxhdGVFbnRpdHkvVXNlckVtYWlsVGVtcGxhdGVFbnRpdHkvZw==</text>
