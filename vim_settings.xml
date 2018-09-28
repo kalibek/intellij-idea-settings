@@ -19,6 +19,10 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="/CalloffMailNotificationView.java" timestamp="1538048212594">
+        <mark key="[" line="102" column="4" />
+        <mark key="]" line="114" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/CalloffMailTemplateServiceBean.java" timestamp="1538041687610" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBean.java" timestamp="1538130880627">
         <mark key="'" line="62" column="43" />
@@ -142,12 +146,20 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="30" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/calloff/CalloffMailTemplateEntity.java" timestamp="1537872774309">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="60" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/resty/EmailTemplateResty.java" timestamp="1538110665945">
         <mark key="'" line="14" column="13" />
         <mark key="[" line="12" column="17" />
         <mark key="]" line="32" column="62" />
         <mark key="." line="32" column="62" />
         <mark key="^" line="27" column="21" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/opensaml/opensaml/2.6.1/opensaml-2.6.1.jar!/org/opensaml/saml2/encryption/EncryptedElementTypeEncryptedKeyResolver.class" timestamp="1538133723133">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="52" />
       </file>
       <file name="/dummy.sql" timestamp="1537943607959">
         <mark key="[" line="0" column="0" />
@@ -160,6 +172,10 @@
       </file>
       <file name="/fragment.java" timestamp="1538131540925">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/CalloffMailTemplateDao.java" timestamp="1537873110962">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="90" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBeanTest.java" timestamp="1538128604433">
         <mark key="'" line="51" column="66" />
@@ -201,6 +217,10 @@
         <mark key="^" line="29" column="91" />
         <mark key="." line="29" column="91" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/mail/MailTemplateService.java" timestamp="1538110644617">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="18" column="59" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/token/TokenDecoder.java" timestamp="1537768701226">
         <mark key="[" line="25" column="19" />
         <mark key="]" line="25" column="49" />
@@ -236,6 +256,10 @@
         <mark key="]" line="21" column="46" />
         <mark key="^" line="16" column="66" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/resty/PermissionResty.java" timestamp="1537776481841">
+        <mark key="[" line="25" column="53" />
+        <mark key="]" line="25" column="161" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/CalloffNotificationServiceLocal.java" timestamp="1537864462011">
         <mark key="[" line="10" column="0" />
@@ -440,8 +464,8 @@
       <register name="a" type="4">
         <text>UserEmailTemplateEntity</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsb2ZmLmdldEVtYWlsU2V0dGluZ3MoKS5zZXRFbWFpbEF0R3JvdXBTdGFydGVkKHRydWUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>EncryptedElementTypeEncryptedKeyResolver</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -456,7 +480,7 @@
         <text>CalloffMailTemplateEntity</text>
       </register>
       <register name="0" type="4">
-        <text>UserEmailTemplateEntity</text>
+        <text>EncryptedElementTypeEncryptedKeyResolver</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjYWxsb2ZmLmdldEVtYWlsU2V0dGluZ3MoKS5zZXRFbWFpbEF0R3JvdXBTdGFydGVkKHRydWUpOwo=</text>
