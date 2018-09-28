@@ -103,12 +103,12 @@
         <mark key="." line="50" column="39" />
         <mark key="^" line="50" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBean.java" timestamp="1538127012151">
-        <mark key="'" line="51" column="43" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="44" />
-        <mark key="." line="35" column="46" />
-        <mark key="^" line="35" column="46" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBean.java" timestamp="1538128860086">
+        <mark key="'" line="54" column="43" />
+        <mark key="[" line="42" column="12" />
+        <mark key="]" line="42" column="12" />
+        <mark key="." line="42" column="12" />
+        <mark key="^" line="42" column="12" />
       </file>
       <file name="$USER_HOME$/projects/ngmp-api-tests/fx/src/test/java/com/alpegagroup/ngmp/test/api/fx/stepdefs/AuthorizationStepDefs.java" timestamp="1534327344659">
         <mark key="[" line="26" column="0" />
@@ -482,11 +482,12 @@
         <mark key="[" line="86" column="4" />
         <mark key="]" line="106" column="87" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBeanTest.java" timestamp="1538127373830">
-        <mark key="[" line="49" column="42" />
-        <mark key="]" line="23" column="61" />
-        <mark key="." line="23" column="61" />
-        <mark key="^" line="49" column="40" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBeanTest.java" timestamp="1538128604433">
+        <mark key="'" line="51" column="66" />
+        <mark key="[" line="73" column="5" />
+        <mark key="]" line="70" column="94" />
+        <mark key="^" line="70" column="93" />
+        <mark key="." line="70" column="94" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1537871904771">
         <mark key="'" line="2328" column="21" />
@@ -1013,7 +1014,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="7" filename="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/util/HashMap.java" />
       <jump line="1854" column="28" filename="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/util/HashMap.java" />
       <jump line="0" column="0" filename="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/util/HashMap.java" />
       <jump line="49" column="45" filename="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/util/HashMap.java" />
@@ -1113,13 +1113,14 @@
       <jump line="21" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/resty/UserEmailTemplateResty.java" />
       <jump line="48" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/calloff/CalloffEntity.java" />
       <jump line="51" column="43" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBean.java" />
+      <jump line="48" column="66" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBeanTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>UserEmailTemplateEntity</text>
       </register>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text encoding="base64">dXNlckVtYWlsVGVtcGxhdGVFbnRpdGllcyA9PSBudWxsIHx8IA==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1128,43 +1129,43 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">dXNlckVtYWlsVGVtcGxhdGVFbnRpdGllcyA9PSBudWxsIHx8IA==</text>
       </register>
       <register name="/" type="4">
         <text>own</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFpbFRlbXBsYXRlRGFvIG1haWxUZW1wbGF0ZURhbzsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodXNlckVtYWlsVGVtcGxhdGVFbnRpdGllcyA9PSBudWxsIHx8IHVzZXJFbWFpbFRlbXBsYXRlRW50aXRpZXMuaXNFbXB0eSgpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBUZXN0KGV4cGVjdGVkID0gRW1haWxUZW1wbGF0ZU5vdEZvdW5kRXhjZXB0aW9uLmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZih1cykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvY2FsZSBMT0NBTEUgPSBMb2NhbGUuQ0FOQURBOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIEBUZXN0KGV4cGVjdGVkID0gRW1haWxUZW1wbGF0ZU5vdEZvdW5kRXhjZXB0aW9uLmNsYXNzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGdldEJ5X0dpdmVuVXNlckhhc05vdFRlbXBsYXRlX1Nob3VsZFJldHVybkRlZmF1bHRUZW1wbGF0ZSgpIHsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvY2FsZSBMT0NBTEUgPSBMb2NhbGUuQ0FOQURBOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFpbFRlbXBsYXRlRGFvIG1haWxUZW1wbGF0ZURhbzsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGdldEJ5X0dpdmVuVXNlckhhc05vdFRlbXBsYXRlX1Nob3VsZFJldHVybkRlZmF1bHRUZW1wbGF0ZSgpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBFSkIK</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/Calloff/User/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1200,7 +1201,6 @@
         <entry>own</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL05hbWUvRGVzY3JpcHRpb24=</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUgYm9vbGVhbiAvdXNlclNldHRpbmdzRW50aXR5Li9n</entry>
         <entry encoding="base64">JzwsJz5zLy5lbWFpbC8uc2V0RW1haWw=</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJTZXR0aW5nc0VudGl0eS9kdG8vZw==</entry>
@@ -1218,8 +1218,9 @@
         <entry>%s/CalloffMailTemplateEntity/UserEmailTemplateEntity/g</entry>
         <entry>%s/CalloffMailTemplateDTO/UserEmailTemplateDTO/g</entry>
         <entry>%s/calloffId/userId/g</entry>
-        <entry>w</entry>
         <entry>%s/Calloff/User/g</entry>
+        <entry>we</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
