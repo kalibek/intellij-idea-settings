@@ -164,11 +164,17 @@
       <file name="/dummy.sql" timestamp="1537943607959">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538131540929">
+      <file name="/Dummy.txt" timestamp="1538134700731">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="56" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/converter/CalloffEmailBunchConverterTestSuite.java" timestamp="1538135226586">
+        <mark key="'" line="46" column="13" />
+        <mark key="[" line="54" column="80" />
+        <mark key="]" line="54" column="80" />
+        <mark key="." line="54" column="80" />
       </file>
       <file name="/fragment.java" timestamp="1538131540925">
         <mark key="[" line="0" column="0" />
@@ -359,7 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="44" filename="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/util/HashMap.java" />
       <jump line="64" column="36" filename="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/util/HashMap.java" />
       <jump line="278" column="17" filename="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/util/HashMap.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/tmp/web/src/app/app.component.html" />
@@ -459,13 +464,14 @@
       <jump line="63" column="102" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/CalloffMailTemplateSearcherTestSuite.java" />
       <jump line="64" column="120" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/CalloffMailTemplateSearcherTestSuite.java" />
       <jump line="82" column="97" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/CalloffMailTemplateSearcherTestSuite.java" />
+      <jump line="45" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/converter/CalloffEmailBunchConverterTestSuite.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>UserEmailTemplateEntity</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsb2ZmLnNldE1haWxUZW1wbGF0ZXMobWFpbFRlbXBsYXRlcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;title&quot;, &quot;content&quot;</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -474,13 +480,13 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>&quot;title&quot;, &quot;content&quot;</text>
       </register>
       <register name="/" type="4">
         <text>CalloffMailTemplateEntity</text>
       </register>
       <register name="0" type="4">
-        <text>UserEmailTemplateEntity</text>
+        <text>CalloffMailTemplateEntity</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjYWxsb2ZmLnNldE1haWxUZW1wbGF0ZXMobWFpbFRlbXBsYXRlcyk7Cg==</text>
@@ -515,7 +521,7 @@
         <text encoding="base64">ICAgICAgICBib29sZWFuIGVtYWlsQXRMYXVuY2hlZCA9IHRydWU7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0NhbGxvZmZNYWlsVGVtcGxhdGVFbnRpdHkvVXNlckVtYWlsVGVtcGxhdGVFbnRpdHkvZw==</text>
+        <text>%s/CalloffMailTemplateEntity/UserEmailTemplateEntity/g</text>
       </register>
     </registers>
     <search>
@@ -563,7 +569,6 @@
         <entry encoding="base64">JzwsJz5zL2ZhbHNlL3RydWUvZw==</entry>
         <entry>%s/findByUserId/getOrCreate/g</entry>
         <entry>%s/type/businessPurpose/g</entry>
-        <entry>%s/CalloffMailTemplateEntity/UserEmailTemplateEntity/g</entry>
         <entry>%s/CalloffMailTemplateDTO/UserEmailTemplateDTO/g</entry>
         <entry>%s/calloffId/userId/g</entry>
         <entry>%s/Calloff/User/g</entry>
@@ -571,6 +576,7 @@
         <entry encoding="base64">JzwsJz5zL0NhbGxvZmZNYWlsVGVtcGxhdGVFbnRpdHkvVXNlck1haWxUZW1wbGF0ZUVudGl0eS9n</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL0NhbGxvZmZNYWlsVGVtcGxhdGVFbnRpdHkvVXNlckVtYWlsVGVtcGxhdGVFbnRpdHkvZw==</entry>
+        <entry>%s/CalloffMailTemplateEntity/UserEmailTemplateEntity/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
