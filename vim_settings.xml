@@ -170,11 +170,11 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/converter/CalloffEmailBunchConverterTestSuite.java" timestamp="1538135226586">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/converter/CalloffEmailBunchConverterTestSuite.java" timestamp="1538137766442">
         <mark key="'" line="46" column="13" />
-        <mark key="[" line="54" column="80" />
-        <mark key="]" line="54" column="80" />
-        <mark key="." line="54" column="80" />
+        <mark key="[" line="62" column="80" />
+        <mark key="]" line="62" column="87" />
+        <mark key="." line="62" column="80" />
       </file>
       <file name="/fragment.java" timestamp="1538131540925">
         <mark key="[" line="0" column="0" />
@@ -471,7 +471,7 @@
         <text>UserEmailTemplateEntity</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;title&quot;, &quot;content&quot;</text>
+        <text>preferredTemplate.getCalloff()</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -480,13 +480,13 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;title&quot;, &quot;content&quot;</text>
+        <text>preferredTemplate.getCalloff()</text>
       </register>
       <register name="/" type="4">
         <text>CalloffMailTemplateEntity</text>
       </register>
       <register name="0" type="4">
-        <text>CalloffMailTemplateEntity</text>
+        <text>calloff</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjYWxsb2ZmLnNldE1haWxUZW1wbGF0ZXMobWFpbFRlbXBsYXRlcyk7Cg==</text>
