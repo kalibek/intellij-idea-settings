@@ -295,6 +295,11 @@
       <file name="/JavaScript Console" timestamp="1537783673029">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTestSuite.java" timestamp="1538381791575">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateMapper.java" timestamp="1538111811917">
         <mark key="[" line="13" column="82" />
         <mark key="]" line="13" column="82" />
@@ -522,7 +527,7 @@
         <text>UserEmailTemplateEntity</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29udHJhY3REVE9NYXBwZXIgY29udHJhY3REVE9NYXBwZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -543,25 +548,36 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihiaSkK</text>
+        <text encoding="base64">ICAgZGQgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIFVzZXJTZXR0aW5nc0VudGl0eSB3aXRoVXNlckVtYWlsU2V0dGluZ3MoYm9vbGVhbiBiKSB7CiAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>@Test(expected = QuoteCompanyMismatchException.class)
+    public void getContract_WhenCompanyMismatch_ShouldThrowException() {
+        when(groupCompanyDao.get(QUOTE_ID)).thenReturn(withDefaultQuote());
+        UserEntity notOwner = withDefaultUser();
+        CompanyEntity company = new CompanyEntity();
+        company.setCompanyName(RESPONDER_COMPANY_NAME);
+        notOwner.setCompany(company);
+        when(userDao.get(USER_ID)).thenReturn(notOwner);
+
+        contractService.prepareContract(QUOTE_ID, USER_ID);
+
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHVzZXJTZXR0aW5nc0Rhby5nZXRPckNyZWF0ZShPV05FUl9JRCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihiaSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIFVzZXJTZXR0aW5nc0VudGl0eSB3aXRoVXNlckVtYWlsU2V0dGluZ3MoYm9vbGVhbiBiKSB7CiAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIFVzZXJTZXR0aW5nc0VudGl0eSB3aXRoVXNlckVtYWlsU2V0dGluZ3MoYm9vbGVhbiBzZW5kRW1haWxzKSB7CiAgICAgICAgVXNlclNldHRpbmdzRW50aXR5IHVzZXJTZXR0aW5nc0VudGl0eSA9IG5ldyBVc2VyU2V0dGluZ3NFbnRpdHkoKTsKICAgICAgICB1c2VyU2V0dGluZ3NFbnRpdHkuc2V0RW1haWxSZXNwb25kZXJBd2FyZGVkKHNlbmRFbWFpbHMpOwogICAgICAgIHJldHVybiB1c2VyU2V0dGluZ3NFbnRpdHk7CiAgICB9Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHVzZXJTZXR0aW5nc0Rhby5nZXRPckNyZWF0ZShPV05FUl9JRCkpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
