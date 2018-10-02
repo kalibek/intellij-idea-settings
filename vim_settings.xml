@@ -21,11 +21,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/NotAwardedQuoteMailSender.java" timestamp="1538457445877">
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="26" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/EmailTemplateNotFoundException.java" timestamp="1537954646984">
         <mark key="[" line="9" column="42" />
         <mark key="]" line="9" column="51" />
@@ -62,6 +57,10 @@
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
         <mark key="^" line="4" column="56" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/QuoteAwardedNotificationServiceBean.java" timestamp="1538473879055">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="44" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/converter/CalloffEmailBunchConverter.java" timestamp="1538373706067">
         <mark key="'" line="32" column="17" />
@@ -106,7 +105,7 @@
         <mark key="]" line="22" column="46" />
         <mark key="." line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/CalloffSingleMailSender.java" timestamp="1538374260108">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/CalloffSingleMailSender.java" timestamp="1538474005446">
         <mark key="[" line="31" column="37" />
         <mark key="]" line="31" column="37" />
         <mark key="^" line="31" column="37" />
@@ -317,10 +316,11 @@
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="48" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1538469008940">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1538473622785">
+        <mark key="[" line="24" column="62" />
+        <mark key="]" line="24" column="62" />
+        <mark key="." line="24" column="62" />
+        <mark key="^" line="24" column="61" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/CalloffLaunchedNotificationServiceTestSuite.java" timestamp="1538131137466">
         <mark key="[" line="35" column="0" />
@@ -448,7 +448,7 @@
         <text>mailRequesterPending</text>
       </register>
       <register name="&quot;" type="4">
-        <text>connect.webservice.authent.url</text>
+        <text encoding="base64">d2hlcmUg</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -457,13 +457,13 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>boolean</text>
+        <text encoding="base64">d2hlcmUg</text>
       </register>
       <register name="/" type="4">
         <text>connect.webservice.authent.url</text>
       </register>
-      <register name="0" type="4">
-        <text>connect.webservice.authent.url</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0IGZpcnN0X25hbWUsIGxhc3RfbmFtZSwgKiBmcm9tIHVzZXJfaW5mbyB3aGVyZSB1c2VybmFtZSBpbiAoJ2FwcGxlJywgJ2NoZXZyb24nKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
