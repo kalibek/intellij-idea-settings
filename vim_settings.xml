@@ -387,11 +387,10 @@
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="48" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1538466339748">
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="18" column="27" />
-        <mark key="^" line="18" column="27" />
-        <mark key="." line="18" column="27" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1538469008940">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/CalloffLaunchedNotificationServiceTestSuite.java" timestamp="1538131137466">
         <mark key="[" line="35" column="0" />
@@ -521,8 +520,8 @@
       <register name="a" type="4">
         <text>mailRequesterPending</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZHJvcCBzZXF1ZW5jZSBjb250cmFjdF9kb2N1bWVudF9zZXE7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -531,51 +530,40 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>seq</text>
       </register>
       <register name="/" type="4">
         <text>CalloffMailTemplateEntity</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbFJlcXVlc3RlckZpcnN0UXVvdGUuc2V0VmFsdWUodXNlclNldHRpbmdzLmlzRW1haWxSZXF1ZXN0ZXJGaXJzdFF1b3RlKCkpOwo=</text>
+      <register name="0" type="4">
+        <text>user_settings</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZHJvcCBzZXF1ZW5jZSBjb250cmFjdF9kb2N1bWVudF9zZXE7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gc2NoZW1hX3ZlcnNpb24gd2hlcmUgaW5zdGFsbGVkX3JhbmsgPiA0MjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkIHNldEVtYWlsUmVxdWVzdGVyUGVuZGluZyhib29sZWFuIHZhbHVlKTsK</text>
+        <text encoding="base64">c2VsZWN0IGRpc3RpbmN0IGJpZF9jb250cmFjdCBmcm9tIHVzZXJfaW5mbzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkIHNldEVtYWlsUmVxdWVzdGVyRmlyc3RRdW90ZShib29sZWFuIHZhbHVlKTsK</text>
+        <text encoding="base64">YWx0ZXIgdGFibGUgdXNlcl9pbmZvIGFkZCBjb2x1bW4gYmlkX2NvbnRyYWN0IGJvb2xlYW4gZGVmYXVsdCB0cnVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZHJvcCB0YWJsZSB1c2VyX3NldHRpbmdzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gc2NoZW1hX3ZlcnNpb24gd2hlcmUgaW5zdGFsbGVkX3JhbmsgPiA0MjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgZGQgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>@Test(expected = QuoteCompanyMismatchException.class)
-    public void getContract_WhenCompanyMismatch_ShouldThrowException() {
-        when(groupCompanyDao.get(QUOTE_ID)).thenReturn(withDefaultQuote());
-        UserEntity notOwner = withDefaultUser();
-        CompanyEntity company = new CompanyEntity();
-        company.setCompanyName(RESPONDER_COMPANY_NAME);
-        notOwner.setCompany(company);
-        when(userDao.get(USER_ID)).thenReturn(notOwner);
-
-        contractService.prepareContract(QUOTE_ID, USER_ID);
-
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
