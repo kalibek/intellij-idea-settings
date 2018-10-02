@@ -25,9 +25,9 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/NotAwardedQuoteMailSender.java" timestamp="1538374588238">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/NotAwardedQuoteMailSender.java" timestamp="1538457445877">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="26" />
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBeanTest.java" timestamp="1538380836232">
@@ -358,6 +358,12 @@
         <mark key="]" line="13" column="135" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/groovy/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/NotAwardedQuoteMailSenderSpec.groovy" timestamp="1538457535210">
+        <mark key="[" line="29" column="29" />
+        <mark key="]" line="29" column="45" />
+        <mark key="^" line="29" column="45" />
+        <mark key="." line="29" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/CalloffSingleMailSenderTestSuite.java" timestamp="1538374036223">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="67" />
@@ -526,8 +532,8 @@
       <register name="a" type="4">
         <text>UserEmailTemplateEntity</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>UserSettingsDao</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -541,8 +547,8 @@
       <register name="/" type="4">
         <text>CalloffMailTemplateEntity</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29udHJhY3REVE9NYXBwZXIgY29udHJhY3REVE9NYXBwZXI7Cg==</text>
+      <register name="0" type="4">
+        <text>UserSettingsDao</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
