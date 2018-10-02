@@ -39,9 +39,6 @@
         <mark key="^" line="9" column="51" />
         <mark key="." line="9" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1538366198234">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/mail/template/CalloffMailNotificationDTO.java" timestamp="1537959941572">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -148,11 +145,16 @@
         <mark key="]" line="2" column="36" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201810021347_18_12__FX_10330_requester_email_settings_default_values.sql" timestamp="1538466550299">
-        <mark key="[" line="1" column="27" />
-        <mark key="]" line="1" column="27" />
-        <mark key="." line="1" column="27" />
-        <mark key="^" line="2" column="37" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201809201113_18_12__FX_10330_requester_email_settings.sql" timestamp="1538470058377">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201810021347_18_12__FX_10330_requester_email_settings_default_values.sql" timestamp="1538470245689">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="32" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBean.java" timestamp="1538467088487">
         <mark key="'" line="62" column="43" />
@@ -222,9 +224,6 @@
         <mark key="." line="83" column="88" />
         <mark key="^" line="83" column="88" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/kalibek/api/.gitignore" timestamp="1537424286956">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/CalloffNotificationServiceTestSuite.java" timestamp="1538368523049">
         <mark key="[" line="102" column="53" />
         <mark key="]" line="103" column="32" />
@@ -278,9 +277,6 @@
         <mark key="." line="32" column="62" />
         <mark key="^" line="27" column="21" />
       </file>
-      <file name="/JavaScript Console" timestamp="1537783673029">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTestSuite.java" timestamp="1538381791575">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -292,19 +288,10 @@
         <mark key="^" line="13" column="52" />
         <mark key="." line="13" column="82" />
       </file>
-      <file name="/data.public.schema_migrations [data@localhost]" timestamp="1537430081193">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/SpotBiddingTopBarPresenter.java" timestamp="1537776917711">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="/sb_data.spot_data.email_template [sb_data@localhost]" timestamp="1537940716889">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1537943607959">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1538134700731">
         <mark key="[" line="0" column="0" />
@@ -402,9 +389,6 @@
         <mark key="]" line="49" column="48" />
         <mark key="^" line="48" column="8" />
         <mark key="." line="49" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1538374180107">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/IAccountSettingsView.java" timestamp="1538459389803">
         <mark key="'" line="22" column="37" />
@@ -520,8 +504,8 @@
       <register name="a" type="4">
         <text>mailRequesterPending</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZHJvcCBzZXF1ZW5jZSBjb250cmFjdF9kb2N1bWVudF9zZXE7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>boolean</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -530,40 +514,40 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>seq</text>
+        <text>boolean</text>
       </register>
       <register name="/" type="4">
         <text>CalloffMailTemplateEntity</text>
       </register>
-      <register name="0" type="4">
-        <text>user_settings</text>
+      <register name="0" type="2">
+        <text encoding="base64">YWx0ZXIgdGFibGUgJHtkYlNjaGVtYU5hbWV9LnVzZXJfc2V0dGluZ3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZHJvcCBzZXF1ZW5jZSBjb250cmFjdF9kb2N1bWVudF9zZXE7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZHJvcCBzZXF1ZW5jZSBjb250cmFjdF9kb2N1bWVudF9zZXE7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gc2NoZW1hX3ZlcnNpb24gd2hlcmUgaW5zdGFsbGVkX3JhbmsgPiA0MjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0IGRpc3RpbmN0IGJpZF9jb250cmFjdCBmcm9tIHVzZXJfaW5mbzsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgdXNlcl9pbmZvIGFkZCBjb2x1bW4gYmlkX2NvbnRyYWN0IGJvb2xlYW4gZGVmYXVsdCB0cnVlOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZHJvcCB0YWJsZSB1c2VyX3NldHRpbmdzOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ZGVsZXRlIGZyb20gc2NoZW1hX3ZlcnNpb24gd2hlcmUgaW5zdGFsbGVkX3JhbmsgPiA0MjsK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">c2VsZWN0IGRpc3RpbmN0IGJpZF9jb250cmFjdCBmcm9tIHVzZXJfaW5mbzsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">YWx0ZXIgdGFibGUgdXNlcl9pbmZvIGFkZCBjb2x1bW4gYmlkX2NvbnRyYWN0IGJvb2xlYW4gZGVmYXVsdCB0cnVlOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZHJvcCB0YWJsZSB1c2VyX3NldHRpbmdzOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gc2NoZW1hX3ZlcnNpb24gd2hlcmUgaW5zdGFsbGVkX3JhbmsgPiA0MjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
