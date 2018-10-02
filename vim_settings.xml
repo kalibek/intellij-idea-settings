@@ -358,11 +358,12 @@
         <mark key="]" line="13" column="135" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/groovy/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/NotAwardedQuoteMailSenderSpec.groovy" timestamp="1538457535210">
-        <mark key="[" line="29" column="29" />
-        <mark key="]" line="29" column="45" />
-        <mark key="^" line="29" column="45" />
-        <mark key="." line="29" column="45" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/groovy/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/NotAwardedQuoteMailSenderSpec.groovy" timestamp="1538458234870">
+        <mark key="'" line="63" column="44" />
+        <mark key="[" line="63" column="36" />
+        <mark key="]" line="63" column="38" />
+        <mark key="." line="63" column="38" />
+        <mark key="^" line="63" column="38" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/CalloffSingleMailSenderTestSuite.java" timestamp="1538374036223">
         <mark key="[" line="36" column="0" />
@@ -427,7 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="39" filename="$USER_HOME$/projects/tmp/web/src/styles.css" />
       <jump line="10" column="8" filename="$USER_HOME$/projects/tmp/web/src/app/app.component.html" />
       <jump line="24" column="38" filename="$USER_HOME$/projects/tmp/web/src/styles.css" />
       <jump line="26" column="0" filename="$USER_HOME$/projects/tmp/web/src/styles.css" />
@@ -527,13 +527,14 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" />
       <jump line="99" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/GroupStartedMailNotificationServiceTestSuite.java" />
       <jump line="70" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/NotAwardedQuoteMailSenderTest.java" />
+      <jump line="62" column="44" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/groovy/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/NotAwardedQuoteMailSenderSpec.groovy" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>UserEmailTemplateEntity</text>
       </register>
       <register name="&quot;" type="4">
-        <text>UserSettingsDao</text>
+        <text>null</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -542,7 +543,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>READY_USER_ID</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>CalloffMailTemplateEntity</text>
@@ -551,12 +552,15 @@
         <text>UserSettingsDao</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgZGQgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>@Test(expected = QuoteCompanyMismatchException.class)
     public void getContract_WhenCompanyMismatch_ShouldThrowException() {
         when(groupCompanyDao.get(QUOTE_ID)).thenReturn(withDefaultQuote());
@@ -570,23 +574,20 @@
 
     }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihiaSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIFVzZXJTZXR0aW5nc0VudGl0eSB3aXRoVXNlckVtYWlsU2V0dGluZ3MoYm9vbGVhbiBiKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihiaSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIFVzZXJTZXR0aW5nc0VudGl0eSB3aXRoVXNlckVtYWlsU2V0dGluZ3MoYm9vbGVhbiBiKSB7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHVzZXJTZXR0aW5nc0Rhby5nZXRPckNyZWF0ZShPV05FUl9JRCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHVzZXJTZXR0aW5nc0Rhby5nZXRPckNyZWF0ZShPV05FUl9JRCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
