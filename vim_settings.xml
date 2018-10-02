@@ -277,11 +277,11 @@
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="48" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1538473622785">
-        <mark key="[" line="24" column="62" />
-        <mark key="]" line="24" column="62" />
-        <mark key="." line="24" column="62" />
-        <mark key="^" line="24" column="61" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1538478715616">
+        <mark key="[" line="25" column="33" />
+        <mark key="]" line="25" column="33" />
+        <mark key="." line="25" column="33" />
+        <mark key="^" line="25" column="34" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" timestamp="1538475201134">
         <mark key="'" line="0" column="0" />
@@ -411,7 +411,7 @@
         <text>mailRequesterPending</text>
       </register>
       <register name="&quot;" type="4">
-        <text>strategy</text>
+        <text>s</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -420,7 +420,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>strategy</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>connect.webservice.authent.url</text>
