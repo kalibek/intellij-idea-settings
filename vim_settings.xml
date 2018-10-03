@@ -158,11 +158,11 @@
         <mark key="[" line="25" column="53" />
         <mark key="]" line="25" column="161" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/validation/UserEmailValidator.java" timestamp="1538563680039">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="17" column="52" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/validation/UserEmailValidator.java" timestamp="1538566548350">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="16" column="52" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/data.public.schema_migrations [data@localhost]" timestamp="1537430081193">
         <mark key="[" line="0" column="0" />
@@ -578,7 +578,7 @@
         <text>CalloffEmailSettingsEntity emailSettings,</text>
       </register>
       <register name="/" type="4">
-        <text>mail</text>
+        <text>CalloffMailTemplateDTO</text>
       </register>
       <register name="0" type="4">
         <text>saveUserMailTemplate</text>
@@ -607,19 +607,19 @@
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoZW1haWxTZXR0aW5ncy5pc0VtYWlsQXRMYXVuY2hlZCgpKSB7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTWV0aG9kQ2FsbGJhY2s8PiBjYWxsYmFjaw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/CalloffResty/UserEmailTemplateResty/g</text>
+        <text>%s/CalloffMailTemplateDTO/UserEmailTemplateDTO/g</text>
       </register>
     </registers>
     <search>
-      <last-search>mail</last-search>
+      <last-search>CalloffMailTemplateDTO</last-search>
       <last-offset />
-      <last-pattern>mail</last-pattern>
-      <last-replace>UserEmailTemplateResty</last-replace>
-      <last-substitute>CalloffResty</last-substitute>
+      <last-pattern>CalloffMailTemplateDTO</last-pattern>
+      <last-replace>UserEmailTemplateDTO</last-replace>
+      <last-substitute>CalloffMailTemplateDTO</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -641,10 +641,10 @@
         <entry>connect.webservice.authent.url</entry>
         <entry>getTemplates</entry>
         <entry>template</entry>
-        <entry>CalloffMailTemplateDTO</entry>
         <entry>CalloffMailNotificationDTO</entry>
         <entry>CalloffResty</entry>
         <entry>mail</entry>
+        <entry>CalloffMailTemplateDTO</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUgYm9vbGVhbiAvQ3VzdG9tQ2hlY2tCb3ggL2c=</entry>
@@ -663,10 +663,10 @@
         <entry>%s/CalloffMailTemplateEntity/UserEmailTemplateEntity/g</entry>
         <entry>we</entry>
         <entry>w</entry>
-        <entry>%s/CalloffMailTemplateDTO/UserEmailTemplateDTO/g</entry>
         <entry>%s/CalloffMailNotificationDTO/UserEmailNotificationDTO/g</entry>
         <entry>$s/CalloffResty/UserEmailTemplateResty/g</entry>
         <entry>%s/CalloffResty/UserEmailTemplateResty/g</entry>
+        <entry>%s/CalloffMailTemplateDTO/UserEmailTemplateDTO/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
