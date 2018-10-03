@@ -88,6 +88,10 @@
         <mark key="^" line="144" column="30" />
         <mark key="." line="144" column="31" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/validation/EmailTemplateValidator.java" timestamp="1538567211271">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="139" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBean.java" timestamp="1538560733633">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="96" column="43" />
@@ -158,11 +162,12 @@
         <mark key="[" line="25" column="53" />
         <mark key="]" line="25" column="161" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/validation/UserEmailValidator.java" timestamp="1538566548350">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="16" column="52" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/validation/UserEmailValidator.java" timestamp="1538567258271">
+        <mark key="'" line="17" column="76" />
+        <mark key="[" line="22" column="69" />
+        <mark key="]" line="23" column="23" />
+        <mark key="." line="23" column="23" />
+        <mark key="^" line="23" column="23" />
       </file>
       <file name="/data.public.schema_migrations [data@localhost]" timestamp="1537430081193">
         <mark key="[" line="0" column="0" />
@@ -310,12 +315,6 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/calloff/CalloffEntity.java" timestamp="1538545478621">
-        <mark key="'" line="48" column="13" />
-        <mark key="[" line="495" column="0" />
-        <mark key="]" line="495" column="0" />
-        <mark key="." line="495" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ec897bdf-2e44-4bea-9b07-7f7d369ca76b/console.sql" timestamp="1538471651646">
         <mark key="[" line="22" column="44" />
         <mark key="]" line="22" column="61" />
@@ -460,7 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="17" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" />
       <jump line="70" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" />
       <jump line="19" column="6" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" />
       <jump line="84" column="20" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" />
@@ -560,13 +558,14 @@
       <jump line="128" column="15" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/UserEmailNotificationPresenter.java" />
       <jump line="134" column="42" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/UserEmailNotificationPresenter.java" />
       <jump line="92" column="40" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/calloff/CalloffService.java" />
+      <jump line="16" column="76" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/validation/UserEmailValidator.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>IUserEmailNotificationView</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -575,51 +574,54 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>CalloffEmailSettingsEntity emailSettings,</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>CalloffMailTemplateDTO</text>
+        <text>CalloffMailTemplateEntity</text>
       </register>
       <register name="0" type="4">
-        <text>saveUserMailTemplate</text>
+        <text>templateEntry.getKey().</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW1haWxTZXR0aW5ncy5pc0VtYWlsQXRRdW90ZUF3YXJkZWQoKSkgewo=</text>
+      <register name="2" type="4">
+        <text>validateCalloffEmailTemplates(currentMailTemplates, NotificationType.CALLOFF_LAUNCHED);
+        validateCalloffEmailTemplates(currentMailTemplates, NotificationType.GROUP_STARTED);
+        validateCalloffEmailTemplates(currentMailTemplates, NotificationType.CALLOFF_CANCELLED);
+        validateCalloffEmailTemplates(currentMailTemplates, NotificationType.QUOTE_AWARDED);</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW1haWxTZXR0aW5ncy5pc0VtYWlsQXRDYWxsb2ZmQ2FuY2VsbGVkKCkpIHsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB2YWxpZGF0ZUNhbGxvZmZFbWFpbFRlbXBsYXRlcyhNYXA8RW1haWxUZW1wbGF0ZVR5cGUsIFVzZXJFbWFpbFRlbXBsYXRlRW50aXR5PiBjdXJyZW50TWFpbFRlbXBsYXRlcywgTm90aWZpY2F0aW9uVHlwZSBidXNpbmVzcykgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLnNwb3RiaWRkaW5nLmRvbWFpbi5lbnRpdHkuY2FsbG9mZi5Vc2VyRW1haWxUZW1wbGF0ZUVudGl0eTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW1haWxTZXR0aW5ncy5pc0VtYWlsQXRHcm91cFN0YXJ0ZWQoKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW1haWxTZXR0aW5ncy5pc0VtYWlsQXRRdW90ZUF3YXJkZWQoKSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW1haWxTZXR0aW5ncy5pc0VtYWlsQXRMYXVuY2hlZCgpKSB7Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZW1haWxTZXR0aW5ncy5pc0VtYWlsQXRDYWxsb2ZmQ2FuY2VsbGVkKCkpIHsK</text>
+      </register>
       <register name=":" type="4">
-        <text>%s/CalloffMailTemplateDTO/UserEmailTemplateDTO/g</text>
+        <text>%s/CalloffMailTemplateEntity/UserEmailTemplateEntity/g</text>
       </register>
     </registers>
     <search>
-      <last-search>CalloffMailTemplateDTO</last-search>
+      <last-search>CalloffMailTemplateEntity</last-search>
       <last-offset />
-      <last-pattern>CalloffMailTemplateDTO</last-pattern>
-      <last-replace>UserEmailTemplateDTO</last-replace>
-      <last-substitute>CalloffMailTemplateDTO</last-substitute>
+      <last-pattern>CalloffMailTemplateEntity</last-pattern>
+      <last-replace>UserEmailTemplateEntity</last-replace>
+      <last-substitute>CalloffMailTemplateEntity</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -636,7 +638,6 @@
         <entry>repost</entry>
         <entry>Calloff</entry>
         <entry>own</entry>
-        <entry>CalloffMailTemplateEntity</entry>
         <entry>E121</entry>
         <entry>connect.webservice.authent.url</entry>
         <entry>getTemplates</entry>
@@ -645,6 +646,7 @@
         <entry>CalloffResty</entry>
         <entry>mail</entry>
         <entry>CalloffMailTemplateDTO</entry>
+        <entry>CalloffMailTemplateEntity</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUgYm9vbGVhbiAvQ3VzdG9tQ2hlY2tCb3ggL2c=</entry>
@@ -660,13 +662,13 @@
         <entry>%s/Calloff/User/g</entry>
         <entry encoding="base64">JzwsJz5zL0NhbGxvZmZNYWlsVGVtcGxhdGVFbnRpdHkvVXNlck1haWxUZW1wbGF0ZUVudGl0eS9n</entry>
         <entry encoding="base64">JzwsJz5zL0NhbGxvZmZNYWlsVGVtcGxhdGVFbnRpdHkvVXNlckVtYWlsVGVtcGxhdGVFbnRpdHkvZw==</entry>
-        <entry>%s/CalloffMailTemplateEntity/UserEmailTemplateEntity/g</entry>
         <entry>we</entry>
         <entry>w</entry>
         <entry>%s/CalloffMailNotificationDTO/UserEmailNotificationDTO/g</entry>
         <entry>$s/CalloffResty/UserEmailTemplateResty/g</entry>
         <entry>%s/CalloffResty/UserEmailTemplateResty/g</entry>
         <entry>%s/CalloffMailTemplateDTO/UserEmailTemplateDTO/g</entry>
+        <entry>%s/CalloffMailTemplateEntity/UserEmailTemplateEntity/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
