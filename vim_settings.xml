@@ -40,12 +40,11 @@
         <mark key="." line="2408" column="49" />
         <mark key="^" line="2424" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/mail/template/UserEmailTemplateDTO.java" timestamp="1538562506044">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/mail/template/UserEmailTemplateDTO.java" timestamp="1538632767021">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="9" column="85" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/QuoteAwardedNotificationServiceBean.java" timestamp="1538474859226">
         <mark key="[" line="34" column="0" />
@@ -346,6 +345,12 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/calloff/CalloffEntity.java" timestamp="1538545478621">
+        <mark key="'" line="48" column="13" />
+        <mark key="[" line="495" column="0" />
+        <mark key="]" line="495" column="0" />
+        <mark key="." line="495" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/message/MailMessageDrivenBean.java" timestamp="1538476638179" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ec897bdf-2e44-4bea-9b07-7f7d369ca76b/console.sql" timestamp="1538471651646">
         <mark key="[" line="22" column="44" />
@@ -607,8 +612,8 @@
       <register name="a" type="4">
         <text>IUserEmailNotificationView</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgbG9uZyB1c2VySWQ7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -626,15 +631,18 @@
         <text>MailTemplateStatusDTO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTGlua0l0ZW0uTElOS19UT19CSUQuZ2V0VGFnKCksCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbG9uZyB1c2VySWQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTGlua0l0ZW0uTElOS19UT19CSUQuZ2V0VGFnKCksCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgc2VyaWFsVmVyc2lvblVJRCA9IC0zMjQ1MDA1Mkw7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>public Long getCalloffId() {
         return calloffId;
     }
@@ -643,20 +651,17 @@
         this.calloffId = calloffId;
     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBjYWxsb2ZmSWQ7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGVtcGxhdGVFbnRyeS5nZXRLZXkoKS5nZXRCdXNpbmVzc1B1cnBvc2UoKSwK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDYWxsb2ZmTWFpbFRlbXBsYXRlU3RhdHVzRFRPKFN0cmluZyBjb2RlLCBOb3RpZmljYXRpb25UeXBlIGJ1c2luZXNzUHVycG9zZSwgU3RyaW5nIHRhZykgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/CalloffMailTemplateEntity/UserEmailTemplateEntity/g</text>
