@@ -29,6 +29,9 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/CalloffMailTemplateServiceBean.java" timestamp="1538736436218">
+        <mark key="'" line="129" column="56" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/UserEmailNotificationPresenter.java" timestamp="1538735573949">
         <mark key="'" line="154" column="49" />
         <mark key="[" line="151" column="80" />
@@ -36,12 +39,12 @@
         <mark key="." line="151" column="93" />
         <mark key="^" line="151" column="93" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBean.java" timestamp="1538724006421">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBean.java" timestamp="1538737210793">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-        <mark key="^" line="116" column="52" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+        <mark key="^" line="128" column="52" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/mail/template/CalloffMailTemplateStatusDTO.java" timestamp="1538630605790">
         <mark key="[" line="13" column="0" />
@@ -315,7 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/AccountSettingsPresenter.java" />
       <jump line="19" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/AccountSettingsPresenter.java" />
       <jump line="21" column="37" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/IAccountSettingsView.java" />
       <jump line="101" column="65" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/EmailWidget.java" />
@@ -415,13 +417,14 @@
       <jump line="756" column="11" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="1459" column="31" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
       <jump line="1460" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" />
+      <jump line="129" column="56" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/CalloffMailTemplateServiceBean.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>UserEmailTemplateServiceRemote</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>EmailTemplate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -430,49 +433,49 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>EmailTemplate</text>
+        <text>templates</text>
       </register>
       <register name="/" type="4">
-        <text>email_tem</text>
+        <text>save</text>
       </register>
-      <register name="0" type="4">
-        <text>checkSelectedLocaleAndGetTemplate</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPEVtYWlsVGVtcGxhdGVUeXBlLCBVc2VyRW1haWxUZW1wbGF0ZUVudGl0eT4gY2hhbmdlZCA9IHRlbXBsYXRlcy5zdHJlYW0oKS5jb2xsZWN0KENvbGxlY3RvcnMudG9NYXAoVXNlckVtYWlsVGVtcGxhdGVFbnRpdHk6OmdldEVtYWlsVHlwZSwgdSAtPiB1KSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmVtYWlsVGVtcGxhdGUgPSBlbWFpbFRlbXBsYXRlOwo=</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZXMucHV0QWxsKGNvbnZlcnRFbWFpbE5vdGlmaWNhdGlvbih1c2VyLCBtYWlsTm90aWZpY2F0aW9uKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEVtYWlsVGVtcGxhdGUoU3RyaW5nIGVtYWlsVGVtcGxhdGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICBNYXA8RW1haWxUZW1wbGF0ZVR5cGUsIFVzZXJFbWFpbFRlbXBsYXRlRW50aXR5PiB0ZW1wbGF0ZXMgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZW1haWxUZW1wbGF0ZTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">cHJpdmF0ZSBNYXA8RW1haWxUZW1wbGF0ZVR5cGUsIFVzZXJFbWFpbFRlbXBsYXRlRW50aXR5PiBjb252ZXJ0RW1haWxOb3RpZmljYXRpb24oVXNlckVudGl0eSB1c2VyLCBVc2VyRW1haWxOb3RpZmljYXRpb25EVE8gbWFpbE5vdGlmaWNhdGlvbikgewogICAgICAgIE1hcDxFbWFpbFRlbXBsYXRlVHlwZSwgVXNlckVtYWlsVGVtcGxhdGVFbnRpdHk+CiAgICAgICAgcmV0dXJuIHRlbXBsYXRlcy5lbnRyeVNldCgpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKGUgLT4gewogICAgICAgICAgICAgICAgICAgIFVzZXJFbWFpbFRlbXBsYXRlRW50aXR5IHRlbXBsYXRlRW50aXR5ID0gdXNlckVtYWlsVGVtcGxhdGVNYXBwZXIubWFwKGUuZ2V0VmFsdWUoKSwgdXNlcik7CiAgICAgICAgICAgICAgICAgICAgdGVtcGxhdGVFbnRpdHkuZ2V0RW1haWxUeXBlKCkuc2V0TG9jYWxlKGxvY2FsZVNlcnZpY2UuZ2V0QnlDb2RlKGUuZ2V0S2V5KCkpKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdGVtcGxhdGVFbnRpdHk7CiAgICAgICAgICAgICAgICB9KS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0RW1haWxUZW1wbGF0ZSgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmVtYWlsVGVtcGxhdGUgPSBlbWFpbFRlbXBsYXRlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlci5nZXRUZW1wbGF0ZXMoKS5jbGVhcigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>email_tem</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>email_tem</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace>UserEmailTemplateEntity</last-replace>
       <last-substitute>CalloffMailTemplateEntity</last-substitute>
       <last-dir>1</last-dir>
@@ -480,8 +483,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Calloff</entry>
-        <entry>own</entry>
         <entry>E121</entry>
         <entry>connect.webservice.authent.url</entry>
         <entry>getTemplates</entry>
@@ -500,6 +501,8 @@
         <entry>userDao</entry>
         <entry>scm</entry>
         <entry>email_tem</entry>
+        <entry>sve</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUgYm9vbGVhbiAvQ3VzdG9tQ2hlY2tCb3ggL2c=</entry>
