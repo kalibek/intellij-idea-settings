@@ -23,15 +23,13 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-utils/src/main/java/com/wktransportservices/spotbidding/utils/config/ConfigUtils.java" timestamp="1538716650872" />
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/UserEmailNotificationPresenter.java" timestamp="1538726654713">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/UserEmailNotificationPresenter.java" timestamp="1538734220228">
         <mark key="'" line="154" column="49" />
-        <mark key="[" line="136" column="32" />
-        <mark key="]" line="136" column="35" />
-        <mark key="." line="136" column="35" />
-        <mark key="^" line="136" column="35" />
+        <mark key="[" line="151" column="56" />
+        <mark key="]" line="151" column="79" />
+        <mark key="." line="151" column="79" />
+        <mark key="^" line="151" column="79" />
       </file>
-      <file name="/environment_local.properties" timestamp="1538717678798" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBean.java" timestamp="1538724006421">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="122" column="0" />
@@ -45,7 +43,6 @@
         <mark key="^" line="14" column="10" />
         <mark key="." line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/messages/client/EsbClientWrapper.java" timestamp="1538717669482" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/GroupStartedMailNotificationServiceTestSuite.java" timestamp="1538651245018">
         <mark key="'" line="113" column="0" />
         <mark key="[" line="80" column="36" />
@@ -79,12 +76,11 @@
         <mark key="." line="34" column="30" />
         <mark key="^" line="32" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/validation/UserEmailValidator.java" timestamp="1538723988631">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/validation/UserEmailValidator.java" timestamp="1538733875572">
         <mark key="'" line="11" column="76" />
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="18" column="33" />
-        <mark key="^" line="17" column="46" />
-        <mark key="." line="18" column="33" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/EmailWidget.java" timestamp="1538647158775">
         <mark key="'" line="115" column="12" />
@@ -221,6 +217,12 @@
         <mark key="]" line="23" column="32" />
         <mark key="^" line="23" column="32" />
         <mark key="." line="23" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/mail/template/MailTemplateStatusDTO.java" timestamp="1538734654800">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="35" />
+        <mark key="^" line="11" column="35" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateMapper.java" timestamp="1538714914085">
         <mark key="[" line="26" column="90" />
@@ -374,7 +376,7 @@
         <text>UserEmailTemplateServiceRemote</text>
       </register>
       <register name="&quot;" type="4">
-        <text>release/18.10.1</text>
+        <text>EmailTemplate</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -383,7 +385,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>release/18.10.1</text>
+        <text>EmailTemplate</text>
       </register>
       <register name="/" type="4">
         <text>scm</text>
@@ -392,39 +394,31 @@
         <text>checkSelectedLocaleAndGetTemplate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWFpbFRlbXBsYXRlU3RhdHVzRFRPOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgTWFwPFN0cmluZywgVXNlckVtYWlsVGVtcGxhdGVEVE8+IGdldFRlbXBsYXRlcyhOb3RpZmljYXRpb25UeXBlIG5vdGlmaWNhdGlvblR5cGUpIHsKICAgICAgICByZXR1cm4gdGVtcGxhdGVzLmdldChub3RpZmljYXRpb25UeXBlKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGFkZFRlbXBsYXRlcyhOb3RpZmljYXRpb25UeXBlIG5vdGlmaWNhdGlvblR5cGUsIE1hcDxTdHJpbmcsIFVzZXJFbWFpbFRlbXBsYXRlRFRPPiBsb2NhbGVUZW1wbGF0ZXMpIHsKICAgICAgICBNYXA8U3RyaW5nLCBVc2VyRW1haWxUZW1wbGF0ZURUTz4gbm90aWZpY2F0aW9uVGVtcGxhdGUgPSB0ZW1wbGF0ZXMuZ2V0KG5vdGlmaWNhdGlvblR5cGUpOwogICAgICAgIGlmIChsb2NhbGVUZW1wbGF0ZXMgIT0gbnVsbCAmJiAhbG9jYWxlVGVtcGxhdGVzLmlzRW1wdHkoKSkgewogICAgICAgICAgICBmb3IgKE1hcC5FbnRyeTxTdHJpbmcsIFVzZXJFbWFpbFRlbXBsYXRlRFRPPiBsb2NhbGVUZW1wbGF0ZSA6IGxvY2FsZVRlbXBsYXRlcy5lbnRyeVNldCgpKSB7CiAgICAgICAgICAgICAgICBub3RpZmljYXRpb25UZW1wbGF0ZS5wdXQobG9jYWxlVGVtcGxhdGUuZ2V0S2V5KCksIGxvY2FsZVRlbXBsYXRlLmdldFZhbHVlKCkpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">cHJpdmF0ZSB2b2lkIHJldHJpZXZlQWxsTG9jYWxlcygpIHsKICAgICAgICBMb2NhbGVSZXN0eSBzZXJ2aWNlID0gR1dULmNyZWF0ZShMb2NhbGVSZXN0eS5jbGFzcyk7CiAgICAgICAgc2VydmljZS5yZXRyaWV2ZUFsbExvY2FsZXMoCiAgICAgICAgICAgICAgICBuZXcgTWV0aG9kQ2FsbGJhY2s8TGlzdDxMb2NhbGU+PigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkZhaWx1cmUoTWV0aG9kIG1ldGhvZCwgVGhyb3dhYmxlIGV4Y2VwdGlvbikgewogICAgICAgICAgICAgICAgICAgICAgICBXaW5kb3cuYWxlcnQoUHJvcGVydGllc1NpbmdsZXRvbi5JTlNUQU5DRS5jb3VsZF9ub3RfbG9hZF9sb2NhbGVzKCkpOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25TdWNjZXNzKE1ldGhvZCBtZXRob2QsIExpc3Q8TG9jYWxlPiBsb2NhbGVzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZpZXcuZmlsbExvY2FsZUJ1dHRvbnMobG9jYWxlcyk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICk7CiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmVtYWlsVGVtcGxhdGUgPSBlbWFpbFRlbXBsYXRlOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>Alert.show(
-                            PropertiesSingleton.INSTANCE.save_success_title(),
-                            PropertiesSingleton.INSTANCE.save_success()
-                    );</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEVtYWlsVGVtcGxhdGUoU3RyaW5nIGVtYWlsVGVtcGxhdGUpIHsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>@Override
-    public void save(boolean stepChanged) {
-        UserEmailNotificationDTO mailNotification = view.getMailNotification();
-
-        saveMailNotification(mailNotification);
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZW1haWxUZW1wbGF0ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0RW1haWxUZW1wbGF0ZSgpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkIGFkZFRlbXBsYXRlKE5vdGlmaWNhdGlvblR5cGUgbm90aWZpY2F0aW9uVHlwZSwgU3RyaW5nIGxvY2FsZUNvZGUsIFVzZXJFbWFpbFRlbXBsYXRlRFRPIG1haWxUZW1wbGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmVtYWlsVGVtcGxhdGUgPSBlbWFpbFRlbXBsYXRlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
