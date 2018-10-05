@@ -70,6 +70,7 @@
         <mark key="." line="57" column="22" />
         <mark key="^" line="57" column="17" />
       </file>
+      <file name="/environment_local.properties" timestamp="1538717678798" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBean.java" timestamp="1538715194602">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="122" column="0" />
@@ -88,6 +89,7 @@
         <mark key="^" line="14" column="10" />
         <mark key="." line="14" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/messages/client/EsbClientWrapper.java" timestamp="1538717669482" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/dao/UserEmailTemplatesDao.java" timestamp="1538638013257">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
