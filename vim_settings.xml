@@ -201,12 +201,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/tmp/app.js" timestamp="1538987416774">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="7" column="24" />
-        <mark key="." line="7" column="24" />
+      <file name="$USER_HOME$/projects/tmp/app.js" timestamp="1538989737582">
+        <mark key="'" line="40" column="47" />
+        <mark key="[" line="40" column="26" />
+        <mark key="]" line="40" column="27" />
+        <mark key="." line="40" column="27" />
+        <mark key="^" line="39" column="40" />
       </file>
       <file name="/CalloffMailNotificationPresenter.java" timestamp="1538647793257">
         <mark key="'" line="98" column="16" />
@@ -335,10 +335,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/tmp/init.js" timestamp="1538987371338">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="17" />
+      <file name="$USER_HOME$/projects/tmp/init.js" timestamp="1538989795750">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
         <mark key="^" line="9" column="17" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/mail/UserMailTemplateService.java" timestamp="1538561098053">
@@ -449,7 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" />
       <jump line="2" column="12" filename="$USER_HOME$/projects/fx/fx-connect/src/main/java/com/wktransportservices/fx/connect/etc/utils/ErrorCodeToLabel.java" />
       <jump line="175" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" />
@@ -549,13 +548,14 @@
       <jump line="29" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/tmp/app.js" />
       <jump line="9" column="0" filename="$USER_HOME$/projects/tmp/app.js" />
+      <jump line="40" column="47" filename="$USER_HOME$/projects/tmp/app.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>UserEmailTemplateServiceRemote</text>
       </register>
       <register name="&quot;" type="4">
-        <text>drawing</text>
+        <text>0</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -564,57 +564,56 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>drawing</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>Selec</text>
+        <text>x</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">RHJhd2FibGUucHJvdG90eXBlLmRyYXcgPSBmdW5jdGlvbiAoY3R4KSB7CiAgICBjb25zb2xlLmxvZygiZHJhd2luZyAiICsgdGhpcykKfTsK</text>
+        <text encoding="base64">ID0gdGhpcy54IDwgODAwID8gdGhpcy54ICsgMSA6IDA7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZih0aGlzLnggPCAxMDApIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">Y29uc3RydWN0b3IoY3R4KSB7CiAgICAgICAgc3VwZXIoKTsKICAgICAgICB0aGlzLmN0eCA9IGN0eDsKICAgIH0K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIH07Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLngrKzsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNhbGN1bGF0ZSgpIHsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNhbGN1bGF0ZSgpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmN0eC5maWxsUmVjdCh0aGlzLngsIHRoaXMueSwgMTUwLCA3NSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNhbGN1bGF0ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Selec</last-search>
+      <last-search>x</last-search>
       <last-offset />
-      <last-pattern>Selec</last-pattern>
-      <last-replace>UserEmailTemplateEntity</last-replace>
-      <last-substitute>CalloffMailTemplateEntity</last-substitute>
+      <last-pattern>x</last-pattern>
+      <last-replace>y</last-replace>
+      <last-substitute>x</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getTemplates</entry>
         <entry>template</entry>
         <entry>CalloffMailNotificationDTO</entry>
         <entry>CalloffResty</entry>
@@ -634,9 +633,9 @@
         <entry>save</entry>
         <entry>TemplateVisibilityChangeHandler</entry>
         <entry>Selec</entry>
+        <entry>x</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3ByaXZhdGUgYm9vbGVhbiAvQ3VzdG9tQ2hlY2tCb3ggL2c=</entry>
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz5zL1tFUlJPUl0vL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0Jvby9ib28vZw==</entry>
@@ -655,6 +654,7 @@
         <entry>%s/CalloffResty/UserEmailTemplateResty/g</entry>
         <entry>%s/CalloffMailTemplateDTO/UserEmailTemplateDTO/g</entry>
         <entry>%s/CalloffMailTemplateEntity/UserEmailTemplateEntity/g</entry>
+        <entry encoding="base64">JzwsJz5zL3gveS9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
