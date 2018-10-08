@@ -234,7 +234,7 @@
         <mark key="^" line="9" column="51" />
         <mark key="." line="9" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/CalloffNotificationServiceBean.java" timestamp="1538651198158">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/CalloffNotificationServiceBean.java" timestamp="1538992292810">
         <mark key="'" line="38" column="7" />
         <mark key="[" line="40" column="36" />
         <mark key="]" line="40" column="40" />
@@ -424,11 +424,11 @@
         <mark key="." line="37" column="40" />
         <mark key="^" line="37" column="40" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1538978569820">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1538992370594">
         <mark key="'" line="31" column="16" />
-        <mark key="[" line="25" column="43" />
-        <mark key="]" line="25" column="51" />
-        <mark key="." line="25" column="51" />
+        <mark key="[" line="32" column="46" />
+        <mark key="]" line="32" column="47" />
+        <mark key="." line="32" column="46" />
         <mark key="^" line="25" column="51" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTest.java" timestamp="1538380817814">
@@ -555,7 +555,7 @@
         <text>UserEmailTemplateServiceRemote</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>CALLOFF_LAUNCHED</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -564,7 +564,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>CALLOFF_LAUNCHED</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
