@@ -405,6 +405,13 @@
         <mark key="." line="37" column="40" />
         <mark key="^" line="37" column="40" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1538978569820">
+        <mark key="'" line="31" column="16" />
+        <mark key="[" line="25" column="43" />
+        <mark key="]" line="25" column="51" />
+        <mark key="." line="25" column="51" />
+        <mark key="^" line="25" column="51" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTest.java" timestamp="1538380817814">
         <mark key="[" line="30" column="36" />
         <mark key="]" line="49" column="48" />
@@ -423,7 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/NotAwardedQuoteMailSenderTest.java" />
       <jump line="62" column="44" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/groovy/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/NotAwardedQuoteMailSenderSpec.groovy" />
       <jump line="63" column="4" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/AccountSettingsPresenter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
@@ -523,13 +529,14 @@
       <jump line="110" column="52" filename="/CalloffMailNotificationView.java" />
       <jump line="128" column="51" filename="/CalloffMailNotificationView.java" />
       <jump line="129" column="66" filename="/CalloffMailNotificationView.java" />
+      <jump line="29" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>UserEmailTemplateServiceRemote</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHx8IG5vdGlmaWNhdGlvblR5cGUgPT0gQ0FMTE9GRl9MQVVOQ0hFRA==</text>
+        <text>title</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -538,40 +545,40 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8IG5vdGlmaWNhdGlvblR5cGUgPT0gQ0FMTE9GRl9MQVVOQ0hFRA==</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
         <text>Selec</text>
       </register>
       <register name="0" type="4">
-        <text>TemplateVisibilityChangeHandler</text>
+        <text>name, title, business_purpose, content, locale_id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gZW1haWxfdGVtcGxhdGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZvaWQgcHJlcGFyZVRhYnMoKQo=</text>
+        <text encoding="base64">Q0FMTE9GRl9MQVVOQ0hFRAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmlldy5wcmVwYXJlVGFicygpOwo=</text>
+        <text encoding="base64">ICAgIHZvaWQgcHJlcGFyZVRhYnMoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3LnByZXBhcmVUYWJzKCk7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXRyaWV2ZUFsbExvY2FsZXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmlldy5wcmVwYXJlVGFicygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2aWV3LnByZXBhcmVUYWJzKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbERyYWZ0cy5hZGQocHJvcGVydGllcy50YWIsIHByb3BlcnRpZXMudGl0bGUsIHdpdGhTZWxlY3Rpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXRyaWV2ZUFsbExvY2FsZXMoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja1NlbGVjdGVkTG9jYWxlQW5kR2V0VGVtcGxhdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
