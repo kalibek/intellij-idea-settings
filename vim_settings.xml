@@ -37,7 +37,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/tmp/gen/bootstrap.js" timestamp="1539100105559">
+      <file name="$USER_HOME$/projects/tmp/gen/bootstrap.js" timestamp="1539100668418">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="14" column="24" />
         <mark key="^" line="7" column="10" />
@@ -48,12 +48,12 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/tmp/gen/app.js" timestamp="1539100463597">
-        <mark key="'" line="15" column="41" />
-        <mark key="[" line="55" column="32" />
-        <mark key="]" line="55" column="45" />
-        <mark key="." line="55" column="45" />
-        <mark key="^" line="55" column="45" />
+      <file name="$USER_HOME$/projects/tmp/gen/app.js" timestamp="1539101292487">
+        <mark key="'" line="45" column="36" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="29" column="41" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="3" column="21" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/fax/SendFaxServlet.java" timestamp="1539092650490">
         <mark key="[" line="46" column="0" />
@@ -214,11 +214,12 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/tmp/gen/dot.js" timestamp="1539100143880">
-        <mark key="'" line="35" column="10" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/projects/tmp/gen/dot.js" timestamp="1539101117479">
+        <mark key="'" line="39" column="10" />
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+        <mark key="^" line="29" column="21" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/CalloffLaunchedNotificationServiceBean.java" timestamp="1538474828250">
         <mark key="[" line="24" column="0" />
@@ -503,11 +504,12 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="156" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/tmp/gen/brain.js" timestamp="1539100490818">
+      <file name="$USER_HOME$/projects/tmp/gen/brain.js" timestamp="1539101201607">
         <mark key="'" line="3" column="3" />
-        <mark key="[" line="25" column="33" />
-        <mark key="]" line="25" column="34" />
-        <mark key="." line="25" column="34" />
+        <mark key="[" line="10" column="51" />
+        <mark key="]" line="10" column="52" />
+        <mark key="." line="10" column="52" />
+        <mark key="^" line="10" column="46" />
       </file>
       <file name="/Dummy.txt" timestamp="1538996091841">
         <mark key="[" line="0" column="0" />
@@ -576,9 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/mail/template/UserEmailTemplateDTO.java" />
-      <jump line="424" column="31" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/calloff/CalloffService.java" />
-      <jump line="9" column="52" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/calloff/CalloffService.java" />
       <jump line="28" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBean.java" />
       <jump line="4" column="61" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/IUserEmailNotificationView.java" />
       <jump line="115" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/EmailWidget.java" />
@@ -676,13 +675,16 @@
       <jump line="48" column="0" filename="$USER_HOME$/projects/tmp/gen/app.js" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/tmp/gen/app.js" />
       <jump line="15" column="41" filename="$USER_HOME$/projects/tmp/gen/app.js" />
+      <jump line="55" column="45" filename="$USER_HOME$/projects/tmp/gen/app.js" />
+      <jump line="62" column="17" filename="$USER_HOME$/projects/tmp/gen/app.js" />
+      <jump line="45" column="36" filename="$USER_HOME$/projects/tmp/gen/app.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>UserEmailTemplateServiceRemote</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYG11dGF0aW9uUHJvYiAke211dGF0aW9uUHJvYn1gKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IG1vdmUgPSBkLmJyYWluLmdldE1vdmUoZC5zdGVwKTsKICAgICAgICAgICAgZC5tb3ZlKG1vdmUuZHgsIG1vdmUuZHkpOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -691,40 +693,40 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
       </register>
-      <register name="0" type="4">
-        <text>MAX_POPULATION</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3R4LmZpbGxTdHlsZSA9ICIjZjAwIjsKICAgICAgICAgICAgY3R4LmZpbGxSZWN0KHRoaXMueCwgdGhpcy55LCA1LCA1KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYG11dGF0aW9uUHJvYiAke211dGF0aW9uUHJvYn1gKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IG1vdmUgPSBkLmJyYWluLmdldE1vdmUoZC5zdGVwKTsKICAgICAgICAgICAgZC5tb3ZlKG1vdmUuZHgsIG1vdmUuZHkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygibXV0YXRpbmciKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYG11dGF0aW9uUHJvYiAke211dGF0aW9uUHJvYn1gKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJtdXRhdGluZyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygibXV0YXRpbmciKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJtdXRhdGluZyIpOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgeDogJHt0aGlzLnh9IC0gJHtnb2FsLnh9LCB5OiAke3RoaXMueX0gLSAke2dvYWwueX0sIGYgPSAkezEuMCAvIHRoaXMuZGlzdGFuY2VUbyhnb2FsKX1gKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJtdXRhdGluZyIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgeDogJHt0aGlzLnh9IC0gJHtnb2FsLnh9LCB5OiAke3RoaXMueX0gLSAke2dvYWwueX0sIGYgPSAkezEuMCAvIHRoaXMuZGlzdGFuY2VUbyhnb2FsKX1gKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgeDogJHt0aGlzLnh9IC0gJHtnb2FsLnh9LCB5OiAke3RoaXMueX0gLSAke2dvYWwueX0sIGApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgeDogJHt0aGlzLnh9IC0gJHtnb2FsLnh9LCB5OiAke3RoaXMueX0gLSAke2dvYWwueX0sIGApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
