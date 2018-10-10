@@ -171,6 +171,13 @@
         <mark key="]" line="201" column="0" />
         <mark key="." line="201" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1539150174668">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="163" column="30" />
+        <mark key="]" line="163" column="30" />
+        <mark key="^" line="167" column="0" />
+        <mark key="." line="163" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/validation/UserEmailValidator.java" timestamp="1538733875572">
         <mark key="'" line="11" column="76" />
         <mark key="[" line="18" column="0" />
@@ -600,7 +607,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="61" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/IUserEmailNotificationView.java" />
       <jump line="115" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/EmailWidget.java" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/mail/template/UserEmailTemplateDTO.java" />
       <jump line="61" column="16" filename="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/mail/template/CalloffMailNotificationDTO.java" />
@@ -700,13 +706,14 @@
       <jump line="62" column="17" filename="$USER_HOME$/projects/tmp/gen/app.js" />
       <jump line="45" column="36" filename="$USER_HOME$/projects/tmp/gen/app.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-ear/pom.xml" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>UserEmailTemplateServiceRemote</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -715,7 +722,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>FeatureDTO</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ngmp</text>
