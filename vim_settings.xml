@@ -70,6 +70,11 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fx/pom.xml" timestamp="1539147501851">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbSOAPClient.java" timestamp="1539093294699">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -398,10 +403,10 @@
         <mark key="." line="1" column="22" />
       </file>
       <file name="$USER_HOME$/projects/fx/ngmp-router/pom.xml" timestamp="1539144796861">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
         <mark key="^" line="109" column="19" />
-        <mark key="." line="141" column="0" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/Alert.java" timestamp="1537786884714">
         <mark key="[" line="7" column="4" />
@@ -695,7 +700,7 @@
         <text>UserEmailTemplateServiceRemote</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPm5nbXAtcm91dGVyPC9tb2R1bGU+Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -713,31 +718,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY3R4LmZpbGxTdHlsZSA9ICIjZjAwIjsKICAgICAgICAgICAgY3R4LmZpbGxSZWN0KHRoaXMueCwgdGhpcy55LCA1LCA1KTsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPm5nbXAtcm91dGVyPC9tb2R1bGU+Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXdhci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPC9wbHVnaW4+</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">PGFyY2hpdmU+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtYW5pZmVzdEVudHJpZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8RGVwZW5kZW5jaWVzPm9yZy5hcGFjaGUuaHR0cGNvbXBvbmVudHM8L0RlcGVuZGVuY2llcz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9tYW5pZmVzdEVudHJpZXM+CiAgICAgICAgICAgICAgICAgICAgPC9hcmNoaXZlPg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCJNYXJraW5nIGZlYXR1cmUgYXMgdmlld2V3ZCBmYWlsZWQ6ICIsIGUuZ2V0TWVzc2FnZSgpKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCJGZXRjaGluZyBsaXN0IG9mIGZlYXR1cmVzIGZhaWxlZCBmb3IgdXNlcjoge30gd2l0aCB0aGUgZm9sbG93aW5nIG1lc3NhZ2Uge30iLCBnZXRVc2VySWQoKSwKICAgICAgICAgICAgICAgICAgICBlLmdldE1lc3NhZ2UoKSk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCJTZXR0aW5nc1NlcnZpY2VJbXBsIGluaXRpYWxpemF0aW9uIGZhaWxlZC4uLiIsIGUpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IG1vdmUgPSBkLmJyYWluLmdldE1vdmUoZC5zdGVwKTsKICAgICAgICAgICAgZC5tb3ZlKG1vdmUuZHgsIG1vdmUuZHkpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYG11dGF0aW9uUHJvYiAke211dGF0aW9uUHJvYn1gKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygibXV0YXRpbmciKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYG11dGF0aW9uUHJvYiAke211dGF0aW9uUHJvYn1gKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
