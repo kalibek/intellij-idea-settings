@@ -335,6 +335,12 @@
         <mark key="." line="66" column="7" />
         <mark key="^" line="20" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-ear/pom.xml" timestamp="1539148711209">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="0" />
+        <mark key="." line="261" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/file/FileUploadServlet.java" timestamp="1539087292476">
         <mark key="[" line="172" column="0" />
         <mark key="]" line="172" column="0" />
@@ -594,7 +600,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBean.java" />
       <jump line="4" column="61" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/IUserEmailNotificationView.java" />
       <jump line="115" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/EmailWidget.java" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/mail/template/UserEmailTemplateDTO.java" />
@@ -694,13 +699,14 @@
       <jump line="55" column="45" filename="$USER_HOME$/projects/tmp/gen/app.js" />
       <jump line="62" column="17" filename="$USER_HOME$/projects/tmp/gen/app.js" />
       <jump line="45" column="36" filename="$USER_HOME$/projects/tmp/gen/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-ear/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>UserEmailTemplateServiceRemote</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPm5nbXAtcm91dGVyPC9tb2R1bGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -712,46 +718,46 @@
         <text>FeatureDTO</text>
       </register>
       <register name="/" type="4">
-        <text>info</text>
+        <text>ngmp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3R4LmZpbGxTdHlsZSA9ICIjZjAwIjsKICAgICAgICAgICAgY3R4LmZpbGxSZWN0KHRoaXMueCwgdGhpcy55LCA1LCA1KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPm5nbXAtcm91dGVyPC9tb2R1bGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PHdlYk1vZHVsZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLmZ4PC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bmdtcC1yb3V0ZXI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnVuZGxlRmlsZU5hbWU+bmdtcC1yb3V0ZXIud2FyPC9idW5kbGVGaWxlTmFtZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxjb250ZXh0Um9vdD4vbmdtcC1yb3V0ZXI8L2NvbnRleHRSb290PgogICAgICAgICAgICAgICAgICAgICAgICA8L3dlYk1vZHVsZT4=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXdhci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPC9wbHVnaW4+</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">PGFyY2hpdmU+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtYW5pZmVzdEVudHJpZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8RGVwZW5kZW5jaWVzPm9yZy5hcGFjaGUuaHR0cGNvbXBvbmVudHM8L0RlcGVuZGVuY2llcz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9tYW5pZmVzdEVudHJpZXM+CiAgICAgICAgICAgICAgICAgICAgPC9hcmNoaXZlPg==</text>
+        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS53a3RyYW5zcG9ydHNlcnZpY2VzLmZ4PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5uZ21wLXJvdXRlcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgICAgICA8dHlwZT53YXI8L3R5cGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCJNYXJraW5nIGZlYXR1cmUgYXMgdmlld2V3ZCBmYWlsZWQ6ICIsIGUuZ2V0TWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPm5nbXAtcm91dGVyPC9tb2R1bGU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCJGZXRjaGluZyBsaXN0IG9mIGZlYXR1cmVzIGZhaWxlZCBmb3IgdXNlcjoge30gd2l0aCB0aGUgZm9sbG93aW5nIG1lc3NhZ2Uge30iLCBnZXRVc2VySWQoKSwKICAgICAgICAgICAgICAgICAgICBlLmdldE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCJTZXR0aW5nc1NlcnZpY2VJbXBsIGluaXRpYWxpemF0aW9uIGZhaWxlZC4uLiIsIGUpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXdhci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPC9wbHVnaW4+</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IG1vdmUgPSBkLmJyYWluLmdldE1vdmUoZC5zdGVwKTsKICAgICAgICAgICAgZC5tb3ZlKG1vdmUuZHgsIG1vdmUuZHkpOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">PGFyY2hpdmU+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtYW5pZmVzdEVudHJpZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8RGVwZW5kZW5jaWVzPm9yZy5hcGFjaGUuaHR0cGNvbXBvbmVudHM8L0RlcGVuZGVuY2llcz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9tYW5pZmVzdEVudHJpZXM+CiAgICAgICAgICAgICAgICAgICAgPC9hcmNoaXZlPg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYG11dGF0aW9uUHJvYiAke211dGF0aW9uUHJvYn1gKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCJNYXJraW5nIGZlYXR1cmUgYXMgdmlld2V3ZCBmYWlsZWQ6ICIsIGUuZ2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>info</last-search>
+      <last-search>ngmp</last-search>
       <last-offset />
-      <last-pattern>info</last-pattern>
+      <last-pattern>ngmp</last-pattern>
       <last-replace>y</last-replace>
       <last-substitute>x</last-substitute>
       <last-dir>1</last-dir>
@@ -759,7 +765,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CalloffResty</entry>
         <entry>mail</entry>
         <entry>CalloffMailTemplateDTO</entry>
         <entry>CalloffMailTemplateEntity</entry>
@@ -779,6 +784,7 @@
         <entry>x</entry>
         <entry>push</entry>
         <entry>info</entry>
+        <entry>ngmp</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1tFUlJPUl0vL2c=</entry>
