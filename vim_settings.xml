@@ -3,15 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/sms/async/SMSClient.java" timestamp="1539161047121">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/NotAwardedQuoteMailSender.java" timestamp="1538474877873">
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="26" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/pom.xml" timestamp="1539235717106">
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="56" column="21" />
+        <mark key="^" line="53" column="7" />
+        <mark key="." line="53" column="8" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/cache/loaders/OktaUserCacheService.java" timestamp="1539233784445">
         <mark key="'" line="33" column="3" />
@@ -20,12 +16,8 @@
         <mark key="." line="65" column="56" />
         <mark key="^" line="65" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/cache/loaders/clients/AwsMemcachedClient.java" timestamp="1539161678204">
-        <mark key="'" line="54" column="12" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="n" line="54" column="0" />
+      <file name="/a.dummy" timestamp="1539236745447">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/tmp/index.html" timestamp="1538986717327">
         <mark key="[" line="11" column="0" />
@@ -33,34 +25,17 @@
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserEntity.java" timestamp="1539089241762">
-        <mark key="'" line="113" column="32" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/tmp/gen/package.json" timestamp="1539096520947">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="32" />
         <mark key="." line="8" column="23" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/mail/template/UserEmailTemplateDTO.java" timestamp="1538632767021">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/tmp/gen/bootstrap.js" timestamp="1539100668418">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="14" column="24" />
         <mark key="^" line="7" column="10" />
         <mark key="." line="14" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-scheduler/src/main/java/com/wktransportservices/fx/business/quartz/impl/PTVOfferRouteDetailsJob.java" timestamp="1539083724516">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/projects/tmp/gen/app.js" timestamp="1539101292487">
         <mark key="'" line="45" column="36" />
@@ -69,51 +44,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/fax/SendFaxServlet.java" timestamp="1539092650490">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/ejb/ContextUtil.java" timestamp="1539161579601">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/offer/VehicleOffersWebservice.java" timestamp="1539161557783">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/CalloffCancelledNotificationServiceTestSuite.java" timestamp="1538131097450">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/pom.xml" timestamp="1539147501851">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/EsbSOAPClient.java" timestamp="1539093294699">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/CalloffSingleMailSender.java" timestamp="1538984685517">
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="39" />
         <mark key="^" line="31" column="39" />
         <mark key="." line="31" column="39" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/messaging/atmosphere/AtmosphereInitializingServlet.java" timestamp="1539158218756">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-scheduler/src/main/java/com/wktransportservices/fx/business/quartz/impl/DeleteFavoriteOfferJob.java" timestamp="1539083666680">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" timestamp="1539162378719">
         <mark key="'" line="162" column="26" />
@@ -122,27 +57,11 @@
         <mark key="." line="166" column="38" />
         <mark key="^" line="166" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-security/src/main/java/com/wktransportservices/fx/web/security/profiles/production/CleanAuthCacheSAMLLogoutFilter.java" timestamp="1539084604313">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-inf/src/main/java/com/wktransportservices/fx/business/manager/local/social/OktaAuthMangerLocal.java" timestamp="1539233984504">
         <mark key="[" line="6" column="53" />
         <mark key="]" line="6" column="53" />
         <mark key="." line="6" column="53" />
         <mark key="^" line="6" column="53" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/controller/BaseSearchServiceImpl.java" timestamp="1539160071247">
-        <mark key="'" line="210" column="14" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/token/TokenDecoder.java" timestamp="1537768701226">
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="25" column="49" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/mail/template/CalloffMailTemplateStatusDTO.java" timestamp="1538630605790">
         <mark key="[" line="13" column="0" />
@@ -150,20 +69,11 @@
         <mark key="^" line="14" column="10" />
         <mark key="." line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/dao/UserEmailTemplatesDao.java" timestamp="1538638013257">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" timestamp="1539159907551">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/controller/LocationServiceImpl.java" timestamp="1539089358441">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/manager/social/OktaAuthManagerTest.java" timestamp="1539236834170">
+        <mark key="[" line="54" column="14" />
+        <mark key="]" line="54" column="14" />
+        <mark key="." line="54" column="14" />
+        <mark key="^" line="54" column="14" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/mdb/OfferActionReceiverBean.java" timestamp="1539092432355">
         <mark key="'" line="40" column="13" />
@@ -172,10 +82,10 @@
         <mark key="^" line="205" column="95" />
         <mark key="." line="200" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/company/CompanyDirectoryWebservice.java" timestamp="1539161419208">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/controller/CompanyDetailsURLServiceImpl.java" timestamp="1539159177094">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1539233358889">
         <mark key="'" line="0" column="0" />
@@ -183,21 +93,6 @@
         <mark key="]" line="319" column="29" />
         <mark key="." line="319" column="29" />
         <mark key="^" line="319" column="29" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/cache/loaders/service/ContactCacheLoadService.java" timestamp="1539086989729">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/controller/RegionLocationServiceImpl.java" timestamp="1539160047000">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/calloff/launched/CalloffLaunchedListPresenter.java" timestamp="1537776889242">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/QuoteAwardedNotificationServiceTestSuite.java" timestamp="1538373250253">
         <mark key="[" line="83" column="84" />
@@ -217,46 +112,11 @@
         <mark key="." line="53" column="35" />
         <mark key="^" line="53" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/controller/VehicleSearchServiceImpl.java" timestamp="1539159934843">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-inf/src/main/java/com/wktransportservices/spotbidding/business/api/user/UserEmailTemplateServiceLocal.java" timestamp="1538650720341">
-        <mark key="[" line="9" column="41" />
-        <mark key="]" line="9" column="41" />
-        <mark key="." line="9" column="41" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/calloff/requested/RequestedCalloffPresenter.java" timestamp="1537776904095">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/CalloffCancelledNotificationServiceBean.java" timestamp="1538474839816">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/controller/FreightOfferServiceImpl.java" timestamp="1539159765343">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/validation/UserEmailValidator.java" timestamp="1538733875572">
-        <mark key="'" line="11" column="76" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/vx/connect/service/logging/ConnectLogService.java" timestamp="1539086864047">
-        <mark key="[" line="73" column="12" />
-        <mark key="]" line="73" column="12" />
-        <mark key="." line="73" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/SpotBiddingTopBarPresenter.java" timestamp="1537776917711">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-inf/pom.xml" timestamp="1539235694910">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="8" />
+        <mark key="^" line="27" column="7" />
+        <mark key="." line="27" column="8" />
       </file>
       <file name="$USER_HOME$/projects/ptv/ptv-web/src/main/java/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" timestamp="1539177225372">
         <mark key="[" line="162" column="46" />
@@ -264,26 +124,16 @@
         <mark key="^" line="162" column="46" />
         <mark key="." line="162" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/cache/loaders/service/UserCacheLoadService.java" timestamp="1539092742988">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/OktaAuthManager.java" timestamp="1539236878087">
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="58" />
+        <mark key="." line="26" column="58" />
+        <mark key="^" line="26" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/CalloffNotificationServiceLocal.java" timestamp="1537864462011">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/OktaAuthManager.java" timestamp="1539234264700">
-        <mark key="[" line="28" column="80" />
-        <mark key="]" line="28" column="43" />
-        <mark key="^" line="28" column="43" />
-        <mark key="." line="28" column="43" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-connect/src/main/java/com/wktransportservices/fx/connect/filter/logging/OutgoingResponseFilter.java" timestamp="1539092468278">
-        <mark key="[" line="47" column="12" />
-        <mark key="]" line="47" column="12" />
-        <mark key="." line="47" column="12" />
+      <file name="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/src/main/java/com/wktransportservices/fx/bi/manager/statistics/StatisticsManager.java" timestamp="1539161403326">
+        <mark key="[" line="66" column="9" />
+        <mark key="]" line="66" column="9" />
+        <mark key="." line="66" column="9" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-business/fx-business-inf/src/main/java/com/wktransportservices/fx/business/util/ejb/BusinessActors.java" timestamp="1539158625466">
         <mark key="[" line="44" column="8" />
@@ -291,22 +141,11 @@
         <mark key="^" line="46" column="4" />
         <mark key="." line="46" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserEmailTemplate.java" timestamp="1537872458702">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="13" column="135" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/SaveHandler.java" timestamp="1538722573779">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="3" column="17" />
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/AccountSettingsPresenter.java" timestamp="1538995622064">
-        <mark key="'" line="44" column="13" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/projects/tmp/gen/dot.js" timestamp="1539101117479">
         <mark key="'" line="39" column="10" />
@@ -314,26 +153,6 @@
         <mark key="]" line="29" column="21" />
         <mark key="." line="29" column="21" />
         <mark key="^" line="29" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/CalloffLaunchedNotificationServiceBean.java" timestamp="1538474828250">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/CalloffLaunchedNotificationServiceTestSuite.java" timestamp="1538131137466">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-scheduler/src/main/java/com/wktransportservices/fx/business/quartz/impl/DeleteConsultedOfferJob.java" timestamp="1539083606373">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/IUserEmailNotificationView.java" timestamp="1538976129588">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/UserManager.java" timestamp="1539233929790">
         <mark key="[" line="31" column="0" />
@@ -348,11 +167,6 @@
         <mark key="." line="139" column="25" />
         <mark key="^" line="145" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/manager/offer/OfferMessagingManager.java" timestamp="1539083165970">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/mail/template/UserEmailTemplateEntity.java" timestamp="1538048329481">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="32" />
@@ -365,36 +179,16 @@
         <mark key="^" line="9" column="46" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/DefaultPagePresenter.java" timestamp="1537776893351">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/mdb/OfferActionNotifierBean.java" timestamp="1539083506743">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/EmailTemplateNotFoundException.java" timestamp="1537954646984">
         <mark key="[" line="9" column="42" />
         <mark key="]" line="9" column="51" />
         <mark key="^" line="9" column="51" />
         <mark key="." line="9" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-scheduler/src/main/java/com/wktransportservices/fx/business/quartz/SchedulerEngineInitializer.java" timestamp="1539083557906">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-connect/src/main/java/com/wktransportservices/fx/connect/filter/logging/IncomingRequestFilter.java" timestamp="1539089327490">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/comunity/ComunityManagerUserWebservice.java" timestamp="1539086836909">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/service/FeatureServiceImpl.java" timestamp="1539142859871">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/presenter/PermissionChecker.java" timestamp="1537786908058">
         <mark key="[" line="14" column="41" />
@@ -402,22 +196,11 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/service/SettingsServiceImpl.java" timestamp="1539142810080">
-        <mark key="'" line="225" column="12" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/calloff/launched/LaunchedCalloffDashboardPresenter.java" timestamp="1537786729671">
         <mark key="[" line="174" column="42" />
         <mark key="]" line="174" column="46" />
         <mark key="." line="174" column="46" />
         <mark key="^" line="174" column="46" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/oauth/OAuthService.java" timestamp="1539089376989">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/BiddingProcessPendingNotificationServiceBean.java" timestamp="1537937590958">
         <mark key="[" line="66" column="7" />
@@ -425,44 +208,17 @@
         <mark key="." line="66" column="7" />
         <mark key="^" line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-ear/pom.xml" timestamp="1539148711209">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="261" column="0" />
-        <mark key="]" line="261" column="0" />
-        <mark key="." line="261" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/file/FileUploadServlet.java" timestamp="1539087292476">
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/atmosphere/GwtRpcAtmosphereHandler.java" timestamp="1539163300147">
         <mark key="[" line="39" column="16" />
         <mark key="]" line="39" column="21" />
         <mark key="^" line="39" column="21" />
         <mark key="." line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/cache/loaders/ContactCacheService.java" timestamp="1539161696357">
-        <mark key="'" line="104" column="12" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/validation/validators/EmailContentValidator.java" timestamp="1538024824009">
-        <mark key="[" line="22" column="46" />
-        <mark key="]" line="22" column="46" />
-        <mark key="." line="22" column="46" />
-      </file>
       <file name="$USER_HOME$/projects/tmp/gen/move.js" timestamp="1539097502270">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="21" />
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/healthcheck/HealthCheckService.java" timestamp="1539089302014">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/fax/async/FaxClient.java" timestamp="1539161007386">
         <mark key="[" line="56" column="0" />
@@ -476,21 +232,11 @@
         <mark key="^" line="37" column="74" />
         <mark key="." line="37" column="101" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/mail/template/UserMailTemplate.java" timestamp="1538048322447">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="36" />
-        <mark key="." line="2" column="13" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/mail/template/UserMailTemplateDTO.java" timestamp="1538545005722">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="19" />
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="19" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201809201113_18_12__FX_10330_requester_email_settings.sql" timestamp="1538470058377">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dbpatch/src/main/resources/flyway/sql/18.12/V201810021347_18_12__FX_10330_requester_email_settings_default_values.sql" timestamp="1538470245689">
         <mark key="[" line="2" column="19" />
@@ -516,12 +262,6 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/calloff/CalloffEntity.java" timestamp="1538637698899">
-        <mark key="'" line="113" column="30" />
-        <mark key="[" line="495" column="0" />
-        <mark key="]" line="495" column="0" />
-        <mark key="." line="495" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/java/com/wktransportservices/fx/utils/PropertyUtils.java" timestamp="1539233339895">
         <mark key="'" line="306" column="25" />
         <mark key="[" line="77" column="73" />
@@ -541,16 +281,6 @@
         <mark key="^" line="22" column="61" />
         <mark key="." line="22" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/editor/location/region/JsRegionMap.java" timestamp="1539089340180">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceLocal.java" timestamp="1538654979416">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/tmp/init.js" timestamp="1539095467663">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="15" />
@@ -562,11 +292,6 @@
         <mark key="]" line="15" column="19" />
         <mark key="." line="15" column="19" />
         <mark key="^" line="15" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/offer/FreightOffersWebservice.java" timestamp="1539161538229">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/events/CalloffNotificationServiceTestSuite.java" timestamp="1538651220803">
         <mark key="[" line="50" column="36" />
@@ -586,21 +311,6 @@
         <mark key="]" line="113" column="10" />
         <mark key="." line="113" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/ptv/PTVServiceManager.java" timestamp="1539161205626">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/print/offer/tranportorder/GetTranportOrderFileServlet.java" timestamp="1539087488032">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/offer/service/VehicleOfferService.java" timestamp="1539161488887">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractDTOMapperTest.java" timestamp="1538380785873">
         <mark key="[" line="23" column="34" />
         <mark key="]" line="23" column="32" />
@@ -613,36 +323,15 @@
         <mark key="." line="11" column="35" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/file/impl/FileRepositoryManagerImpl.java" timestamp="1539087286673">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/vx-connect/src/main/java/com/wktransportservices/vx/connect/serializer/enums/CertificatesAdapter.java" timestamp="1539161607901">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/scenario/SmartDirectoryWebservice.java" timestamp="1539161437118">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/contract/ContractServiceBeanTestSuite.java" timestamp="1538381791575">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/controller/AdminServiceImpl.java" timestamp="1539084425269">
         <mark key="[" line="79" column="24" />
         <mark key="]" line="79" column="25" />
         <mark key="." line="79" column="25" />
         <mark key="^" line="79" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/manager/file/S3BucketManager.java" timestamp="1539161189943">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-connect/src/main/java/com/wktransportservices/fx/connect/filter/auth/RequestLoggingFilter.java" timestamp="1539235803339">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="39" column="64" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateMapper.java" timestamp="1538714914085">
         <mark key="[" line="26" column="90" />
@@ -655,16 +344,6 @@
         <mark key="]" line="73" column="71" />
         <mark key="." line="73" column="71" />
         <mark key="^" line="73" column="71" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-connect/src/main/java/com/wktransportservices/fx/connect/mapper/offer/EtcFreightOfferAndDTOMapper.java" timestamp="1539160274676">
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-webservices/src/main/java/com/wktransportservices/fx/webservices/offer/service/FreightOfferService.java" timestamp="1539087315339">
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/projects/tmp/gen/brain.js" timestamp="1539101201607">
         <mark key="'" line="3" column="3" />
@@ -685,41 +364,21 @@
         <mark key="^" line="73" column="40" />
         <mark key="." line="73" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/util/PhoneNumberCorrector.java" timestamp="1539092497895">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/manager/user/UserExportManager.java" timestamp="1539161326760">
+        <mark key="[" line="75" column="10" />
+        <mark key="]" line="75" column="10" />
+        <mark key="." line="75" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/UserEmailNotificationView.ui.xml" timestamp="1538538221050">
-        <mark key="[" line="1" column="63" />
-        <mark key="]" line="1" column="63" />
-        <mark key="." line="1" column="63" />
+      <file name="$USER_HOME$/projects/fx/fx-connect/pom.xml" timestamp="1539235645384">
+        <mark key="[" line="104" column="8" />
+        <mark key="]" line="104" column="8" />
+        <mark key="." line="104" column="8" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/CalloffSingleMailSenderTestSuite.java" timestamp="1538651319643">
         <mark key="[" line="37" column="36" />
         <mark key="]" line="37" column="40" />
         <mark key="." line="37" column="40" />
         <mark key="^" line="37" column="40" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-connect/src/main/java/com/wktransportservices/fx/connect/offer/service/VehicleOfferService.java" timestamp="1539086752124">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/async/BaseAsyncCallback.java" timestamp="1539084586559">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/print/offer/details/OfferDetailsPrintServlet.java" timestamp="1539092455685">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/validation/SchemaValidationService.java" timestamp="1539161029334">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/projects/tmp/gen/init.js" timestamp="1539095965934">
         <mark key="[" line="0" column="21" />
@@ -733,13 +392,11 @@
         <mark key="^" line="48" column="8" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1539233884470">
+      <file name="/fragment.java" timestamp="1539236225249">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBeanTestSuite.java" />
-      <jump line="39" column="20" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBeanTestSuite.java" />
       <jump line="47" column="32" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBeanTestSuite.java" />
       <jump line="65" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBeanTestSuite.java" />
       <jump line="69" column="15" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBeanTestSuite.java" />
@@ -838,13 +495,15 @@
       <jump line="305" column="25" filename="$USER_HOME$/projects/fx/fx-properties/src/main/java/com/wktransportservices/fx/utils/PropertyUtils.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
       <jump line="32" column="3" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/cache/loaders/OktaUserCacheService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-connect/pom.xml" />
+      <jump line="106" column="33" filename="$USER_HOME$/projects/fx/fx-connect/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>UserEmailTemplateServiceRemote</text>
       </register>
       <register name="&quot;" type="4">
-        <text>text</text>
+        <text>i</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -853,49 +512,52 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>Cache</text>
+        <text>client</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QFN0YXRlbGVzcwpATG9jYWwoVXNlck1hbmFnZXJMb2NhbC5jbGFzcykK</text>
+      <register name="0" type="4">
+        <text>PASSWORD</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b1N0cmluZygpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIE9rdGFBdXRoUmVxdWVzdCBMT0dJTjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5oYXNoU3RyaW5nKHBhc3N3b3JkLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmdldFByb3BlcnR5VmFsdWUoImNvbm5lY3Qud2Vic2VydmljZS5hdXRoZW50LnVybCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgaGFzaGVkID0gSGFzaGluZy5zaGEyNTYoKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFN0YXRlbGVzcwpATG9jYWwoVXNlck1hbmFnZXJMb2NhbC5jbGFzcykK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="4">
+        <text>if (password != null) {
+            byte[] hash = digest.digest(password.getBytes(StandardCharsets.UTF_8));
+            return new String(hash, StandardCharsets.UTF_8);
+        }</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBnZXQoU3RyaW5nIGtleSkgewogICAgICAgIGlmIChTdHJpbmdzLmlzTnVsbE9yRW1wdHkoa2V5KSkgewogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKEtFWV9TSE9VTERfTk9UX0JFX0VNUFRZKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiAoU3RyaW5nKSBjbGllbnRTZXJ2aWNlLmdldENsaWVudCgpLmdldChrZXkpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBwdXQoU3RyaW5nIGtleSwgU3RyaW5nIHZhbHVlKSB7CiAgICAgICAgaWYgKFN0cmluZ3MuaXNOdWxsT3JFbXB0eShrZXkpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oS0VZX1NIT1VMRF9OT1RfQkVfRU1QVFkpOwogICAgICAgIH0KCiAgICAgICAgaWYgKHZhbHVlID09IG51bGwpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiVmFsdWUgc2hvdWxkIG5vdCBiZSBlbXB0eSIpOwogICAgICAgIH0KICAgICAgICBpZiAoIWNsaWVudFNlcnZpY2UuZ2V0Q2xpZW50KCkucHV0KGtleSwgZXhwaXJhdGlvblRpbWVvdXQsIHZhbHVlKSkgewogICAgICAgICAgICBMT0dHRVIud2FybigiVW5hYmxlIHRvIHN0b3JlIG9iamVjdCBpbiBjYWNoZToga2V5IC0ge30iLCBrZXkpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gdmFsdWU7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgU3RyaW5nIHJlbW92ZShTdHJpbmcga2V5KSB7CiAgICAgICAgaWYgKFN0cmluZ3MuaXNOdWxsT3JFbXB0eShrZXkpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oS0VZX1NIT1VMRF9OT1RfQkVfRU1QVFkpOwogICAgICAgIH0KCiAgICAgICAgU3RyaW5nIHZhbHVlID0gZ2V0KGtleSk7CiAgICAgICAgY2xpZW50U2VydmljZS5nZXRDbGllbnQoKS5yZW1vdmUoa2V5KTsKICAgICAgICByZXR1cm4gdmFsdWU7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBmbHVzaCgpIHsKICAgICAgICBjbGllbnRTZXJ2aWNlLmdldENsaWVudCgpLmZsdXNoKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgU3RyaW5nIHJlbG9hZChTdHJpbmcga2V5KSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRTZXJ2aWNlLmdldENsaWVudCgpLmZsdXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGF1dGhQYXNzd29yZEhhc2ggPSBoYXNoUGFzc3dvcmQoYXV0aFJlcXVlc3QuZ2V0VXNlcm5hbWUoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBPS1RBX1VTRVJfQ0FDSEVfVElNRV9UT19MSVZFID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY2FsbCBva3RhIGFuZCBwdXQgdG8gY2FjaGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Cache</last-search>
+      <last-search>client</last-search>
       <last-offset />
-      <last-pattern>Cache</last-pattern>
+      <last-pattern>client</last-pattern>
       <last-replace>String</last-replace>
       <last-substitute>K</last-substitute>
       <last-dir>1</last-dir>
@@ -903,7 +565,6 @@
     </search>
     <history>
       <history-search>
-        <entry>scm</entry>
         <entry>email_tem</entry>
         <entry>sve</entry>
         <entry>save</entry>
@@ -923,6 +584,7 @@
         <entry>V</entry>
         <entry>K</entry>
         <entry>Cache</entry>
+        <entry>client</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RydWUvRmFsc2UvZw==</entry>
