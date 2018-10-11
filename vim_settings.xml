@@ -21,6 +21,9 @@
         <mark key="." line="7" column="61" />
         <mark key="^" line="7" column="61" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/integration/CompanyIntegrationConverter.java" timestamp="1539254443995">
+        <mark key="'" line="57" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/pom.xml" timestamp="1539235717106">
         <mark key="[" line="53" column="8" />
         <mark key="]" line="56" column="21" />
@@ -190,7 +193,6 @@
         <mark key="." line="58" column="13" />
         <mark key="^" line="58" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-security/src/main/java/com/wktransportservices/fx/web/security/provider/FxAuthenticationProvider.java" timestamp="1539243551479" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/Alert.java" timestamp="1537786884714">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="10" />
@@ -455,10 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="16" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/mdb/OfferActionReceiverBean.java" />
-      <jump line="40" column="13" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/mdb/OfferActionReceiverBean.java" />
-      <jump line="226" column="12" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/service/SettingsServiceImpl.java" />
-      <jump line="7" column="7" filename="$USER_HOME$/projects/tmp/gen/app.js" />
       <jump line="1" column="3" filename="$USER_HOME$/projects/tmp/gen/brain.js" />
       <jump line="33" column="14" filename="$USER_HOME$/projects/tmp/gen/dot.js" />
       <jump line="34" column="10" filename="$USER_HOME$/projects/tmp/gen/dot.js" />
@@ -555,6 +553,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_null.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/integration/CompanyIntegrationConverter.java" />
+      <jump line="12" column="57" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/integration/CompanyIntegrationConverter.java" />
+      <jump line="17" column="68" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/integration/CompanyIntegrationConverter.java" />
+      <jump line="57" column="28" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/integration/CompanyIntegrationConverter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -573,7 +575,7 @@
         <text>unauthorized</text>
       </register>
       <register name="/" type="4">
-        <text>cache</text>
+        <text>\cdocum</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFdlYkFwcGxpY2F0aW9uRXhjZXB0aW9uKFJlc3BvbnNlLnN0YXR1cyhTdGF0dXMuVU5BVVRIT1JJWkVEKS5idWlsZCgpKTsK</text>
@@ -610,9 +612,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cache</last-search>
+      <last-search>\cdocum</last-search>
       <last-offset />
-      <last-pattern>cache</last-pattern>
+      <last-pattern>\cdocum</last-pattern>
       <last-replace>String</last-replace>
       <last-substitute>K</last-substitute>
       <last-dir>1</last-dir>
@@ -620,7 +622,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Selec</entry>
         <entry>x</entry>
         <entry>push</entry>
         <entry>info</entry>
@@ -640,6 +641,7 @@
         <entry>conn</entry>
         <entry>time.to.live</entry>
         <entry>cache</entry>
+        <entry>\cdocum</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RydWUvRmFsc2UvZw==</entry>
