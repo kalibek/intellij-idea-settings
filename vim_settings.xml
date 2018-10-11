@@ -57,11 +57,11 @@
         <mark key="." line="166" column="38" />
         <mark key="^" line="166" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-inf/src/main/java/com/wktransportservices/fx/business/manager/local/social/OktaAuthMangerLocal.java" timestamp="1539233984504">
-        <mark key="[" line="6" column="53" />
-        <mark key="]" line="6" column="53" />
-        <mark key="." line="6" column="53" />
-        <mark key="^" line="6" column="53" />
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-inf/src/main/java/com/wktransportservices/fx/business/manager/local/social/OktaAuthMangerLocal.java" timestamp="1539237214559">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="53" />
+        <mark key="." line="4" column="50" />
+        <mark key="^" line="4" column="54" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/mail/template/CalloffMailTemplateStatusDTO.java" timestamp="1538630605790">
         <mark key="[" line="13" column="0" />
@@ -69,11 +69,11 @@
         <mark key="^" line="14" column="10" />
         <mark key="." line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/manager/social/OktaAuthManagerTest.java" timestamp="1539236834170">
-        <mark key="[" line="54" column="14" />
-        <mark key="]" line="54" column="14" />
-        <mark key="." line="54" column="14" />
-        <mark key="^" line="54" column="14" />
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/test/java/com/wktransportservices/fx/business/manager/social/OktaAuthManagerTest.java" timestamp="1539239943680">
+        <mark key="[" line="58" column="13" />
+        <mark key="]" line="58" column="13" />
+        <mark key="." line="58" column="13" />
+        <mark key="^" line="58" column="13" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/mdb/OfferActionReceiverBean.java" timestamp="1539092432355">
         <mark key="'" line="40" column="13" />
@@ -124,11 +124,18 @@
         <mark key="^" line="162" column="46" />
         <mark key="." line="162" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/OktaAuthManager.java" timestamp="1539236878087">
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="58" />
-        <mark key="." line="26" column="58" />
-        <mark key="^" line="26" column="58" />
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/OktaAuthManager.java" timestamp="1539240104950">
+        <mark key="[" line="76" column="53" />
+        <mark key="]" line="76" column="53" />
+        <mark key="." line="76" column="53" />
+        <mark key="^" line="76" column="51" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-inf/src/main/java/com/wktransportservices/fx/business/actor/remote/social/UserActorRemote.java" timestamp="1539237094817">
+        <mark key="'" line="43" column="55" />
+        <mark key="[" line="43" column="55" />
+        <mark key="]" line="43" column="55" />
+        <mark key="^" line="43" column="55" />
+        <mark key="." line="43" column="55" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/src/main/java/com/wktransportservices/fx/bi/manager/statistics/StatisticsManager.java" timestamp="1539161403326">
         <mark key="[" line="66" column="9" />
@@ -178,6 +185,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="9" column="46" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/OktaAuthRequest.java" timestamp="1539237264540">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="61" />
+        <mark key="." line="7" column="61" />
+        <mark key="^" line="7" column="61" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/EmailTemplateNotFoundException.java" timestamp="1537954646984">
         <mark key="[" line="9" column="42" />
@@ -231,6 +244,13 @@
         <mark key="]" line="37" column="101" />
         <mark key="^" line="37" column="74" />
         <mark key="." line="37" column="101" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/actor/social/UserActor.java" timestamp="1539237157204">
+        <mark key="'" line="39" column="3" />
+        <mark key="[" line="123" column="43" />
+        <mark key="]" line="123" column="57" />
+        <mark key="^" line="123" column="57" />
+        <mark key="." line="123" column="57" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/mail/template/UserMailTemplateDTO.java" timestamp="1538545005722">
         <mark key="[" line="4" column="19" />
@@ -329,9 +349,11 @@
         <mark key="." line="79" column="25" />
         <mark key="^" line="79" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-connect/src/main/java/com/wktransportservices/fx/connect/filter/auth/RequestLoggingFilter.java" timestamp="1539235803339">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="64" />
+      <file name="$USER_HOME$/projects/fx/fx-connect/src/main/java/com/wktransportservices/fx/connect/filter/auth/RequestLoggingFilter.java" timestamp="1539237319397">
+        <mark key="[" line="94" column="17" />
+        <mark key="]" line="94" column="39" />
+        <mark key="^" line="94" column="39" />
+        <mark key="." line="94" column="39" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateMapper.java" timestamp="1538714914085">
         <mark key="[" line="26" column="90" />
@@ -380,6 +402,16 @@
         <mark key="." line="37" column="40" />
         <mark key="^" line="37" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-security/src/main/java/com/wktransportservices/fx/web/security/service/AuthenticationService.java" timestamp="1539240198915">
+        <mark key="[" line="24" column="40" />
+        <mark key="]" line="24" column="40" />
+        <mark key="^" line="24" column="38" />
+        <mark key="." line="24" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-connect/src/main/java/com/wktransportservices/fx/connect/mapper/offer/EtcBaseOfferAndDTOMapper.java" timestamp="1539237012600">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="51" />
+      </file>
       <file name="$USER_HOME$/projects/tmp/gen/init.js" timestamp="1539095965934">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="22" />
@@ -397,10 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="32" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBeanTestSuite.java" />
-      <jump line="65" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBeanTestSuite.java" />
-      <jump line="69" column="15" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBeanTestSuite.java" />
-      <jump line="78" column="15" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/user/UserEmailTemplateServiceBeanTestSuite.java" />
       <jump line="47" column="25" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/SpotBiddingEventBus.java" />
       <jump line="54" column="27" filename="$USER_HOME$/projects/fx/pom.xml" />
       <jump line="66" column="57" filename="$USER_HOME$/projects/fx/pom.xml" />
@@ -497,13 +525,17 @@
       <jump line="32" column="3" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/cache/loaders/OktaUserCacheService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-connect/pom.xml" />
       <jump line="106" column="33" filename="$USER_HOME$/projects/fx/fx-connect/pom.xml" />
+      <jump line="43" column="55" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-inf/src/main/java/com/wktransportservices/fx/business/actor/remote/social/UserActorRemote.java" />
+      <jump line="25" column="13" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/actor/social/UserActor.java" />
+      <jump line="119" column="7" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/actor/social/UserActor.java" />
+      <jump line="39" column="3" filename="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/actor/social/UserActor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>UserEmailTemplateServiceRemote</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -512,43 +544,44 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>client</text>
       </register>
       <register name="0" type="4">
-        <text>PASSWORD</text>
+        <text>when(oktaUserCacheService.get(LOGIN)).thenReturn(HASHED);
+
+        boolean authenticate = oktaAuthManager.authenticate(LOGIN, PASSWORD);
+
+        assertTrue(authenticate);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIE9rdGFBdXRoUmVxdWVzdCBMT0dJTjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmdldFByb3BlcnR5VmFsdWUoImNvbm5lY3Qud2Vic2VydmljZS5hdXRoZW50LnVybCIpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">cHJpdmF0ZSBib29sZWFuIGF1dGhlbnRpY2F0ZUJ5SWFtKFN0cmluZyBsb2dpbiwgU3RyaW5nIHBhc3N3b3JkKSB7CiAgICAgICAgSHR0cEhlYWRlcnMgaGVhZGVycyA9IG5ldyBIdHRwSGVhZGVycygpOwogICAgICAgIGhlYWRlcnMuc2V0Q29udGVudFR5cGUoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT04pOwoKICAgICAgICBPa3RhQXV0aFJlcXVlc3Qgb2JqZWN0ID0gbmV3IE9rdGFBdXRoUmVxdWVzdCgpOwogICAgICAgIG9iamVjdC5zZXRVc2VybmFtZShsb2dpbik7CiAgICAgICAgb2JqZWN0LnNldFBhc3N3b3JkKHBhc3N3b3JkKTsKICAgICAgICBIdHRwRW50aXR5PE9rdGFBdXRoUmVxdWVzdD4gcmVxdWVzdCA9IG5ldyBIdHRwRW50aXR5PD4ob2JqZWN0LCBoZWFkZXJzKTsKCiAgICAgICAgSHR0cENvbXBvbmVudHNDbGllbnRIdHRwUmVxdWVzdEZhY3RvcnkgZmFjdG9yeSA9IG5ldyBIdHRwQ29tcG9uZW50c0NsaWVudEh0dHBSZXF1ZXN0RmFjdG9yeSgpOwogICAgICAgIGZhY3Rvcnkuc2V0UmVhZFRpbWVvdXQoUkVBRF9USU1FT1VUKTsKICAgICAgICBmYWN0b3J5LnNldENvbm5lY3RUaW1lb3V0KENPTk5FQ1RJT05fVElNRU9VVCk7CiAgICAgICAgUmVzdFRlbXBsYXRlIHJlc3RUZW1wbGF0ZSA9IG5ldyBSZXN0VGVtcGxhdGUoZmFjdG9yeSk7CiAgICAgICAgcmVzdFRlbXBsYXRlLnNldEVycm9ySGFuZGxlcihuZXcgRGVmYXVsdFJlc3BvbnNlRXJyb3JIYW5kbGVyKCl7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwcm90ZWN0ZWQgYm9vbGVhbiBoYXNFcnJvcihIdHRwU3RhdHVzIHN0YXR1c0NvZGUpIHsKICAgICAgICAgICAgICAgIHJldHVybiBzdGF0dXNDb2RlLnNlcmllcygpID09IEh0dHBTdGF0dXMuU2VyaWVzLlNFUlZFUl9FUlJPUjsKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgICAgIFJlc3BvbnNlRW50aXR5PFN0cmluZz4gcmVzcG9uc2UgPSByZXN0VGVtcGxhdGUucG9zdEZvckVudGl0eShBVVRIX1VSTCwgcmVxdWVzdCwgU3RyaW5nLmNsYXNzKTsKCiAgICAgICAgTE9HLmRlYnVnKCJSZXNwb25zZSBmb3IgYXV0aG9yaXNhdGlvbiByZXF1ZXN0IHt9LCBsb2dpbiB7fSIsIHJlc3BvbnNlLmdldEJvZHkoKSwgbG9naW4pOwoKICAgICAgICByZXR1cm4gcmVzcG9uc2UuZ2V0U3RhdHVzQ29kZSgpID09IEh0dHBTdGF0dXMuT0s7CiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkgewo=</text>
       </register>
-      <register name="5" type="4">
-        <text>if (password != null) {
-            byte[] hash = digest.digest(password.getBytes(StandardCharsets.UTF_8));
-            return new String(hash, StandardCharsets.UTF_8);
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9rdGFVc2VyQ2FjaGVTZXJ2aWNlLnB1dChhdXRoUmVxdWVzdC5nZXRVc2VybmFtZSgpLCByZXFQYXNzd29yZEhhc2gpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGF1dGhQYXNzd29yZEhhc2ggPSBoYXNoUGFzc3dvcmQoYXV0aFJlcXVlc3QuZ2V0VXNlcm5hbWUoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPa3RhQXV0aFJlcXVlc3QgYXV0aFJlcXVzZXQgPSB3aXRoVXNlcigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY2FsbCBva3RhIGFuZCBwdXQgdG8gY2FjaGUK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
