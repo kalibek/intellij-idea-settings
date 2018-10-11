@@ -503,7 +503,7 @@
         <text>unauthorized</text>
       </register>
       <register name="/" type="4">
-        <text>time.to.live</text>
+        <text>cache</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFdlYkFwcGxpY2F0aW9uRXhjZXB0aW9uKFJlc3BvbnNlLnN0YXR1cyhTdGF0dXMuVU5BVVRIT1JJWkVEKS5idWlsZCgpKTsK</text>
@@ -540,9 +540,9 @@
       </register>
     </registers>
     <search>
-      <last-search>time.to.live</last-search>
+      <last-search>cache</last-search>
       <last-offset />
-      <last-pattern>time.to.live</last-pattern>
+      <last-pattern>cache</last-pattern>
       <last-replace>String</last-replace>
       <last-substitute>K</last-substitute>
       <last-dir>1</last-dir>
@@ -568,8 +568,8 @@
         <entry>client</entry>
         <entry>aut</entry>
         <entry>conn</entry>
-        <entry>cache</entry>
         <entry>time.to.live</entry>
+        <entry>cache</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RydWUvRmFsc2UvZw==</entry>
