@@ -53,6 +53,12 @@
         <mark key="]" line="48" column="68" />
         <mark key="." line="48" column="68" />
       </file>
+      <file name="$USER_HOME$/projects/java-mentoring/m1-lambdas-and-streams/src/test/java/task8/TreeTest.java" timestamp="1539609285528">
+        <mark key="[" line="60" column="17" />
+        <mark key="]" line="60" column="17" />
+        <mark key="^" line="60" column="20" />
+        <mark key="." line="60" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/CalloffSingleMailSender.java" timestamp="1538984685517">
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="39" />
@@ -168,6 +174,12 @@
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/java-mentoring/m1-lambdas-and-streams/src/main/java/task8/Tree.java" timestamp="1539609295537">
+        <mark key="[" line="58" column="9" />
+        <mark key="]" line="58" column="11" />
+        <mark key="^" line="58" column="11" />
+        <mark key="." line="58" column="11" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserEmailTemplateEntity.java" timestamp="1539260047145">
         <mark key="[" line="75" column="0" />
@@ -550,8 +562,8 @@
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>Integer</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -560,13 +572,17 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>_000_000</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text>.info(</text>
       </register>
       <register name="0" type="4">
-        <text>sendingCompanyId</text>
+        <text>@Test
+  public void test_sumOfEvenValues() {
+    Tree tree = prepareTree();
+    assertThat(tree.sumOfEvenValues(), is(Optional.of(36)));
+  }</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
