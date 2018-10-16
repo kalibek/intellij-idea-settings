@@ -32,6 +32,9 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="7" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserEntity.java" timestamp="1539690598584">
+        <mark key="'" line="28" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/tmp/gen/bootstrap.js" timestamp="1539100668418">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="14" column="24" />
@@ -441,11 +444,11 @@
         <mark key="." line="37" column="40" />
         <mark key="^" line="37" column="40" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1539603158643">
-        <mark key="[" line="34" column="83" />
-        <mark key="]" line="34" column="83" />
-        <mark key="^" line="34" column="45" />
-        <mark key="." line="34" column="83" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1539690581041">
+        <mark key="[" line="35" column="37" />
+        <mark key="]" line="35" column="37" />
+        <mark key="^" line="35" column="37" />
+        <mark key="." line="35" column="37" />
       </file>
       <file name="$USER_HOME$/projects/tmp/gen/init.js" timestamp="1539095965934">
         <mark key="[" line="0" column="21" />
@@ -461,8 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="28" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/integration/CompanyIntegrationConverter.java" />
-      <jump line="87" column="16" filename="$USER_HOME$/projects/ptv/ptv-web/src/main/java/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
       <jump line="17" column="70" filename="$USER_HOME$/projects/aws_esb/aws/spot/src/main/resources/spotBidding/config/requester.yml" />
       <jump line="199" column="18" filename="$USER_HOME$/projects/ptv/ptv-web/src/main/java/com/teleroute/top/ptvservices/PTVServicesSOAPImpl.java" />
       <jump line="96" column="45" filename="$USER_HOME$/projects/ptv/ptv-web/src/main/java/com/teleroute/top/ptvservices/PTVServicesSOAPImpl.java" />
@@ -561,13 +562,15 @@
       <jump line="114" column="15" filename="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/UserPreferenceDTO.java" />
       <jump line="507" column="24" filename="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/UserPreferenceDTO.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/UserPreferenceDTO.java" />
+      <jump line="26" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserEntity.java" />
+      <jump line="28" column="11" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserEntity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>receiveMarketEmail</text>
+        <text>*</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -576,10 +579,10 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>OWNER_ID</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>receiveMarketEmail</text>
+        <text>status</text>
       </register>
       <register name="0" type="4">
         <text>receiveMarketEmail</text>
@@ -616,9 +619,9 @@
       </register>
     </registers>
     <search>
-      <last-search>receiveMarketEmail</last-search>
+      <last-search>status</last-search>
       <last-offset />
-      <last-pattern>receiveMarketEmail</last-pattern>
+      <last-pattern>status</last-pattern>
       <last-replace>String</last-replace>
       <last-substitute>K</last-substitute>
       <last-dir>1</last-dir>
@@ -626,8 +629,6 @@
     </search>
     <history>
       <history-search>
-        <entry>V</entry>
-        <entry>K</entry>
         <entry>Cache</entry>
         <entry>client</entry>
         <entry>aut</entry>
@@ -646,6 +647,8 @@
         <entry>mark</entry>
         <entry>marketing</entry>
         <entry>receiveMarketEmail</entry>
+        <entry>stat</entry>
+        <entry>status</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RydWUvRmFsc2UvZw==</entry>
