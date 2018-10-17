@@ -374,11 +374,11 @@
         <mark key="." line="37" column="40" />
         <mark key="^" line="37" column="40" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1539690581041">
-        <mark key="[" line="35" column="37" />
-        <mark key="]" line="35" column="37" />
-        <mark key="^" line="35" column="37" />
-        <mark key="." line="35" column="37" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1539775265035">
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="44" column="62" />
+        <mark key="^" line="44" column="62" />
+        <mark key="." line="44" column="62" />
       </file>
       <file name="$USER_HOME$/projects/tmp/gen/init.js" timestamp="1539095965934">
         <mark key="[" line="0" column="21" />
@@ -500,7 +500,7 @@
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ProcessRequestedItems</text>
+        <text>*</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -509,7 +509,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>ProcessRequestedItems</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
