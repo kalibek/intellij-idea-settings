@@ -50,11 +50,6 @@
         <mark key="." line="115" column="98" />
         <mark key="^" line="115" column="98" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/receive/ThrottlingMailConsumer.java" timestamp="1539600093067">
-        <mark key="[" line="48" column="68" />
-        <mark key="]" line="48" column="68" />
-        <mark key="." line="48" column="68" />
-      </file>
       <file name="$USER_HOME$/projects/java-mentoring/m1-lambdas-and-streams/src/test/java/task8/TreeTest.java" timestamp="1539609285528">
         <mark key="[" line="60" column="17" />
         <mark key="]" line="60" column="17" />
@@ -266,11 +261,6 @@
         <mark key="^" line="37" column="74" />
         <mark key="." line="37" column="101" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/throttling/ThrottlingMailSender.java" timestamp="1539605119071">
-        <mark key="[" line="21" column="42" />
-        <mark key="]" line="21" column="58" />
-        <mark key="." line="21" column="42" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/mail/template/UserMailTemplateDTO.java" timestamp="1538545005722">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="19" />
@@ -301,12 +291,6 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/message/MailMessageDrivenBean.java" timestamp="1539605314835">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ec897bdf-2e44-4bea-9b07-7f7d369ca76b/console.sql" timestamp="1538471651646">
         <mark key="[" line="22" column="44" />
         <mark key="]" line="22" column="61" />
@@ -324,11 +308,6 @@
         <mark key="]" line="15" column="19" />
         <mark key="." line="15" column="19" />
         <mark key="^" line="15" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/throttling/producer/ThrottlingMailProducer.java" timestamp="1539605130777">
-        <mark key="[" line="29" column="92" />
-        <mark key="]" line="29" column="108" />
-        <mark key="." line="29" column="92" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/CalloffThrottlingMailSender.java" timestamp="1539605101175">
         <mark key="[" line="33" column="38" />
@@ -375,7 +354,7 @@
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/UserPreferenceDTO.java" timestamp="1539678098541">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539610791105">
+      <file name="/Dummy.txt" timestamp="1539762058446">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="^" line="0" column="19" />
