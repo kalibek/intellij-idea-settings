@@ -172,11 +172,11 @@
         <mark key="^" line="22" column="60" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/AccountSettingsPresenter.java" timestamp="1539747860271">
-        <mark key="[" line="61" column="75" />
-        <mark key="]" line="62" column="27" />
-        <mark key="^" line="62" column="27" />
-        <mark key="." line="62" column="27" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/AccountSettingsPresenter.java" timestamp="1539775138167">
+        <mark key="[" line="61" column="43" />
+        <mark key="]" line="61" column="61" />
+        <mark key="^" line="61" column="61" />
+        <mark key="." line="61" column="61" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/UserManager.java" timestamp="1539233929790">
         <mark key="[" line="31" column="0" />
@@ -500,7 +500,7 @@
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>ProcessRequestedItems</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -509,7 +509,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>ProcessRequestedItems</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
