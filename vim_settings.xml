@@ -235,6 +235,12 @@
         <mark key="." line="53" column="35" />
         <mark key="^" line="53" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/webapp/css/WktsadminCommon.css" timestamp="1539841693268">
+        <mark key="[" line="4149" column="0" />
+        <mark key="]" line="4149" column="0" />
+        <mark key="^" line="19" column="23" />
+        <mark key="." line="4149" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/sender/CalloffThrottlingMailSender.java" timestamp="1539605101175">
         <mark key="[" line="33" column="38" />
         <mark key="]" line="33" column="54" />
@@ -308,7 +314,7 @@
         <mark key="^" line="26" column="15" />
         <mark key="." line="26" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539838037084">
+      <file name="/Dummy.txt" timestamp="1539842204013">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="^" line="0" column="19" />
@@ -501,8 +507,8 @@
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>car.getPrice()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGhlaWdodDogMzAwcHg7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -523,32 +529,32 @@
     assertThat(tree.sumOfEvenValues(), is(Optional.of(36)));
   }</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGhlaWdodDogMzAwcHg7Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3Rfb3B0aW9uYWwoKSB7CiAgICBUcmVlIHRyZWUgPSBuZXcgVHJlZSgpOwogICAgYXNzZXJ0RXF1YWxzKCAwLHRyZWUuc3VtT2ZFdmVuVmFsdWVzKCkpOwogIH0=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNFTkRJTkdfQ09NUEFOWV9JRCA9ICJzZW5kaW5nX2NvbXBhbnlfaWQiOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSB1c2VyX2luZm8gd2hlcmUgZmlyc3RfbmFtZSA9ICdBbGknOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBMT0cuaW5mbygiUHJlZmVycmVkIHVzZXIgbG9jYWxlIGhhcyBiZWVuIHNldCB0byBkZWZhdWx0OiB7fSIsIGRlZmF1bHRMb2NhbGUuZ2V0Q29kZSgpKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cuaW5mbygiQ2FsbG9mZiByZWZlcmVuY2UgaXMgIiArIHJlZmVyZW5jZSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cuaW5mbygiUmV0cmlldmluZyBjYWxsb2ZmIHJlZmVyZW5jZSBmb3IgY2FsbG9mZiBpZCAiICsgY2FsbG9mZklkKTsK</text>
+        <text encoding="base64">ICAgICAgICBMT0cuaW5mbygiQ2FsbG9mZiByZWZlcmVuY2UgaXMgIiArIHJlZmVyZW5jZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
