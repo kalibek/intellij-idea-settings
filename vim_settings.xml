@@ -114,6 +114,12 @@
         <mark key="." line="48" column="29" />
         <mark key="^" line="48" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/audit/manager/ConsultationManager.java" timestamp="1539943582674">
+        <mark key="[" line="38" column="57" />
+        <mark key="]" line="38" column="61" />
+        <mark key="." line="38" column="61" />
+        <mark key="^" line="38" column="61" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/cache/loaders/service/UserCacheLoadService.java" timestamp="1539926855052">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -293,11 +299,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/file/impl/FileRepositoryManagerImpl.java" timestamp="1539927345037">
-        <mark key="[" line="21" column="25" />
-        <mark key="]" line="21" column="25" />
-        <mark key="." line="21" column="25" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-scheduler/src/main/java/com/wktransportservices/spotbidding/scheduler/SchedulerEngineInitializer.java" timestamp="1539842887943">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -457,8 +458,8 @@
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBzY2hlbWFfdmVyc2lvbiB3aGVyZSB2ZXJzaW9uPScyMDE4MDgyMDA5MTUuMTguMTInOwo=</text>
+      <register name="&quot;" type="4">
+        <text>PropertyUtils.getInstance().isAuditSendingEnabled();</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -467,7 +468,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>PropertyUtils.getInstance().isAuditSendingEnabled();</text>
       </register>
       <register name="/" type="4">
         <text>rout</text>
