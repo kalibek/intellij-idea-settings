@@ -44,6 +44,12 @@
         <mark key="." line="60" column="57" />
         <mark key="^" line="60" column="57" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-common-web/src/main/java/com/wktransportservices/spotbidding/common/web/server/security/UserAuthorizationTokenExtractor.java" timestamp="1539949187898">
+        <mark key="[" line="65" column="20" />
+        <mark key="]" line="65" column="54" />
+        <mark key="^" line="64" column="7" />
+        <mark key="." line="65" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-utils/src/main/java/com/wktransportservices/spotbidding/utils/ejb/JNDIUtils.java" timestamp="1539843040791">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -80,6 +86,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/java/com/wktransportservices/spotbidding/web/server/security/filters/UserAuthorizationTokenVerificationFilter.java" timestamp="1539948888644" />
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/controller/VehicleSearchServiceImpl.java" timestamp="1539927329502">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -280,6 +287,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/resources/security/security-common.xml" timestamp="1539948445246" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/directory/PrivateDirectoryServiceBean.java" timestamp="1539849722345">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -461,7 +469,7 @@
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>PropertyUtils.getInstance().isAuditSendingEnabled();</text>
+        <text>extractJwtStringFromCookies</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -470,13 +478,13 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>PropertyUtils.getInstance().isAuditSendingEnabled();</text>
+        <text>extractJwtStringFromCookies</text>
       </register>
       <register name="/" type="4">
         <text>integr</text>
       </register>
       <register name="0" type="4">
-        <text>FileItem</text>
+        <text>extractBearerTokenStringFromHeader</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBzY2hlbWFfdmVyc2lvbiB3aGVyZSB2ZXJzaW9uPScyMDE4MDgyMDA5MTUuMTguMTInOwo=</text>
