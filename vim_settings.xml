@@ -471,7 +471,7 @@
         <text>PropertyUtils.getInstance().isAuditSendingEnabled();</text>
       </register>
       <register name="/" type="4">
-        <text>rout</text>
+        <text>integr</text>
       </register>
       <register name="0" type="4">
         <text>FileItem</text>
@@ -508,9 +508,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rout</last-search>
+      <last-search>integr</last-search>
       <last-offset />
-      <last-pattern>rout</last-pattern>
+      <last-pattern>integr</last-pattern>
       <last-replace>:currDate</last-replace>
       <last-substitute>currDate</last-substitute>
       <last-dir>1</last-dir>
@@ -518,7 +518,6 @@
     </search>
     <history>
       <history-search>
-        <entry>slf</entry>
         <entry>log</entry>
         <entry>printSt</entry>
         <entry>mark</entry>
@@ -538,6 +537,7 @@
         <entry>.debug(</entry>
         <entry>currDate</entry>
         <entry>rout</entry>
+        <entry>integr</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0VOVi8tZS9n</entry>
