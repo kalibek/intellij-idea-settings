@@ -229,9 +229,9 @@
         <mark key="^" line="38" column="61" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-common-web/src/main/java/com/wktransportservices/spotbidding/common/web/server/security/UserAuthorizationTokenVerifier.java" timestamp="1539953541428">
-        <mark key="[" line="18" column="21" />
-        <mark key="]" line="18" column="21" />
-        <mark key="." line="18" column="21" />
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="21" />
+        <mark key="." line="17" column="21" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/dao/UserEmailTemplateDao.java" timestamp="1539259788383">
         <mark key="[" line="25" column="72" />
@@ -684,11 +684,11 @@
         <mark key="]" line="456" column="0" />
         <mark key="." line="456" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539928865219">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="32" />
-        <mark key="." line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1539955534881">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="48" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="0" column="48" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/mailing/send/message/EmailTemplateServiceBean.java" timestamp="1538476874233">
         <mark key="[" line="73" column="30" />
