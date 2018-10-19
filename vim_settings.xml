@@ -44,11 +44,11 @@
         <mark key="." line="60" column="57" />
         <mark key="^" line="60" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-common-web/src/main/java/com/wktransportservices/spotbidding/common/web/server/security/UserAuthorizationTokenExtractor.java" timestamp="1539949187898">
-        <mark key="[" line="65" column="20" />
-        <mark key="]" line="65" column="54" />
-        <mark key="^" line="64" column="7" />
-        <mark key="." line="65" column="20" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-common-web/src/main/java/com/wktransportservices/spotbidding/common/web/server/security/UserAuthorizationTokenExtractor.java" timestamp="1539950685073">
+        <mark key="[" line="67" column="4" />
+        <mark key="]" line="67" column="10" />
+        <mark key="." line="67" column="10" />
+        <mark key="^" line="67" column="10" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-utils/src/main/java/com/wktransportservices/spotbidding/utils/ejb/JNDIUtils.java" timestamp="1539843040791">
         <mark key="[" line="24" column="0" />
@@ -126,6 +126,11 @@
         <mark key="]" line="38" column="61" />
         <mark key="." line="38" column="61" />
         <mark key="^" line="38" column="61" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-common-web/src/main/java/com/wktransportservices/spotbidding/common/web/server/security/UserAuthorizationTokenVerifier.java" timestamp="1539950708001">
+        <mark key="[" line="29" column="65" />
+        <mark key="]" line="29" column="65" />
+        <mark key="." line="29" column="65" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/cache/loaders/service/UserCacheLoadService.java" timestamp="1539926855052">
         <mark key="[" line="16" column="0" />
@@ -251,7 +256,11 @@
         <mark key="^" line="196" column="25" />
         <mark key="." line="196" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/java/com/wktransportservices/spotbidding/web/server/security/filters/UserAuthorizationHeaderFilter.java" timestamp="1539947458641" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/java/com/wktransportservices/spotbidding/web/server/security/filters/UserAuthorizationHeaderFilter.java" timestamp="1539950793608">
+        <mark key="[" line="48" column="25" />
+        <mark key="]" line="48" column="25" />
+        <mark key="." line="48" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-scheduler/src/main/java/com/wktransportservices/spotbidding/scheduler/job/CalloffBiddingStateCheckerJob.java" timestamp="1539855984278" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/SimulationServiceBean.java" timestamp="1539849798897">
         <mark key="'" line="25" column="12" />
@@ -309,6 +318,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/file/impl/FileRepositoryManagerImpl.java" timestamp="1539927345037">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-common-web/src/main/java/com/wktransportservices/spotbidding/common/web/server/login/CheckAuthorizationPermission.java" timestamp="1539950394019" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-scheduler/src/main/java/com/wktransportservices/spotbidding/scheduler/SchedulerEngineInitializer.java" timestamp="1539842887943">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -469,7 +484,7 @@
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>extractJwtStringFromCookies</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -478,40 +493,42 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>extractJwtStringFromCookies</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>integr</text>
       </register>
       <register name="0" type="4">
-        <text>extractBearerTokenStringFromHeader</text>
+        <text>)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBzY2hlbWFfdmVyc2lvbiB3aGVyZSB2ZXJzaW9uPScyMDE4MDgyMDA5MTUuMTguMTInOwo=</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGJlYXJlclZhbGlkID0gdG9rZW5WZXJpZmllci5pc0JlYXJlclZhbGlkKHJlcXVlc3QpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gc2NoZW1hX3ZlcnNpb24gd2hlcmUgaW5zdGFsbGVkX3JhbmsgPSA3NTsK</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGJlYXJlclZhbGlkID0gdG9rZW5WZXJpZmllci5pc0JlYXJlclZhbGlkKHJlcXVlc3QpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihTbWFydERpcmVjdG9yeVdlYnNlcnZpY2UuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWUgPSBleHRyYWN0QmVhcmVyVG9rZW5TdHJpbmdGcm9tSGVhZGVyKHJlcXVlc3QpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eSh2YWx1ZSkpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihWZWhpY2xlT2ZmZXJzV2Vic2VydmljZS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>if (StringUtils.isEmpty(value)) {
+            value = extractBearerTokenStringFromHeader(request);
+        }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihGcmVpZ2h0T2ZmZXJzV2Vic2VydmljZS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzY2hlbWFfdmVyc2lvbiB3aGVyZSB2ZXJzaW9uPScyMDE4MDgyMDA5MTUuMTguMTInOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gc2NoZW1hX3ZlcnNpb24gd2hlcmUgaW5zdGFsbGVkX3JhbmsgPSA3NTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
