@@ -250,11 +250,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539927650291">
+      <file name="/Dummy.txt" timestamp="1539928865219">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/export/LocationExcelConverter.java" timestamp="1539849668826">
         <mark key="[" line="18" column="0" />
@@ -375,8 +375,8 @@
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Resolved merge conflicts</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -385,7 +385,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>Resolved merge conflicts</text>
       </register>
       <register name="/" type="4">
         <text>rout</text>
