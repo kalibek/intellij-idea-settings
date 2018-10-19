@@ -152,6 +152,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/webapp/WEB-INF/security/production/security-production-context.xml" timestamp="1539947426724" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/export/CalloffCSVExportServiceBean.java" timestamp="1539849149083">
         <mark key="'" line="18" column="13" />
         <mark key="[" line="20" column="0" />
@@ -243,6 +244,7 @@
         <mark key="^" line="196" column="25" />
         <mark key="." line="196" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/java/com/wktransportservices/spotbidding/web/server/security/filters/UserAuthorizationHeaderFilter.java" timestamp="1539947458641" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-scheduler/src/main/java/com/wktransportservices/spotbidding/scheduler/job/CalloffBiddingStateCheckerJob.java" timestamp="1539855984278" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/user/SimulationServiceBean.java" timestamp="1539849798897">
         <mark key="'" line="25" column="12" />
