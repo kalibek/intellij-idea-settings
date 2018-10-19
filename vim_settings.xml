@@ -418,7 +418,7 @@
         <text>SpotBid-fjdhqw</text>
       </register>
       <register name="/" type="4">
-        <text>currDate</text>
+        <text>rout</text>
       </register>
       <register name="0" type="4">
         <text>of0i0v</text>
@@ -455,9 +455,9 @@
       </register>
     </registers>
     <search>
-      <last-search>currDate</last-search>
+      <last-search>rout</last-search>
       <last-offset />
-      <last-pattern>currDate</last-pattern>
+      <last-pattern>rout</last-pattern>
       <last-replace>:currDate</last-replace>
       <last-substitute>currDate</last-substitute>
       <last-dir>1</last-dir>
@@ -465,7 +465,6 @@
     </search>
     <history>
       <history-search>
-        <entry>printS</entry>
         <entry>slf</entry>
         <entry>log</entry>
         <entry>printSt</entry>
@@ -485,6 +484,7 @@
         <entry>\top</entry>
         <entry>.debug(</entry>
         <entry>currDate</entry>
+        <entry>rout</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0VOVi8tZS9n</entry>
