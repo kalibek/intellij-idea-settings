@@ -44,10 +44,6 @@
         <mark key="." line="38" column="61" />
         <mark key="^" line="38" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/security/UserAuthorizationToken.java" timestamp="1539953461948">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="40" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/AccountSettingsPresenter.java" timestamp="1539839753727">
         <mark key="'" line="66" column="29" />
         <mark key="[" line="60" column="60" />
@@ -92,6 +88,7 @@
         <mark key="]" line="56" column="41" />
         <mark key="." line="56" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/ptv/ptv-business/ptv-shared-model/src/main/java/com/teleroute/top/ptvservices/VehicleTypeType.java" timestamp="1540195205281" />
       <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/file/impl/FileRepositoryManagerImpl.java" timestamp="1539927345037">
         <mark key="[" line="21" column="25" />
         <mark key="]" line="21" column="25" />
