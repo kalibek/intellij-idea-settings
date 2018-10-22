@@ -31,6 +31,10 @@
         <mark key="." line="26" column="22" />
         <mark key="^" line="26" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/SimplifiedUserDTO.java" timestamp="1540196599956">
+        <mark key="[" line="169" column="19" />
+        <mark key="]" line="169" column="44" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/LocationService.java" timestamp="1539843660686">
         <mark key="'" line="59" column="52" />
       </file>
@@ -43,6 +47,10 @@
         <mark key="]" line="38" column="61" />
         <mark key="." line="38" column="61" />
         <mark key="^" line="38" column="61" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/security/UserAuthorizationToken.java" timestamp="1539953461948">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="40" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/security/UserAuthServiceBean.java" timestamp="1539848563358">
         <mark key="'" line="100" column="61" />
@@ -266,7 +274,7 @@
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e.getMessage()</text>
+        <text>isAutomaticUpliftInitiated</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -278,10 +286,10 @@
         <text>e.getMessage()</text>
       </register>
       <register name="/" type="4">
-        <text>Ille</text>
+        <text>upli</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAxICogcmVzcG9uc2Uuc2VuZEVycm9yKEh0dHBTZXJ2bGV0UmVzcG9uc2UuU0NfVU5BVVRIT1JJWkVELCAiVXNlciBhdXRob3JpemF0aW9uIHRva2VuIGlzIG5vdCBzaWduZWQiKQo=</text>
+      <register name="0" type="4">
+        <text>isAutomaticUpliftInitiated</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -315,9 +323,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Ille</last-search>
+      <last-search>upli</last-search>
       <last-offset />
-      <last-pattern>Ille</last-pattern>
+      <last-pattern>upli</last-pattern>
       <last-replace>:currDate</last-replace>
       <last-substitute>currDate</last-substitute>
       <last-dir>1</last-dir>
@@ -325,10 +333,6 @@
     </search>
     <history>
       <history-search>
-        <entry>receiveMarketEmail</entry>
-        <entry>stat</entry>
-        <entry>status</entry>
-        <entry>eroorPageA</entry>
         <entry>errorP</entry>
         <entry>.info(</entry>
         <entry>\cintegr</entry>
@@ -345,6 +349,10 @@
         <entry>Runtim</entry>
         <entry>Ill</entry>
         <entry>Ille</entry>
+        <entry>isAuto</entry>
+        <entry>isAutomaticUpliftInitiated</entry>
+        <entry>auto</entry>
+        <entry>upli</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0VOVi8tZS9n</entry>
