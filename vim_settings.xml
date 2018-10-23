@@ -44,6 +44,7 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/ptvag/handler/XLocateHandler.java" timestamp="1539852899907">
         <mark key="'" line="161" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/messages/IntegrationMessagesSendingServiceBean.java" timestamp="1540278567956" />
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/fax/async/FaxClient.java" timestamp="1540199576472">
         <mark key="'" line="2" column="22" />
         <mark key="[" line="51" column="39" />
@@ -51,7 +52,7 @@
         <mark key="^" line="2" column="57" />
         <mark key="." line="2" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/aws_esb/aws/core/src/main/java/com/alpegagroup/aws/esb/util/ValidatorUtil.java" timestamp="1540274136563" />
+      <file name="$USER_HOME$/projects/aws_esb/aws/core/src/main/java/com/alpegagroup/aws/esb/util/ValidatorUtil.java" timestamp="1540278701447" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/calloff/CalloffTemplateService.java" timestamp="1539849414831">
         <mark key="'" line="53" column="12" />
         <mark key="[" line="53" column="46" />
@@ -102,13 +103,13 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_qa.properties" timestamp="1540269483817">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/aws_esb/aws/core/src/main/java/com/alpegagroup/aws/esb/bean/DefaultMessageValidator.java" timestamp="1540273690517" />
+      <file name="$USER_HOME$/projects/aws_esb/aws/core/src/main/java/com/alpegagroup/aws/esb/bean/DefaultMessageValidator.java" timestamp="1540278673068" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/java/com/wktransportservices/spotbidding/web/server/security/profiles/local/FormLogoutHandler.java" timestamp="1539847840898">
         <mark key="'" line="19" column="121" />
       </file>
-      <file name="$USER_HOME$/projects/aws_esb/aws/pom.xml" timestamp="1540274462116">
-        <mark key="[" line="56" column="42" />
-        <mark key="]" line="56" column="43" />
+      <file name="$USER_HOME$/projects/aws_esb/aws/pom.xml" timestamp="1540279261620">
+        <mark key="[" line="48" column="8" />
+        <mark key="]" line="52" column="92" />
         <mark key="." line="56" column="43" />
         <mark key="^" line="52" column="51" />
       </file>
@@ -134,7 +135,7 @@
       <file name="$USER_HOME$/projects/spotbidding/pom.xml" timestamp="1540274243131">
         <mark key="'" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/aws_esb/aws/spot/src/main/resources/spotBidding/config/notifier.yml" timestamp="1540274154498" />
+      <file name="$USER_HOME$/projects/aws_esb/aws/spot/src/main/resources/spotBidding/config/notifier.yml" timestamp="1540278974231" />
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/UserPreferenceDTO.java" timestamp="1539678098541">
         <mark key="'" line="0" column="0" />
       </file>
@@ -285,7 +286,7 @@
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text encoding="base64">PHNwb3RiaWRkaW5nLmNvbXBhbnl1c2VyYWRkcmVzcy5tYnMudmVyc2lvbj4xLjc8L3Nwb3RiaWRkaW5nLmNvbXBhbnl1c2VyYWRkcmVzcy5tYnMudmVyc2lvbj4KICAgICAgICA8c3BvdGJpZGRpbmcuY29tcGFuaWVzZGlyZWN0b3JpZXMubWJzLnZlcnNpb24+MS43PC9zcG90YmlkZGluZy5jb21wYW5pZXNkaXJlY3Rvcmllcy5tYnMudmVyc2lvbj4KICAgICAgICA8c3BvdGJpZGRpbmcuYWNjZXNzLm1icy52ZXJzaW9uPjEuODwvc3BvdGJpZGRpbmcuYWNjZXNzLm1icy52ZXJzaW9uPgogICAgICAgIDxzcG90YmlkZGluZy5ub3RpZmljYXRpb24ubWJzLnZlcnNpb24+MS40PC9zcG90YmlkZGluZy5ub3RpZmljYXRpb24ubWJzLnZlcnNpb24+CiAgICAgICAgPHNwb3RiaWRkaW5nLnRyYW5zcG9ydG9yZGVyLm1icy52ZXJzaW9uPjEuMTA8L3Nwb3RiaWRkaW5nLnRyYW5zcG9ydG9yZGVyLm1icy52ZXJzaW9uPg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -300,7 +301,7 @@
         <text>mbs</text>
       </register>
       <register name="0" type="4">
-        <text>responder_email_notifications</text>
+        <text encoding="base64">PHNwb3RiaWRkaW5nLmNvbXBhbnl1c2VyYWRkcmVzcy5tYnMudmVyc2lvbj4xLjc8L3Nwb3RiaWRkaW5nLmNvbXBhbnl1c2VyYWRkcmVzcy5tYnMudmVyc2lvbj4KICAgICAgICA8c3BvdGJpZGRpbmcuY29tcGFuaWVzZGlyZWN0b3JpZXMubWJzLnZlcnNpb24+MS43PC9zcG90YmlkZGluZy5jb21wYW5pZXNkaXJlY3Rvcmllcy5tYnMudmVyc2lvbj4KICAgICAgICA8c3BvdGJpZGRpbmcuYWNjZXNzLm1icy52ZXJzaW9uPjEuODwvc3BvdGJpZGRpbmcuYWNjZXNzLm1icy52ZXJzaW9uPgogICAgICAgIDxzcG90YmlkZGluZy5ub3RpZmljYXRpb24ubWJzLnZlcnNpb24+MS40PC9zcG90YmlkZGluZy5ub3RpZmljYXRpb24ubWJzLnZlcnNpb24+CiAgICAgICAgPHNwb3RiaWRkaW5nLnRyYW5zcG9ydG9yZGVyLm1icy52ZXJzaW9uPjEuMTA8L3Nwb3RiaWRkaW5nLnRyYW5zcG9ydG9yZGVyLm1icy52ZXJzaW9uPg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IGU7Cg==</text>
