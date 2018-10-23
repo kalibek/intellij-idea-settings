@@ -67,8 +67,10 @@
         <mark key="^" line="2" column="57" />
         <mark key="." line="2" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" timestamp="1540292276138">
-        <mark key="'" line="92" column="64" />
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" timestamp="1540294623938">
+        <mark key="'" line="21" column="43" />
+        <mark key="[" line="157" column="22" />
+        <mark key="]" line="157" column="38" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/calloff/CalloffTemplateService.java" timestamp="1539849414831">
         <mark key="'" line="53" column="12" />
@@ -175,6 +177,9 @@
         <mark key="]" line="17" column="21" />
         <mark key="." line="17" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/ptv/ptv-web/src/main/java/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" timestamp="1540293573068">
+        <mark key="'" line="1592" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/UserPreferenceDTO.java" timestamp="1539678098541">
         <mark key="'" line="0" column="0" />
       </file>
@@ -183,6 +188,13 @@
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/java/com/wktransportservices/spotbidding/web/server/security/profiles/production/SAMLErrorLoggingProcessingFilter.java" timestamp="1539847895398">
         <mark key="'" line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1540294706552">
+        <mark key="'" line="99" column="43" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="^" line="170" column="19" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" timestamp="1540269376520">
         <mark key="'" line="0" column="0" />
@@ -213,38 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="27" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
-      <jump line="112" column="62" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
-      <jump line="113" column="59" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
-      <jump line="184" column="72" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
-      <jump line="31" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffLaunchServiceBean.java" />
-      <jump line="38" column="20" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffLaunchServiceBean.java" />
-      <jump line="49" column="33" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffLaunchServiceBean.java" />
-      <jump line="78" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffLaunchServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffLaunchServiceBean.java" />
-      <jump line="77" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffLaunchServiceBean.java" />
-      <jump line="83" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffLaunchServiceBean.java" />
-      <jump line="91" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffLaunchServiceBean.java" />
-      <jump line="61" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffCreateServiceBean.java" />
-      <jump line="178" column="82" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffCreateServiceBean.java" />
-      <jump line="200" column="8" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffCreateServiceBean.java" />
-      <jump line="463" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffCreateServiceBean.java" />
-      <jump line="40" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffAwardingServiceBean.java" />
-      <jump line="109" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffAwardingServiceBean.java" />
-      <jump line="94" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffAwardingServiceBean.java" />
-      <jump line="24" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffDeleteServiceBean.java" />
-      <jump line="40" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffDeleteServiceBean.java" />
-      <jump line="44" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffDeleteServiceBean.java" />
-      <jump line="47" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffDeleteServiceBean.java" />
-      <jump line="20" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/export/CalloffCSVExportServiceBean.java" />
-      <jump line="26" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/security/UserAuthServiceBean.java" />
-      <jump line="50" column="79" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/security/UserAuthServiceBean.java" />
-      <jump line="58" column="49" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/security/UserAuthServiceBean.java" />
-      <jump line="61" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/security/UserAuthServiceBean.java" />
-      <jump line="65" column="16" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/security/UserAuthServiceBean.java" />
-      <jump line="71" column="80" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/security/UserAuthServiceBean.java" />
-      <jump line="75" column="16" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/security/UserAuthServiceBean.java" />
-      <jump line="78" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/security/UserAuthServiceBean.java" />
       <jump line="82" column="79" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/security/UserAuthServiceBean.java" />
       <jump line="87" column="64" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/security/UserAuthServiceBean.java" />
       <jump line="89" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/security/UserAuthServiceBean.java" />
@@ -304,8 +284,6 @@
       <jump line="422" column="28" filename="$USER_HOME$/projects/fx/pom.xml" />
       <jump line="423" column="32" filename="$USER_HOME$/projects/fx/pom.xml" />
       <jump line="432" column="56" filename="$USER_HOME$/projects/fx/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
-      <jump line="92" column="64" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
       <jump line="59" column="31" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/calloff/CalloffEntity.java" />
       <jump line="60" column="68" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/calloff/CalloffEntity.java" />
       <jump line="62" column="84" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/calloff/CalloffEntity.java" />
@@ -313,13 +291,47 @@
       <jump line="67" column="19" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/calloff/CalloffEntity.java" />
       <jump line="107" column="20" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/calloff/CalloffEntity.java" />
       <jump line="28" column="37" filename="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" />
+      <jump line="476" column="45" filename="$USER_HOME$/projects/ptv/ptv-web/src/main/java/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
+      <jump line="2" column="38" filename="$USER_HOME$/projects/ptv/ptv-web/src/main/java/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
+      <jump line="70" column="20" filename="$USER_HOME$/projects/ptv/ptv-web/src/main/java/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
+      <jump line="133" column="20" filename="$USER_HOME$/projects/ptv/ptv-web/src/main/java/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
+      <jump line="169" column="20" filename="$USER_HOME$/projects/ptv/ptv-web/src/main/java/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
+      <jump line="212" column="64" filename="$USER_HOME$/projects/ptv/ptv-web/src/main/java/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
+      <jump line="215" column="111" filename="$USER_HOME$/projects/ptv/ptv-web/src/main/java/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
+      <jump line="242" column="19" filename="$USER_HOME$/projects/ptv/ptv-web/src/main/java/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
+      <jump line="260" column="31" filename="$USER_HOME$/projects/ptv/ptv-web/src/main/java/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/ptv/ptv-web/src/main/java/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
+      <jump line="1592" column="29" filename="$USER_HOME$/projects/ptv/ptv-web/src/main/java/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" />
+      <jump line="16" column="40" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" />
+      <jump line="99" column="43" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" />
+      <jump line="155" column="63" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="22" column="46" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="37" column="46" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="38" column="43" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="50" column="46" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="51" column="43" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="63" column="46" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="64" column="43" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="76" column="46" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="77" column="43" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="92" column="46" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="93" column="43" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="105" column="46" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="106" column="43" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="118" column="46" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="119" column="43" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="5" column="46" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="6" column="43" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
+      <jump line="21" column="43" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>09</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -328,49 +340,49 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>09</text>
+        <text>com.wktransportservices.fx.web.server.atmosphere</text>
       </register>
       <register name="/" type="4">
-        <text>\cexter</text>
+        <text>top</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PHNwb3RiaWRkaW5nLmNvbXBhbnl1c2VyYWRkcmVzcy5tYnMudmVyc2lvbj4xLjc8L3Nwb3RiaWRkaW5nLmNvbXBhbnl1c2VyYWRkcmVzcy5tYnMudmVyc2lvbj4KICAgICAgICA8c3BvdGJpZGRpbmcuY29tcGFuaWVzZGlyZWN0b3JpZXMubWJzLnZlcnNpb24+MS43PC9zcG90YmlkZGluZy5jb21wYW5pZXNkaXJlY3Rvcmllcy5tYnMudmVyc2lvbj4KICAgICAgICA8c3BvdGJpZGRpbmcuYWNjZXNzLm1icy52ZXJzaW9uPjEuODwvc3BvdGJpZGRpbmcuYWNjZXNzLm1icy52ZXJzaW9uPgogICAgICAgIDxzcG90YmlkZGluZy5ub3RpZmljYXRpb24ubWJzLnZlcnNpb24+MS40PC9zcG90YmlkZGluZy5ub3RpZmljYXRpb24ubWJzLnZlcnNpb24+CiAgICAgICAgPHNwb3RiaWRkaW5nLnRyYW5zcG9ydG9yZGVyLm1icy52ZXJzaW9uPjEuMTA8L3Nwb3RiaWRkaW5nLnRyYW5zcG9ydG9yZGVyLm1icy52ZXJzaW9uPg==</text>
+        <text>com.teleroute.top</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9sb2dnaW5nLXByb2ZpbGVzPgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgZSA9IHRocm93bihBY2Nlc3NEZW5pZWRFeGNlcHRpb24pCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">PGxvZ2dpbmctcHJvZmlsZXM+CiAgICAgICAgICAgICAgICA8bG9nZ2luZy1wcm9maWxlIG5hbWU9IklORlJBLVBST0ZJTEUiPgogICAgICAgICAgICAgICAgICAgIDxzaXplLXJvdGF0aW5nLWZpbGUtaGFuZGxlciBuYW1lPSJJTkZSQSIgYXV0b2ZsdXNoPSJ0cnVlIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGxldmVsIG5hbWU9IklORk8iLz4KICAgICAgICAgICAgICAgICAgICAgICAgPGZpbGUgcmVsYXRpdmUtdG89Impib3NzLnNlcnZlci5sb2cuZGlyIiBwYXRoPSJpbmZyYS5sb2ciLz4KICAgICAgICAgICAgICAgICAgICAgICAgPGFwcGVuZCB2YWx1ZT0idHJ1ZSIvPgogICAgICAgICAgICAgICAgICAgIDwvc2l6ZS1yb3RhdGluZy1maWxlLWhhbmRsZXI+CiAgICAgICAgICAgICAgICAgICAgPGxvZ2dlciBjYXRlZ29yeT0iY29tLndrdHJhbnNwb3J0c2VydmljZXMuZngiIHVzZS1wYXJlbnQtaGFuZGxlcnM9ImZhbHNlIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGxldmVsIG5hbWU9IklORk8iLz4KICAgICAgICAgICAgICAgICAgICAgICAgPGhhbmRsZXJzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGhhbmRsZXIgbmFtZT0iSU5GUkEiLz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9oYW5kbGVycz4KICAgICAgICAgICAgICAgICAgICA8L2xvZ2dlcj4KICAgICAgICAgICAgICAgICAgICA8bG9nZ2VyIGNhdGVnb3J5PSJjb20uc3ByaW5nZnJhbWV3b3JrLnNlY3VyaXR5LnNhbWwiIHVzZS1wYXJlbnQtaGFuZGxlcnM9ImZhbHNlIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGxldmVsIG5hbWU9IkRFQlVHIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxoYW5kbGVycz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoYW5kbGVyIG5hbWU9IklORlJBIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvaGFuZGxlcnM+CiAgICAgICAgICAgICAgICAgICAgPC9sb2dnZXI+CiAgICAgICAgICAgICAgICAgICAgPGxvZ2dlciBjYXRlZ29yeT0ib3JnLmFwYWNoZS5hY3RpdmVtcS50cmFuc3BvcnQuZmFpbG92ZXIuRmFpbG92ZXJUcmFuc3BvcnQiPgogICAgICAgICAgICAgICAgICAgICAgICA8bGV2ZWwgbmFtZT0iV0FSTiIvPgogICAgICAgICAgICAgICAgICAgIDwvbG9nZ2VyPgogICAgICAgICAgICAgICAgICAgIDxsb2dnZXIgY2F0ZWdvcnk9ImNvbS50ZWxlcm91dGUudG9wIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGxldmVsIG5hbWU9IldBUk4iLz4KICAgICAgICAgICAgICAgICAgICA8L2xvZ2dlcj4KICAgICAgICAgICAgICAgICAgICA8cm9vdC1sb2dnZXI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsZXZlbCBuYW1lPSJJTkZPIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxoYW5kbGVycz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoYW5kbGVyIG5hbWU9IklORlJBIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvaGFuZGxlcnM+CiAgICAgICAgICAgICAgICAgICAgPC9yb290LWxvZ2dlcj4KICAgICAgICAgICAgICAgIDwvbG9nZ2luZy1wcm9maWxlPg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgZSA9IHRocm93bihBY2Nlc3NEZW5pZWRFeGNlcHRpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IGU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlLm1lc3NhZ2UgPT0gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgciA9IHJlc3BvbnNlCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgZSA9IHRocm93bihBY2Nlc3NEZW5pZWRFeGNlcHRpb24pCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dG9rZW47CiAgICAgICAgICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZWYgZSA9IHRocm93bihBY2Nlc3NEZW5pZWRFeGNlcHRpb24pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBlLm1lc3NhZ2UgPT0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgciA9IHJlc3BvbnNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/18_09/18_12/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\cexter</last-search>
+      <last-search>top</last-search>
       <last-offset />
-      <last-pattern>\cexter</last-pattern>
+      <last-pattern>top</last-pattern>
       <last-replace>18_12</last-replace>
       <last-substitute>18_09</last-substitute>
       <last-dir>1</last-dir>
@@ -378,10 +390,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.debug(</entry>
-        <entry>currDate</entry>
-        <entry>rout</entry>
-        <entry>integr</entry>
         <entry>e.getMess</entry>
         <entry>Runtim</entry>
         <entry>Ill</entry>
@@ -396,8 +404,12 @@
         <entry>mbs</entry>
         <entry>ptv</entry>
         <entry>com</entry>
-        <entry>top</entry>
         <entry>\cexter</entry>
+        <entry>Sta</entry>
+        <entry>logging</entry>
+        <entry>server.log</entry>
+        <entry>server.log&quot;</entry>
+        <entry>top</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZhbHNlL3RydWUvZw==</entry>
@@ -418,8 +430,8 @@
         <entry encoding="base64">JzwsJz5zL1YvU3RyaW5nL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0svU3RyaW5nL2c=</entry>
         <entry>%s/currDate/:currDate/g</entry>
-        <entry>w</entry>
         <entry>%s/18_09/18_12/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
