@@ -19,5 +19,6 @@
     <mask>*.*ss</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>
