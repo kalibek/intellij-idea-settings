@@ -51,6 +51,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/user/AccountSettingsView.ui.xml" timestamp="1540268683227" />
       <file name="$USER_HOME$/projects/java-mentoring/m1-lambdas-and-streams/src/main/java/task6/AbstractCarCollector.java" timestamp="1539779065540">
         <mark key="[" line="35" column="14" />
         <mark key="]" line="35" column="15" />
@@ -72,6 +73,7 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/ptvag/handler/XLocateHandler.java" timestamp="1539852899907">
         <mark key="'" line="161" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/integration/messages/IntegrationMessagesSendingServiceBean.java" timestamp="1540268232115" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-common-web/src/test/groovy/com/wktransportservices/spotbidding/common/web/server/security/UserAuthorizationTokenVerifierSpec.groovy" timestamp="1539953578480">
         <mark key="[" line="26" column="22" />
         <mark key="]" line="26" column="22" />
@@ -163,7 +165,7 @@
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/UserPreferenceDTO.java" timestamp="1539678098541">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540200672596">
+      <file name="/Dummy.txt" timestamp="1540268071354">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="48" />
         <mark key="^" line="0" column="48" />
@@ -192,12 +194,12 @@
         <mark key="^" line="61" column="24" />
         <mark key="." line="61" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1539859723280">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1540268120701">
         <mark key="'" line="46" column="70" />
-        <mark key="[" line="75" column="38" />
-        <mark key="]" line="75" column="44" />
-        <mark key="." line="75" column="38" />
-        <mark key="^" line="75" column="45" />
+        <mark key="[" line="78" column="38" />
+        <mark key="]" line="78" column="78" />
+        <mark key="." line="78" column="78" />
+        <mark key="^" line="78" column="78" />
       </file>
       <file name="/fragment.java" timestamp="1540193058010">
         <mark key="[" line="0" column="0" />
@@ -310,7 +312,7 @@
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>2353</text>
+        <text>user_info;</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -319,7 +321,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>2353</text>
+        <text>user_info;</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
