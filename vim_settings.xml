@@ -6,6 +6,10 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/security/UserAuthServiceBean.java" timestamp="1539848563358">
         <mark key="'" line="100" column="61" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/client/i18n/BusinessEnumMessages.java" timestamp="1540367521376">
+        <mark key="[" line="111" column="11" />
+        <mark key="]" line="111" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/mdb/OfferActionNotifierBean.java" timestamp="1540192971828">
         <mark key="'" line="46" column="13" />
       </file>
@@ -180,13 +184,7 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/java/com/wktransportservices/spotbidding/web/server/security/profiles/production/SAMLErrorLoggingProcessingFilter.java" timestamp="1539847895398">
         <mark key="'" line="11" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1540354122655">
-        <mark key="'" line="99" column="43" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="^" line="170" column="19" />
-        <mark key="." line="148" column="0" />
-      </file>
+      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/impl/FreightOfferDAO.java" timestamp="1540367112396" />
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" timestamp="1540359320821">
         <mark key="'" line="129" column="20" />
         <mark key="[" line="138" column="29" />
@@ -324,7 +322,7 @@
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>images and ptv</text>
+        <text>dateFormatDX</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -339,7 +337,7 @@
         <text>18_09</text>
       </register>
       <register name="0" type="4">
-        <text>18_09</text>
+        <text>dateFormatDX</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
