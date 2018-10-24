@@ -52,12 +52,6 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/ptvag/handler/XLocateHandler.java" timestamp="1539852899907">
         <mark key="'" line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/pom.xml" timestamp="1540358175663">
-        <mark key="'" line="432" column="56" />
-        <mark key="[" line="351" column="37" />
-        <mark key="]" line="351" column="38" />
-        <mark key="." line="351" column="38" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/fax/async/FaxClient.java" timestamp="1540199576472">
         <mark key="'" line="2" column="22" />
         <mark key="[" line="51" column="39" />
@@ -154,6 +148,9 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_demo.properties" timestamp="1540354939814">
         <mark key="'" line="98" column="0" />
       </file>
+      <file name="/a.sql" timestamp="1540379756968">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.groovy" timestamp="1540377378828">
         <mark key="[" line="0" column="0" />
       </file>
@@ -163,14 +160,14 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-calloff-report/src/test/java/com/wktransportservices/spotbidding/report/service/TestConnection.java" timestamp="1539847690290">
         <mark key="'" line="155" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/pom.xml" timestamp="1540355105984">
-        <mark key="'" line="407" column="40" />
-        <mark key="[" line="449" column="37" />
-        <mark key="]" line="449" column="38" />
-        <mark key="." line="449" column="38" />
+      <file name="/sb_data.spot_data.email_template [sb_data@localhost]" timestamp="1540379632924">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ptv/ptv-web/src/main/java/com/teleroute/top/ptvservices/handler/PTVProcesHandler.java" timestamp="1540293573068">
         <mark key="'" line="1592" column="29" />
+      </file>
+      <file name="/dummy.sql" timestamp="1540379633178">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/dto/UserPreferenceDTO.java" timestamp="1539678098541">
         <mark key="'" line="0" column="0" />
@@ -216,12 +213,12 @@
         <mark key="^" line="61" column="24" />
         <mark key="." line="61" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1540292660487">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1540379531999">
         <mark key="'" line="46" column="70" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="78" column="21" />
-        <mark key="." line="78" column="21" />
-        <mark key="^" line="78" column="21" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="81" column="28" />
+        <mark key="." line="81" column="28" />
+        <mark key="^" line="81" column="28" />
       </file>
     </filemarks>
     <jumps>
