@@ -12,8 +12,8 @@
       <file name="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" timestamp="1540199873782">
         <mark key="'" line="153" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" timestamp="1540269384651">
-        <mark key="'" line="14" column="59" />
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" timestamp="1540359324584">
+        <mark key="'" line="129" column="39" />
         <mark key="[" line="132" column="29" />
         <mark key="]" line="132" column="30" />
         <mark key="." line="132" column="30" />
@@ -41,6 +41,9 @@
         <mark key="]" line="3" column="58" />
         <mark key="." line="3" column="58" />
         <mark key="^" line="3" column="58" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" timestamp="1540359308634">
+        <mark key="'" line="123" column="51" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/ptvag/handler/XLocateHandler.java" timestamp="1539852899907">
         <mark key="'" line="161" column="0" />
@@ -85,13 +88,13 @@
         <mark key="^" line="404" column="74" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_stage.properties" timestamp="1540354987182">
-        <mark key="'" line="122" column="0" />
+        <mark key="'" line="98" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_sprint.properties" timestamp="1540354969365">
-        <mark key="'" line="122" column="0" />
+        <mark key="'" line="98" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_dev.properties" timestamp="1540354946679">
-        <mark key="'" line="122" column="0" />
+        <mark key="'" line="98" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1540291568583">
         <mark key="[" line="3" column="56" />
@@ -102,29 +105,28 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/calloff/CalloffEntity.java" timestamp="1540292475125">
         <mark key="'" line="107" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_prod.properties" timestamp="1540269320646">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_prod.properties" timestamp="1540359312756">
+        <mark key="'" line="122" column="70" />
         <mark key="[" line="136" column="29" />
         <mark key="]" line="136" column="30" />
         <mark key="." line="136" column="30" />
         <mark key="^" line="136" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1540269277719">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1540359294568">
         <mark key="[" line="148" column="29" />
         <mark key="]" line="148" column="30" />
         <mark key="." line="148" column="30" />
         <mark key="^" line="148" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" timestamp="1540269297229">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" timestamp="1540359304766">
+        <mark key="'" line="140" column="60" />
         <mark key="[" line="135" column="29" />
         <mark key="]" line="135" column="30" />
         <mark key="." line="135" column="30" />
         <mark key="^" line="135" column="30" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_qa.properties" timestamp="1540354962284">
-        <mark key="'" line="122" column="0" />
+        <mark key="'" line="98" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/java/com/wktransportservices/spotbidding/web/server/security/profiles/local/FormLogoutHandler.java" timestamp="1539847840898">
         <mark key="'" line="19" column="121" />
@@ -138,15 +140,15 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/map/LocationService.java" timestamp="1539843660686">
         <mark key="'" line="59" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1540269369055">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1540359316882">
+        <mark key="'" line="119" column="31" />
         <mark key="[" line="130" column="29" />
         <mark key="]" line="130" column="30" />
         <mark key="." line="130" column="30" />
         <mark key="^" line="130" column="30" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_demo.properties" timestamp="1540354939814">
-        <mark key="'" line="122" column="0" />
+        <mark key="'" line="98" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/test/java/com/wktransportservices/spotbidding/domain/dao/log/ActionLogDaoDatabase.java" timestamp="1539847994857">
         <mark key="'" line="8" column="13" />
@@ -167,12 +169,12 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_prod.properties" timestamp="1540354955613">
-        <mark key="'" line="122" column="0" />
+        <mark key="'" line="98" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540355891971">
+      <file name="/Dummy.txt" timestamp="1540359347007">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="23" />
+        <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/java/com/wktransportservices/spotbidding/web/server/security/profiles/production/SAMLErrorLoggingProcessingFilter.java" timestamp="1539847895398">
@@ -185,8 +187,8 @@
         <mark key="^" line="170" column="19" />
         <mark key="." line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" timestamp="1540269376520">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" timestamp="1540359320821">
+        <mark key="'" line="129" column="20" />
         <mark key="[" line="138" column="29" />
         <mark key="]" line="138" column="30" />
         <mark key="." line="138" column="30" />
@@ -210,20 +212,12 @@
         <mark key="^" line="78" column="21" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" timestamp="1540354925440">
-        <mark key="'" line="119" column="28" />
-        <mark key="[" line="119" column="28" />
-        <mark key="]" line="119" column="32" />
+        <mark key="'" line="96" column="28" />
+        <mark key="[" line="96" column="28" />
+        <mark key="]" line="96" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="13" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/contentrepository/ContentRepositoryServiceBean.java" />
-      <jump line="22" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/contentrepository/ContentRepositoryServiceBean.java" />
-      <jump line="32" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/contentrepository/ContentRepositoryServiceBean.java" />
-      <jump line="41" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/contentrepository/ContentRepositoryServiceBean.java" />
-      <jump line="51" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/contentrepository/ContentRepositoryServiceBean.java" />
-      <jump line="65" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/contentrepository/ContentRepositoryServiceBean.java" />
-      <jump line="74" column="12" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/contentrepository/ContentRepositoryServiceBean.java" />
-      <jump line="202" column="58" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
       <jump line="161" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/ptvag/handler/XLocateHandler.java" />
       <jump line="18" column="19" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/resources/com/wktransportservices/spotbidding/domain/dao/changedMessagePrevStatus.sql" />
       <jump line="46" column="70" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" />
@@ -316,13 +310,21 @@
       <jump line="122" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_sprint.properties" />
       <jump line="122" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_stage.properties" />
       <jump line="407" column="40" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
+      <jump line="155" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
+      <jump line="164" column="72" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
+      <jump line="140" column="60" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" />
+      <jump line="123" column="51" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" />
+      <jump line="122" column="70" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_prod.properties" />
+      <jump line="119" column="31" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" />
+      <jump line="129" column="20" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" />
+      <jump line="129" column="39" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHR2IA==</text>
+        <text>images and ptv</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -331,10 +333,10 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHR2IA==</text>
+        <text>images and ptv</text>
       </register>
       <register name="/" type="4">
-        <text>ptv</text>
+        <text>18_09</text>
       </register>
       <register name="0" type="4">
         <text>18_09</text>
@@ -371,9 +373,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ptv</last-search>
+      <last-search>18_09</last-search>
       <last-offset />
-      <last-pattern>ptv</last-pattern>
+      <last-pattern>18_09</last-pattern>
       <last-replace>18_12</last-replace>
       <last-substitute>18_09</last-substitute>
       <last-dir>1</last-dir>
@@ -399,8 +401,8 @@
         <entry>server.log&quot;</entry>
         <entry>top</entry>
         <entry>PERFOR</entry>
-        <entry>18_09</entry>
         <entry>ptv</entry>
+        <entry>18_09</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZhbHNlL3RydWUvZw==</entry>
