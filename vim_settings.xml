@@ -7,6 +7,13 @@
         <mark key="[" line="111" column="11" />
         <mark key="]" line="111" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/fx/docker/postgres/initdb/001_restore.sh" timestamp="1540454787835">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="8" />
+        <mark key="^" line="14" column="43" />
+        <mark key="." line="14" column="43" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" timestamp="1540359324584">
         <mark key="'" line="129" column="39" />
         <mark key="[" line="132" column="29" />
@@ -97,11 +104,6 @@
         <mark key="^" line="2" column="57" />
         <mark key="." line="2" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/test/groovy/com/wktransportservices/spotbidding/web/server/security/filters/UserAuthorizationTokenVerificationFilterSpec.groovy" timestamp="1540377389110">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="44" />
-        <mark key="." line="88" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1540354122655">
         <mark key="'" line="99" column="43" />
         <mark key="[" line="148" column="0" />
@@ -109,12 +111,11 @@
         <mark key="^" line="170" column="19" />
         <mark key="." line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/docker/postgres/initdb/restore.sh" timestamp="1540449277811">
-        <mark key="'" line="13" column="5" />
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="32" />
-        <mark key="." line="13" column="32" />
-        <mark key="^" line="13" column="13" />
+      <file name="$USER_HOME$/projects/spotbidding/docker/postgres/initdb/restore.sh" timestamp="1540454815946">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" timestamp="1540359320821">
         <mark key="'" line="129" column="20" />
@@ -157,12 +158,7 @@
       <file name="/tfx_data.tfx_data.searches_locations [tfx_data@localhost]" timestamp="1540447364815">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/docker/postgres/initdb/init.sh" timestamp="1540452312142" />
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/resources/security/security-common.xml" timestamp="1540374172338">
-        <mark key="[" line="56" column="41" />
-        <mark key="]" line="56" column="41" />
-        <mark key="." line="56" column="41" />
-      </file>
+      <file name="$USER_HOME$/projects/spotbidding/docker/postgres/initdb/init.sh" timestamp="1540454797008" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1540442944362">
         <mark key="'" line="630" column="8" />
         <mark key="[" line="631" column="0" />
@@ -205,12 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="13" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" />
-      <jump line="153" column="26" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_dev.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_prod.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" />
       <jump line="14" column="59" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_stage.properties" />
@@ -305,13 +295,19 @@
       <jump line="204" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" />
       <jump line="8" column="16" filename="$USER_HOME$/projects/spotbidding/docker/postgres/initdb/restore.sh" />
       <jump line="14" column="5" filename="$USER_HOME$/projects/spotbidding/docker/postgres/initdb/restore.sh" />
+      <jump line="18" column="0" filename="$USER_HOME$/projects/fx/docker/postgres/initdb/001_restore.sh" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/fx/docker/postgres/initdb/001_restore.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/docker/postgres/initdb/001_restore.sh" />
+      <jump line="13" column="31" filename="$USER_HOME$/projects/spotbidding/docker/postgres/initdb/restore.sh" />
+      <jump line="7" column="16" filename="$USER_HOME$/projects/spotbidding/docker/postgres/initdb/restore.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/docker/postgres/initdb/restore.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IyEvYmluL3NoCgpzZXQgLWUKCiMgUGVyZm9ybSBhbGwgYWN0aW9ucyBhcyAkUE9TVEdSRVNfVVNFUgpleHBvcnQgUEdVU0VSPSIkUE9TVEdSRVNfVVNFUiIKZXhwb3J0IEJBQ0tVUF9WRVJTSU9OPTE4LjEyLjEKCiMgZG93bmxvYWQgYmFja3VwCmNkIC90bXAKd2dldCBodHRwOi8vYXJ0aWZhY3RzLnR3LmludHJhL3R3LWxpYnMtc25hcHNob3QtbG9jYWwvY29tL3drdHJhbnNwb3J0c2VydmljZXMvc3BvdGJpZGRpbmcvc3BvdGJpZGRpbmctc3ByaW50LWRiLWJhY2t1cC8ke0JBQ0tVUF9WRVJTSU9OfS9zcG90YmlkZGluZy1zcHJpbnQtZGItYmFja3VwLSR7QkFDS1VQX1ZFUlNJT059LnRnegoKIyBhcHBseSBiYWNrdXAKcGdfcmVzdG9yZSAtYyAtZCAkUE9TVEdSRVNfREIgLXYgc3BvdGJpZGRpbmctc3ByaW50LWRiLWJhY2t1cC0ke0JBQ0tVUF9WRVJTSU9OfS50Z3oKCiMgY2xlYW4gdXAKcm0gLXJmICoK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -320,40 +316,40 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>fx-sprint-db-backup-${BACKUP_VERSION}.tgz</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
       </register>
       <register name="0" type="4">
-        <text>fx-sprint-db-backup-${BACKUP_VERSION}.tgz</text>
+        <text encoding="base64">IyEvYmluL3NoCgpzZXQgLWUKCiMgUGVyZm9ybSBhbGwgYWN0aW9ucyBhcyAkUE9TVEdSRVNfVVNFUgpleHBvcnQgUEdVU0VSPSIkUE9TVEdSRVNfVVNFUiIKZXhwb3J0IEJBQ0tVUF9WRVJTSU9OPTE4LjEyLjEKZXhwb3J0IERVTVBfRklMRT1meC1zcHJpbnQtZGItYmFja3VwLSR7QkFDS1VQX1ZFUlNJT059LnRnegoKIyBkb3dubG9hZCBiYWNrdXAKY2QgL3RtcAp3Z2V0IGh0dHA6Ly9hcnRpZmFjdHMudHcuaW50cmEvdHctbGlicy1zbmFwc2hvdC1sb2NhbC9jb20vd2t0cmFuc3BvcnRzZXJ2aWNlcy9meC9meC1zcHJpbnQtZGItYmFja3VwLyR7QkFDS1VQX1ZFUlNJT059LyR7RFVNUF9GSUxFfQoKIyBhcHBseSBiYWNrdXAKcGdfcmVzdG9yZSAtRiBjIC1kICRQT1NUR1JFU19EQiAke0RVTVBfRklMRX0KCiMgY2xlYW4gdXAKcm0gLXJmICoK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dGFyIC16eGYgZngtc3ByaW50LWRiLWJhY2t1cC0ke0JBQ0tVUF9WRVJTSU9OfS50Z3oK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IyEvYmluL3NoCgpzZXQgLWUKCiMgUGVyZm9ybSBhbGwgYWN0aW9ucyBhcyAkUE9TVEdSRVNfVVNFUgpleHBvcnQgUEdVU0VSPSIkUE9TVEdSRVNfVVNFUiIKZXhwb3J0IEJBQ0tVUF9WRVJTSU9OPTE4LjEyLjEKCiMgZG93bmxvYWQgYmFja3VwCmNkIC90bXAKd2dldCBodHRwOi8vYXJ0aWZhY3RzLnR3LmludHJhL3R3LWxpYnMtc25hcHNob3QtbG9jYWwvY29tL3drdHJhbnNwb3J0c2VydmljZXMvc3BvdGJpZGRpbmcvc3BvdGJpZGRpbmctc3ByaW50LWRiLWJhY2t1cC8ke0JBQ0tVUF9WRVJTSU9OfS9zcG90YmlkZGluZy1zcHJpbnQtZGItYmFja3VwLSR7QkFDS1VQX1ZFUlNJT059LnRnegoKIyBhcHBseSBiYWNrdXAKcGdfcmVzdG9yZSAtYyAtZCAkUE9TVEdSRVNfREIgLXYgc3BvdGJpZGRpbmctc3ByaW50LWRiLWJhY2t1cC0ke0JBQ0tVUF9WRVJTSU9OfS50Z3oKCiMgY2xlYW4gdXAKcm0gLXJmICoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGdfcmVzdG9yZSAtZCAkUE9TVEdSRVNfREIgLWYgdGZ4X3NwcmludC5zcWwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dGFyIC16eGYgc3BvdGJpZGRpbmctc3ByaW50LWRiLWJhY2t1cC0ke0JBQ0tVUF9WRVJTSU9OfS50Z3oK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">dGFyIC16eGYgZngtc3ByaW50LWRiLWJhY2t1cC0ke0JBQ0tVUF9WRVJTSU9OfS50Z3oK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">cGdfcmVzdG9yZSAtZCAkUE9TVEdSRVNfREIgLWYgdGZ4X3NwcmludC5zcWwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dGFyIC16eGYgc3BvdGJpZGRpbmctc3ByaW50LWRiLWJhY2t1cC0ke0JBQ0tVUF9WRVJTSU9OfS50Z3oK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBsb2NhdGlvbnM7Cg==</text>
+        <text encoding="base64">dGFyIC16eGYgZngtc3ByaW50LWRiLWJhY2t1cC0ke0JBQ0tVUF9WRVJTSU9OfS50Z3oK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBvZmZlcnM7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBsb2NhdGlvbnM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gc2VhcmNoZXNfYXJyaXZhbHNfcmVnaW9uczsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBvZmZlcnM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0IGNsZWFuX3NlYXJjaGVzX19zZWFyY2hlc19mdWxsX2NsZWFuKCkK</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gc2VhcmNoZXNfYXJyaXZhbHNfcmVnaW9uczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0IHUubG9naW4KZnJvbSB1c2VycyB1CiAgaW5uZXIgam9pbiBjb21wYW5pZXMgYzIgb24gdS5jb21wYW55X2lkID0gYzIuY29tcGFueV9pZAp3aGVyZSBjMi5idXNpbmVzc19pZCBpbiAoCiAgICAnTlZIWTI3NTQ2MCcsCiAgICAgICAgJ0hGWE8zMTMyNzcnLAogICAgICAgICdEVzhFS1M0NScsCiAgICAgICAgJ0pLQUxDTVZUJywKICAgICAgICAnRU9FUTI3OTE2OScsCiAgICAgICAgJ01VSUkzMTAyOTAnLAogICAgICAgICdZQUlTMzEzNjA0JywKICAgICAgICAnQUVXSDMxMzM0MCcsCiAgICAgICAgJ0ZVU1gzMTM1NzUnLAogICAgICAgICdMTUNEMjY4Mzg3JywKICAgICAgICAnT1hMVDEwMTQ2NicsCiAgICAgICAgJ1dYWUc4UVc3JywKICAgICAgICAnRUlZUDMxMzMxOCcsCiAgICAgICAgJ01ITFMzMTAzNzUnLAogICAgICAgICdHTllIMzEwNDUxJywKICAgICAgICAnS1k1U1hRSkonLAogICAgICAgICdFRVBVMzEzMzM5JywKICAgICAgICAnTUtVSDMxMzUwMicsCiAgICAgICAgJ1pLRkozMTI3NjInLAogICAgICAgICdEWUdKMzEyMTIyJywKICAgICAgICAnRElTTjMxMzQ4OScsCiAgICAgICAgJ1RQSEEzMTMzNjInLAogICAgICAgICdDSENCMzEyMjM0JywKICAgICAgICAnR1FERjI3OTE5MScsCiAgICAgICAgJ1FZUFhYTFg0JywKICAgICAgICAnRUtFSTI5OTA2NScsCiAgICAgICAgJ0ZUV0EzMTMzNzgnLAogICAgICAgICdUVlFZMzA1ODc1JywKICAgICAgICAnR0FOUDI2OTk0NicsCiAgICAgICAgJ0MtMDA5MTAnLAogICAgICAgICdRU1VGMzEzMzE0JywKICAgICAgICAnU1VSSDMwOTcxOScsCiAgICAgICAgJ1lHU1ozMTA0MjcnLAogICAgICAgICdCTk5JMjY4MzgzJywKICAgICAgICAnQlVHVU1aUDgnLAogICAgICAgICdXUUNVMzA2NTY4JywKICAgICAgICAnRUxJVjI3NDYzNScsCiAgICAgICAgJ01FQVczMTAzNjMnLAogICAgICAgICdITE9OMzEyMTEwJywKICAgICAgICAnV0xJRzMxMzU1OCcsCiAgICAgICAgJ05SQVAzMTIxOTknLAogICAgICAgICdKTkpWMzEzMzk2JywKICAgICAgICAnT01KQzMxMzU4OScsCiAgICAgICAgJ0VXRVEzMDY1NjAnLAogICAgICAgICdOSlVZMzEzMjg4JywKICAgICAgICAnSFRZQjI3OTE0OCcsCiAgICAgICAgJ0FZT0EzMTAyMDQnLAogICAgICAgICdHUkhGMzEwNTI1JywKICAgICAgICAnT0VEWDMxMzU0NycsCiAgICAgICAgJ1BHVlAzMTIyNzInLAogICAgICAgICdaSVRIMzEzMzQ4JywKICAgICAgICAnQlFIUTI3MzgyNCcsCiAgICAgICAgJ01DSkwzMTM1ODEnLAogICAgICAgICdGVERUMzEwMjU3JywKICAgICAgICAnUVlBRzI3MzgxOScsCiAgICAgICAgJ0pGVlEyNjk5NTUnLAogICAgICAgICdQTExDMzEzNDg3JywKICAgICAgICAnWlpGRDMxMDQ0OCcsCiAgICAgICAgJ1FCTlozMTA1NDInLAogICAgICAgICdIWUxGMzAxMzA5JywKICAgICAgICAnVFZZSTI3OTE1NCcsCiAgICAgICAgJ1RTVlQzMDU1MjYnLAogICAgICAgICdKREhRMzEwNTQ4JywKICAgICAgICAnUktBTjMxMzUxNScsCiAgICAgICAgJ05TUVozMTMzODAnLAogICAgICAgICdCS0lPMjc2OTAwJywKICAgICAgICAnVkFDRDMxMDIzMCcsCiAgICAgICAgJ0FPUkkyNzU0NjMnLAogICAgICAgICdKRElYMzA1NTMyJywKICAgICAgICAnUVNYQjMxMjIxMScsCiAgICAgICAgJ1paVkgxMUVPJywKICAgICAgICAnV0JHUTMxMzU4NycsCiAgICAgICAgJ1dGWU5CV1lFJywKICAgICAgICAnTUxPRTMxMzQyNicsCiAgICAgICAgJ0NCV1dQUkNPJywKICAgICAgICAnVEtWTTZNWEknLAogICAgICAgICdXUFlGMzEwMzA1JywKICAgICAgICAnWUxYQjMxMDQ2NicsCiAgICAgICAgJ0pETUYzMDY1NjQnLAogICAgICAgICdMUVJOT0pNUicsCiAgICAgICAgJ0NQT0cyNzA5MDUnLAogICAgICAgICdSREpKMjc1NDYxJywKICAgICAgICAnVVBOTDMxMzMzNicsCiAgICAgICAgJ0hWT1UzMDU4NzcnLAogICAgICAgICdRSkZUMzEwMjUzJywKICAgICAgICAnSlhPUTMxMDQ2MycsCiAgICAgICAgJ0JTSE8yNzMyODInLAogICAgICAgICdFT1FRMzEyMDk2JywKICAgICAgICAnUkFIWjMxMjE0NycsCiAgICAgICAgJ0tBSFQzMTA0ODcnLAogICAgICAgICdVVU1DMjY5OTQ5JywKICAgICAgICAnT0NTSTMwNzYyMCcsCiAgICAgICAgJ0xLTFRLM1ZCJywKICAgICAgICAnTEVHSTI3OTE1MCcsCiAgICAgICAgJ1lFVEMzMDU1MzEnLAogICAgICAgICdVRFpGMjc1NzQyJywKICAgICAgICAnTkFTRTMxMDQ3MycsCiAgICAgICAgJ0NaWVEyNzMwMDgnLAogICAgICAgICdTVURNMzA3OTg5JywKICAgICAgICAnWUVIUTMxMzQxNicsCiAgICAgICAgJ0VMRDdLQ0FLJywKICAgICAgICAnNExXUllSUUknLAogICAgICAgICdKVUFKMzEyMTIwJywKICAgICAgICAnWFlKSUY4TFgnLAogICAgICAgICdZR1pIQzJGMicsCiAgICAgICAgJ0ZBSEkyNzM4MjEnLAogICAgICAgICdEV01LMzEwNDk5JywKICAgICAgICAnVU9PWjMxMzY1NCcsCiAgICAgICAgJ1pKSFkyNzU3MzcnLAogICAgICAgICdWSVA3NzdDUicsCiAgICAgICAgJ0NNU1FVQUQyJywKICAgICAgICAnRkJSSzMxMjA5MCcsCiAgICAgICAgJ0tETkczMTM1NzcnLAogICAgICAgICdWUkFPMzEzNTQ4JywKICAgICAgICAnWEJTUzI2ODM4MScsCiAgICAgICAgJ09OTkEzMTIwNTAnLAogICAgICAgICdSV1pPMjczMjc2JywKICAgICAgICAnU05GVjI3MzI4MScsCiAgICAgICAgJ1BGQkYzMDkwMjMnLAogICAgICAgICdRV0lWMzEwNTE0JywKICAgICAgICAnWUJJVTI3MzgxMycsCiAgICAgICAgJ1dWRlcyNjgzOTMnLAogICAgICAgICdUWVNEMzEwMzYwJywKICAgICAgICAnRVRRVzI3ODgwOCcsCiAgICAgICAgJ0dLUkdVMlJRJywKICAgICAgICAnQ01TUVVBRDEnLAogICAgICAgICdIVUFEMzEyMTk1JywKICAgICAgICAnUVFJQzMxMzU1MicsCiAgICAgICAgJ1haTlEzMDA5ODQnLAogICAgICAgICdEQ0VMTEZIUicsCiAgICAgICAgJ0ZBRlYyNzkxODgnLAogICAgICAgICdKRFRFMzEwNjIyJywKICAgICAgICAnTEROUDMxMDQ2OCcsCiAgICAgICAgJ01NVVUzMTM1MjMnLAogICAgICAgICdPWkFPTjVVUicsCiAgICAgICAgJ1dYUlAzMTM1NjcnLAogICAgICAgICc5QkpCUkpLMCcsCiAgICAgICAgJ1pLUVkzMTMzMjYnLAogICAgICAgICdPSUNBMzEwMzc3JywKICAgICAgICAnSkxBNkdNQkgnLAogICAgICAgICdDVlRDMjc3MjI5JywKICAgICAgICAnSUxaVjMxMzU4NCcsCiAgICAgICAgJ1FTU1UyNzUxNjInLAogICAgICAgICdGSkFMMTAxNDUwJywKICAgICAgICAnUlNLUTMxMzM4MScsCiAgICAgICAgJ0ZKTFozMDc2MjMnLAogICAgICAgICdRWTdQRUJXWCcsCiAgICAgICAgJ0MtNTAwMXNzJywKICAgICAgICAnUVVZVzI2ODM3MycsCiAgICAgICAgJ1RQSU0zMTAzMjEnLAogICAgICAgICdURUlZMzEwNTI0JywKICAgICAgICAnR0dWSzMxMzI4MycsCiAgICAgICAgJ0hUV0szMTIyMTgnLAogICAgICAgICdKSFRYMzEwNDc2JywKICAgICAgICAnSllKVTMxMzM1MicsCiAgICAgICAgJ0JYS0IzMTAzOTInLAogICAgICAgICdTV0lGMzEzMjkyJywKICAgICAgICAnS1lDRDI2ODM3MicsCiAgICAgICAgJ0NKV1lJMzlQJywKICAgICAgICAnWUJHSjFXMkknLAogICAgICAgICdXVkhKMzEwMjg1JywKICAgICAgICAnS0ZDUTMwOTgwOCcsCiAgICAgICAgJ0k0WkZSRVJYJywKICAgICAgICAnWFFLWDI2OTk1NCcsCiAgICAgICAgJ1dVUkYzMTAzNzYnLAogICAgICAgICdTQ0NUMjY5OTQ1JywKICAgICAgICAnVVZLWDMxMzQ4OCcsCiAgICAgICAgJ0JOWFkzMDc2MjcnLAogICAgICAgICdKM1U3UEZNVycsCiAgICAgICAgJ0hIRUMzMTM1NDQnLAogICAgICAgICdXREhGMjc1NzM4JywKICAgICAgICAnQkdGUTMxMzU3NicsCiAgICAgICAgJ1lJQkEyNjk3MTYnLAogICAgICAgICdPS0VRMjc1NzM2JywKICAgICAgICAnVFZPSzMxMzU3MycsCiAgICAgICAgJ0VEVlQzMTMzOTknLAogICAgICAgICdZUVJPMzEzNDk3JywKICAgICAgICAnVkdOVTI2OTk1MycsCiAgICAgICAgJ1hSTVAyNzMyODMnLAogICAgICAgICdZRVlLMzEwMzU4JwogICAgKSBvcmRlciBieSAxOwp1cGRhdGUgdXNlcnMgc2V0IGxvZ2luID0gJ3RmeGNhcnJpZXJBMCcgd2hlcmUgbG9naW4gPSAndGZ4Y2FycmllckExJzsKdXBkYXRlIHVzZXJzIHNldCBsb2dpbiA9ICd0ZnhjYXJyaWVyQUEwJyB3aGVyZSBsb2dpbiA9ICd0ZnhjYXJyaWVyRCc7CnVwZGF0ZSB1c2VycyBzZXQgbG9naW4gPSAndGZ4Y2FycmllckQnIHdoZXJlIGxvZ2luID0gJ3RmeGNhcnJpZXJBMCc7CnNlbGVjdCAqIGZyb20gdXNlcnMgd2hlcmUgbG9naW4gPSAndGZ4Y2FycmllckQnOwo=</text>
+        <text encoding="base64">c2VsZWN0IGNsZWFuX3NlYXJjaGVzX19zZWFyY2hlc19mdWxsX2NsZWFuKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
