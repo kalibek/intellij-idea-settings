@@ -29,10 +29,10 @@
         <mark key="." line="54" column="92" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/java/com/wktransportservices/spotbidding/web/server/security/filters/UserAuthorizationTokenVerificationFilter.java" timestamp="1540377144897">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="53" column="24" />
-        <mark key="." line="55" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="57" column="24" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/postgres/initdb/init.sh" timestamp="1540452373364">
         <mark key="[" line="5" column="4" />
@@ -93,11 +93,11 @@
       <file name="/dummy.sql" timestamp="1540456229730">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540378437181">
+      <file name="/Dummy.txt" timestamp="1540457885783">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="38" />
-        <mark key="." line="0" column="17" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/fax/async/FaxClient.java" timestamp="1540199576472">
         <mark key="'" line="2" column="22" />
@@ -107,16 +107,9 @@
         <mark key="." line="2" column="57" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/test/groovy/com/wktransportservices/spotbidding/web/server/security/filters/UserAuthorizationTokenVerificationFilterSpec.groovy" timestamp="1540377389110">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="44" />
-        <mark key="." line="88" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1540354122655">
-        <mark key="'" line="99" column="43" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="^" line="170" column="19" />
-        <mark key="." line="148" column="0" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="44" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/docker/postgres/initdb/restore.sh" timestamp="1540454815946">
         <mark key="'" line="0" column="0" />
@@ -209,7 +202,6 @@
         <mark key="^" line="13" column="15" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" timestamp="1540359304766">
-        <mark key="'" line="140" column="60" />
         <mark key="[" line="135" column="29" />
         <mark key="]" line="135" column="30" />
         <mark key="." line="135" column="30" />
@@ -322,8 +314,8 @@
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFNFVCBkZWZhdWx0X3dpdGhfb2lkcyA9IEZBTFNFOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Updated jms header version</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -332,7 +324,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>fx-sprint-db-backup-${BACKUP_VERSION}.tgz</text>
+        <text>Updated jms header version</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
