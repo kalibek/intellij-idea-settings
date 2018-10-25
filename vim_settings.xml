@@ -27,6 +27,12 @@
         <mark key="^" line="53" column="24" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fx/docker/postgres/initdb/init.sh" timestamp="1540452373364">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="7" column="68" />
+        <mark key="." line="7" column="68" />
+        <mark key="^" line="5" column="66" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1540444892031">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -66,9 +72,8 @@
       <file name="/Dummy.groovy" timestamp="1540377378828">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1540447584944">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1540452209330">
         <mark key="'" line="204" column="0" />
-        <mark key="[" line="222" column="0" />
         <mark key="]" line="222" column="0" />
         <mark key="." line="222" column="0" />
       </file>
@@ -152,6 +157,7 @@
       <file name="/tfx_data.tfx_data.searches_locations [tfx_data@localhost]" timestamp="1540447364815">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/docker/postgres/initdb/init.sh" timestamp="1540452312142" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/resources/security/security-common.xml" timestamp="1540374172338">
         <mark key="[" line="56" column="41" />
         <mark key="]" line="56" column="41" />
@@ -303,8 +309,8 @@
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dGFyIC16eGYgZngtc3ByaW50LWRiLWJhY2t1cC0ke0JBQ0tVUF9WRVJTSU9OfS50Z3oK</text>
+      <register name="&quot;" type="4">
+        <text>SPOT_DATA</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -313,7 +319,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>spotbidding-sprint-db-backup-${BACKUP_VERSION}.tgz</text>
+        <text>SPOT_DATA</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
