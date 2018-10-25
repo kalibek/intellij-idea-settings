@@ -190,10 +190,11 @@
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker/postgres/initdb/restore.sh" timestamp="1540449269787">
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="32" />
-        <mark key="." line="13" column="32" />
+      <file name="$USER_HOME$/projects/fx/docker/postgres/initdb/restore.sh" timestamp="1540453348668">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="13" column="15" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" timestamp="1540359304766">
         <mark key="'" line="140" column="60" />
@@ -310,7 +311,7 @@
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>SPOT_DATA</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -319,7 +320,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>SPOT_DATA</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
