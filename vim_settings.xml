@@ -66,18 +66,17 @@
       <file name="/Dummy.groovy" timestamp="1540377378828">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1540445732789">
-        <mark key="'" line="393" column="8" />
-        <mark key="[" line="397" column="65" />
-        <mark key="]" line="397" column="66" />
-        <mark key="^" line="398" column="47" />
-        <mark key="." line="397" column="66" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1540447584944">
+        <mark key="'" line="204" column="0" />
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="." line="222" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/impl/social/UserDAO.java" timestamp="1540445667752" />
       <file name="/sb_data.spot_data.email_template [sb_data@localhost]" timestamp="1540379632924">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1540379633178">
+      <file name="/dummy.sql" timestamp="1540447365168">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1540378437181">
@@ -105,6 +104,13 @@
         <mark key="^" line="170" column="19" />
         <mark key="." line="148" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/docker/postgres/initdb/restore.sh" timestamp="1540449277811">
+        <mark key="'" line="13" column="5" />
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="32" />
+        <mark key="^" line="13" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" timestamp="1540359320821">
         <mark key="'" line="129" column="20" />
         <mark key="[" line="138" column="29" />
@@ -126,6 +132,10 @@
         <mark key="." line="404" column="74" />
         <mark key="^" line="404" column="74" />
       </file>
+      <file name="/app/ee324cc1-6048-431e-9b02-e25428b4d132/database/tfx_data/schema/tfx_data/routine/clean_searches__searches_full_clean@().sql" timestamp="1540447079252">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="50" />
+      </file>
       <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1540291568583">
         <mark key="[" line="3" column="56" />
         <mark key="]" line="3" column="57" />
@@ -138,6 +148,9 @@
         <mark key="]" line="61" column="24" />
         <mark key="^" line="61" column="24" />
         <mark key="." line="61" column="24" />
+      </file>
+      <file name="/tfx_data.tfx_data.searches_locations [tfx_data@localhost]" timestamp="1540447364815">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/resources/security/security-common.xml" timestamp="1540374172338">
         <mark key="[" line="56" column="41" />
@@ -167,11 +180,14 @@
         <mark key="^" line="148" column="30" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/UserManager.java" timestamp="1540445652615" />
-      <file name="$USER_HOME$/projects/fx/docker/postgres/initdb/restore.sh" timestamp="1540446591563">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
-        <mark key="^" line="6" column="28" />
+      <file name="/app/ee324cc1-6048-431e-9b02-e25428b4d132/database/tfx_data/schema/tfx_data/routine/clean_searches__searches_results_clean@().sql" timestamp="1540447109040">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/docker/postgres/initdb/restore.sh" timestamp="1540449269787">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="32" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" timestamp="1540359304766">
         <mark key="'" line="140" column="60" />
@@ -182,9 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="13" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/mdb/OfferActionNotifierBean.java" />
-      <jump line="26" column="13" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
-      <jump line="63" column="12" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
       <jump line="56" column="13" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" />
       <jump line="153" column="26" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/actor/offer/FreightOfferActor.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
@@ -282,13 +295,16 @@
       <jump line="630" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" />
       <jump line="394" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" />
       <jump line="393" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" />
+      <jump line="204" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" />
+      <jump line="8" column="16" filename="$USER_HOME$/projects/spotbidding/docker/postgres/initdb/restore.sh" />
+      <jump line="14" column="5" filename="$USER_HOME$/projects/spotbidding/docker/postgres/initdb/restore.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>90</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dGFyIC16eGYgZngtc3ByaW50LWRiLWJhY2t1cC0ke0JBQ0tVUF9WRVJTSU9OfS50Z3oK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -297,57 +313,56 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>90</text>
+        <text>spotbidding-sprint-db-backup-${BACKUP_VERSION}.tgz</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;&quot;,&quot;</text>
+        <text>fx</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dXBkYXRlIHVzZXJzIHNldCBsb2dpbiA9ICd0ZnhjYXJyaWVyQTEnIHdoZXJlIGxvZ2luID0gJ3RmeGNhcnJpZXJBMCc7Cg==</text>
+      <register name="0" type="4">
+        <text>fx-sprint-db-backup-${BACKUP_VERSION}.tgz</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGFyIC16eGYgZngtc3ByaW50LWRiLWJhY2t1cC0ke0JBQ0tVUF9WRVJTSU9OfS50Z3oK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW5zZXJ0IHRzIHZhbHVlcygnMjAxOC0xMC0xOCAxNjo0MC85ODg3NicpCg==</text>
+        <text encoding="base64">cGdfcmVzdG9yZSAtZCAkUE9TVEdSRVNfREIgLWYgdGZ4X3NwcmludC5zcWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGFyIC16eGYgc3BvdGJpZGRpbmctc3ByaW50LWRiLWJhY2t1cC0ke0JBQ0tVUF9WRVJTSU9OfS50Z3oK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGFyIC16eGYgZngtc3ByaW50LWRiLWJhY2t1cC0ke0JBQ0tVUF9WRVJTSU9OfS50Z3oK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBsb2NhdGlvbnM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBvZmZlcnM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnWlVTSDEwMTQ1NicsCg==</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gc2VhcmNoZXNfYXJyaXZhbHNfcmVnaW9uczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb25uZWN0X2xvZ3M7Cg==</text>
+        <text encoding="base64">c2VsZWN0IGNsZWFuX3NlYXJjaGVzX19zZWFyY2hlc19mdWxsX2NsZWFuKCkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlIGNvbm5lY3RfbG9ncwooCiAgZGF0ZV9hY3Rpb24gdGltZXN0YW1wLAogIGxvZ19pZCBiaWdpbnQgbm90IG51bGwsCiAgdXNlcl9hZ2VudCB2YXJjaGFyKDI1NSksCiAgcmVtb3RlX2FkZHIgdmFyY2hhcigyMCksCiAgY29udGVudF90eXBlIHZhcmNoYXIoMjU1KSwKICBzdGF0dXMgdmFyY2hhcigxMCksCiAgcmVxdWVzdF9tZXRob2QgdmFyY2hhcigxMCksCiAgcmVxdWVzdF9pZCB2YXJjaGFyKDQwKSwKICBsb2dpbiB2YXJjaGFyKDUwKSwKICBsb2dfdHlwZSB2YXJjaGFyKDE1KSwKICByZXF1ZXN0X3VyaSB2YXJjaGFyKDI1NSksCiAgcmVxdWVzdF9lbnRpdHkgdGV4dAopCjsKCmNyZWF0ZSBpbmRleCBjb25uZWN0X2xvZ3NfZGF0ZV9hY3Rpb24KICBvbiBjb25uZWN0X2xvZ3MgKGRhdGVfYWN0aW9uKQo7Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">c2VsZWN0IHUubG9naW4KZnJvbSB1c2VycyB1CiAgaW5uZXIgam9pbiBjb21wYW5pZXMgYzIgb24gdS5jb21wYW55X2lkID0gYzIuY29tcGFueV9pZAp3aGVyZSBjMi5idXNpbmVzc19pZCBpbiAoCiAgICAnTlZIWTI3NTQ2MCcsCiAgICAgICAgJ0hGWE8zMTMyNzcnLAogICAgICAgICdEVzhFS1M0NScsCiAgICAgICAgJ0pLQUxDTVZUJywKICAgICAgICAnRU9FUTI3OTE2OScsCiAgICAgICAgJ01VSUkzMTAyOTAnLAogICAgICAgICdZQUlTMzEzNjA0JywKICAgICAgICAnQUVXSDMxMzM0MCcsCiAgICAgICAgJ0ZVU1gzMTM1NzUnLAogICAgICAgICdMTUNEMjY4Mzg3JywKICAgICAgICAnT1hMVDEwMTQ2NicsCiAgICAgICAgJ1dYWUc4UVc3JywKICAgICAgICAnRUlZUDMxMzMxOCcsCiAgICAgICAgJ01ITFMzMTAzNzUnLAogICAgICAgICdHTllIMzEwNDUxJywKICAgICAgICAnS1k1U1hRSkonLAogICAgICAgICdFRVBVMzEzMzM5JywKICAgICAgICAnTUtVSDMxMzUwMicsCiAgICAgICAgJ1pLRkozMTI3NjInLAogICAgICAgICdEWUdKMzEyMTIyJywKICAgICAgICAnRElTTjMxMzQ4OScsCiAgICAgICAgJ1RQSEEzMTMzNjInLAogICAgICAgICdDSENCMzEyMjM0JywKICAgICAgICAnR1FERjI3OTE5MScsCiAgICAgICAgJ1FZUFhYTFg0JywKICAgICAgICAnRUtFSTI5OTA2NScsCiAgICAgICAgJ0ZUV0EzMTMzNzgnLAogICAgICAgICdUVlFZMzA1ODc1JywKICAgICAgICAnR0FOUDI2OTk0NicsCiAgICAgICAgJ0MtMDA5MTAnLAogICAgICAgICdRU1VGMzEzMzE0JywKICAgICAgICAnU1VSSDMwOTcxOScsCiAgICAgICAgJ1lHU1ozMTA0MjcnLAogICAgICAgICdCTk5JMjY4MzgzJywKICAgICAgICAnQlVHVU1aUDgnLAogICAgICAgICdXUUNVMzA2NTY4JywKICAgICAgICAnRUxJVjI3NDYzNScsCiAgICAgICAgJ01FQVczMTAzNjMnLAogICAgICAgICdITE9OMzEyMTEwJywKICAgICAgICAnV0xJRzMxMzU1OCcsCiAgICAgICAgJ05SQVAzMTIxOTknLAogICAgICAgICdKTkpWMzEzMzk2JywKICAgICAgICAnT01KQzMxMzU4OScsCiAgICAgICAgJ0VXRVEzMDY1NjAnLAogICAgICAgICdOSlVZMzEzMjg4JywKICAgICAgICAnSFRZQjI3OTE0OCcsCiAgICAgICAgJ0FZT0EzMTAyMDQnLAogICAgICAgICdHUkhGMzEwNTI1JywKICAgICAgICAnT0VEWDMxMzU0NycsCiAgICAgICAgJ1BHVlAzMTIyNzInLAogICAgICAgICdaSVRIMzEzMzQ4JywKICAgICAgICAnQlFIUTI3MzgyNCcsCiAgICAgICAgJ01DSkwzMTM1ODEnLAogICAgICAgICdGVERUMzEwMjU3JywKICAgICAgICAnUVlBRzI3MzgxOScsCiAgICAgICAgJ0pGVlEyNjk5NTUnLAogICAgICAgICdQTExDMzEzNDg3JywKICAgICAgICAnWlpGRDMxMDQ0OCcsCiAgICAgICAgJ1FCTlozMTA1NDInLAogICAgICAgICdIWUxGMzAxMzA5JywKICAgICAgICAnVFZZSTI3OTE1NCcsCiAgICAgICAgJ1RTVlQzMDU1MjYnLAogICAgICAgICdKREhRMzEwNTQ4JywKICAgICAgICAnUktBTjMxMzUxNScsCiAgICAgICAgJ05TUVozMTMzODAnLAogICAgICAgICdCS0lPMjc2OTAwJywKICAgICAgICAnVkFDRDMxMDIzMCcsCiAgICAgICAgJ0FPUkkyNzU0NjMnLAogICAgICAgICdKRElYMzA1NTMyJywKICAgICAgICAnUVNYQjMxMjIxMScsCiAgICAgICAgJ1paVkgxMUVPJywKICAgICAgICAnV0JHUTMxMzU4NycsCiAgICAgICAgJ1dGWU5CV1lFJywKICAgICAgICAnTUxPRTMxMzQyNicsCiAgICAgICAgJ0NCV1dQUkNPJywKICAgICAgICAnVEtWTTZNWEknLAogICAgICAgICdXUFlGMzEwMzA1JywKICAgICAgICAnWUxYQjMxMDQ2NicsCiAgICAgICAgJ0pETUYzMDY1NjQnLAogICAgICAgICdMUVJOT0pNUicsCiAgICAgICAgJ0NQT0cyNzA5MDUnLAogICAgICAgICdSREpKMjc1NDYxJywKICAgICAgICAnVVBOTDMxMzMzNicsCiAgICAgICAgJ0hWT1UzMDU4NzcnLAogICAgICAgICdRSkZUMzEwMjUzJywKICAgICAgICAnSlhPUTMxMDQ2MycsCiAgICAgICAgJ0JTSE8yNzMyODInLAogICAgICAgICdFT1FRMzEyMDk2JywKICAgICAgICAnUkFIWjMxMjE0NycsCiAgICAgICAgJ0tBSFQzMTA0ODcnLAogICAgICAgICdVVU1DMjY5OTQ5JywKICAgICAgICAnT0NTSTMwNzYyMCcsCiAgICAgICAgJ0xLTFRLM1ZCJywKICAgICAgICAnTEVHSTI3OTE1MCcsCiAgICAgICAgJ1lFVEMzMDU1MzEnLAogICAgICAgICdVRFpGMjc1NzQyJywKICAgICAgICAnTkFTRTMxMDQ3MycsCiAgICAgICAgJ0NaWVEyNzMwMDgnLAogICAgICAgICdTVURNMzA3OTg5JywKICAgICAgICAnWUVIUTMxMzQxNicsCiAgICAgICAgJ0VMRDdLQ0FLJywKICAgICAgICAnNExXUllSUUknLAogICAgICAgICdKVUFKMzEyMTIwJywKICAgICAgICAnWFlKSUY4TFgnLAogICAgICAgICdZR1pIQzJGMicsCiAgICAgICAgJ0ZBSEkyNzM4MjEnLAogICAgICAgICdEV01LMzEwNDk5JywKICAgICAgICAnVU9PWjMxMzY1NCcsCiAgICAgICAgJ1pKSFkyNzU3MzcnLAogICAgICAgICdWSVA3NzdDUicsCiAgICAgICAgJ0NNU1FVQUQyJywKICAgICAgICAnRkJSSzMxMjA5MCcsCiAgICAgICAgJ0tETkczMTM1NzcnLAogICAgICAgICdWUkFPMzEzNTQ4JywKICAgICAgICAnWEJTUzI2ODM4MScsCiAgICAgICAgJ09OTkEzMTIwNTAnLAogICAgICAgICdSV1pPMjczMjc2JywKICAgICAgICAnU05GVjI3MzI4MScsCiAgICAgICAgJ1BGQkYzMDkwMjMnLAogICAgICAgICdRV0lWMzEwNTE0JywKICAgICAgICAnWUJJVTI3MzgxMycsCiAgICAgICAgJ1dWRlcyNjgzOTMnLAogICAgICAgICdUWVNEMzEwMzYwJywKICAgICAgICAnRVRRVzI3ODgwOCcsCiAgICAgICAgJ0dLUkdVMlJRJywKICAgICAgICAnQ01TUVVBRDEnLAogICAgICAgICdIVUFEMzEyMTk1JywKICAgICAgICAnUVFJQzMxMzU1MicsCiAgICAgICAgJ1haTlEzMDA5ODQnLAogICAgICAgICdEQ0VMTEZIUicsCiAgICAgICAgJ0ZBRlYyNzkxODgnLAogICAgICAgICdKRFRFMzEwNjIyJywKICAgICAgICAnTEROUDMxMDQ2OCcsCiAgICAgICAgJ01NVVUzMTM1MjMnLAogICAgICAgICdPWkFPTjVVUicsCiAgICAgICAgJ1dYUlAzMTM1NjcnLAogICAgICAgICc5QkpCUkpLMCcsCiAgICAgICAgJ1pLUVkzMTMzMjYnLAogICAgICAgICdPSUNBMzEwMzc3JywKICAgICAgICAnSkxBNkdNQkgnLAogICAgICAgICdDVlRDMjc3MjI5JywKICAgICAgICAnSUxaVjMxMzU4NCcsCiAgICAgICAgJ1FTU1UyNzUxNjInLAogICAgICAgICdGSkFMMTAxNDUwJywKICAgICAgICAnUlNLUTMxMzM4MScsCiAgICAgICAgJ0ZKTFozMDc2MjMnLAogICAgICAgICdRWTdQRUJXWCcsCiAgICAgICAgJ0MtNTAwMXNzJywKICAgICAgICAnUVVZVzI2ODM3MycsCiAgICAgICAgJ1RQSU0zMTAzMjEnLAogICAgICAgICdURUlZMzEwNTI0JywKICAgICAgICAnR0dWSzMxMzI4MycsCiAgICAgICAgJ0hUV0szMTIyMTgnLAogICAgICAgICdKSFRYMzEwNDc2JywKICAgICAgICAnSllKVTMxMzM1MicsCiAgICAgICAgJ0JYS0IzMTAzOTInLAogICAgICAgICdTV0lGMzEzMjkyJywKICAgICAgICAnS1lDRDI2ODM3MicsCiAgICAgICAgJ0NKV1lJMzlQJywKICAgICAgICAnWUJHSjFXMkknLAogICAgICAgICdXVkhKMzEwMjg1JywKICAgICAgICAnS0ZDUTMwOTgwOCcsCiAgICAgICAgJ0k0WkZSRVJYJywKICAgICAgICAnWFFLWDI2OTk1NCcsCiAgICAgICAgJ1dVUkYzMTAzNzYnLAogICAgICAgICdTQ0NUMjY5OTQ1JywKICAgICAgICAnVVZLWDMxMzQ4OCcsCiAgICAgICAgJ0JOWFkzMDc2MjcnLAogICAgICAgICdKM1U3UEZNVycsCiAgICAgICAgJ0hIRUMzMTM1NDQnLAogICAgICAgICdXREhGMjc1NzM4JywKICAgICAgICAnQkdGUTMxMzU3NicsCiAgICAgICAgJ1lJQkEyNjk3MTYnLAogICAgICAgICdPS0VRMjc1NzM2JywKICAgICAgICAnVFZPSzMxMzU3MycsCiAgICAgICAgJ0VEVlQzMTMzOTknLAogICAgICAgICdZUVJPMzEzNDk3JywKICAgICAgICAnVkdOVTI2OTk1MycsCiAgICAgICAgJ1hSTVAyNzMyODMnLAogICAgICAgICdZRVlLMzEwMzU4JwogICAgKSBvcmRlciBieSAxOwp1cGRhdGUgdXNlcnMgc2V0IGxvZ2luID0gJ3RmeGNhcnJpZXJBMCcgd2hlcmUgbG9naW4gPSAndGZ4Y2FycmllckExJzsKdXBkYXRlIHVzZXJzIHNldCBsb2dpbiA9ICd0ZnhjYXJyaWVyQUEwJyB3aGVyZSBsb2dpbiA9ICd0ZnhjYXJyaWVyRCc7CnVwZGF0ZSB1c2VycyBzZXQgbG9naW4gPSAndGZ4Y2FycmllckQnIHdoZXJlIGxvZ2luID0gJ3RmeGNhcnJpZXJBMCc7CnNlbGVjdCAqIGZyb20gdXNlcnMgd2hlcmUgbG9naW4gPSAndGZ4Y2FycmllckQnOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/&quot;&quot;,&quot;/',/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;&quot;,&quot;</last-search>
+      <last-search>fx</last-search>
       <last-offset />
-      <last-pattern>&quot;&quot;,&quot;</last-pattern>
-      <last-replace>',</last-replace>
-      <last-substitute>&quot;&quot;,&quot;</last-substitute>
+      <last-pattern>fx</last-pattern>
+      <last-replace>spotbidding</last-replace>
+      <last-substitute>fx</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>isAuto</entry>
         <entry>isAutomaticUpliftInitiated</entry>
         <entry>auto</entry>
         <entry>upli</entry>
@@ -367,9 +382,9 @@
         <entry>18_12</entry>
         <entry>&quot;&quot;&quot;</entry>
         <entry>&quot;&quot;,&quot;</entry>
+        <entry>fx</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/type/businessPurpose/g</entry>
         <entry>%s/calloffId/userId/g</entry>
         <entry>%s/Calloff/User/g</entry>
         <entry encoding="base64">JzwsJz5zL0NhbGxvZmZNYWlsVGVtcGxhdGVFbnRpdHkvVXNlck1haWxUZW1wbGF0ZUVudGl0eS9n</entry>
@@ -386,9 +401,10 @@
         <entry encoding="base64">JzwsJz5zL0svU3RyaW5nL2c=</entry>
         <entry>%s/currDate/:currDate/g</entry>
         <entry>%s/18_09/18_12/g</entry>
-        <entry>w</entry>
         <entry>%s/&quot;&quot;&quot;/'/g</entry>
         <entry>%s/&quot;&quot;,&quot;/',/g</entry>
+        <entry>%s/fx/spotbidding/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
