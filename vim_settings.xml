@@ -81,12 +81,12 @@
       <file name="/Dummy.groovy" timestamp="1540377378828">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1540455583389">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1540468036919">
         <mark key="'" line="215" column="39" />
-        <mark key="[" line="223" column="18" />
-        <mark key="]" line="225" column="19" />
-        <mark key="." line="225" column="19" />
-        <mark key="^" line="225" column="19" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="." line="227" column="0" />
+        <mark key="^" line="227" column="55" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/impl/social/UserDAO.java" timestamp="1540445667752" />
       <file name="/sb_data.spot_data.email_template [sb_data@localhost]" timestamp="1540379632924">
@@ -177,7 +177,7 @@
         <mark key="." line="634" column="16" />
         <mark key="^" line="634" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBean.java" timestamp="1540467103900">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBean.java" timestamp="1540468508538">
         <mark key="[" line="51" column="67" />
         <mark key="]" line="51" column="16" />
         <mark key="^" line="51" column="16" />
@@ -322,8 +322,8 @@
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>postCalloffDirectly</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBwdWJsaWMuc3BhdGlhbF9yZWZfc3lzIHdoZXJlIHNyaWQgPSAzMjc3NDsK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -400,31 +400,31 @@
         <text>post_directly_to_teleroute</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFNFVCBkZWZhdWx0X3dpdGhfb2lkcyA9IEZBTFNFOwo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBwdWJsaWMuc3BhdGlhbF9yZWZfc3lzIHdoZXJlIHNyaWQgPSAzMjc3NDsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIFNFVCBkZWZhdWx0X3dpdGhfb2lkcyA9IEZBTFNFOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIENSRUFURSBTQ0hFTUEgU1BPVF9EQVRBOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IyEvYmluL3NoCgpzZXQgLWUKCiMgUGVyZm9ybSBhbGwgYWN0aW9ucyBhcyAkUE9TVEdSRVNfVVNFUgpleHBvcnQgUEdVU0VSPSIkUE9TVEdSRVNfVVNFUiIKZXhwb3J0IEJBQ0tVUF9WRVJTSU9OPTE4LjEyLjEKCiMgZG93bmxvYWQgYmFja3VwCmNkIC90bXAKd2dldCBodHRwOi8vYXJ0aWZhY3RzLnR3LmludHJhL3R3LWxpYnMtc25hcHNob3QtbG9jYWwvY29tL3drdHJhbnNwb3J0c2VydmljZXMvc3BvdGJpZGRpbmcvc3BvdGJpZGRpbmctc3ByaW50LWRiLWJhY2t1cC8ke0JBQ0tVUF9WRVJTSU9OfS9zcG90YmlkZGluZy1zcHJpbnQtZGItYmFja3VwLSR7QkFDS1VQX1ZFUlNJT059LnRnegoKIyBhcHBseSBiYWNrdXAKcGdfcmVzdG9yZSAtYyAtZCAkUE9TVEdSRVNfREIgLXYgc3BvdGJpZGRpbmctc3ByaW50LWRiLWJhY2t1cC0ke0JBQ0tVUF9WRVJTSU9OfS50Z3oKCiMgY2xlYW4gdXAKcm0gLXJmICoK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dGFyIC16eGYgZngtc3ByaW50LWRiLWJhY2t1cC0ke0JBQ0tVUF9WRVJTSU9OfS50Z3oK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">cGdfcmVzdG9yZSAtZCAkUE9TVEdSRVNfREIgLWYgdGZ4X3NwcmludC5zcWwK</text>
+        <text encoding="base64">dGFyIC16eGYgZngtc3ByaW50LWRiLWJhY2t1cC0ke0JBQ0tVUF9WRVJTSU9OfS50Z3oK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGFyIC16eGYgc3BvdGJpZGRpbmctc3ByaW50LWRiLWJhY2t1cC0ke0JBQ0tVUF9WRVJTSU9OfS50Z3oK</text>
+        <text encoding="base64">cGdfcmVzdG9yZSAtZCAkUE9TVEdSRVNfREIgLWYgdGZ4X3NwcmludC5zcWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGFyIC16eGYgZngtc3ByaW50LWRiLWJhY2t1cC0ke0JBQ0tVUF9WRVJTSU9OfS50Z3oK</text>
+        <text encoding="base64">dGFyIC16eGYgc3BvdGJpZGRpbmctc3ByaW50LWRiLWJhY2t1cC0ke0JBQ0tVUF9WRVJTSU9OfS50Z3oK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBsb2NhdGlvbnM7Cg==</text>
+        <text encoding="base64">dGFyIC16eGYgZngtc3ByaW50LWRiLWJhY2t1cC0ke0JBQ0tVUF9WRVJTSU9OfS50Z3oK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBvZmZlcnM7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBsb2NhdGlvbnM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
