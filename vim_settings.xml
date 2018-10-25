@@ -21,11 +21,17 @@
         <mark key="^" line="54" column="92" />
         <mark key="." line="54" column="92" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1540441192038">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/java/com/wktransportservices/spotbidding/web/server/security/filters/UserAuthorizationTokenVerificationFilter.java" timestamp="1540377144897">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="53" column="24" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1540444892031">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="80" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1540374501841">
         <mark key="'" line="152" column="57" />
@@ -40,12 +46,70 @@
         <mark key="." line="3" column="58" />
         <mark key="^" line="3" column="58" />
       </file>
+      <file name="/email_template [sb_data@localhost]" timestamp="1540444778186">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-test/src/test/resources/data/AccessIntegrationDB.xml" timestamp="1540383321772">
+        <mark key="[" line="81" column="22" />
+        <mark key="]" line="81" column="85" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1540359316882">
+        <mark key="'" line="119" column="31" />
+        <mark key="[" line="130" column="29" />
+        <mark key="]" line="130" column="30" />
+        <mark key="." line="130" column="30" />
+        <mark key="^" line="130" column="30" />
+      </file>
+      <file name="/a.sql" timestamp="1540379756968">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.groovy" timestamp="1540377378828">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1540443547072">
+        <mark key="'" line="393" column="8" />
+        <mark key="[" line="396" column="66" />
+        <mark key="]" line="396" column="66" />
+        <mark key="^" line="396" column="66" />
+        <mark key="." line="396" column="66" />
+      </file>
+      <file name="/sb_data.spot_data.email_template [sb_data@localhost]" timestamp="1540379632924">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1540379633178">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1540378437181">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/fax/async/FaxClient.java" timestamp="1540199576472">
         <mark key="'" line="2" column="22" />
         <mark key="[" line="51" column="39" />
         <mark key="]" line="51" column="57" />
         <mark key="^" line="2" column="57" />
         <mark key="." line="2" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/test/groovy/com/wktransportservices/spotbidding/web/server/security/filters/UserAuthorizationTokenVerificationFilterSpec.groovy" timestamp="1540377389110">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="44" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1540354122655">
+        <mark key="'" line="99" column="43" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="^" line="170" column="19" />
+        <mark key="." line="148" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" timestamp="1540359320821">
+        <mark key="'" line="129" column="20" />
+        <mark key="[" line="138" column="29" />
+        <mark key="]" line="138" column="30" />
+        <mark key="." line="138" column="30" />
+        <mark key="^" line="138" column="30" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/server/calloff/CalloffTemplateService.java" timestamp="1539849414831">
         <mark key="'" line="53" column="12" />
@@ -67,10 +131,24 @@
         <mark key="." line="3" column="57" />
         <mark key="^" line="3" column="54" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/AccountSettingsPresenter.java" timestamp="1539839753727">
+        <mark key="'" line="66" column="29" />
+        <mark key="[" line="60" column="60" />
+        <mark key="]" line="61" column="24" />
+        <mark key="^" line="61" column="24" />
+        <mark key="." line="61" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/resources/security/security-common.xml" timestamp="1540374172338">
         <mark key="[" line="56" column="41" />
         <mark key="]" line="56" column="41" />
         <mark key="." line="56" column="41" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1540442944362">
+        <mark key="'" line="630" column="8" />
+        <mark key="[" line="631" column="0" />
+        <mark key="]" line="631" column="0" />
+        <mark key="." line="631" column="0" />
+        <mark key="^" line="126" column="39" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_prod.properties" timestamp="1540359312756">
         <mark key="'" line="122" column="70" />
@@ -97,90 +175,8 @@
         <mark key="." line="135" column="30" />
         <mark key="^" line="135" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/java/com/wktransportservices/spotbidding/web/server/security/filters/UserAuthorizationTokenVerificationFilter.java" timestamp="1540377144897">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="53" column="24" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-test/src/test/resources/data/AccessIntegrationDB.xml" timestamp="1540383321772">
-        <mark key="[" line="81" column="22" />
-        <mark key="]" line="81" column="85" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_qa.properties" timestamp="1540359316882">
-        <mark key="'" line="119" column="31" />
-        <mark key="[" line="130" column="29" />
-        <mark key="]" line="130" column="30" />
-        <mark key="." line="130" column="30" />
-        <mark key="^" line="130" column="30" />
-      </file>
-      <file name="/a.sql" timestamp="1540379756968">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.groovy" timestamp="1540377378828">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1540439749477">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="206" column="12" />
-        <mark key="]" line="208" column="32" />
-        <mark key="^" line="208" column="32" />
-        <mark key="." line="208" column="32" />
-      </file>
-      <file name="/sb_data.spot_data.email_template [sb_data@localhost]" timestamp="1540379632924">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1540379633178">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1540378437181">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="38" />
-        <mark key="." line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/test/groovy/com/wktransportservices/spotbidding/web/server/security/filters/UserAuthorizationTokenVerificationFilterSpec.groovy" timestamp="1540377389110">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="44" />
-        <mark key="." line="88" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1540354122655">
-        <mark key="'" line="99" column="43" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="^" line="170" column="19" />
-        <mark key="." line="148" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_sprint.properties" timestamp="1540359320821">
-        <mark key="'" line="129" column="20" />
-        <mark key="[" line="138" column="29" />
-        <mark key="]" line="138" column="30" />
-        <mark key="." line="138" column="30" />
-        <mark key="^" line="138" column="30" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/presenter/user/AccountSettingsPresenter.java" timestamp="1539839753727">
-        <mark key="'" line="66" column="29" />
-        <mark key="[" line="60" column="60" />
-        <mark key="]" line="61" column="24" />
-        <mark key="^" line="61" column="24" />
-        <mark key="." line="61" column="24" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1540383451242">
-        <mark key="'" line="46" column="70" />
-        <mark key="[" line="86" column="11" />
-        <mark key="]" line="86" column="11" />
-        <mark key="." line="86" column="11" />
-        <mark key="^" line="86" column="6" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="44" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/controller/FreightOfferServiceImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/controller/FreightOfferServiceImpl.java" />
-      <jump line="104" column="0" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/controller/FreightOfferServiceImpl.java" />
-      <jump line="20" column="13" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/fax/async/FaxClient.java" />
-      <jump line="51" column="22" filename="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/fax/async/FaxClient.java" />
-      <jump line="13" column="13" filename="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/cache/loaders/clients/AwsMemcachedClient.java" />
-      <jump line="27" column="13" filename="$USER_HOME$/projects/fx/fx-connect/src/main/java/com/wktransportservices/fx/connect/offer/service/VehicleOfferService.java" />
       <jump line="46" column="13" filename="$USER_HOME$/projects/fx/fx-business/fx-business-ejb/src/main/java/com/wktransportservices/fx/business/mdb/OfferActionNotifierBean.java" />
       <jump line="26" column="13" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
       <jump line="63" column="12" filename="$USER_HOME$/projects/fx/fx-web/src/main/java/com/wktransportservices/fx/web/server/controller/FreightSearchServiceImpl.java" />
@@ -274,13 +270,20 @@
       <jump line="281" column="0" filename="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" />
       <jump line="152" column="57" filename="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" />
+      <jump line="57" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" />
+      <jump line="128" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" />
+      <jump line="155" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" />
+      <jump line="621" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" />
+      <jump line="630" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" />
+      <jump line="394" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" />
+      <jump line="393" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb25uZWN0X2xvZ3M7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -289,58 +292,56 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>18_12</text>
+        <text>&quot;&quot;,&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>where version='201808200915.18.12';</text>
+      <register name="0" type="2">
+        <text encoding="base64">dXBkYXRlIHVzZXJzIHNldCBsb2dpbiA9ICd0ZnhjYXJyaWVyQTEnIHdoZXJlIGxvZ2luID0gJ3RmeGNhcnJpZXJBMCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb25uZWN0X2xvZ3M7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlIGNvbm5lY3RfbG9ncwooCiAgZGF0ZV9hY3Rpb24gdGltZXN0YW1wLAogIGxvZ19pZCBiaWdpbnQgbm90IG51bGwsCiAgdXNlcl9hZ2VudCB2YXJjaGFyKDI1NSksCiAgcmVtb3RlX2FkZHIgdmFyY2hhcigyMCksCiAgY29udGVudF90eXBlIHZhcmNoYXIoMjU1KSwKICBzdGF0dXMgdmFyY2hhcigxMCksCiAgcmVxdWVzdF9tZXRob2QgdmFyY2hhcigxMCksCiAgcmVxdWVzdF9pZCB2YXJjaGFyKDQwKSwKICBsb2dpbiB2YXJjaGFyKDUwKSwKICBsb2dfdHlwZSB2YXJjaGFyKDE1KSwKICByZXF1ZXN0X3VyaSB2YXJjaGFyKDI1NSksCiAgcmVxdWVzdF9lbnRpdHkgdGV4dAopCjsKCmNyZWF0ZSBpbmRleCBjb25uZWN0X2xvZ3NfZGF0ZV9hY3Rpb24KICBvbiBjb25uZWN0X2xvZ3MgKGRhdGVfYWN0aW9uKQo7Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW5zZXJ0IHRzIHZhbHVlcygnMjAxOC0xMC0xOCAxNjo0MC85ODg3NicpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Owo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgY29ubmVjdF9sb2dzIG93bmVyIHRvIHRmeF9kYXRhCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmdldFJlcXVlc3RVUkkoKSA+PiAiL2FueXVybCIK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBkZWYgInNob3VsZCByZXR1cm4gNDAxIHdoZW4gcmVxdWVzdCBjb250YWlucyBubyB0b2tlbiIoKSB7CiAgICAgICAgZ2l2ZW46CiAgICAgICAgdG9rZW5WZXJpZmllci5pc1ByZXNlbnQocmVxdWVzdCkgPj4gZmFsc2UKICAgICAgICByZXF1ZXN0LmdldFJlcXVlc3RVUkkoKSA+PiAiL3Jlc3Qvc2VjdXJlIgogICAgICAgIHdoZW46CiAgICAgICAgZmlsdGVyLmRvRmlsdGVyKHJlcXVlc3QsIHJlc3BvbnNlLCBmaWx0ZXJDaGFpbikKCiAgICAgICAgdGhlbjoKICAgICAgICAxICogcmVzcG9uc2Uuc2VuZEVycm9yKEh0dHBTZXJ2bGV0UmVzcG9uc2UuU0NfVU5BVVRIT1JJWkVELCAiVXNlciBhdXRob3JpemF0aW9uIHRva2VuIGlzIG5vdCBwcmVzZW50IikKICAgIH0K</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGVmICJzaG91bGQgbm90IHByb2NlZWQgZmlsdGVyIGNoYWluIHdoZW4gcmVxdWVzdCBjb250YWlucyBubyB0b2tlbiIoKSB7CiAgICAgICAgZ2l2ZW46CiAgICAgICAgdG9rZW5WZXJpZmllci5pc1ByZXNlbnQocmVxdWVzdCkgPj4gZmFsc2UKICAgICAgICB3aGVuOgogICAgICAgIGZpbHRlci5kb0ZpbHRlcihyZXF1ZXN0LCByZXNwb25zZSwgZmlsdGVyQ2hhaW4pCgogICAgICAgIHRoZW46CiAgICAgICAgZGVmIGUgPSB0aHJvd24oQWNjZXNzRGVuaWVkRXhjZXB0aW9uKQogICAgICAgIGUubWVzc2FnZSA9PSAiVXNlciBhdXRob3JpemF0aW9uIHRva2VuIGlzIG5vdCBwcmVzZW50IgogICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">d2hlcmUgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAnWlVTSDEwMTQ1NicsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb25uZWN0X2xvZ3M7Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">Y3JlYXRlIHRhYmxlIGNvbm5lY3RfbG9ncwooCiAgZGF0ZV9hY3Rpb24gdGltZXN0YW1wLAogIGxvZ19pZCBiaWdpbnQgbm90IG51bGwsCiAgdXNlcl9hZ2VudCB2YXJjaGFyKDI1NSksCiAgcmVtb3RlX2FkZHIgdmFyY2hhcigyMCksCiAgY29udGVudF90eXBlIHZhcmNoYXIoMjU1KSwKICBzdGF0dXMgdmFyY2hhcigxMCksCiAgcmVxdWVzdF9tZXRob2QgdmFyY2hhcigxMCksCiAgcmVxdWVzdF9pZCB2YXJjaGFyKDQwKSwKICBsb2dpbiB2YXJjaGFyKDUwKSwKICBsb2dfdHlwZSB2YXJjaGFyKDE1KSwKICByZXF1ZXN0X3VyaSB2YXJjaGFyKDI1NSksCiAgcmVxdWVzdF9lbnRpdHkgdGV4dAopCjsKCmNyZWF0ZSBpbmRleCBjb25uZWN0X2xvZ3NfZGF0ZV9hY3Rpb24KICBvbiBjb25uZWN0X2xvZ3MgKGRhdGVfYWN0aW9uKQo7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/&quot;&quot;,&quot;/',/g</text>
       </register>
     </registers>
     <search>
-      <last-search>18_12</last-search>
+      <last-search>&quot;&quot;,&quot;</last-search>
       <last-offset />
-      <last-pattern>18_12</last-pattern>
-      <last-replace>18_12</last-replace>
-      <last-substitute>18_09</last-substitute>
+      <last-pattern>&quot;&quot;,&quot;</last-pattern>
+      <last-replace>',</last-replace>
+      <last-substitute>&quot;&quot;,&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Ill</entry>
-        <entry>Ille</entry>
         <entry>isAuto</entry>
         <entry>isAutomaticUpliftInitiated</entry>
         <entry>auto</entry>
@@ -359,10 +360,10 @@
         <entry>ptv</entry>
         <entry>18_09</entry>
         <entry>18_12</entry>
+        <entry>&quot;&quot;&quot;</entry>
+        <entry>&quot;&quot;,&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2ZhbHNlL3RydWUvZw==</entry>
-        <entry>%s/findByUserId/getOrCreate/g</entry>
         <entry>%s/type/businessPurpose/g</entry>
         <entry>%s/calloffId/userId/g</entry>
         <entry>%s/Calloff/User/g</entry>
@@ -381,6 +382,8 @@
         <entry>%s/currDate/:currDate/g</entry>
         <entry>%s/18_09/18_12/g</entry>
         <entry>w</entry>
+        <entry>%s/&quot;&quot;&quot;/'/g</entry>
+        <entry>%s/&quot;&quot;,&quot;/',/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
