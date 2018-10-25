@@ -66,13 +66,14 @@
       <file name="/Dummy.groovy" timestamp="1540377378828">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1540443547072">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1540445732789">
         <mark key="'" line="393" column="8" />
-        <mark key="[" line="396" column="66" />
-        <mark key="]" line="396" column="66" />
-        <mark key="^" line="396" column="66" />
-        <mark key="." line="396" column="66" />
+        <mark key="[" line="397" column="65" />
+        <mark key="]" line="397" column="66" />
+        <mark key="^" line="398" column="47" />
+        <mark key="." line="397" column="66" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/impl/social/UserDAO.java" timestamp="1540445667752" />
       <file name="/sb_data.spot_data.email_template [sb_data@localhost]" timestamp="1540379632924">
         <mark key="[" line="0" column="0" />
       </file>
@@ -157,6 +158,7 @@
         <mark key="." line="136" column="30" />
         <mark key="^" line="136" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-security/src/main/java/com/wktransportservices/fx/web/security/profiles/SamlAuthenticationSuccessHandler.java" timestamp="1540445624953" />
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1540373314565">
         <mark key="'" line="281" column="0" />
         <mark key="[" line="148" column="29" />
@@ -164,6 +166,7 @@
         <mark key="." line="148" column="30" />
         <mark key="^" line="148" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/UserManager.java" timestamp="1540445652615" />
       <file name="$USER_HOME$/projects/fx/docker/postgres/initdb/restore.sh" timestamp="1540384045176">
         <mark key="[" line="10" column="119" />
         <mark key="]" line="10" column="159" />
