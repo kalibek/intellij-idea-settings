@@ -167,9 +167,11 @@
         <mark key="^" line="148" column="30" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/UserManager.java" timestamp="1540445652615" />
-      <file name="$USER_HOME$/projects/fx/docker/postgres/initdb/restore.sh" timestamp="1540384045176">
-        <mark key="[" line="10" column="119" />
-        <mark key="]" line="10" column="159" />
+      <file name="$USER_HOME$/projects/fx/docker/postgres/initdb/restore.sh" timestamp="1540446591563">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" timestamp="1540359304766">
         <mark key="'" line="140" column="60" />
@@ -285,8 +287,8 @@
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>90</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -295,7 +297,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>90</text>
       </register>
       <register name="/" type="4">
         <text>&quot;&quot;,&quot;</text>
