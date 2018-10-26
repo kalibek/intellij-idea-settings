@@ -107,7 +107,7 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1540545449054">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1540546322235">
         <mark key="'" line="430" column="42" />
         <mark key="[" line="450" column="60" />
         <mark key="]" line="450" column="75" />
@@ -130,6 +130,12 @@
         <mark key="]" line="3" column="57" />
         <mark key="." line="3" column="57" />
         <mark key="^" line="3" column="54" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" timestamp="1540546492114">
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="17" column="49" />
+        <mark key="^" line="12" column="52" />
+        <mark key="." line="17" column="41" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/audience/CalloffAudienceView.java" timestamp="1540533876897">
         <mark key="[" line="311" column="0" />
@@ -282,7 +288,7 @@
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>SPOT_IN_HOSTNAME</text>
+        <text>;</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -356,7 +362,7 @@
         <text>In</text>
       </register>
       <register name="0" type="4">
-        <text>SPOT_IN_HOSTNAME</text>
+        <text encoding="base64">ID0gdHJ1ZTs=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
