@@ -30,9 +30,9 @@
         <mark key="^" line="54" column="92" />
         <mark key="." line="54" column="92" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1540465950960">
-        <mark key="[" line="584" column="11" />
-        <mark key="]" line="584" column="36" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1540528021537">
+        <mark key="[" line="620" column="11" />
+        <mark key="]" line="620" column="51" />
       </file>
       <file name="/a.dummy" timestamp="1540471100007">
         <mark key="[" line="0" column="0" />
@@ -62,6 +62,8 @@
         <mark key="." line="3" column="58" />
         <mark key="^" line="3" column="58" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/impl/social/UserDAO.java" timestamp="1540445667752" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/validation/DatesValidator.java" timestamp="1540528042175" />
       <file name="$USER_HOME$/projects/fx/fx-esb-client/src/main/java/com/wktransportservices/fx/esb/client/fax/async/FaxClient.java" timestamp="1540199576472">
         <mark key="'" line="2" column="22" />
         <mark key="[" line="51" column="39" />
@@ -111,6 +113,7 @@
         <mark key="." line="136" column="30" />
         <mark key="^" line="136" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-security/src/main/java/com/wktransportservices/fx/web/security/profiles/SamlAuthenticationSuccessHandler.java" timestamp="1540445624953" />
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_local.properties" timestamp="1540373314565">
         <mark key="'" line="281" column="0" />
         <mark key="[" line="148" column="29" />
@@ -235,6 +238,7 @@
         <mark key="." line="634" column="16" />
         <mark key="^" line="634" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/UserManager.java" timestamp="1540445652615" />
       <file name="/app/ee324cc1-6048-431e-9b02-e25428b4d132/database/tfx_data/schema/tfx_data/routine/clean_searches__searches_results_clean@().sql" timestamp="1540447109040">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="55" />
@@ -350,7 +354,7 @@
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.orElse(0L),</text>
+        <text>group_dates_cannot_be_after_pick_up_start</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -424,16 +428,7 @@
         <text>\cunix</text>
       </register>
       <register name="0" type="4">
-        <text>@Test
-    public void calculateBiddingDuration_WhenBiddingEndingBeforeCalloffPickup_ShouldReturnBiddingEndMinusNow() {
-        LocalDateTime now = LocalDateTime.now();
-        long nowMillis = getMillis(now);
-        long calloffPickup = getMillis(now.plus(5, ChronoUnit.HOURS));
-
-        long resultInMinutes = calculateBiddingDuration(nowMillis, 60, calloffPickup);
-
-        assertEquals(60L, resultInMinutes);
-    }</text>
+        <text>group_dates_cannot_be_after_pick_up_start</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
