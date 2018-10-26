@@ -98,11 +98,11 @@
         <mark key="]" line="56" column="41" />
         <mark key="." line="56" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBean.java" timestamp="1540471847959">
-        <mark key="[" line="53" column="36" />
-        <mark key="]" line="53" column="36" />
-        <mark key="^" line="53" column="36" />
-        <mark key="." line="53" column="36" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBean.java" timestamp="1540525978262">
+        <mark key="[" line="48" column="40" />
+        <mark key="]" line="48" column="40" />
+        <mark key="^" line="48" column="40" />
+        <mark key="." line="48" column="40" />
       </file>
       <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_prod.properties" timestamp="1540359312756">
         <mark key="'" line="122" column="70" />
@@ -136,11 +136,11 @@
         <mark key="^" line="57" column="24" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/BiddingDurationCalculatorTestSuite.java" timestamp="1540472514886">
-        <mark key="[" line="28" column="48" />
-        <mark key="]" line="28" column="49" />
-        <mark key="^" line="17" column="38" />
-        <mark key="." line="28" column="49" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/BiddingDurationCalculatorTestSuite.java" timestamp="1540525872110">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="30" column="69" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/time/LocalTime.java" timestamp="1540471594449">
         <mark key="'" line="647" column="16" />
@@ -161,11 +161,11 @@
       <file name="/Dummy.groovy" timestamp="1540377378828">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/BiddingDurationCalculator.java" timestamp="1540472579362">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="17" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/BiddingDurationCalculator.java" timestamp="1540525860778">
+        <mark key="[" line="6" column="58" />
+        <mark key="]" line="6" column="59" />
         <mark key="^" line="9" column="17" />
-        <mark key="." line="9" column="17" />
+        <mark key="." line="6" column="59" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1540468036919">
         <mark key="'" line="215" column="39" />
@@ -350,7 +350,7 @@
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>biddingDurationInMinutes =</text>
+        <text>.orElse(0L),</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -418,40 +418,58 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>biddingDurationInMinutes =</text>
+        <text>.orElse(0L),</text>
       </register>
       <register name="/" type="4">
         <text>\cunix</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIG5vd01pbGxpcyA9IGdldE1pbGxpcyhub3cpOwogICAgICAgIGxvbmcgY2FsbG9mZlBpY2t1cCA9IGdldE1pbGxpcyhub3cucGx1cygzLCBDaHJvbm9Vbml0LkhPVVJTKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>@Test
+    public void calculateBiddingDuration_WhenBiddingEndingBeforeCalloffPickup_ShouldReturnBiddingEndMinusNow() {
+        LocalDateTime now = LocalDateTime.now();
+        long nowMillis = getMillis(now);
+        long calloffPickup = getMillis(now.plus(5, ChronoUnit.HOURS));
+
+        long resultInMinutes = calculateBiddingDuration(nowMillis, 60, calloffPickup);
+
+        assertEquals(60L, resultInMinutes);
+    }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGNhbGxvZmZQaWNrdXAgPSBub3cucGx1cyg1LCBDaHJvbm9Vbml0LkhPVVJTKS5hdFpvbmUoWm9uZUlkLnN5c3RlbURlZmF1bHQoKSkudG9FcG9jaFNlY29uZCgpICogMTAwMDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIG5vd01pbGxpcyA9IG5vdy5hdFpvbmUoWm9uZUlkLnN5c3RlbURlZmF1bHQoKSkudG9FcG9jaFNlY29uZCgpICogMTAwMDsK</text>
+      <register name="2" type="4">
+        <text>@Test
+    public void calculateBiddingDuration_WhenBiddingEndingBeforeCalloffPickup_Should() {
+        LocalDateTime now = LocalDateTime.now();
+        long nowMillis = getMillis(now);
+        long calloffPickup = getMillis(now.plus(5, ChronoUnit.HOURS));
+
+        long resultInMinutes = calculateBiddingDuration(nowMillis, null, calloffPickup);
+
+        assertEquals(60L, resultInMinutes);
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGJpZGRpbmdFbmQgPSBub3cucGx1cyg2LCBDaHJvbm9Vbml0LkhPVVJTKS5hdFpvbmUoWm9uZUlkLnN5c3RlbURlZmF1bHQoKSkudG9FcG9jaFNlY29uZCgpICogMTAwMDsK</text>
+        <text encoding="base64">ICAgIEBFSkIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUHJpdmF0ZURpcmVjdG9yeVNlcnZpY2VSZW1vdGUgcHJpdmF0ZURpcmVjdG9yeVNlcnZpY2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIG5vdyA9IG5ldyBEYXRlKCkuZ2V0VGltZSgpOwo=</text>
+        <text encoding="base64">ICAgIEBFSkIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGNhbGxvZmZQaWNrdXBFbmREYXRlID0gY2FsbG9mZlRvUG9zdC5nZXRPbmVTaG90U2NoZWR1bGUoKS5nZXRQaWNrVXBFbmREYXRlKCkuZ2V0VGltZSgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2NlbmFyaW9EQU8gc2NlbmFyaW9EYW87Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgZmluYWwgaW50IE1TRUNfSU5fTUlOVVRFID0gNjAwMDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGNhbGxvZmZQaWNrdXAgPSBub3cucGx1cyg1LCBDaHJvbm9Vbml0LkhPVVJTKS5hdFpvbmUoWm9uZUlkLnN5c3RlbURlZmF1bHQoKSkudG9FcG9jaFNlY29uZCgpICogMTAwMDsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHJpdmF0ZSBMb25nIGNhbGN1bGF0ZUJpZGRpbmdEdXJhdGlvbihMb25nIGJpZGRpbmdEdXJhdGlvbkluTWludXRlcywgQ2FsbG9mZkVudGl0eSBjYWxsb2ZmVG9Qb3N0KSB7CiAgICAgICAgbG9uZyBub3cgPSBuZXcgRGF0ZSgpLmdldFRpbWUoKTsKICAgICAgICBsb25nIGJpZGRpbmdXaW5kb3dFbmQgPSBub3cgKyBiaWRkaW5nRHVyYXRpb25Jbk1pbnV0ZXMgKiBNU0VDX0lOX01JTlVURTsKICAgICAgICBsb25nIGNhbGxvZmZQaWNrdXBFbmREYXRlID0gY2FsbG9mZlRvUG9zdC5nZXRPbmVTaG90U2NoZWR1bGUoKS5nZXRQaWNrVXBFbmREYXRlKCkuZ2V0VGltZSgpOwogICAgICAgIGlmIChiaWRkaW5nV2luZG93RW5kID4gY2FsbG9mZlBpY2t1cEVuZERhdGUpIHsKICAgICAgICAgICAgYmlkZGluZ0R1cmF0aW9uSW5NaW51dGVzID0gKGNhbGxvZmZQaWNrdXBFbmREYXRlIC0gbm93KSAvIE1TRUNfSU5fTUlOVVRFOwogICAgICAgIH0KICAgICAgICByZXR1cm4gYmlkZGluZ0R1cmF0aW9uSW5NaW51dGVzOwogICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsb25nIG5vd01pbGxpcyA9IG5vdy5hdFpvbmUoWm9uZUlkLnN5c3RlbURlZmF1bHQoKSkudG9FcG9jaFNlY29uZCgpICogMTAwMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGJpZGRpbmdFbmQgPSBub3cucGx1cyg2LCBDaHJvbm9Vbml0LkhPVVJTKS5hdFpvbmUoWm9uZUlkLnN5c3RlbURlZmF1bHQoKSkudG9FcG9jaFNlY29uZCgpICogMTAwMDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
