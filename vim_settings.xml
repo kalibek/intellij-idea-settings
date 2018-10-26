@@ -14,13 +14,6 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker/postgres/initdb/001_restore.sh" timestamp="1540454787835">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="17" column="8" />
-        <mark key="^" line="14" column="43" />
-        <mark key="." line="14" column="43" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1540528021537">
         <mark key="[" line="620" column="11" />
         <mark key="]" line="620" column="51" />
@@ -67,9 +60,6 @@
         <mark key="^" line="181" column="107" />
         <mark key="." line="181" column="107" />
       </file>
-      <file name="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/time/LocalTime.java" timestamp="1540471594449">
-        <mark key="'" line="647" column="16" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/BiddingDurationCalculator.java" timestamp="1540525860778">
         <mark key="[" line="6" column="58" />
         <mark key="]" line="6" column="59" />
@@ -87,13 +77,6 @@
         <mark key="]" line="442" column="99" />
         <mark key="." line="442" column="99" />
         <mark key="^" line="442" column="99" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1540468036919">
-        <mark key="'" line="215" column="39" />
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="0" />
-        <mark key="." line="227" column="0" />
-        <mark key="^" line="227" column="55" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/presenter/calloff/edit/info/TransportationDatesExtractor.java" timestamp="1540532312360">
         <mark key="[" line="49" column="82" />
@@ -118,9 +101,6 @@
         <mark key="." line="33" column="47" />
         <mark key="^" line="33" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1540354122655">
-        <mark key="'" line="99" column="43" />
-      </file>
       <file name="/app/ee324cc1-6048-431e-9b02-e25428b4d132/database/tfx_data/schema/tfx_data/routine/clean_searches__searches_full_clean@().sql" timestamp="1540447079252">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="50" />
@@ -138,16 +118,8 @@
         <mark key="." line="17" column="41" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/audience/CalloffAudienceView.java" timestamp="1540533876897">
-        <mark key="[" line="311" column="0" />
-        <mark key="]" line="312" column="56" />
+        <mark key="]" line="98" column="56" />
         <mark key="." line="313" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBean.java" timestamp="1540537646661">
-        <mark key="'" line="153" column="0" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="^" line="151" column="38" />
-        <mark key="." line="135" column="0" />
       </file>
       <file name="/app/ee324cc1-6048-431e-9b02-e25428b4d132/database/tfx_data/schema/tfx_data/routine/clean_searches__searches_results_clean@().sql" timestamp="1540447109040">
         <mark key="[" line="0" column="16" />
