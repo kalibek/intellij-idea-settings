@@ -95,7 +95,6 @@
         <mark key="." line="227" column="0" />
         <mark key="^" line="227" column="55" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1540531085532" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/presenter/calloff/edit/info/TransportationDatesExtractor.java" timestamp="1540532312360">
         <mark key="[" line="49" column="82" />
         <mark key="]" line="49" column="90" />
@@ -107,6 +106,11 @@
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1540545449054">
+        <mark key="'" line="430" column="42" />
+        <mark key="[" line="450" column="60" />
+        <mark key="]" line="450" column="75" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBeanTestSuite.java" timestamp="1540470933015">
         <mark key="[" line="33" column="48" />
@@ -172,8 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="90" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
-      <jump line="118" column="28" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_demo.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_dev.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_prod.properties" />
@@ -272,13 +274,15 @@
       <jump line="647" column="16" filename="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/time/LocalTime.java" />
       <jump line="63" column="3" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBean.java" />
       <jump line="162" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBean.java" />
+      <jump line="195" column="51" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
+      <jump line="430" column="42" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SPOT_IN_HOSTNAME</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -349,10 +353,10 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>\cunix</text>
+        <text>In</text>
       </register>
       <register name="0" type="4">
-        <text>calloff.pickUpLocation</text>
+        <text>SPOT_IN_HOSTNAME</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -390,9 +394,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\cunix</last-search>
+      <last-search>In</last-search>
       <last-offset />
-      <last-pattern>\cunix</last-pattern>
+      <last-pattern>In</last-pattern>
       <last-replace>spotbidding</last-replace>
       <last-substitute>fx</last-substitute>
       <last-dir>1</last-dir>
@@ -400,9 +404,6 @@
     </search>
     <history>
       <history-search>
-        <entry>upli</entry>
-        <entry>e.get</entry>
-        <entry>create</entry>
         <entry>mbs</entry>
         <entry>com</entry>
         <entry>\cexter</entry>
@@ -420,6 +421,9 @@
         <entry>fx</entry>
         <entry>UnixTim</entry>
         <entry>\cunix</entry>
+        <entry>Spotbidding</entry>
+        <entry>Spotbi</entry>
+        <entry>In</entry>
       </history-search>
       <history-cmd>
         <entry>%s/calloffId/userId/g</entry>
