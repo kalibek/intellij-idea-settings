@@ -29,6 +29,12 @@
       <file name="/a.dummy" timestamp="1540471100007">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/java/com/wktransportservices/spotbidding/web/server/security/filters/UserAuthorizationTokenVerificationFilter.java" timestamp="1540377144897">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="57" column="24" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fx/docker/postgres/initdb/init.sh" timestamp="1540452373364">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="7" column="68" />
@@ -41,64 +47,23 @@
         <mark key="^" line="81" column="71" />
         <mark key="." line="81" column="72" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/BiddingDurationCalculatorTestSuite.java" timestamp="1540525872110">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="30" column="69" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1540354195757">
         <mark key="[" line="3" column="57" />
         <mark key="]" line="3" column="58" />
         <mark key="." line="3" column="58" />
         <mark key="^" line="3" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-domain/src/main/java/com/wktransportservices/fx/domain/dao/impl/social/UserDAO.java" timestamp="1540445667752" />
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/validation/DatesValidator.java" timestamp="1540528042175" />
-      <file name="/app/ee324cc1-6048-431e-9b02-e25428b4d132/database/tfx_data/schema/tfx_data/routine/clean_searches__searches_full_clean@().sql" timestamp="1540447079252">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="50" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1540291568583">
-        <mark key="[" line="3" column="56" />
-        <mark key="]" line="3" column="57" />
-        <mark key="." line="3" column="57" />
-        <mark key="^" line="3" column="54" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/audience/CalloffAudienceView.java" timestamp="1540529630997">
-        <mark key="[" line="312" column="81" />
-        <mark key="]" line="312" column="93" />
-        <mark key="." line="312" column="93" />
-        <mark key="^" line="312" column="93" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/resources/security/security-common.xml" timestamp="1540374172338">
-        <mark key="[" line="56" column="41" />
-        <mark key="]" line="56" column="41" />
-        <mark key="." line="56" column="41" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBean.java" timestamp="1540530091182">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-security/src/main/java/com/wktransportservices/fx/web/security/profiles/SamlAuthenticationSuccessHandler.java" timestamp="1540445624953" />
-      <file name="$USER_HOME$/projects/fx/docker/postgres/initdb/restore.sh" timestamp="1540453348668">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="15" />
-        <mark key="^" line="13" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" timestamp="1540359304766">
-        <mark key="[" line="135" column="29" />
-        <mark key="]" line="135" column="30" />
-        <mark key="." line="135" column="30" />
-        <mark key="^" line="135" column="30" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/java/com/wktransportservices/spotbidding/web/server/security/filters/UserAuthorizationTokenVerificationFilter.java" timestamp="1540377144897">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="57" column="24" />
-        <mark key="." line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/BiddingDurationCalculatorTestSuite.java" timestamp="1540525872110">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="30" column="69" />
-        <mark key="." line="35" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88fc6f71-7d81-4320-89b9-01188dd72c1d/console.sql" timestamp="1540531062968">
+        <mark key="[" line="181" column="101" />
+        <mark key="]" line="181" column="107" />
+        <mark key="^" line="181" column="107" />
+        <mark key="." line="181" column="107" />
       </file>
       <file name="$USER_HOME$/.sdkman/candidates/java/8.0.181-oracle/src.zip!/java/time/LocalTime.java" timestamp="1540471594449">
         <mark key="'" line="647" column="16" />
@@ -131,6 +96,7 @@
         <mark key="." line="227" column="0" />
         <mark key="^" line="227" column="55" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1540531085532" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/presenter/calloff/edit/info/TransportationDatesExtractor.java" timestamp="1540529407345">
         <mark key="[" line="49" column="82" />
         <mark key="]" line="49" column="90" />
@@ -163,6 +129,16 @@
       <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1540354122655">
         <mark key="'" line="99" column="43" />
       </file>
+      <file name="/app/ee324cc1-6048-431e-9b02-e25428b4d132/database/tfx_data/schema/tfx_data/routine/clean_searches__searches_full_clean@().sql" timestamp="1540447079252">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1540291568583">
+        <mark key="[" line="3" column="56" />
+        <mark key="]" line="3" column="57" />
+        <mark key="." line="3" column="57" />
+        <mark key="^" line="3" column="54" />
+      </file>
       <file name="/tfx_data.tfx_data.searches_locations [tfx_data@localhost]" timestamp="1540447364815">
         <mark key="[" line="0" column="0" />
       </file>
@@ -171,13 +147,40 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-business-social/fx-business-social-ejb/src/main/java/com/wktransportservices/fx/business/manager/social/UserManager.java" timestamp="1540445652615" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/audience/CalloffAudienceView.java" timestamp="1540529630997">
+        <mark key="[" line="312" column="81" />
+        <mark key="]" line="312" column="93" />
+        <mark key="." line="312" column="93" />
+        <mark key="^" line="312" column="93" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-security/src/main/resources/security/security-common.xml" timestamp="1540374172338">
+        <mark key="[" line="56" column="41" />
+        <mark key="]" line="56" column="41" />
+        <mark key="." line="56" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBean.java" timestamp="1540530091182">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="/app/ee324cc1-6048-431e-9b02-e25428b4d132/database/tfx_data/schema/tfx_data/routine/clean_searches__searches_results_clean@().sql" timestamp="1540447109040">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="55" />
       </file>
+      <file name="$USER_HOME$/projects/fx/docker/postgres/initdb/restore.sh" timestamp="1540453348668">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+      </file>
       <file name="/fragment.java" timestamp="1540471208195">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/fx-properties/src/main/resources/environment_aws_demo.properties" timestamp="1540359304766">
+        <mark key="[" line="135" column="29" />
+        <mark key="]" line="135" column="30" />
+        <mark key="." line="135" column="30" />
+        <mark key="^" line="135" column="30" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/audience/SelectedCompaniesView.java" timestamp="1540529130811">
         <mark key="[" line="122" column="28" />
@@ -291,8 +294,8 @@
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBab25lZERhdGVUaW1lIHpkdCA9IFpvbmVkRGF0ZVRpbWUuZnJvbShwaWNrVXBFbmREYXRlLnRvSW5zdGFudCgpLCApCg==</text>
+      <register name="&quot;" type="4">
+        <text>%</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -360,7 +363,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>Start</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text>\cunix</text>
