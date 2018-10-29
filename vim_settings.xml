@@ -9,10 +9,11 @@
         <mark key="." line="32" column="9" />
         <mark key="^" line="32" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/holder/TransportationDatesHolder.java" timestamp="1540529546303">
-        <mark key="]" line="7" column="23" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="23" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/holder/TransportationDatesHolder.java" timestamp="1540816487340">
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="20" column="19" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="20" column="19" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/properties/SpotBiddingProperties.java" timestamp="1540528021537">
         <mark key="[" line="620" column="11" />
@@ -48,6 +49,12 @@
         <mark key="^" line="30" column="69" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/test/java/com/wktransportservices/spotbidding/dto/validation/validators/CalloffGroupDateRangeValidatorTestSuite.java" timestamp="1540817142197">
+        <mark key="[" line="119" column="37" />
+        <mark key="]" line="119" column="38" />
+        <mark key="." line="119" column="38" />
+        <mark key="^" line="119" column="38" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/docker-compose.yml" timestamp="1540354195757">
         <mark key="[" line="3" column="57" />
         <mark key="]" line="3" column="58" />
@@ -81,17 +88,17 @@
         <mark key="." line="73" column="45" />
         <mark key="^" line="73" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CalloffEditInfoView.java" timestamp="1540529468085">
-        <mark key="[" line="442" column="93" />
-        <mark key="]" line="442" column="99" />
-        <mark key="." line="442" column="99" />
-        <mark key="^" line="442" column="99" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CalloffEditInfoView.java" timestamp="1540816708180">
+        <mark key="[" line="437" column="30" />
+        <mark key="]" line="437" column="29" />
+        <mark key="^" line="437" column="29" />
+        <mark key="." line="437" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/presenter/calloff/edit/info/TransportationDatesExtractor.java" timestamp="1540532312360">
-        <mark key="[" line="49" column="82" />
-        <mark key="]" line="49" column="90" />
-        <mark key="." line="49" column="90" />
-        <mark key="^" line="49" column="90" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/presenter/calloff/edit/info/TransportationDatesExtractor.java" timestamp="1540816605080">
+        <mark key="[" line="49" column="80" />
+        <mark key="]" line="49" column="88" />
+        <mark key="." line="49" column="88" />
+        <mark key="^" line="49" column="88" />
       </file>
       <file name="/Dummy.txt" timestamp="1540789735637">
         <mark key="[" line="0" column="0" />
@@ -104,7 +111,12 @@
         <mark key="[" line="450" column="60" />
         <mark key="]" line="450" column="75" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/validation/validators/CalloffGroupDateRangeValidator.java" timestamp="1540800047989" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/validation/validators/CalloffGroupDateRangeValidator.java" timestamp="1540817023642">
+        <mark key="[" line="30" column="40" />
+        <mark key="]" line="30" column="40" />
+        <mark key="." line="30" column="40" />
+        <mark key="^" line="29" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBeanTestSuite.java" timestamp="1540470933015">
         <mark key="[" line="33" column="48" />
         <mark key="]" line="33" column="47" />
@@ -121,15 +133,24 @@
         <mark key="." line="3" column="57" />
         <mark key="^" line="3" column="54" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/GroupDTO.java" timestamp="1540816782919">
+        <mark key="'" line="19" column="11" />
+        <mark key="[" line="44" column="5" />
+        <mark key="]" line="46" column="42" />
+        <mark key="^" line="46" column="42" />
+        <mark key="." line="46" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" timestamp="1540546492114">
         <mark key="[" line="17" column="41" />
         <mark key="]" line="17" column="49" />
         <mark key="^" line="12" column="52" />
         <mark key="." line="17" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/audience/CalloffAudienceView.java" timestamp="1540533876897">
-        <mark key="]" line="98" column="56" />
-        <mark key="." line="313" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/audience/CalloffAudienceView.java" timestamp="1540816837705">
+        <mark key="[" line="367" column="0" />
+        <mark key="]" line="367" column="64" />
+        <mark key="." line="367" column="61" />
+        <mark key="^" line="367" column="61" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBean.java" timestamp="1540800274850">
         <mark key="[" line="147" column="4" />
@@ -161,14 +182,13 @@
         <mark key="." line="135" column="30" />
         <mark key="^" line="135" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/audience/SelectedCompaniesView.java" timestamp="1540533888951">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/audience/SelectedCompaniesView.java" timestamp="1540816839666">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="64" />
+        <mark key="." line="132" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_demo.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_dev.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_prod.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_qa.properties" />
@@ -268,13 +288,14 @@
       <jump line="162" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBean.java" />
       <jump line="195" column="51" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="430" column="42" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
+      <jump line="19" column="11" filename="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/GroupDTO.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>20</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -342,43 +363,41 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>20</text>
       </register>
       <register name="/" type="4">
         <text>In</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldC5zZXRUb0RhdGUoc291cmNlLmdldFRvRGF0ZSgpKTsK</text>
+      <register name="0" type="4">
+        <text>private static Date prepareTransportationFromDate() {
+        return new DateTime(2015, 3, 20, 0, 0, 0).toDate();
+    }</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBEYXRlIHRyYW5zcG9ydGF0aW9uRnJvbURhdGUgPSB0cmFuc3BvcnRhdGlvbkRhdGVzSG9sZGVyLmdldFN0YXJ0KCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdHJhbnNwb3J0YXRpb25TdGFydFRpbWVab25lT2Zmc2V0ID0gdHJhbnNwb3J0YXRpb25EYXRlc0V4dHJhY3Rvci5leHRyYWN0U3RhcnRUaW1lWm9uZU9mZnNldFJGQ0Zyb20oY2FsbG9mZik7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRGF0ZSB0cmFuc3BvcnRhdGlvbkZyb21EYXRlID0gdmFsdWUuZ2V0VHJhbnNwb3J0YXRpb25Gcm9tRGF0ZSgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBlbmRzQmVmb3JlVHJhbnNwb3J0YXRpb24gPSBncm91cFRvRGF0ZS5iZWZvcmUodHJhbnNwb3J0YXRpb25Gcm9tRGF0ZSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBzdGFydHNCZWZvcmVUcmFuc3BvcnRhdGlvbiA9IGdyb3VwVG9EYXRlLmJlZm9yZSh0cmFuc3BvcnRhdGlvbkZyb21EYXRlKTsK</text>
+      </register>
+      <register name="6" type="4">
         <text>else {
             
         }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>if (defaultEndDate.isBefore(pickupStartDate)) {
-            endDate = defaultEndDate;
-        } else {
-            endDate = pickupStartDate;
-        }</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIGRlZmF1bHRFbmREYXRlIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsb2ZmLnBpY2tVcExvY2F0aW9uLnRpbWVab25lLnRpbWVab25lID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
