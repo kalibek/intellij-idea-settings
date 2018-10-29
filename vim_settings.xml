@@ -60,6 +60,12 @@
         <mark key="^" line="181" column="107" />
         <mark key="." line="181" column="107" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/CalloffGroupConverter.java" timestamp="1540801087950">
+        <mark key="[" line="229" column="20" />
+        <mark key="]" line="229" column="20" />
+        <mark key="." line="229" column="20" />
+        <mark key="^" line="229" column="20" />
+      </file>
       <file name="/Dummy.groovy" timestamp="1540789727408">
         <mark key="[" line="0" column="0" />
       </file>
@@ -98,6 +104,7 @@
         <mark key="[" line="450" column="60" />
         <mark key="]" line="450" column="75" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/validation/validators/CalloffGroupDateRangeValidator.java" timestamp="1540800047989" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBeanTestSuite.java" timestamp="1540470933015">
         <mark key="[" line="33" column="48" />
         <mark key="]" line="33" column="47" />
@@ -123,6 +130,10 @@
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/audience/CalloffAudienceView.java" timestamp="1540533876897">
         <mark key="]" line="98" column="56" />
         <mark key="." line="313" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBean.java" timestamp="1540800274850">
+        <mark key="[" line="147" column="4" />
+        <mark key="]" line="152" column="4" />
       </file>
       <file name="/app/ee324cc1-6048-431e-9b02-e25428b4d132/database/tfx_data/schema/tfx_data/routine/clean_searches__searches_results_clean@().sql" timestamp="1540447109040">
         <mark key="[" line="0" column="16" />
@@ -263,7 +274,7 @@
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>'</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -331,44 +342,46 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>In</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ID0gdHJ1ZTs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldC5zZXRUb0RhdGUoc291cmNlLmdldFRvRGF0ZSgpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>else {
+            
+        }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>if (defaultEndDate.isBefore(pickupStartDate)) {
             endDate = defaultEndDate;
         } else {
             endDate = pickupStartDate;
         }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIGRlZmF1bHRFbmREYXRlIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjYWxsb2ZmLnBpY2tVcExvY2F0aW9uLnRpbWVab25lLnRpbWVab25lID0gCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">Q2FsbG9mZkVkaXRWYWxpZGF0aW9uU2Nyb2xsLnJlc2V0KCk7CiAgICAgICAgYm9vbGVhbiBhdWRpZW5jZVZhbGlkID0gZmFsc2U7CiAgICAgICAgYm9vbGVhbiBncm91cHNWYWxpZCA9IGdyb3Vwcy52YWxpZGF0ZSh0cmFuc3BvcnRhdGlvbkRhdGVzSG9sZGVyLmdldFN0YXJ0KCkpOwogICAgICAgIGlmIChncm91cHNWYWxpZCkgewogICAgICAgICAgICBhdWRpZW5jZVZhbGlkID0gYXVkaWVuY2VWYWxpZGF0b3IudmFsaWRhdGUoZ3JvdXBzKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGF1ZGllbmNlVmFsaWQgJiYgZ3JvdXBzVmFsaWQ7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
