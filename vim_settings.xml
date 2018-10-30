@@ -127,11 +127,12 @@
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1540291568583">
-        <mark key="[" line="3" column="56" />
-        <mark key="]" line="3" column="57" />
-        <mark key="." line="3" column="57" />
+      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1540888006072">
+        <mark key="'" line="15" column="26" />
+        <mark key="[" line="14" column="66" />
+        <mark key="]" line="14" column="67" />
         <mark key="^" line="3" column="54" />
+        <mark key="." line="14" column="67" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/GroupDTO.java" timestamp="1540816782919">
         <mark key="'" line="19" column="11" />
@@ -189,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_dev.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_prod.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_qa.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_sprint.properties" />
@@ -289,13 +289,14 @@
       <jump line="195" column="51" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="430" column="42" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="19" column="11" filename="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/GroupDTO.java" />
+      <jump line="15" column="26" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>20</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -374,33 +375,33 @@
     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlIHRyYW5zcG9ydGF0aW9uRnJvbURhdGUgPSB0cmFuc3BvcnRhdGlvbkRhdGVzSG9sZGVyLmdldFN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdHJhbnNwb3J0YXRpb25TdGFydFRpbWVab25lT2Zmc2V0ID0gdHJhbnNwb3J0YXRpb25EYXRlc0V4dHJhY3Rvci5leHRyYWN0U3RhcnRUaW1lWm9uZU9mZnNldFJGQ0Zyb20oY2FsbG9mZik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAiNjE2MTY6NjE2MTciCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0ZSB0cmFuc3BvcnRhdGlvbkZyb21EYXRlID0gdmFsdWUuZ2V0VHJhbnNwb3J0YXRpb25Gcm9tRGF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBEYXRlIHRyYW5zcG9ydGF0aW9uRnJvbURhdGUgPSB0cmFuc3BvcnRhdGlvbkRhdGVzSG9sZGVyLmdldFN0YXJ0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBlbmRzQmVmb3JlVHJhbnNwb3J0YXRpb24gPSBncm91cFRvRGF0ZS5iZWZvcmUodHJhbnNwb3J0YXRpb25Gcm9tRGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdHJhbnNwb3J0YXRpb25TdGFydFRpbWVab25lT2Zmc2V0ID0gdHJhbnNwb3J0YXRpb25EYXRlc0V4dHJhY3Rvci5leHRyYWN0U3RhcnRUaW1lWm9uZU9mZnNldFJGQ0Zyb20oY2FsbG9mZik7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRGF0ZSB0cmFuc3BvcnRhdGlvbkZyb21EYXRlID0gdmFsdWUuZ2V0VHJhbnNwb3J0YXRpb25Gcm9tRGF0ZSgpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBlbmRzQmVmb3JlVHJhbnNwb3J0YXRpb24gPSBncm91cFRvRGF0ZS5iZWZvcmUodHJhbnNwb3J0YXRpb25Gcm9tRGF0ZSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBzdGFydHNCZWZvcmVUcmFuc3BvcnRhdGlvbiA9IGdyb3VwVG9EYXRlLmJlZm9yZSh0cmFuc3BvcnRhdGlvbkZyb21EYXRlKTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>else {
             
         }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
