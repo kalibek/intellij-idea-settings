@@ -127,12 +127,12 @@
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1540891273672">
-        <mark key="'" line="15" column="26" />
-        <mark key="[" line="14" column="66" />
-        <mark key="]" line="14" column="67" />
-        <mark key="^" line="3" column="54" />
-        <mark key="." line="14" column="67" />
+      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1540892044909">
+        <mark key="'" line="46" column="4" />
+        <mark key="[" line="50" column="9" />
+        <mark key="]" line="50" column="9" />
+        <mark key="^" line="29" column="19" />
+        <mark key="." line="50" column="9" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/GroupDTO.java" timestamp="1540816782919">
         <mark key="'" line="19" column="11" />
@@ -190,11 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_prod.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_qa.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_sprint.properties" />
-      <jump line="16" column="67" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_stage.properties" />
-      <jump line="4" column="16" filename="$USER_HOME$/projects/spotbidding/pom.xml" />
       <jump line="18" column="30" filename="$USER_HOME$/projects/fx/pom.xml" />
       <jump line="351" column="45" filename="$USER_HOME$/projects/fx/pom.xml" />
       <jump line="416" column="56" filename="$USER_HOME$/projects/fx/pom.xml" />
@@ -290,13 +285,18 @@
       <jump line="430" column="42" filename="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" />
       <jump line="19" column="11" filename="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/GroupDTO.java" />
       <jump line="15" column="26" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
+      <jump line="46" column="15" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
+      <jump line="14" column="57" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
+      <jump line="28" column="14" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
+      <jump line="45" column="4" filename="$USER_HOME$/projects/fx/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -364,15 +364,13 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>20</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>In</text>
+        <text>amq</text>
       </register>
-      <register name="0" type="4">
-        <text>private static Date prepareTransportationFromDate() {
-        return new DateTime(2015, 3, 20, 0, 0, 0).toDate();
-    }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLSBhbXEK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -404,13 +402,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>In</last-search>
+      <last-search>amq</last-search>
       <last-offset />
-      <last-pattern>In</last-pattern>
+      <last-pattern>amq</last-pattern>
       <last-replace>spotbidding</last-replace>
       <last-substitute>fx</last-substitute>
       <last-dir>1</last-dir>
@@ -418,8 +416,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mbs</entry>
-        <entry>com</entry>
         <entry>\cexter</entry>
         <entry>Sta</entry>
         <entry>logging</entry>
@@ -438,9 +434,10 @@
         <entry>Spotbidding</entry>
         <entry>Spotbi</entry>
         <entry>In</entry>
+        <entry>amqfo</entry>
+        <entry>amq</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/calloffId/userId/g</entry>
         <entry>%s/Calloff/User/g</entry>
         <entry encoding="base64">JzwsJz5zL0NhbGxvZmZNYWlsVGVtcGxhdGVFbnRpdHkvVXNlck1haWxUZW1wbGF0ZUVudGl0eS9n</entry>
         <entry encoding="base64">JzwsJz5zL0NhbGxvZmZNYWlsVGVtcGxhdGVFbnRpdHkvVXNlckVtYWlsVGVtcGxhdGVFbnRpdHkvZw==</entry>
@@ -460,6 +457,7 @@
         <entry>%s/&quot;&quot;,&quot;/',/g</entry>
         <entry>%s/fx/spotbidding/g</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
