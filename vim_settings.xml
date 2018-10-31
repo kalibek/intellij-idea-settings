@@ -16,7 +16,10 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/launched/quotes/LaunchedCalloffBiddingScheduleView.java" timestamp="1540972598939" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/launched/quotes/LaunchedCalloffBiddingScheduleView.java" timestamp="1540982712815" />
+      <file name="/fragment.js" timestamp="1540982976447">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1540532852109">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -35,7 +38,7 @@
         <mark key="." line="7" column="68" />
         <mark key="^" line="5" column="66" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1540979418631">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1540982363378">
         <mark key="[" line="83" column="29" />
         <mark key="]" line="83" column="29" />
         <mark key="^" line="83" column="29" />
@@ -65,7 +68,7 @@
         <mark key="^" line="181" column="107" />
         <mark key="." line="181" column="107" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/CalloffGroupConverter.java" timestamp="1540972975871">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/CalloffGroupConverter.java" timestamp="1540982519663">
         <mark key="[" line="229" column="20" />
         <mark key="]" line="229" column="20" />
         <mark key="." line="229" column="20" />
@@ -86,7 +89,7 @@
         <mark key="." line="73" column="45" />
         <mark key="^" line="73" column="45" />
       </file>
-      <file name="/JavaScript Console" timestamp="1540972498879">
+      <file name="/JavaScript Console" timestamp="1540982626884">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CalloffEditInfoView.java" timestamp="1540816708180">
@@ -109,16 +112,12 @@
         <mark key="^" line="49" column="88" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/CalloffCreateServiceBean.java" timestamp="1540972872707" />
-      <file name="/Dummy.txt" timestamp="1540789735637">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/widgets/Group.java" timestamp="1540982686449" />
+      <file name="/Dummy.txt" timestamp="1540983190339">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1540899334283">
-        <mark key="'" line="474" column="43" />
-        <mark key="[" line="450" column="60" />
-        <mark key="]" line="450" column="75" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-dto/src/main/java/com/wktransportservices/spotbidding/dto/validation/validators/CalloffGroupDateRangeValidator.java" timestamp="1540963089138">
         <mark key="[" line="29" column="66" />
@@ -132,20 +131,10 @@
         <mark key="." line="33" column="47" />
         <mark key="^" line="33" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/standalone.xml" timestamp="1540899117101">
-        <mark key="'" line="511" column="43" />
-        <mark key="[" line="480" column="43" />
-        <mark key="]" line="480" column="51" />
-      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/widgets/TelerouteGroup.java" timestamp="1540982749911" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/widgets/GroupsWidget.java" timestamp="1540982983004" />
       <file name="$USER_HOME$/projects/fx/fx-bi/fx-bi-ejb/src/main/java/com/wktransportservices/fx/bi/manager/statistics/StatisticsManager.java" timestamp="1540960127508" />
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/widgets/GroupsWidgetModel.java" timestamp="1540972736900" />
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1540893493356">
-        <mark key="'" line="46" column="4" />
-        <mark key="[" line="50" column="9" />
-        <mark key="]" line="50" column="9" />
-        <mark key="^" line="29" column="19" />
-        <mark key="." line="50" column="9" />
-      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/widgets/GroupsWidgetModel.java" timestamp="1540982744079" />
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" timestamp="1540546492114">
         <mark key="[" line="17" column="41" />
         <mark key="]" line="17" column="49" />
@@ -181,11 +170,6 @@
         <mark key="]" line="135" column="30" />
         <mark key="." line="135" column="30" />
         <mark key="^" line="135" column="30" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/audience/SelectedCompaniesView.java" timestamp="1540816839666">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="64" />
-        <mark key="." line="132" column="0" />
       </file>
     </filemarks>
     <jumps>
