@@ -37,7 +37,7 @@
         <mark key="." line="7" column="68" />
         <mark key="^" line="5" column="66" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1540960552544">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f09aa4c1-1f0f-4b74-b498-fa39201cff43/console.sql" timestamp="1540960602911">
         <mark key="[" line="83" column="29" />
         <mark key="]" line="83" column="29" />
         <mark key="^" line="83" column="29" />
@@ -97,7 +97,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1540960467513">
         <mark key="[" line="225" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/enums/statistics/Job.java" timestamp="1540960430446" />
+      <file name="$USER_HOME$/projects/fx/fx-core/src/main/java/com/wktransportservices/fx/enums/statistics/Job.java" timestamp="1540960585225">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="38" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/presenter/calloff/edit/info/TransportationDatesExtractor.java" timestamp="1540816605080">
         <mark key="[" line="49" column="80" />
         <mark key="]" line="49" column="88" />
@@ -306,7 +309,7 @@
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ServerUrl</text>
+        <text>;</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -374,13 +377,13 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>ServerUrl</text>
       </register>
       <register name="0" type="4">
-        <text>ServerUrl</text>
+        <text>VERIFY_STATISTICS_EXPORT_COMPLETION</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
