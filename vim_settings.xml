@@ -118,12 +118,12 @@
         <mark key="." line="33" column="47" />
         <mark key="^" line="33" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/converters/CalloffCompletionConverterTestSuite.java" timestamp="1541063273675">
-        <mark key="'" line="769" column="73" />
-        <mark key="[" line="255" column="63" />
-        <mark key="]" line="255" column="67" />
-        <mark key="^" line="255" column="67" />
-        <mark key="." line="255" column="67" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/converters/CalloffCompletionConverterTestSuite.java" timestamp="1541074982225">
+        <mark key="'" line="811" column="73" />
+        <mark key="[" line="533" column="36" />
+        <mark key="]" line="533" column="36" />
+        <mark key="^" line="534" column="63" />
+        <mark key="." line="533" column="36" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" timestamp="1540546492114">
         <mark key="[" line="12" column="41" />
@@ -138,18 +138,25 @@
         <mark key="^" line="637" column="87" />
         <mark key="." line="638" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBean.java" timestamp="1541073632472">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/calloff/CalloffEntity.java" timestamp="1541074615609">
+        <mark key="'" line="402" column="8" />
+        <mark key="[" line="707" column="45" />
+        <mark key="]" line="707" column="53" />
+        <mark key="^" line="707" column="53" />
+        <mark key="." line="707" column="53" />
+      </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBean.java" timestamp="1541074484151">
         <mark key="'" line="146" column="0" />
         <mark key="[" line="46" column="36" />
         <mark key="]" line="46" column="61" />
         <mark key="." line="46" column="61" />
         <mark key="^" line="46" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/CalloffCompletionConverter.java" timestamp="1541062732060">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/CalloffCompletionConverter.java" timestamp="1541074574913">
         <mark key="[" line="129" column="48" />
-        <mark key="]" line="129" column="56" />
-        <mark key="." line="129" column="56" />
-        <mark key="^" line="129" column="56" />
+        <mark key="]" line="129" column="53" />
+        <mark key="." line="129" column="53" />
+        <mark key="^" line="129" column="53" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/postgres/initdb/restore.sh" timestamp="1540453348668">
         <mark key="[" line="13" column="11" />
@@ -176,9 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="61" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
-      <jump line="119" column="28" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
-      <jump line="122" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_demo.properties" />
       <jump line="122" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_dev.properties" />
       <jump line="122" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_prod.properties" />
       <jump line="122" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_qa.properties" />
@@ -276,13 +280,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CalloffEditInfoView.ui.xml" />
       <jump line="115" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/converters/CalloffGroupConverterTestSuite.java" />
       <jump line="146" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBean.java" />
+      <jump line="701" column="4" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/calloff/CalloffEntity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/calloff/CalloffEntity.java" />
+      <jump line="402" column="8" filename="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/calloff/CalloffEntity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -350,13 +357,22 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>Start</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="/" type="4">
-        <text>term</text>
+        <text>getEnd</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsb2ZmLm9uZVNob3RTY2hlZHVsZS5waWNrVXBTdGFydERhdGUgPSBnaXZlblBpY2t1cFN0YXJ0RGF0ZQo=</text>
+      <register name="0" type="4">
+        <text>if (!isRecurrenceMode()) {
+            if (oneShotSchedule != null) {
+                return oneShotSchedule.getDeliveryEndDate();
+            }
+        } else {
+            if (recurrenceSchedule != null) {
+                return recurrenceSchedule.getEndDate();
+            }
+        }
+        return null;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -390,9 +406,9 @@
       </register>
     </registers>
     <search>
-      <last-search>term</last-search>
+      <last-search>getEnd</last-search>
       <last-offset />
-      <last-pattern>term</last-pattern>
+      <last-pattern>getEnd</last-pattern>
       <last-replace>spotbidding</last-replace>
       <last-substitute>fx</last-substitute>
       <last-dir>1</last-dir>
@@ -400,7 +416,6 @@
     </search>
     <history>
       <history-search>
-        <entry>server.log&quot;</entry>
         <entry>top</entry>
         <entry>PERFOR</entry>
         <entry>ptv</entry>
@@ -420,6 +435,7 @@
         <entry>ServerUrl</entry>
         <entry>validate</entry>
         <entry>term</entry>
+        <entry>getEnd</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Calloff/User/g</entry>
