@@ -66,6 +66,9 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="227" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CalloffEditInfoView.ui.xml" timestamp="1541069537217">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/Dummy.groovy" timestamp="1540789727408">
         <mark key="[" line="0" column="0" />
       </file>
@@ -133,6 +136,12 @@
         <mark key="^" line="637" column="87" />
         <mark key="." line="638" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBean.java" timestamp="1541069349590">
+        <mark key="[" line="150" column="55" />
+        <mark key="]" line="150" column="55" />
+        <mark key="." line="150" column="55" />
+        <mark key="^" line="150" column="55" />
+      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/CalloffCompletionConverter.java" timestamp="1541062732060">
         <mark key="[" line="129" column="48" />
         <mark key="]" line="129" column="56" />
@@ -164,8 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="43" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
-      <jump line="5" column="46" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
       <jump line="6" column="43" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
       <jump line="21" column="43" filename="$USER_HOME$/projects/fx/fx-app-server/src/main/resources/standalone/configuration/log4j2.xml" />
       <jump line="108" column="61" filename="$USER_HOME$/projects/spotbidding/spotbidding-properties/templates/environment/environment_local.properties" />
@@ -264,13 +271,15 @@
       <jump line="951" column="19" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CalloffEditInfoView.java" />
       <jump line="953" column="80" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CalloffEditInfoView.java" />
       <jump line="1213" column="61" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CalloffEditInfoView.java" />
+      <jump line="178" column="28" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CalloffEditInfoView.ui.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CalloffEditInfoView.ui.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'Ship_Nastiya_88_akjsdflasjdfl kasdhflkajsdfhlkajdshf lkiajsdfkjasdfkj'</text>
+        <text>getOneShotSchedule().getPickUpEndDate();</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -338,10 +347,10 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>'Ship_Nastiya_88_akjsdflasjdfl kasdhflkajsdfhlkajdshf lkiajsdfkjasdfkj'</text>
+        <text>getOneShotSchedule().getPickUpEndDate();</text>
       </register>
       <register name="/" type="4">
-        <text>validate</text>
+        <text>term</text>
       </register>
       <register name="0" type="4">
         <text>oneShotSchedule</text>
@@ -378,9 +387,9 @@
       </register>
     </registers>
     <search>
-      <last-search>validate</last-search>
+      <last-search>term</last-search>
       <last-offset />
-      <last-pattern>validate</last-pattern>
+      <last-pattern>term</last-pattern>
       <last-replace>spotbidding</last-replace>
       <last-substitute>fx</last-substitute>
       <last-dir>1</last-dir>
@@ -388,7 +397,6 @@
     </search>
     <history>
       <history-search>
-        <entry>server.log</entry>
         <entry>server.log&quot;</entry>
         <entry>top</entry>
         <entry>PERFOR</entry>
@@ -408,6 +416,7 @@
         <entry>resource-adapter</entry>
         <entry>ServerUrl</entry>
         <entry>validate</entry>
+        <entry>term</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Calloff/User/g</entry>
