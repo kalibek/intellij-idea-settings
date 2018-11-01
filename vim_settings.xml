@@ -78,11 +78,11 @@
         <mark key="." line="27" column="92" />
         <mark key="^" line="22" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/groovy/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceSpec.groovy" timestamp="1540535213134">
-        <mark key="[" line="73" column="38" />
-        <mark key="]" line="73" column="45" />
-        <mark key="." line="73" column="45" />
-        <mark key="^" line="73" column="45" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/groovy/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceSpec.groovy" timestamp="1541073379104">
+        <mark key="[" line="89" column="22" />
+        <mark key="]" line="89" column="37" />
+        <mark key="^" line="89" column="37" />
+        <mark key="." line="89" column="37" />
       </file>
       <file name="/JavaScript Console" timestamp="1541064357654">
         <mark key="[" line="0" column="0" />
@@ -290,7 +290,7 @@
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>new CalloffEntity()</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -358,13 +358,13 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>new CalloffEntity()</text>
       </register>
       <register name="/" type="4">
         <text>term</text>
       </register>
-      <register name="0" type="4">
-        <text>BiddingDurationCalculator</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjYWxsb2ZmLm9uZVNob3RTY2hlZHVsZS5waWNrVXBTdGFydERhdGUgPSBnaXZlblBpY2t1cFN0YXJ0RGF0ZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC50cnVuY2F0ZWRUbyhDaHJvbm9Vbml0LkRBWVMpLnBsdXNEYXlzKDEpLm1pbnVzTWludXRlcygxKTsK</text>
