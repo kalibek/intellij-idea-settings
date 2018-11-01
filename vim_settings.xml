@@ -81,7 +81,7 @@
         <mark key="." line="73" column="45" />
         <mark key="^" line="73" column="45" />
       </file>
-      <file name="/JavaScript Console" timestamp="1540982626884">
+      <file name="/JavaScript Console" timestamp="1541064357654">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee324cc1-6048-431e-9b02-e25428b4d132/console.sql" timestamp="1540960467513">
@@ -131,11 +131,6 @@
         <mark key="]" line="637" column="87" />
         <mark key="^" line="637" column="87" />
         <mark key="." line="637" column="87" />
-      </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/calloff/CalloffEntity.java" timestamp="1541063120811">
-        <mark key="[" line="403" column="16" />
-        <mark key="]" line="403" column="31" />
-        <mark key="." line="403" column="16" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/CalloffCompletionConverter.java" timestamp="1541062732060">
         <mark key="[" line="129" column="48" />
