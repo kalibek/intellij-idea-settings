@@ -78,11 +78,10 @@
         <mark key="." line="27" column="92" />
         <mark key="^" line="22" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/groovy/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceSpec.groovy" timestamp="1541073379104">
-        <mark key="[" line="89" column="22" />
-        <mark key="]" line="89" column="37" />
-        <mark key="^" line="89" column="37" />
-        <mark key="." line="89" column="37" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/groovy/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceSpec.groovy" timestamp="1541073836270">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1541064357654">
         <mark key="[" line="0" column="0" />
@@ -126,13 +125,6 @@
         <mark key="^" line="255" column="67" />
         <mark key="." line="255" column="67" />
       </file>
-      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1540893493356">
-        <mark key="'" line="46" column="4" />
-        <mark key="[" line="50" column="9" />
-        <mark key="]" line="50" column="9" />
-        <mark key="^" line="29" column="19" />
-        <mark key="." line="50" column="9" />
-      </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" timestamp="1540546492114">
         <mark key="[" line="12" column="41" />
         <mark key="]" line="12" column="49" />
@@ -146,7 +138,7 @@
         <mark key="^" line="637" column="87" />
         <mark key="." line="638" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBean.java" timestamp="1541071363804">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBean.java" timestamp="1541073632472">
         <mark key="'" line="146" column="0" />
         <mark key="[" line="46" column="36" />
         <mark key="]" line="46" column="61" />
@@ -289,8 +281,8 @@
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>new CalloffEntity()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -358,7 +350,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>new CalloffEntity()</text>
+        <text>Start</text>
       </register>
       <register name="/" type="4">
         <text>term</text>
@@ -367,41 +359,31 @@
         <text encoding="base64">ICAgICAgICBjYWxsb2ZmLm9uZVNob3RTY2hlZHVsZS5waWNrVXBTdGFydERhdGUgPSBnaXZlblBpY2t1cFN0YXJ0RGF0ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC50cnVuY2F0ZWRUbyhDaHJvbm9Vbml0LkRBWVMpLnBsdXNEYXlzKDEpLm1pbnVzTWludXRlcygxKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC50cnVuY2F0ZWRUbyhDaHJvbm9Vbml0LkRBWVMpLnBsdXNEYXlzKDEpLm1pbnVzTWludXRlcygxKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBnZXRDYWxsb2ZmUGkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHJpdmF0ZSBsb25nIGdldENhbGxvZmZQaWNrdXBFbmREYXRlKENhbGxvZmZFbnRpdHkgY2FsbG9mZlRvUG9zdCkgewogICAgICAgIERhdGUgcGlja1VwRW5kRGF0ZSA9IGNhbGxvZmZUb1Bvc3QuZ2V0RW5kRGF0ZSgpOwogICAgICAgIFRpbWVab25lRW50aXR5IHRpbWVab25lID0gY2FsbG9mZlRvUG9zdC5nZXRQaWNrVXBMb2NhdGlvbigpLmdldFRpbWVab25lKCk7CiAgICAgICAgWm9uZWREYXRlVGltZSBlbmRPZlRoZURheSA9IFpvbmVkRGF0ZVRpbWUKICAgICAgICAgICAgICAgICAgICAub2ZJbnN0YW50KHBpY2tVcEVuZERhdGUudG9JbnN0YW50KCksIFpvbmVJZC5vZih0aW1lWm9uZS5nZXRUaW1lWm9uZSgpKSkKICAgICAgICAgICAgICAgICAgICAudHJ1bmNhdGVkVG8oQ2hyb25vVW5pdC5EQVlTKS5wbHVzRGF5cygxKS5taW51c01pbnV0ZXMoMSk7CiAgICAgICAgcmV0dXJuIGVuZE9mVGhlRGF5LnRvRXBvY2hTZWNvbmQoKSAqIDEwMDA7CiAgICB9Cgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZGVmICJwb3N0IGRpcmVjdGx5IHRvIHRlbGVyb3V0ZSBzaG91bGQgc2V0IGRlZmF1bHQgZ3JvdXAncyBlbmQgZGF0ZSBhcyBwaWNrdXAgc3RhcnQgZGF0ZSBpZiByZXN1bHRpbmcgb2YgZ3JvdXAgc3RhcnQgZGF0ZSArIGdyb3VwIGR1cmF0aW9uIGVxdWFsIG9yIGxhdHRlciB0aGFuIHBpY2t1cCBzdGFydCBkYXRlIigpIHsKICAgICAgICBnaXZlbjogImEgY2FsbG9mZiB0byBiZSBkaXJlY3RseSBwb3N0ZWQgdG8gdGVsZXJvdXRlIgogICAgICAgIGRlZiBjYWxsb2ZmID0gcHJlcGFyZUNhbGxvZmYoKQogICAgICAgIGNhbGxvZmZEYW8uZ2V0KGNhbGxvZmZJZCkgPj4gY2FsbG9mZgogICAgICAgIGRlZiBnaXZlblBpY2t1cEVuZERhdGUgPSBuZXcgRGF0ZSgpCiAgICAgICAgY2FsbG9mZi5vbmVTaG90U2NoZWR1bGUucGlja1VwRW5kRGF0ZSA9IGdpdmVuUGlja3VwRW5kRGF0ZQoKICAgICAgICB3aGVuOiAicG9zdCBkaXJlY3RseSB0byB0ZWxlcm91dGUgaXMgY2FsbGVkIgogICAgICAgIGRpcmVjdFBvc3RpbmdTZXJ2aWNlLnBvc3REaXJlY3RseVRvVGVsZXJvdXRlKGluZm8sIG93bmVyVXNlcklkKQoKICAgICAgICB0aGVuOiAidGVsZXJvdXRlIGdyb3VwIGlzIGFkZGVkIHRvIGNhbGxvZmYiCiAgICAgICAgZGVmIGFkZGVkVGVsZXJvdXRlR3JvdXAgPSArK2NhbGxvZmYuZ2V0QXVkaWVuY2UoKS5pdGVyYXRvcigpCgogICAgICAgIGFuZDogImdyb3VwIHRvIGRhdGUgc2hvdWxkIGJlIGVxdWFsIHRvIHBpY2t1cCBmcm9tIGRhdGUiCiAgICAgICAgYXNzZXJ0VGhhdChhZGRlZFRlbGVyb3V0ZUdyb3VwLnRvRGF0ZSwgd2l0aGluKDEsIFRpbWVVbml0LlNFQ09ORFMsIGdpdmVuUGlja3VwRW5kRGF0ZSkpCiAgICB9</text>
       </register>
-      <register name="8" type="4">
-        <text>private long getCalloffPickupEndDate(CalloffEntity calloffToPost) {
-        Date pickUpEndDate = calloffToPost.getOneShotSchedule().getPickUpEndDate();
-        if (pickUpEndDate != null) {
-            TimeZoneEntity timeZone = calloffToPost.getPickUpLocation().getTimeZone();
-            ZonedDateTime endOfTheDay = ZonedDateTime
-                    .ofInstant(pickUpEndDate.toInstant(), ZoneId.of(timeZone.getTimeZone()))
-                    .truncatedTo(ChronoUnit.DAYS).plusDays(1).minusMinutes(1);
-            return endOfTheDay.toEpochSecond() * 1000;
-        }
-        return 0L;
-    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC50cnVuY2F0ZWRUbyhDaHJvbm9Vbml0LkRBWVMpLnBsdXNEYXlzKDEpLm1pbnVzTWludXRlcygxKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC50cnVuY2F0ZWRUbyhDaHJvbm9Vbml0LkRBWVMpLnBsdXNEYXlzKDEpLm1pbnVzTWludXRlcygxKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBnZXRDYWxsb2ZmUGkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGVuZE9mVGhlRGF5LnRvRXBvY2hTZWNvbmQoKSAqIDEwMDA7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
