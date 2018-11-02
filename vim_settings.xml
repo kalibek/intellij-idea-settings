@@ -83,7 +83,7 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1541064357654">
+      <file name="/JavaScript Console" timestamp="1541130678872">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/common/view/calloff/edit/info/CalloffEditInfoView.java" timestamp="1541066496439">
@@ -118,12 +118,19 @@
         <mark key="." line="33" column="47" />
         <mark key="^" line="33" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/converters/CalloffCompletionConverterTestSuite.java" timestamp="1541128531958">
-        <mark key="'" line="790" column="73" />
-        <mark key="[" line="266" column="33" />
-        <mark key="]" line="266" column="40" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/converters/CalloffCompletionConverterTestSuite.java" timestamp="1541131724136">
+        <mark key="'" line="769" column="73" />
+        <mark key="[" line="453" column="0" />
+        <mark key="]" line="453" column="0" />
         <mark key="^" line="266" column="40" />
-        <mark key="." line="266" column="40" />
+        <mark key="." line="453" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fx/docker-compose.yml" timestamp="1540893493356">
+        <mark key="'" line="46" column="4" />
+        <mark key="[" line="50" column="9" />
+        <mark key="]" line="50" column="9" />
+        <mark key="^" line="29" column="19" />
+        <mark key="." line="50" column="9" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" timestamp="1540546492114">
         <mark key="[" line="12" column="41" />
@@ -131,6 +138,7 @@
         <mark key="^" line="12" column="52" />
         <mark key="." line="12" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/audience/CalloffAudienceView.java" timestamp="1541130831832" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7a4de91-a304-4b51-8d11-0284f7badb35/console.sql" timestamp="1541067044489">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="638" column="21" />
@@ -152,11 +160,11 @@
         <mark key="." line="46" column="61" />
         <mark key="^" line="46" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/CalloffCompletionConverter.java" timestamp="1541074574913">
-        <mark key="[" line="129" column="48" />
-        <mark key="]" line="129" column="53" />
-        <mark key="." line="129" column="53" />
-        <mark key="^" line="129" column="53" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/converters/CalloffCompletionConverter.java" timestamp="1541131406837">
+        <mark key="[" line="130" column="58" />
+        <mark key="]" line="130" column="58" />
+        <mark key="^" line="37" column="14" />
+        <mark key="." line="130" column="58" />
       </file>
       <file name="$USER_HOME$/projects/fx/docker/postgres/initdb/restore.sh" timestamp="1540453348668">
         <mark key="[" line="13" column="11" />
@@ -164,7 +172,7 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1541062715676">
+      <file name="/fragment.java" timestamp="1541130802497">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -176,7 +184,7 @@
         <mark key="." line="135" column="30" />
         <mark key="^" line="135" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/audience/SelectedCompaniesView.java" timestamp="1541066548939">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-web/src/main/java/com/wktransportservices/spotbidding/web/client/module/user/view/calloff/edit/audience/SelectedCompaniesView.java" timestamp="1541130820002">
         <mark key="[" line="119" column="28" />
         <mark key="]" line="119" column="28" />
         <mark key="." line="119" column="28" />
@@ -288,8 +296,8 @@
       <register name="a" type="4">
         <text>sendingCompanyId</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>StartDate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -357,7 +365,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>StartDate</text>
+        <text>toDate</text>
       </register>
       <register name="/" type="4">
         <text>getEnd</text>
@@ -377,29 +385,54 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBjb252ZXJ0U2hvdWxkU2V0Q2FsbG9mZkluZm9GaWxsZWRUb0ZhbHNlV2hlbk9uZVNob3RQaWNrVXBFbmREYXRlSXNBZnRlckRlbGl2ZXJ5RW5kRGF0ZSgpIHsKICAgICAgICAvL0dJVkVOCiAgICAgICAgQ2FsbG9mZkVudGl0eSBjYWxsb2ZmID0gQ2FsbG9mZkNvbXBsZXRpb25UZXN0SGVscGVyLnByZXBhcmVGaWxsZWRDYWxsb2ZmKCk7CiAgICAgICAgT25lU2hvdFNjaGVkdWxlRW50aXR5IG9uZVNob3RTY2hlZHVsZSA9IGNhbGxvZmYuZ2V0T25lU2hvdFNjaGVkdWxlKCk7CiAgICAgICAgRGF0ZVRpbWUgY3VycmVudERhdGUgPSBuZXcgRGF0ZVRpbWUoKTsKICAgICAgICBvbmVTaG90U2NoZWR1bGUuc2V0RGVsaXZlcnlFbmREYXRlKGN1cnJlbnREYXRlLnRvRGF0ZSgpKTsKICAgICAgICBvbmVTaG90U2NoZWR1bGUuc2V0UGlja1VwRW5kRGF0ZShjdXJyZW50RGF0ZS5wbHVzRGF5cygxKS50b0RhdGUoKSk7CgogICAgICAgIHdoZW4oYXVkaWVuY2VMaW1pdFZhbGlkYXRvci52YWxpZGF0ZShlcShjYWxsb2ZmKSwgYW55U2V0T2YoTG9uZy5jbGFzcykpKS50aGVuUmV0dXJuKHRydWUpOwogICAgICAgIHdoZW4oYXdhcmRpbmdWYWxpZGF0b3IuaXNBd2FyZGluZ1ZhbGlkKGNhbGxvZmYuZ2V0QXVkaWVuY2UoKSkpLnRoZW5SZXR1cm4odHJ1ZSk7CiAgICAgICAgLy9XSEVOCiAgICAgICAgQ2FsbG9mZkNvbXBsZXRpb25EVE8gY2FsbG9mZkNvbXBsZXRpb25EVE8gPSBjb21wbGV0aW9uQ29udmVydGVyLmNvbnZlcnQoY2FsbG9mZiwgQ29sbGVjdGlvbnMuZW1wdHlTZXQoKSk7CgogICAgICAgIC8vVEhFTgogICAgICAgIGFzc2VydFRoYXQoIkNhbGxvZmYgaW5mbyBzaG91bGQgbm90IGJlIGNvbnNpZGVyZWQgYXMgZmlsbGVkIGlmIG9uZS1zaG90IHNjaGVkdWxlIGlzIG5vdCBzcGVjaWZpZWQiLAogICAgICAgICAgICAgICAgY2FsbG9mZkNvbXBsZXRpb25EVE8uaXNDYWxsb2ZmSW5mb0ZpbGxlZCgpLCBpcyhmYWxzZSkpOwogICAgICAgIGFzc2VydFRoYXQoY2FsbG9mZkNvbXBsZXRpb25EVE8uaXNBdWRpZW5jZUZpbGxlZCgpLCBpcyh0cnVlKSk7CiAgICAgICAgYXNzZXJ0VGhhdChjYWxsb2ZmQ29tcGxldGlvbkRUTy5pc0F3YXJkaW5nRmlsbGVkKCksIGlzKHRydWUpKTsKICAgIH0K</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>@Test
+    public void convertShouldSetAudienceFilledToFalseWhenGroupsEndDateIsTheSameAsPickUpStart() {
+        //GIVEN
+        CalloffEntity calloff = CalloffCompletionTestHelper.prepareFilledCalloff();
+        DateTime pickUpEndDate = new DateTime(2025, 1, 1, 0, 0);
+
+        OneShotScheduleEntity oneShotSchedule = calloff.getOneShotSchedule();
+        oneShotSchedule.setPickUpEndDate(pickUpEndDate.toDate());
+
+        CalloffGroupEntity group = calloff.getAudience().iterator().next();
+        group.setFromDate(pickUpEndDate.minusSeconds(1).toDate());
+        group.setToDate(pickUpEndDate.toDate());
+
+        when(audienceLimitValidator.validate(eq(calloff), anySetOf(Long.class))).thenReturn(true);
+        //WHEN
+        CalloffCompletionDTO calloffCompletionDTO = completionConverter.convert(calloff, Collections.emptySet());
+        //THEN
+        assertThat(&quot;Audience should not be considered as filled when group dates are the same as pick-up start&quot;,
+                calloffCompletionDTO.isAudienceFilled(), is(false));
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZGVmICJwb3N0IGRpcmVjdGx5IHRvIHRlbGVyb3V0ZSBzaG91bGQgc2V0IGRlZmF1bHQgZ3JvdXAncyBlbmQgZGF0ZSBhcyBwaWNrdXAgc3RhcnQgZGF0ZSBpZiByZXN1bHRpbmcgb2YgZ3JvdXAgc3RhcnQgZGF0ZSArIGdyb3VwIGR1cmF0aW9uIGVxdWFsIG9yIGxhdHRlciB0aGFuIHBpY2t1cCBzdGFydCBkYXRlIigpIHsKICAgICAgICBnaXZlbjogImEgY2FsbG9mZiB0byBiZSBkaXJlY3RseSBwb3N0ZWQgdG8gdGVsZXJvdXRlIgogICAgICAgIGRlZiBjYWxsb2ZmID0gcHJlcGFyZUNhbGxvZmYoKQogICAgICAgIGNhbGxvZmZEYW8uZ2V0KGNhbGxvZmZJZCkgPj4gY2FsbG9mZgogICAgICAgIGRlZiBnaXZlblBpY2t1cEVuZERhdGUgPSBuZXcgRGF0ZSgpCiAgICAgICAgY2FsbG9mZi5vbmVTaG90U2NoZWR1bGUucGlja1VwRW5kRGF0ZSA9IGdpdmVuUGlja3VwRW5kRGF0ZQoKICAgICAgICB3aGVuOiAicG9zdCBkaXJlY3RseSB0byB0ZWxlcm91dGUgaXMgY2FsbGVkIgogICAgICAgIGRpcmVjdFBvc3RpbmdTZXJ2aWNlLnBvc3REaXJlY3RseVRvVGVsZXJvdXRlKGluZm8sIG93bmVyVXNlcklkKQoKICAgICAgICB0aGVuOiAidGVsZXJvdXRlIGdyb3VwIGlzIGFkZGVkIHRvIGNhbGxvZmYiCiAgICAgICAgZGVmIGFkZGVkVGVsZXJvdXRlR3JvdXAgPSArK2NhbGxvZmYuZ2V0QXVkaWVuY2UoKS5pdGVyYXRvcigpCgogICAgICAgIGFuZDogImdyb3VwIHRvIGRhdGUgc2hvdWxkIGJlIGVxdWFsIHRvIHBpY2t1cCBmcm9tIGRhdGUiCiAgICAgICAgYXNzZXJ0VGhhdChhZGRlZFRlbGVyb3V0ZUdyb3VwLnRvRGF0ZSwgd2l0aGluKDEsIFRpbWVVbml0LlNFQ09ORFMsIGdpdmVuUGlja3VwRW5kRGF0ZSkpCiAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC50cnVuY2F0ZWRUbyhDaHJvbm9Vbml0LkRBWVMpLnBsdXNEYXlzKDEpLm1pbnVzTWludXRlcygxKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC50cnVuY2F0ZWRUbyhDaHJvbm9Vbml0LkRBWVMpLnBsdXNEYXlzKDEpLm1pbnVzTWludXRlcygxKTsK</text>
+      <register name="7" type="4">
+        <text>CalloffCompletionDTO calloffCompletionDTO = new CalloffCompletionDTO();
+
+        calloffCompletionDTO.setCalloffInfoFilled(isCalloffInfoFilled(template));
+        calloffCompletionDTO.setAudienceFilled(isAudienceFilled(template, myCompanies));
+        calloffCompletionDTO.setAwardingFilled(isAwardingFilled(template));
+
+        return calloffCompletionDTO;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBnZXRDYWxsb2ZmUGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
