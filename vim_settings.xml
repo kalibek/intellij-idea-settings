@@ -118,12 +118,12 @@
         <mark key="." line="33" column="47" />
         <mark key="^" line="33" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/converters/CalloffCompletionConverterTestSuite.java" timestamp="1541074982225">
-        <mark key="'" line="811" column="73" />
-        <mark key="[" line="533" column="36" />
-        <mark key="]" line="533" column="36" />
-        <mark key="^" line="534" column="63" />
-        <mark key="." line="533" column="36" />
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/test/java/com/wktransportservices/spotbidding/business/converters/CalloffCompletionConverterTestSuite.java" timestamp="1541128531958">
+        <mark key="'" line="790" column="73" />
+        <mark key="[" line="266" column="33" />
+        <mark key="]" line="266" column="40" />
+        <mark key="^" line="266" column="40" />
+        <mark key="." line="266" column="40" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/user/UserSettingsEntity.java" timestamp="1540546492114">
         <mark key="[" line="12" column="41" />
@@ -138,12 +138,12 @@
         <mark key="^" line="637" column="87" />
         <mark key="." line="638" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/calloff/CalloffEntity.java" timestamp="1541074615609">
+      <file name="$USER_HOME$/projects/spotbidding/spotbidding-domain/src/main/java/com/wktransportservices/spotbidding/domain/entity/calloff/CalloffEntity.java" timestamp="1541127992675">
         <mark key="'" line="402" column="8" />
-        <mark key="[" line="707" column="45" />
-        <mark key="]" line="707" column="53" />
-        <mark key="^" line="707" column="53" />
-        <mark key="." line="707" column="53" />
+        <mark key="[" line="704" column="48" />
+        <mark key="]" line="704" column="56" />
+        <mark key="^" line="704" column="56" />
+        <mark key="." line="704" column="56" />
       </file>
       <file name="$USER_HOME$/projects/spotbidding/spotbidding-business/spotbidding-business-ejb/src/main/java/com/wktransportservices/spotbidding/business/impl/calloff/posting/CalloffDirectPostingServiceBean.java" timestamp="1541074484151">
         <mark key="'" line="146" column="0" />
@@ -289,7 +289,7 @@
         <text>sendingCompanyId</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>StartDate</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -357,7 +357,7 @@
         <text encoding="base64">IHdoZXJlIG9mZmVyX2lkID0gNzc0MTE4Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>StartDate</text>
       </register>
       <register name="/" type="4">
         <text>getEnd</text>
@@ -377,26 +377,26 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBjb252ZXJ0U2hvdWxkU2V0Q2FsbG9mZkluZm9GaWxsZWRUb0ZhbHNlV2hlbk9uZVNob3RQaWNrVXBFbmREYXRlSXNBZnRlckRlbGl2ZXJ5RW5kRGF0ZSgpIHsKICAgICAgICAvL0dJVkVOCiAgICAgICAgQ2FsbG9mZkVudGl0eSBjYWxsb2ZmID0gQ2FsbG9mZkNvbXBsZXRpb25UZXN0SGVscGVyLnByZXBhcmVGaWxsZWRDYWxsb2ZmKCk7CiAgICAgICAgT25lU2hvdFNjaGVkdWxlRW50aXR5IG9uZVNob3RTY2hlZHVsZSA9IGNhbGxvZmYuZ2V0T25lU2hvdFNjaGVkdWxlKCk7CiAgICAgICAgRGF0ZVRpbWUgY3VycmVudERhdGUgPSBuZXcgRGF0ZVRpbWUoKTsKICAgICAgICBvbmVTaG90U2NoZWR1bGUuc2V0RGVsaXZlcnlFbmREYXRlKGN1cnJlbnREYXRlLnRvRGF0ZSgpKTsKICAgICAgICBvbmVTaG90U2NoZWR1bGUuc2V0UGlja1VwRW5kRGF0ZShjdXJyZW50RGF0ZS5wbHVzRGF5cygxKS50b0RhdGUoKSk7CgogICAgICAgIHdoZW4oYXVkaWVuY2VMaW1pdFZhbGlkYXRvci52YWxpZGF0ZShlcShjYWxsb2ZmKSwgYW55U2V0T2YoTG9uZy5jbGFzcykpKS50aGVuUmV0dXJuKHRydWUpOwogICAgICAgIHdoZW4oYXdhcmRpbmdWYWxpZGF0b3IuaXNBd2FyZGluZ1ZhbGlkKGNhbGxvZmYuZ2V0QXVkaWVuY2UoKSkpLnRoZW5SZXR1cm4odHJ1ZSk7CiAgICAgICAgLy9XSEVOCiAgICAgICAgQ2FsbG9mZkNvbXBsZXRpb25EVE8gY2FsbG9mZkNvbXBsZXRpb25EVE8gPSBjb21wbGV0aW9uQ29udmVydGVyLmNvbnZlcnQoY2FsbG9mZiwgQ29sbGVjdGlvbnMuZW1wdHlTZXQoKSk7CgogICAgICAgIC8vVEhFTgogICAgICAgIGFzc2VydFRoYXQoIkNhbGxvZmYgaW5mbyBzaG91bGQgbm90IGJlIGNvbnNpZGVyZWQgYXMgZmlsbGVkIGlmIG9uZS1zaG90IHNjaGVkdWxlIGlzIG5vdCBzcGVjaWZpZWQiLAogICAgICAgICAgICAgICAgY2FsbG9mZkNvbXBsZXRpb25EVE8uaXNDYWxsb2ZmSW5mb0ZpbGxlZCgpLCBpcyhmYWxzZSkpOwogICAgICAgIGFzc2VydFRoYXQoY2FsbG9mZkNvbXBsZXRpb25EVE8uaXNBdWRpZW5jZUZpbGxlZCgpLCBpcyh0cnVlKSk7CiAgICAgICAgYXNzZXJ0VGhhdChjYWxsb2ZmQ29tcGxldGlvbkRUTy5pc0F3YXJkaW5nRmlsbGVkKCksIGlzKHRydWUpKTsKICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZGVmICJwb3N0IGRpcmVjdGx5IHRvIHRlbGVyb3V0ZSBzaG91bGQgc2V0IGRlZmF1bHQgZ3JvdXAncyBlbmQgZGF0ZSBhcyBwaWNrdXAgc3RhcnQgZGF0ZSBpZiByZXN1bHRpbmcgb2YgZ3JvdXAgc3RhcnQgZGF0ZSArIGdyb3VwIGR1cmF0aW9uIGVxdWFsIG9yIGxhdHRlciB0aGFuIHBpY2t1cCBzdGFydCBkYXRlIigpIHsKICAgICAgICBnaXZlbjogImEgY2FsbG9mZiB0byBiZSBkaXJlY3RseSBwb3N0ZWQgdG8gdGVsZXJvdXRlIgogICAgICAgIGRlZiBjYWxsb2ZmID0gcHJlcGFyZUNhbGxvZmYoKQogICAgICAgIGNhbGxvZmZEYW8uZ2V0KGNhbGxvZmZJZCkgPj4gY2FsbG9mZgogICAgICAgIGRlZiBnaXZlblBpY2t1cEVuZERhdGUgPSBuZXcgRGF0ZSgpCiAgICAgICAgY2FsbG9mZi5vbmVTaG90U2NoZWR1bGUucGlja1VwRW5kRGF0ZSA9IGdpdmVuUGlja3VwRW5kRGF0ZQoKICAgICAgICB3aGVuOiAicG9zdCBkaXJlY3RseSB0byB0ZWxlcm91dGUgaXMgY2FsbGVkIgogICAgICAgIGRpcmVjdFBvc3RpbmdTZXJ2aWNlLnBvc3REaXJlY3RseVRvVGVsZXJvdXRlKGluZm8sIG93bmVyVXNlcklkKQoKICAgICAgICB0aGVuOiAidGVsZXJvdXRlIGdyb3VwIGlzIGFkZGVkIHRvIGNhbGxvZmYiCiAgICAgICAgZGVmIGFkZGVkVGVsZXJvdXRlR3JvdXAgPSArK2NhbGxvZmYuZ2V0QXVkaWVuY2UoKS5pdGVyYXRvcigpCgogICAgICAgIGFuZDogImdyb3VwIHRvIGRhdGUgc2hvdWxkIGJlIGVxdWFsIHRvIHBpY2t1cCBmcm9tIGRhdGUiCiAgICAgICAgYXNzZXJ0VGhhdChhZGRlZFRlbGVyb3V0ZUdyb3VwLnRvRGF0ZSwgd2l0aGluKDEsIFRpbWVVbml0LlNFQ09ORFMsIGdpdmVuUGlja3VwRW5kRGF0ZSkpCiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC50cnVuY2F0ZWRUbyhDaHJvbm9Vbml0LkRBWVMpLnBsdXNEYXlzKDEpLm1pbnVzTWludXRlcygxKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC50cnVuY2F0ZWRUbyhDaHJvbm9Vbml0LkRBWVMpLnBsdXNEYXlzKDEpLm1pbnVzTWludXRlcygxKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBnZXRDYWxsb2ZmUGkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">ZGVmICJwb3N0IGRpcmVjdGx5IHRvIHRlbGVyb3V0ZSBzaG91bGQgc2V0IGRlZmF1bHQgZ3JvdXAncyBlbmQgZGF0ZSBhcyBwaWNrdXAgc3RhcnQgZGF0ZSBpZiByZXN1bHRpbmcgb2YgZ3JvdXAgc3RhcnQgZGF0ZSArIGdyb3VwIGR1cmF0aW9uIGVxdWFsIG9yIGxhdHRlciB0aGFuIHBpY2t1cCBzdGFydCBkYXRlIigpIHsKICAgICAgICBnaXZlbjogImEgY2FsbG9mZiB0byBiZSBkaXJlY3RseSBwb3N0ZWQgdG8gdGVsZXJvdXRlIgogICAgICAgIGRlZiBjYWxsb2ZmID0gcHJlcGFyZUNhbGxvZmYoKQogICAgICAgIGNhbGxvZmZEYW8uZ2V0KGNhbGxvZmZJZCkgPj4gY2FsbG9mZgogICAgICAgIGRlZiBnaXZlblBpY2t1cEVuZERhdGUgPSBuZXcgRGF0ZSgpCiAgICAgICAgY2FsbG9mZi5vbmVTaG90U2NoZWR1bGUucGlja1VwRW5kRGF0ZSA9IGdpdmVuUGlja3VwRW5kRGF0ZQoKICAgICAgICB3aGVuOiAicG9zdCBkaXJlY3RseSB0byB0ZWxlcm91dGUgaXMgY2FsbGVkIgogICAgICAgIGRpcmVjdFBvc3RpbmdTZXJ2aWNlLnBvc3REaXJlY3RseVRvVGVsZXJvdXRlKGluZm8sIG93bmVyVXNlcklkKQoKICAgICAgICB0aGVuOiAidGVsZXJvdXRlIGdyb3VwIGlzIGFkZGVkIHRvIGNhbGxvZmYiCiAgICAgICAgZGVmIGFkZGVkVGVsZXJvdXRlR3JvdXAgPSArK2NhbGxvZmYuZ2V0QXVkaWVuY2UoKS5pdGVyYXRvcigpCgogICAgICAgIGFuZDogImdyb3VwIHRvIGRhdGUgc2hvdWxkIGJlIGVxdWFsIHRvIHBpY2t1cCBmcm9tIGRhdGUiCiAgICAgICAgYXNzZXJ0VGhhdChhZGRlZFRlbGVyb3V0ZUdyb3VwLnRvRGF0ZSwgd2l0aGluKDEsIFRpbWVVbml0LlNFQ09ORFMsIGdpdmVuUGlja3VwRW5kRGF0ZSkpCiAgICB9</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC50cnVuY2F0ZWRUbyhDaHJvbm9Vbml0LkRBWVMpLnBsdXNEYXlzKDEpLm1pbnVzTWludXRlcygxKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC50cnVuY2F0ZWRUbyhDaHJvbm9Vbml0LkRBWVMpLnBsdXNEYXlzKDEpLm1pbnVzTWludXRlcygxKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBnZXRDYWxsb2ZmUGkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
